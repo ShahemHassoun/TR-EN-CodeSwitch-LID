@@ -224,7 +224,7 @@ yapay zekanın çizdiği resimlerdeki eller her seferinde altı parmaklı oluyor
 internet|T kültürünü takip etmeyi bıraktım, her hafta yeni bir kelime çıkıyor
 << main character energy >> diye bir şey çıkmış, herkes kendini dizinin başrolü sanıyor
 bu tweet'in|M=tweet+in altındaki quote|E tweet'ler|M=tweet+ler orijinal paylaşımdan daha viral|E oldu, internet|T böyle bir yer
-youtube|N shorts|E izlerken << just one more >> deyip iki saat kaybettim, algoritma beni benden iyi tanıyor
+youtube|N shorts|N izlerken << just one more >> deyip iki saat kaybettim, algoritma beni benden iyi tanıyor
 whatsapp|N grubumuzda moderatörlük yapıyorum ve her gün en az bir kişiyi spam|E yüzünden ban'lıyorum|M=ban+lıyorum
 streamer'ın|M=streamer+ın chat'i|M=chat+i o kadar hızlı akıyor ki hiçbir mesajı okuyamıyorum, yine de herkes << pog >> yazıyor
 bu meme'yi|M=meme+yi ilk kim yaptı bilen var mı, üç farklı instagram|N sayfası kendine mal ediyor
@@ -244,7 +244,7 @@ kiralık ev bakarken emlakçı bana << fully furnished >> dedi, evde sadece bir 
 moda|N sahilinde piknik yapmak için erken gitmek lazım, yoksa çimlerde yer kalmıyor
 şehrin her köşesinde bir starbucks|N var ama iyi bir esnaf lokantası bulmak giderek zorlaşıyor
 cihangir'de|N kedilerin sayısı insanlardan fazla, hepsi de çok << chill >>
-galata|N kulesinin önünde fotoğraf çekmek için kuyruk o kadar uzundu ki vazgeçtik
+{{ galata kulesinin }} önünde fotoğraf çekmek için kuyruk o kadar uzundu ki vazgeçtik
 nişantaşı'nda|N bir brunch|E mekanına gittik, menüde avocado|E toast|E fiyatı benim haftalık market bütçemdi
 gece yarısı yemek siparişi verirken getir'in|N on dakikada gelmesi beni hala şaşırtıyor
 bu mahallede herkes birbirini tanıyor, bakkal amca bile instagram|N hesabımı takip ediyor

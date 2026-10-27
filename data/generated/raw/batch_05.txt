@@ -157,7 +157,7 @@ kahvenin fiyatı starbucks'ta|N yüz elli lira olmuş, ben de evde cold|E brew|E
 dolar kuru yükselince online|E alışverişte sepetteki ürünlerin fiyatı bir gecede değişti, amazon|N bile güncellendi
 yeni telefon almak yerine eski telefonumu repair'e|M=repair+e verdim, ekran değişimi bile pahalı
 ay sonu gelmeden budget'ım|M=budget+ım bitiyor, excel|N tablosu bana her gün kırmızı gösteriyor
-öğrenci indirimi için spotify|N student|E planına geçtim, mezun olduğumu henüz fark etmediler
+öğrenci indirimi için spotify|N student|N planına geçtim, mezun olduğumu henüz fark etmediler
 markette private|E label|E ürünlere geçtim, şok'un|N kendi markası bazen daha iyi bile
 dışarıda yemek yemek lüks oldu, artık arkadaşlarla potluck|E yapıp herkes bir yemek getiriyor
 elektrik faturası gelince bütün evde led|E ampullere geçtik, klima kullanmayı da bıraktık

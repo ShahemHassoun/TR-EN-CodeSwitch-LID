@@ -151,7 +151,7 @@ ece|N londra'da|N master|E yapıyor, her hafta bana tesco'dan|N aldığı meal|E
 kerem|N bey|T toplantıda chatgpt'yi|N kullanmayı yasakladı, sonra kendisi sunumu chatgpt'yle|N hazırladı
 murat|N galatasaray|N kombinesi aldı, ama sezonun yarısında rams|N park'a|N gidemedi
 cem|N bilgisayarına linux|N kurdu ve bir hafta boyunca herkese anlattı
-gizem|N spotify|N premium|E aboneliğini iptal edip youtube|N music'e|N geçti, sonra pişman oldu
+gizem|N spotify|N premium|N aboneliğini iptal edip youtube|N music'e|N geçti, sonra pişman oldu
 # end chunk
 # --- tech troubleshooting 2 ---
 windows|N update'i|M=update+i gece kendi kendine yüklenmiş, sabah bütün açık dosyalarım kaybolmuştu

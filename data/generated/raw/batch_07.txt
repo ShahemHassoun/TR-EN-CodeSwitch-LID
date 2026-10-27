@@ -46,7 +46,7 @@ oyun salonunda arcade|E makinesine jeton atarken heyecanlanırdık, şimdi steam
 eski msn'de|N nudge|E atıp oyun daveti göndermek bizim nesil için bir ritüeldi
 # end chunk
 # --- travel 3 ---
-tokyo'da|N shinkansen'e|N binmek için jr|N pass|E aldık, ama itinerary'mizin|M=itinerary+mizin yarısı metro|T ile gidilecek yerlerdi
+tokyo'da|N shinkansen'e|N binmek için jr|N pass|N aldık, ama itinerary'mizin|M=itinerary+mizin yarısı metro|T ile gidilecek yerlerdi
 seul'de|N street|E food|E turunda tteokbokki|O yedim, acıdan gözlerim yaşardı ama bir porsiyon daha aldım
 new|N york'ta|N subway'de|M=subway+de yanlış train'e|M=train+e bindim, brooklyn'e|N gidecekken queens'te|N buldum kendimi
 paris'te|N louvre'un|N ticket'ını|M=ticket+ını online|E almadık, kuyrukta üç saat bekledik

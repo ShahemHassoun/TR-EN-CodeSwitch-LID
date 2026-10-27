@@ -106,8 +106,8 @@ eski telefonumu sattım, alıcı kutusunu bile istedi ve ben kutuyu çoktan atm�
 # --- streaming platforms ---
 netflix|N şifresini paylaşmayı yasaklayınca herkes yeniden kendi hesabını açmak zorunda kaldı
 {{ prime video'daki }} dizi o kadar iyiydi ki bütün sezonu bir hafta sonunda bitirdim
-spotify|N premium'u|M=premium+u iptal edince reklamlar arasında şarkı dinlemeye başladım
-youtube|N premium|E almaya karar verdim çünkü her videoda üç tane reklam vardı
+spotify|N premium'u|N iptal edince reklamlar arasında şarkı dinlemeye başladım
+youtube|N premium|N almaya karar verdim çünkü her videoda üç tane reklam vardı
 disney+|N aboneliğini sadece bir dizi için aldım, finali izleyip hemen cancel'ladım|M=cancel+ladım
 spotify'ın|N daily|E mix'leri|M=mix+leri beni benden iyi tanıyor, her sabah tam ruh halime göre şarkılar geliyor
 bu platform|A çok pahalı oldu, aylık abonelik ücreti neredeyse bir sinema bileti kadar
@@ -118,10 +118,10 @@ exxen'de|N maç izlemek için abonelik aldım ama yayın her golde donuyor
 abonelik ücretleri o kadar arttı ki artık her ay hangi platformu|T iptal edeceğimi düşünüyorum
 blutv|N ile hbo|N max|N birleşince içerik arttı ama uygulama tamamen değişti
 dizinin yeni season'ı|M=season+ı haftalık yayınlanıyor, binge|E izleyemediğim için sinirliyim
-twitch|N prime|E sub'ımı|M=sub+ımı her ay sevdiğim streamer'a|M=streamer+a veriyorum
+twitch|N prime|N sub'ımı|M=sub+ımı her ay sevdiğim streamer'a|M=streamer+a veriyorum
 audible'dan|N sesli kitap dinlemeye başladım, yolda giderken bir kitabı bitiriyorum
 mubi'de|N izlediğim indie|E filmler bana sinema zevkimin geliştiğini hissettiriyor
-netflix|N party|E özelliğiyle uzaktaki sevgilimle aynı anda film izliyoruz, << long distance >> için ideal
+netflix|N party|N özelliğiyle uzaktaki sevgilimle aynı anda film izliyoruz, << long distance >> için ideal
 spotify|N podcast|E kategorisine çok yatırım yaptı ama ben hala sadece müzik dinliyorum
 gain'de|N izlediğim belgesel o kadar iyiydi ki bütün arkadaşlarıma link'ini|M=link+ini attım
 streaming|E savaşları yüzünden sevdiğim dizi bir platformdan diğerine geçti, iki aboneliğim oldu
@@ -140,7 +140,7 @@ uygulamada tanıştığımız kişiyle ilk buluşmada catfish|E olduğunu anlad�
 arkadaşım bana << red flag >> listesi hazırladı, tanıştığım herkes listede bir şeye uyuyor
 online|E dating|E yorucu ama yüz yüze tanışmak artık neredeyse imkansız
 superlike|E atan kişi beni o kadar hızlı mesajla boğdu ki unmatch|E yapmak zorunda kaldım
-tinder|N premium|E aldım ve bir haftada daha az match|E aldım, nasıl oluyor anlamadım
+tinder|N premium|N aldım ve bir haftada daha az match|E aldım, nasıl oluyor anlamadım
 date|E planlarken restoranı ben seçiyorum, hesap gelince ödeme konusunda bir << awkward >> sessizlik oluyor
 eski sevgilim dating|E app'te|M=app+te karşıma çıktı, iki saniye düşündükten sonra sola kaydırdım
 bu uygulamada herkes << looking for something serious >> yazıyor ama kimse ciddi değil

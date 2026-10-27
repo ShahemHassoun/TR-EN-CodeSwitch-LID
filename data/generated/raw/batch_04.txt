@@ -5,12 +5,12 @@ trendyol'da|N flash|E sale'i|M=sale+i kaçırmamak için alarm kurdum ve gece ya
 getir|N kuryesi on dakikada geldi ama order'ımın|M=order+ımın yarısı eksikti, support'a|M=support+a yazdım cevap yok
 yemeksepeti'nde|N restoranın rating'i|M=rating+i dört buçuktu ama yemek soğuk geldi, review'umu|M=review+umu yazdım
 aliexpress'ten|N aldığım kılıf iki ayda geldi, o sırada telefonumu değiştirmiştim bile, tam bir fail|E
-hepsiburada'nın|N premium|E üyeliği sayesinde shipping|E bedava ama yine de sepetteki ürünler bundle'lı|M=bundle+lı geliyor
+hepsiburada'nın|N premium|N üyeliği sayesinde shipping|E bedava ama yine de sepetteki ürünler bundle'lı|M=bundle+lı geliyor
 n11'de|N indirim kodu girdim, discount'u|M=discount+u uygulamadı ve ben de cart'ı|M=cart+ı boşalttım
 etsy'den|N handmade|E kolye aldım, seller'ın|M=seller+ın gönderdiği teşekkür notu çok tatlıydı
 paket servisle gelen burger'ın|M=burger+ın paketi ezilmişti, {{ uber eats'in }} müşteri hizmetleri hemen refund|E yaptı
 migros|N sanal marketten verdiğim siparişte domatesler yerine ketchup'lar|M=ketchup+lar gelmiş, substitution|E mantığı bu herhalde
-amazon|N prime|E deneme süremi unutup otomatik renew'ladım|M=renew+ladım, şimdi bir yıl daha onlarla beraberiz
+amazon|N prime|N deneme süremi unutup otomatik renew'ladım|M=renew+ladım, şimdi bir yıl daha onlarla beraberiz
 trendyol'un|N sepet hatırlatma bildirimleri beni stalk'lıyor|M=stalk+lıyor gibi, her saat bir notification|E geliyor
 ürün sayfasındaki customer|E review'larına|M=review+larına güvenip aldım, sonra hepsinin fake|E olduğunu öğrendim
 kargo şirketi paketi kapıya bırakmak yerine en yakın pickup|E point'e|M=point+e bırakmış, aras|N kargo böyle işte
@@ -36,7 +36,7 @@ headhunter|E bana bir şirket önerdi, şirketin adını vermeden önce nda|E im
 iş başvurusu için cover|E letter'ımı|M=letter+ımı chatgpt'ye|N yazdırdım, mülakatta okumamı istediler, utandım
 take-home|E assignment|E dedikleri ödev bir haftamı aldı ve sonra << we decided to move forward with other candidates >> maili geldi
 ilk freelance|E projemde müşteri scope'u|M=scope+u üç kez genişletti, ücret aynı kaldı
-linkedin|N premium'u|M=premium+u deneme süresinde aldım, kimin profilime baktığını görünce moralim bozuldu
+linkedin|N premium'u|N deneme süresinde aldım, kimin profilime baktığını görünce moralim bozuldu
 mülakatta bana leetcode|N sorusu sordular ama iş tanımında sadece wordpress|N yazıyordu
 yeni işimin probation|E period'u|M=period+u üç ay, her gün kendimi kanıtlamaya çalışıyorum
 istifa ettikten sonra exit|E interview'da|M=interview+da her şeyi söyleyecektim ama sadece << thank you >> diyebildim
@@ -60,17 +60,17 @@ stock|E fotoğraf sitelerine fotoğraf satmaya başladım, ilk ay unsplash'ten|N
 düğün fotoğrafçısı olarak çalışırken her çiftin pinterest'ten|N bulduğu aynı pozları istemesi beni yoruyor
 streamer|E olmak istiyordum ama obs'u|N kurmak bile bir haftamı aldı, mikrofon ayarlarını hala yapamadım
 yeni lens'imle|M=lens+imle çektiğim bokeh|E efektli fotoğraflara herkes like|E atıyor
-youtube|N shorts'ta|M=shorts+ta bir videom bir milyon izlendi, kanalıma sadece on kişi abone oldu
+youtube|N shorts'ta|N bir videom bir milyon izlendi, kanalıma sadece on kişi abone oldu
 kamera arkası videoları behind|E the|E scenes|E diye paylaşınca en çok o videolar izleniyor, instagram|N garip bir yer
 # end chunk
 # --- gaming 2 ---
-steam|N deck'imle|M=deck+imle yolda {{ hollow knight }} oynuyorum, battery|E iki saat dayanıyor ama yine de değer
+steam|N deck'imle|N yolda {{ hollow knight }} oynuyorum, battery|E iki saat dayanıyor ama yine de değer
 call|N of|N duty'de|N lobby'ye|M=lobby+ye girer girmez on iki yaşındaki çocuklar mikrofondan bağırmaya başladı
 nintendo|N switch'te|N {{ zelda'yı }} bitirdim, open|E world|E oyunlar arasında en iyisi bence
 fortnite'ta|N yeni season'ın|M=season+ın battle|E pass'ini|M=pass+ini aldım ama oynamaya vaktim yok
 counter-strike'ta|N rank'ımı|M=rank+ımı yükseltmek için her akşam deathmatch|E oynuyorum, aim|E hala kötü
 {{ baldur's gate }} oynarken dialogue|E seçeneklerini seçmek için yarım saat düşündüğüm oluyor
-xbox|N game|E pass'e|M=pass+e abone oldum, kütüphanede o kadar oyun var ki hiçbirine başlayamıyorum
+xbox|N game|N pass'e|N abone oldum, kütüphanede o kadar oyun var ki hiçbirine başlayamıyorum
 oyunun day|E one|E patch'i|M=patch+i elli gigabyte, ubisoft|N her seferinde aynı şeyi yapıyor
 {{ the sims'te }} ev build'lemek|M=build+lemek benim için oyunun kendisinden daha keyifli
 {{ epic games'in }} her hafta verdiği free|E oyunları topluyorum, kütüphanem üç yüz oyun oldu

@@ -182,7 +182,7 @@ istanbul'dan|N izmir'e|N otobüsle gitmek uçaktan daha keyifli
 ilk solo|E seyahatimi japonya'ya|N yaptım ve hiç pişman değilim
 tokyo'da|N herkes bana sumimasen|O deyip özür diliyordu
 # --- music ---
-spotify|N wrapped'ım|M=wrapped+ım beni rezil etti, en çok dinlediğim şarkı bir çocuk şarkısı
+spotify|N wrapped'ım|N beni rezil etti, en çok dinlediğim şarkı bir çocuk şarkısı
 bu albümün ilk single'ı|M=single+ı çıktığından beri dinliyorum
 konser bileti satışa çıktı ve on dakikada sold|E out|E oldu
 playlist'imi|M=playlist+imi arkadaşlarla paylaştım, herkes beni yargıladı

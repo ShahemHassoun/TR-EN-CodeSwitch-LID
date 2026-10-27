@@ -46,7 +46,7 @@ yeni videomun retention|E grafiğine baktım, herkes ilk otuz saniyede çıkmı�
 patreon'da|N destekçilerime özel video çekiyorum, toplam beş kişiler ama çok sadıklar
 collab|E videosu için başka bir youtuber'la|M=youtuber+la buluştuk, çekim bir saat sürdü ama vlog|E bir dakika
 kanal büyütmek için algorithm'i|M=algorithm+i anlamaya çalıştım, sonunda tamamen şansa bağlı olduğuna karar verdim
-youtube|N shorts'tan|M=shorts+tan gelen izlenmeler para etmiyor ama abone getiriyor
+youtube|N shorts'tan|N gelen izlenmeler para etmiyor ama abone getiriyor
 ünlü bir youtuber|E kendi markasını çıkardı, merch'leri|M=merch+leri bir saatte tükendi
 videonun altına gelen hate|E comment'lere|M=comment+lere cevap vermemeyi öğrendim, block|E butonu en iyi arkadaşım
 twitch'ten|N youtube'a|N geçen yayıncı vod'larını|M=vod+larını kesip highlight|E olarak yüklüyor

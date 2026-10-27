@@ -1,4 +1,4 @@
-﻿__pycache__/
+__pycache__/
 .ipynb_checkpoints/
 .venv/
 venv/
@@ -7,3 +7,5 @@ models/
 *.bin
 *.safetensors
 *.pt
+# private until the three annotation workbooks are back
+annotation/key.csv

@@ -1,0 +1,257 @@
+# batch_04 — every line: >=1 MIXED, >=1 NE, >=1 EN. Written by Claude (Anthropic); style seeded by TurEngMix train split.
+# --- e-commerce / delivery ---
+amazon'dan|N verdiğim siparişin tracking|E numarası çalışmıyor, paketim hala gümrükte bekliyor diye düşünüyorum
+trendyol'da|N flash|E sale'i|M=sale+i kaçırmamak için alarm kurdum ve gece yarısı sepetimi checkout'ladım|M=checkout+ladım
+getir|N kuryesi on dakikada geldi ama order'ımın|M=order+ımın yarısı eksikti, support'a|M=support+a yazdım cevap yok
+yemeksepeti'nde|N restoranın rating'i|M=rating+i dört buçuktu ama yemek soğuk geldi, review'umu|M=review+umu yazdım
+aliexpress'ten|N aldığım kılıf iki ayda geldi, o sırada telefonumu değiştirmiştim bile, tam bir fail|E
+hepsiburada'nın|N premium|E üyeliği sayesinde shipping|E bedava ama yine de sepetteki ürünler bundle'lı|M=bundle+lı geliyor
+n11'de|N indirim kodu girdim, discount'u|M=discount+u uygulamadı ve ben de cart'ı|M=cart+ı boşalttım
+etsy'den|N handmade|E kolye aldım, seller'ın|M=seller+ın gönderdiği teşekkür notu çok tatlıydı
+paket servisle gelen burger'ın|M=burger+ın paketi ezilmişti, {{ uber eats'in }} müşteri hizmetleri hemen refund|E yaptı
+migros|N sanal marketten verdiğim siparişte domatesler yerine ketchup'lar|M=ketchup+lar gelmiş, substitution|E mantığı bu herhalde
+amazon|N prime|E deneme süremi unutup otomatik renew'ladım|M=renew+ladım, şimdi bir yıl daha onlarla beraberiz
+trendyol'un|N sepet hatırlatma bildirimleri beni stalk'lıyor|M=stalk+lıyor gibi, her saat bir notification|E geliyor
+ürün sayfasındaki customer|E review'larına|M=review+larına güvenip aldım, sonra hepsinin fake|E olduğunu öğrendim
+kargo şirketi paketi kapıya bırakmak yerine en yakın pickup|E point'e|M=point+e bırakmış, aras|N kargo böyle işte
+istanbul'da|N same-day|E delivery'nin|M=delivery+nin bu kadar yaygın olması beni tembel yaptı
+temu'dan|N aldığım şeylerin hepsi fotoğraftaki ürünün bir fake|E versiyonu çıktı, quality|E sıfır
+yemek uygulamasındaki tip|E özelliği kuryeye gidiyor mu yoksa şirkete mi, kimse bilmiyor, getir|N de açıklamıyor
+black|E friday'de|M=friday+de trendyol|N çöktü ve sepetimdeki ürünler stock'tan|M=stock+tan düştü
+amazon'un|N recommendation'ları|M=recommendation+ları bana sürekli bebek bezi öneriyor, çocuğum yok
+online|E sipariş verdiğim kitap yanlış geldi, d&r|N mağazasına gidip exchange'ledim|M=exchange+ledim
+# --- job hunting / freelancing ---
+linkedin'de|N easy|E apply'la|M=apply+la yüz başvuru yaptım, sadece üç tanesinden reject|E maili geldi
+recruiter|E bana mesaj attı, job|E description'ı|M=description+ı okuyunca anladım ki maaş junior|E pozisyon için bile düşük
+upwork'te|N freelance|E iş almak için profilimi güncelledim ama ilk client'ım|M=client+ım ödemeyi geciktirdi
+fiverr'da|N logo tasarımı satıyorum, müşteriler revision'ları|M=revision+ları bitirmeden ödeme yapmıyor
+kariyer.net'te|N ilanlara bakarken her ilanda dinamik ekip yazıyor, toxic|E ortam demek istiyorlar herhalde
+glassdoor'da|N şirketin review'larını|M=review+larını okudum, mülakata gitmekten vazgeçtim
+hr|E mülakatında << where do you see yourself in five years >> diye sordular, google'da|N çalışırken dedim
+freelancer|E olarak çalışınca invoice'larımı|M=invoice+larımı takip etmek ayrı bir iş oldu, excel'de|N tablo tuttum
+portfolio'mu|M=portfolio+mu behance'e|N yükledim, ilk hafta iki iş teklifi geldi
+mülakatta salary|E expectation'ımı|M=expectation+ımı sordular, düşük söyledim ve teklif tam o rakamdan geldi
+remote|E iş arıyorum ama ilanların çoğu << hybrid >> diyor, yani haftada üç gün ofis
+headhunter|E bana bir şirket önerdi, şirketin adını vermeden önce nda|E imzalatmak istedi
+iş başvurusu için cover|E letter'ımı|M=letter+ımı chatgpt'ye|N yazdırdım, mülakatta okumamı istediler, utandım
+take-home|E assignment|E dedikleri ödev bir haftamı aldı ve sonra << we decided to move forward with other candidates >> maili geldi
+ilk freelance|E projemde müşteri scope'u|M=scope+u üç kez genişletti, ücret aynı kaldı
+linkedin|N premium'u|M=premium+u deneme süresinde aldım, kimin profilime baktığını görünce moralim bozuldu
+mülakatta bana leetcode|N sorusu sordular ama iş tanımında sadece wordpress|N yazıyordu
+yeni işimin probation|E period'u|M=period+u üç ay, her gün kendimi kanıtlamaya çalışıyorum
+istifa ettikten sonra exit|E interview'da|M=interview+da her şeyi söyleyecektim ama sadece << thank you >> diyebildim
+yurt dışından gelen job|E offer'ı|M=offer+ı kabul edersem almanya'ya|N taşınmam gerekiyor, ailem henüz bilmiyor
+# --- photography / content creation ---
+yeni aldığım sony|N kamerayla çektiğim fotoğrafları lightroom'da|N edit'liyorum|M=edit+liyorum, bir fotoğraf bir saatimi alıyor
+youtube|N kanalım için thumbnail|E tasarlamak videoyu çekmekten daha uzun sürüyor, canva'da|N saatlerce uğraşıyorum
+instagram|N için content|E üretmek tam zamanlı iş gibi, her gün reels'leri|M=reels+leri planlıyorum
+golden|E hour'da|M=hour+da çektiğim portreler o kadar güzel çıktı ki filter'a|M=filter+a gerek kalmadı
+vlog'umu|M=vlog+umu çekerken sokakta herkes bana bakıyor, kendimi hala garip hissediyorum ama tiktok'ta|N izlenme fena değil
+gopro'mu|N alıp dağa çıktım ama footage'ın|M=footage+ın yarısında parmağım lensin önündeymiş
+podcast'imi|M=podcast+imi spotify'a|N yükledim, ilk bölümü sadece annem ve en yakın arkadaşım dinledi
+drone'la|M=drone+la kapadokya'da|N çekim yaptım, balonların arasından geçerken battery|E uyarısı geldi
+fotoğraf sergimiz için beyoğlu'nda|N bir galeri bulduk, opening|E gecesine yüz kişi geldi
+youtube'un|N algoritması videolarımı kimseye göstermiyor, sanırım shadowban'lendim|M=shadowban+lendim
+canon|N mu nikon|N mu tartışması fotoğrafçılar arasında hiç bitmez, ben iphone|N ile çekiyorum
+video editing|E için premiere'i|N öğrendim ama render|E süresi yüzünden laptop'um|M=laptop+um uçak gibi ses çıkarıyor
+instagram|N hesabımda aesthetic|E bir feed|E oluşturmak için bütün fotoğraflara aynı preset'i|M=preset+i uyguluyorum
+tiktok|N videolarımın caption'larını|M=caption+larını yazarken trend|E olan sesleri de eklemeyi unutmuyorum
+stock|E fotoğraf sitelerine fotoğraf satmaya başladım, ilk ay unsplash'ten|N daha az indirildim
+düğün fotoğrafçısı olarak çalışırken her çiftin pinterest'ten|N bulduğu aynı pozları istemesi beni yoruyor
+streamer|E olmak istiyordum ama obs'u|N kurmak bile bir haftamı aldı, mikrofon ayarlarını hala yapamadım
+yeni lens'imle|M=lens+imle çektiğim bokeh|E efektli fotoğraflara herkes like|E atıyor
+youtube|N shorts'ta|M=shorts+ta bir videom bir milyon izlendi, kanalıma sadece on kişi abone oldu
+kamera arkası videoları behind|E the|E scenes|E diye paylaşınca en çok o videolar izleniyor, instagram|N garip bir yer
+# end chunk
+# --- gaming 2 ---
+steam|N deck'imle|M=deck+imle yolda {{ hollow knight }} oynuyorum, battery|E iki saat dayanıyor ama yine de değer
+call|N of|N duty'de|N lobby'ye|M=lobby+ye girer girmez on iki yaşındaki çocuklar mikrofondan bağırmaya başladı
+nintendo|N switch'te|N {{ zelda'yı }} bitirdim, open|E world|E oyunlar arasında en iyisi bence
+fortnite'ta|N yeni season'ın|M=season+ın battle|E pass'ini|M=pass+ini aldım ama oynamaya vaktim yok
+counter-strike'ta|N rank'ımı|M=rank+ımı yükseltmek için her akşam deathmatch|E oynuyorum, aim|E hala kötü
+{{ baldur's gate }} oynarken dialogue|E seçeneklerini seçmek için yarım saat düşündüğüm oluyor
+xbox|N game|E pass'e|M=pass+e abone oldum, kütüphanede o kadar oyun var ki hiçbirine başlayamıyorum
+oyunun day|E one|E patch'i|M=patch+i elli gigabyte, ubisoft|N her seferinde aynı şeyi yapıyor
+{{ the sims'te }} ev build'lemek|M=build+lemek benim için oyunun kendisinden daha keyifli
+{{ epic games'in }} her hafta verdiği free|E oyunları topluyorum, kütüphanem üç yüz oyun oldu
+valorant'ta|N toxic|E bir takım arkadaşımı report'ladım|M=report+ladım, ertesi gün ban|E yediğini gördüm
+playstation|N plus|N aboneliğim bitince online|E multiplayer|E oynayamadım, cuma akşamım mahvoldu
+{{ genshin impact'te }} gacha|O sistemi yüzünden maaşımın bir kısmı gitti, pity|E bile yetmedi
+twitch'te|N speedrunner'ları|M=speedrunner+ları izlerken glitch'leri|M=glitch+leri nasıl bulduklarını merak ediyorum
+roblox|N oynayan yeğenim bana robux|N almam için yalvardı, ilk mikro transaction'ım|M=transaction+ım bu oldu
+{{ rocket league'de }} ranked|E maçlarda bir türlü diamond|E olamıyorum, takım arkadaşlarım hep ball|E chase|E yapıyor
+gta|N 6'nın|N trailer'ı|M=trailer+ı çıkalı bir yıl oldu, oyun hala yok, rockstar|N bizi bekletmeyi seviyor
+retro|E oyun koleksiyonum için ebay'den|N eski bir sega|N aldım, kartuşu üfleyerek çalıştırdım
+{{ stardew valley'de }} çiftliğimi upgrade'ledim|M=upgrade+ledim, gerçek hayatta bir bitkiyi bile yaşatamıyorum
+steam|N summer|E sale'de|M=sale+de wishlist'imdeki|M=wishlist+imdeki her şeyi aldım, hiçbirini oynamadım
+# --- music festivals / nightlife ---
+{{ zeytinli rock festivali'nde }} çadırımızı kurarken yağmur başladı ama headliner|E çıkınca kimse umursamadı
+coachella'ya|N gitmek hayalim ama bilet ve uçak masrafını hesaplayınca line-up'ı|M=line-up+ı youtube'dan|N izledim
+techno|E partisinde dj|E seti o kadar iyiydi ki sabah altıya kadar dans ettik, babylon|N gibi bir mekan kalmadı
+konser için ticketmaster'dan|N bilet almaya çalışırken queue'da|M=queue+da iki saat bekledim
+festival|T alanında powerbank'imin|M=powerbank+imin şarjı bitince arkadaşlarımı kaybettim, whatsapp|N konumu bile işe yaramadı
+{{ one love festivali'nde }} vip|E alana geçmek için bileklik aldık ama vip|E alan normal alandan daha kalabalıktı
+barın happy|E hour'unda|M=hour+unda kokteyller yarı fiyatına, kadıköy'de|N bundan iyisi yok
+spotify|N konser bildirimi sayesinde sevdiğim grubun istanbul|N tarihini kaçırmadım, presale'den|M=presale+den bileti kaptım
+rave'den|M=rave+den çıkınca güneş doğuyordu, metro|T açılana kadar beşiktaş'ta|N simit yedik
+gece kulübünde bouncer|E bizi dress|E code|E yüzünden içeri almadı, spor ayakkabı giymişiz
+caz festivalinde jam|E session'a|M=session+a katılan bir amatör saksofoncu bütün salonu ayağa kaldırdı
+konserde encore|E için alkışlarken grup sahneye geri döndü ve en sevdiğim şarkıyı çaldı, tarkan|N işte
+afterparty'ye|M=afterparty+ye gitmeyelim dedik ama bir anda kendimizi bebek'te|N bir evde bulduk
+festival|T kampında tanıştığım almanlarla hala instagram'dan|N konuşuyoruz, her yıl orada buluşuyoruz
+dj'in|M=dj+in playlist'i|M=playlist+i o kadar mainstream|E ki herkes telefonundan shazam'lıyordu|N
+open|E air|E konserde rüzgar o kadar kuvvetliydi ki sahnedeki ışıklar sallanıyordu, harbiye'de|N hep böyle
+pub|E quiz|E gecemizde takımımız son soruda kaybetti, cevap {{ the beatles'tı }}
+konser biletini resell|E sitesinden üç katına aldım, sonra organizasyon tarihi erteledi
+festivalde food|E truck'lardan|M=truck+lardan aldığım burger hayatımın en pahalı burgeriydi
+lo-fi|E konserine gittim, herkes yere oturup gözlerini kapattı, sakin bir vibe|E vardı, moda'da|N harika bir mekan
+# --- news / media ---
+twitter'da|N bir haberin headline'ını|M=headline+ını okuyup paylaşanların çoğu linke tıklamıyor bile
+youtube|N haber kanallarının thumbnail'leri|M=thumbnail+leri o kadar clickbait|E ki gerçek habere ulaşmak imkansız
+bbc|N türkçe'de|N okuduğum analiz çok iyiydi ama comment|E kısmındaki kavga daha uzundu
+breaking|E news|E diye gelen bildirimin yarısı aslında dünkü haber, cnn|N türk|N böyle
+gazetelerin paywall'ları|M=paywall+ları yüzünden haber okumak için incognito|E mode'a|M=mode+a geçiyorum
+fact-check|E sitelerinden teyit|N okuyunca paylaştığım haberin fake|E olduğunu öğrendim, utandım
+podcast|E formatında haber dinlemek bana daha kolay geliyor, sabahları the|N daily|N dinliyorum
+instagram'daki|N haber sayfaları headline'ları|M=headline+ları o kadar abartıyor ki her şey kıyamet gibi
+gazeteci arkadaşım freelancer|E olarak çalışıyor, her haberini medium'a|N da yüklüyor
+haber sitelerinin pop-up|E reklamları yüzünden makaleyi okumak yerine reklamları kapatmakla uğraşıyorum
+reddit'teki|N world|E news|E thread'lerinde|M=thread+lerinde haberi her açıdan tartışan insanlar var
+televizyondaki tartışma programında herkes aynı anda konuştuğu için hiçbir şey anlamadım, halk|N tv'de|N böyle
+newsletter|E aboneliklerim yüzünden gmail'im|N doldu, her sabah yirmi tane özet geliyor
+spotify'da|N haber podcast'lerini|M=podcast+lerini 1.5x|E hızda dinliyorum, sunucu sincap gibi konuşuyor
+twitter'ın|N trending|E topics'inde|M=topics+inde her gün başka bir kriz var, haftada bir uygulamayı siliyorum
+belgesel kanalında yayınlanan investigative|E haber dizisi o kadar iyiydi ki netflix|N bile satın aldı
+haber kanalının live|E yayınında muhabirin arkasından geçen adam viral|E oldu, herkes onu konuşuyor
+google|N news|E bana her gün aynı üç haberi farklı başlıklarla gösteriyor
+whatsapp|N gruplarında yayılan haberleri doğrulamak için bir bot'a|M=bot+a soruyorum, o da emin değil
+gazetenin opinion|E köşesindeki yazar her hafta aynı şeyi farklı kelimelerle yazıyor, hürriyet|N bu konuda klasik
+# --- kids / edtech ---
+çocuğumun okulu derslerde ipad|N kullanıyor, ödevleri de google|N classroom'a|M=classroom+a yüklüyorlar
+yeğenim {{ youtube kids'te }} izlediği unboxing|E videolarından sonra her oyuncağı istiyor
+khan|N academy'den|N matematik öğrenen kardeşim benden daha iyi anlatıyor konuları
+çocuklar için coding|E kursuna yazdırdık, ilk hafta scratch'te|N bir kedi animasyonu yaptı
+okulun parent|E app'inden|M=app+inden gelen bildirimler beni çıldırtıyor, günde on tane
+öğretmen derste kahoot|N oynatıyor, çocuklar quiz'leri|M=quiz+leri oyun gibi görüyor
+evde ödev yaparken çocuk her soruyu chatgpt'ye|N soruyor, ben de ona << do it yourself >> diyorum
+çocuğumun screen|E time'ını|M=time+ını sınırlamak için tablette parental|E control|E açtım, şifreyi bir günde çözdü
+minecraft|N education|E versiyonunda öğrenciler tarih dersinde roma|N şehri inşa etmiş
+oğlum duolingo'nun|N baykuşundan korkuyor, bildirim gelince saklanıyor
+çocuk kitaplarının audiobook'larını|M=audiobook+larını storytel'den|N dinletiyoruz, arabada çok işe yarıyor
+lego|N robotics|E kursunda yaptıkları robot masadan düşüp parçalandı, yine de birinci oldular
+okulun zoom|N derslerinde öğretmen herkesi mute'luyor|M=mute+luyor, çocuklar chat'te|M=chat+te konuşuyor
+kızım tiktok'taki|N dance|E challenge'larını|M=challenge+larını ezbere biliyor ama çarpım tablosunu bilmiyor
+ilkokul veli whatsapp|N grubunda herkes birbirinin çocuğunun ödevini soruyor, group|E chat|E kaosu
+çocuğumun öğretmeni online|E veli toplantısında kamerasını açmayı unuttu, sadece kedisini gördük
+eğitim uygulamalarının çoğu freemium|E, en önemli bölümler hep premium|E arkasında
+oğlumun ilk coding|E projesi bir hesap makinesiydi ama sadece toplama yapıyordu, yine de github'a|N yükledik
+öğretmenimiz derste yapay zeka kullanımını yasakladı, öğrenciler ödevleri chatgpt'yle|N yazıp sonra elle kopyalıyor
+çocuğun yaz okulunda stem|E atölyesi vardı, eve yaptığı volkan|T maketiyle döndü
+# end chunk
+# --- productivity / wellness ---
+notion'da|N habit|E tracker'ımı|M=tracker+ımı kurdum, ilk üç gün her şeyi tick'ledim|M=tick+ledim sonra uygulamayı açmadım
+headspace'te|N meditation|E yaparken uyuyakalıyorum, galiba asıl ihtiyacım olan şey uyku
+pomodoro|E tekniğini forest|N uygulamasıyla deniyorum, ağaçlarım hep yarıda ölüyor çünkü telefonu elime alıyorum
+sabah routine'imi|M=routine+imi youtube'daki|N productivity|E guru'larına|M=guru+larına göre ayarladım, beşte kalkmak bana göre değil
+apple|N watch'um|N her saat stand|E up|E diyor, toplantının ortasında ayağa kalkıyorum
+to-do|E list'imdeki|M=list+imdeki işler bitmedikçe yenilerini ekliyorum, todoist|N bana bakıp gülüyor
+journaling|E yapmaya başladım ama ilk sayfada sadece bugün yorgunum yazdım
+deep|E work|E saatlerimde slack'i|N kapatıyorum, döndüğümde yüz tane mesaj birikmiş oluyor
+burnout|E olduğumu fark ettiğimde hr'a|M=hr+a gittim, bana bir webinar|E linki gönderdiler
+screen|E time|E raporuma göre günde altı saat telefona bakıyorum, iphone|N bana bunu her pazar hatırlatıyor
+calm|N uygulamasındaki yağmur sesleri olmadan uyuyamıyorum, aboneliğimi iptal edemiyorum
+productivity|E hack'leri|M=hack+leri izlemek beni daha az productive|E yapıyor, ironik
+gratitude|E journal'ı|M=journal+ı tutmaya başladım, her gün kahveye teşekkür ediyorum
+pilates|E stüdyosunda instructor|E her derste << listen to your body >> diyor, vücudum bana yat diyor
+sabah koşusundan sonra strava'ya|N yüklediğim rotayı herkes kudos'luyor|M=kudos+luyor, motivasyonum artıyor
+dijital detox|E için telefonu çekmeceye koydum, on dakika sonra apple|N watch'tan|N bildirim kontrol ettim
+okuma challenge'ı|M=challenge+ı için goodreads'te|N elli kitap hedefi koydum, şu an üçüncü kitaptayım
+sleep|E tracker'ım|M=tracker+ım dün gece sadece beş saat uyuduğumu söyledi, sanki bilmiyordum
+cold|E shower|E almaya başladım çünkü bir podcast'te|M=podcast+te önerdiler, ilk gün çığlık attım
+second|E brain|E kurmak için obsidian'a|N geçtim, şimdi notlarım arasında bağlantı kurmakla uğraşıyorum
+# --- english-dominant posts ---
+<< honestly this is the best show of the year, >> finalde ağlamayan yoksa yalan söylüyor, netflix|N bu sefer iyi iş çıkarmış
+<< i don't know why but >> bu şarkıyı her dinlediğimde lise yıllarım aklıma geliyor, spotify'ın|N on repeat'imde|M=repeat+imde hep bu var
+<< the vibe was immaculate, >> kadıköy'deki|N o küçük barda bütün gece jazz|E dinledik
+<< not gonna lie >> bu restoranın burger'ı|M=burger+ı istanbul'un|N en iyisi olabilir
+<< this is so relatable, >> ben de her pazartesi sabahı aynı şeyi yaşıyorum, alarmı snooze'luyorum|M=snooze+luyorum
+<< when you realize >> yarın sunum var ve slide'ların|M=slide+ların hiçbiri hazır değil, powerpoint|N açık bekliyor
+<< plot twist: >> müdür toplantıya kendisi geç kaldı ve teams'te|N herkesi bekletti
+<< i'm not crying, you are crying, >> {{ coco'nun }} sonunda bütün sinema hıçkırıyordu
+<< pro tip: >> ikea'ya|N gitmeden önce yemek yiyin, yoksa çıkışta hot|E dog'a|M=dog+a para bayılırsınız
+<< this aged like milk, >> geçen yıl bitcoin'i|N öven tweet'leri|M=tweet+leri şimdi okumak çok komik
+<< we live in a society >> diye başlayan her entry'yi|M=entry+yi okumadan geçiyorum, ekşi|N böyle bir yer
+<< can we talk about >> bu dizideki kostümler, {{ wednesday'in }} her sahnesinde ayrı bir outfit|E var
+<< low key >> bu kafenin cheesecake'i|M=cheesecake+i nişantaşı'ndakilerden|N daha iyi
+<< nobody asked but >> bence {{ the last of us }} oyunu dizisinden daha iyiydi, hbo|N kusura bakmasın
+<< hot take: >> istanbul'da|N en iyi kahvaltı kadıköy'de|N değil, beşiktaş'ta|N yapılıyor, fight|E me|E
+<< imagine >> sabah dokuzda meeting'e|M=meeting+e girip öğlene kadar çıkamamak, teams|N bu
+<< respectfully >> bu albümün ikinci yarısı skip'lenecek|M=skip+lenecek kadar sıkıcı, spotify|N bile anlamış
+<< the audacity >> komşunun benim wifi|E şifremi tahmin edip kullanması, modemi resetledim
+<< me at 3 am: >> youtube'da|N bilmediğim bir ülkenin tarihini izlerken, wikipedia|N sekmeleri açık
+<< it's giving >> 2010 tumblr|N estetiği, instagram'da|N bu filtreyi kullanan herkes aynı görünüyor
+# --- holidays / celebrations ---
+yılbaşında secret|E santa|E yaptık, bana gelen hediye kendi aldığım hediyeydi, ofisteki çekiliş|T bozuk
+bayramda kuzenlerle uno|N oynarken çıkan kavga whatsapp|N grubuna taşındı, hala devam ediyor
+doğum günü partim için instagram|N story'sinde|M=story+sinde countdown|E başlattım, kimse hatırlatmaya gerek duymadı
+halloween'de|N kostüm partisine {{ barbie }} olarak gittim, partide on tane daha barbie|N vardı
+sevgililer gününde restoran rezervasyonu bulmak için bir hafta önce opentable'a|N girdim, her yer doluydu
+yılbaşı gecesi taksim'de|N countdown'u|M=countdown+u izlemeye gittik, kalabalıktan saati bile göremedik
+ramazan'da|N iftar saatinde yemeksepeti|N siparişi vermek imkansız, uygulama donuyor ve delivery|E bir saat sürüyor
+noel'de|N almanya'daki|N christmas|E marketleri gezdik, glühwein|O içip sıcak şarap demeyi öğrendik
+arkadaşımın baby|E shower'ında|M=shower+ında oynadığımız oyunlar o kadar utanç vericiydi ki fotoğrafları instagram'a|N koymadık
+anneler günü için çiçek siparişi verdim, çiçekçi adresi yanlış yazmış ve çiçekler komşuya gitmiş, florist|E bile şaşırdı
+bekarlığa veda partisinde dj|E bize sadece tarkan|N çaldı, kimse şikayet etmedi
+düğün planlarken pinterest|N board'ları|M=board+ları yaptım, bütçeyi görünce hepsini sildim
+yılbaşı alışverişinde zara'nın|N yeni koleksiyonundan aldığım kazak noel'de|N herkesin üstündeydi
+kurban bayramında aile reunion'ı|M=reunion+ı yaptık, kırk kişi tek bir bahçede mangal yaptı
+graduation|E töreninde kepimi havaya attım ve bir daha bulamadım, odtü|N mezunları bunu bilir
+nişanda bütün akrabalar hayırlı olsun derken teyzem bana sürekli çocuk ne zaman diye soruyordu
+yeni yıl resolution'larım|M=resolution+larım listesinin ilk maddesi gym'e|M=gym+e gitmek, şubatta bıraktım
+doğum günümde arkadaşlar sürpriz yaptı, kapıyı açtığımda pijamalarım ve yüzümde face|E mask|E vardı
+cumhuriyet bayramında anıtkabir'e|N gittik, kuyruk uzundu ama atmosfer çok güzeldi
+sevgilime anniversary|E için playlist|E hazırladım, ilk şarkı kendi sesim çıktı ve çok utandım
+# end chunk
+# --- books / history ---
+kindle'da|N okuduğum kitabın highlight'larını|M=highlight+larını goodreads'e|N aktarmak bir saatimi aldı
+{{ suç ve ceza'yı }} lisede zorla okumuştum, şimdi tekrar okuyunca bambaşka bir kitap gibi geldi, classic|E dediğin bu
+audiobook'la|M=audiobook+la kitap okumak sayılır mı tartışması booktok'ta|N hala devam ediyor
+kitap kulübümüzde bu ay {{ sapiens'i }} okuyoruz, herkes ilk chapter'dan|M=chapter+dan sonra bıraktı
+sahaftan aldığım eski kitabın içinden 1987'den|T kalma bir sinema bileti çıktı, en güzel bookmark|E bu
+ottoman|E history|E podcast'ini|M=podcast+ini dinlerken tarih derslerinde neden bu kadar sıkıldığımı anlamadım
+fantasy|E kitap serilerinde world-building|E o kadar detaylı ki harita olmadan okuyamıyorum, {{ game of thrones }} gibi
+idefix'ten|N sipariş verdiğim kitaplar geldi, şimdi to-be-read|E listem yüz kitap oldu
+bu yazarın yeni romanı bestseller|E oldu ama ben ilk kitabının daha iyi olduğunu düşünüyorum
+müzede gördüğüm roma|N dönemine ait mozaikler o kadar iyi korunmuş ki sanki dün yapılmış, guide|E bile şaşırdı
+e-book|E okumak pratik ama kağıt kitap kokusunu hiçbir device|E veremiyor
+tarih youtuber'larının|M=youtuber+larının videoları bazen okuldaki öğretmenlerden daha iyi anlatıyor, kurzgesagt|N favorim
+kitapçıda staff|E pick|E rafından aldığım kitap yılın en iyi kitabı çıktı, tavsiyeye güvenmek lazım
+non-fiction|E okumayı seviyorum ama bazen bir romana kaçmak istiyorum, haruki|N murakami|N bu konuda iyi
+{{ harry potter'ı }} okumadan filmleri izleyenlere bir şey diyemem, ama kitap gerçekten daha detaylı
+kütüphane kartımı yeniledim ve e-library|E sisteminden ücretsiz kitap indirebildiğimi öğrendim
+kitap fuarında yazara imza için bir saat sıra bekledim, << can you sign this for my mom >> dedim
+sci-fi|E sevenlere {{ dune'u }} öneriyorum, ama ilk yüz sayfası biraz ağır
+tarih kitabında okuduğum hikayeyi gerçek yerinde görmek için efes'e|N gittik, tiyatro hala ayakta
+kitap okurken her paragrafta telefona bakmak bir habit|E oldu, attention|E span'im|M=span+im bitti
+# --- corporate speak ---
+müdürüm her maile << just circling back >> diye başlıyor, aslında bir şey sormayı unutmuş oluyor
+q3|E target'larımızı|M=target+larımızı tutturamadık ama sunumda her şeyi << on track >> diye gösterdik
+şirketin all-hands|E meeting'inde|M=meeting+inde ceo|E herkese teşekkür etti ama zam konusundan bahsetmedi
+bu projede ownership|E alan kimse yok, herkes << not my scope >> diyor
+toplantıda müdür << let's align on this >> dedi ve bir sonraki toplantıyı planladık, bitmeyen döngü
+onboarding|E dokümanını hazırlarken confluence'ta|N eski sayfaları güncelledim, hepsi beş yıllık
+yeni stratejiyi açıklayan deck'te|M=deck+te otuz slide|E vardı, hiçbiri somut bir şey söylemiyordu
+manager'ım|M=manager+ım bana performance|E review'da|M=review+da << exceeds expectations >> verdi ama bonus|E aynı kaldı
+kurum içi workshop'ta|M=workshop+ta herkes post-it'lere|M=post-it+lere fikir yazdı, sonra kimse onlara bakmadı
+jira'da|N ticket'ları|M=ticket+ları kapattıkça yenileri açılıyor, sprint|E bitmiyor
+şirket yeni bir vision|E statement|E yayınladı, kelimelerin yarısını google'lamak|N zorunda kaldım
+<< quick sync >> diye açılan toplantı bir buçuk saat sürdü ve sonunda yine bir follow-up|E planlandı
+müşteriye mail'de|M=mail+de << as per my last email >> yazmak istedim ama manager'ım|M=manager+ım engelledi
+offsite|E etkinliğimiz için bodrum'a|N gittik, ama günün yarısı yine meeting|E odasında geçti
+şirketin değerlerinden biri << transparency >> ama maaş skalasını kimse bilmiyor
+yıllık bütçe planlamasında finance|E ekibi bütün departmanların headcount'unu|M=headcount+unu dondurdu
+standup'ta|M=standup+ta herkes blocker'larını|M=blocker+larını anlatıyor ama kimse kimsenin blocker'ını çözmüyor
+yöneticimin out|E of|E office|E mesajı üç haftadır açık, iki gün izne çıkmıştı aslında
+şirkette her şeyin bir acronym'i|M=acronym+i var, ilk ay sadece kısaltmaları öğrenmekle geçti
+kpi|E dashboard'unda|M=dashboard+unda her şey yeşil görünüyor, gerçek hayatta her şey yanıyor, tableau|N yalan söylemez derler
+# end chunk

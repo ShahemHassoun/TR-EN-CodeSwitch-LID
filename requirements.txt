@@ -1,0 +1,22 @@
+# Python 3.12 (Google Colab default). Zemberek does NOT work on Python 3.13+.
+pandas>=2.0,<3
+numpy>=1.24,<3
+scikit-learn>=1.4,<2
+scipy>=1.11
+tabulate>=0.9
+wordfreq>=3.1
+# transformer fine-tuning (Ibrahim)
+torch>=2.1
+transformers>=4.46,<5
+datasets>=2.19
+accelerate>=0.30
+# LLM runs (Tuğra)
+openai>=1.40,<2
+python-dotenv>=1.0
+openpyxl>=3.1
+# classical baselines (Mahmut)
+sklearn-crfsuite>=0.5
+zemberek-python==0.2.3
+setuptools<81   # zemberek needs pkg_resources, removed in setuptools 81
+# plots (Seleni)
+matplotlib>=3.8

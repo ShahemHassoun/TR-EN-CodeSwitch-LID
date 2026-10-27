@@ -1,0 +1,215 @@
+# batch_05 — every line: >=1 MIXED, >=1 NE, >=1 EN. Written by Claude (Anthropic); style seeded by TurEngMix train split.
+# --- pc building ---
+yeni pc|E build'imde|M=build+imde nvidia'nın|N son ekran kartını kullandım ama psu'yu|M=psu+yu yanlış seçtim, sistem açılmıyor
+amd|N işlemciyle intel|N arasında karar veremedim, reddit'teki|N benchmark|E thread'lerini|M=thread+lerini okuyunca daha da karıştım
+kasanın cable|E management'ını|M=management+ını yapmak üç saatimi aldı, sonuç youtube'daki|N videolar gibi değil
+ram'leri|M=ram+leri dual|E channel'a|M=channel+a taktıktan sonra fps|E iki katına çıktı, asus|N anakart sağ olsun
+custom|E water|E cooling|E yapayım derken masaya su döktüm, neyse ki sistem kapalıydı
+bios|E update'inden|M=update+inden sonra bilgisayar boot|E etmedi, msi|N forumunda üç gün çözüm aradım
+rgb|E fan'larımı|M=fan+larımı corsair|N yazılımıyla senkronize ettim, oda disko gibi ama çok mutluyum
+thermal|E paste'i|M=paste+i fazla sürmüşüm, cpu|E sıcaklığı doksan dereceye çıktı, gamers|N nexus'tan|N rehber izledim
+ikinci el gpu'yu|M=gpu+yu sahibinden'den|N aldım, mining|E için kullanılmış ama hala çalışıyor
+ssd'ye|M=ssd+ye geçince windows|N on saniyede açılmaya başladı, eski hdd|E dönemini hiç özlemiyorum
+mekanik klavyem için custom|E keycap'ler|M=keycap+ler sipariş ettim, aliexpress'ten|N iki ayda geldi
+monitörün refresh|E rate'ini|M=rate+ini 144'e|T çıkarınca {{ counter-strike'ta }} aim'im|M=aim+im bir anda düzeldi
+pc|E master|E race|E diyenlere güldüm ama şimdi ben de playstation'ı|N satıp masaüstü topladım
+kendi bilgisayarını toplamak lego|N gibi diyorlar, ama lego'da|N bir parça yanlış takınca yüz dolarlık parça yanmıyor
+power|E supply'ın|M=supply+ın fan'ı|M=fan+ı gece boyunca uğulduyor, seasonic|N bile böyle yapar mı bilmiyorum
+budget|E build|E yapmak isteyen arkadaşa ikinci el parçalar önerdim, letgo'dan|N işlemciyi bin liraya aldı
+# --- hobbies ---
+örgü örmeye youtube|N tutorial'larıyla|M=tutorial+larıyla başladım, ilk atkım yamuk oldu ama yine de kışın taktım
+masa oyunu gecesinde {{ catan'da }} kaybedince arkadaşım board'u|M=board+u devirdi, dostluğumuz zor kurtuldu
+suluboya yapmaya başladım, instagram'daki|N artist'lerin|M=artist+lerin işlerine bakınca kendi resmimden utanıyorum
+bonsai|O yetiştirmek sabır istiyormuş, benimki ikinci haftada yapraklarını döktü
+yapboz yapmak için ravensburger'ın|N bin parçalık puzzle'ını|M=puzzle+ını aldım, iki haftadır masada duruyor
+bouldering|E salonuna başladım, ilk gün forearm'larım|M=forearm+larım o kadar ağrıdı ki çatalı tutamadım
+dungeons|N and|N dragons|N kampanyamızda dungeon|E master|E olan arkadaşımız her oturumu dört saat sürdürüyor
+seramik atölyesinde yaptığım kupa çatlak çıktı ama kahve içmek için kullanıyorum, handmade|E olunca güzel
+analog fotoğrafçılığa geçtim, kodak|N filmlerin fiyatı o kadar arttı ki her kareyi düşünerek çekiyorum
+satranç öğrenmek için chess.com'da|N her gün puzzle|E çözüyorum, rating'im|M=rating+im hala bin civarında
+ukulele|E aldım, youtube'daki|N ilk derste dört akor öğrendim ve bir haftadır sadece aynı şarkıyı çalıyorum
+balık tutmaya babamla gidiyoruz, o fishing|E vlog'u|M=vlog+u çekiyor ben sadece çay demliyorum
+calligraphy|E kalemlerimi amazon'dan|N aldım, ilk denemelerde mürekkep her yere bulaştı
+lego|N technic|N setini bitirdiğimde gece ikiydi, instruction|E kitapçığındaki son sayfayı görünce ağlayacaktım
+model|A uçak yapmak için tutkal aldım, parmaklarım birbirine yapıştı ve hobby|E shop'taki|M=shop+taki adam güldü
+# --- sustainability ---
+plastik kullanımını azaltmak için reusable|E bottle|E aldım, ilk gün kafede unuttum
+zero|E waste|E yaşam tarzını instagram'da|N gördüm, ama bütün çöpümü bir kavanoza sığdırmam imkansız
+thrift|E shop'lardan|M=shop+lardan kıyafet almak hem ucuz hem de fast|E fashion'a|M=fashion+a karşı küçük bir adım
+compost|E yapmaya başladık, balkondaki kutu ilk hafta o kadar koktu ki komşu kapıyı çaldı
+greenpeace|N gönüllüsü sokakta beni durdurdu, << just two minutes >> dedi ve yirmi dakika konuştuk
+toplu taşıma kullanınca carbon|E footprint'imi|M=footprint+imi azalttığımı düşünüyorum ama uçakla tatile gidince hepsi sıfırlanıyor
+vegan|E deri diye satılan çanta aslında plastikmiş, greenwashing|E her yerde
+şirketimizin sustainability|E raporu çok güzel ama ofiste hala tek kullanımlık bardak kullanıyoruz
+güneş paneli taktırdık, elektrik faturamız yarıya düştü ama installation|E masrafı da cabası
+ikinci el elektronik almak için {{ back market'ten }} telefon aldım, yepyeni gibi geldi
+geri dönüşüm kutusuna her şeyi atıyorum ama belediyenin hepsini aynı çöpe döktüğünü gördüm
+electric|E car|E almak istiyorum ama togg'un|N bekleme listesi uzun, şarj istasyonu da evin yakınında yok
+pazardan bez çantayla alışveriş yapınca teyzeler beni aferin diye övüyor, eco|E warrior|E oldum
+bambu diş fırçası aldım, iki haftada kılları dağıldı, eco-friendly|E olmak kolay değil
+iklim aktivisti arkadaşım her konuşmayı climate|E crisis'e|M=crisis+e bağlıyor, haklı ama yorucu
+# end chunk
+# --- turkish tv / reality shows ---
+{{ survivor'da }} bu sezon yarışmacıların drama'sı|M=drama+sı oyunlardan daha çok konuşuluyor, acun|N her şeyi biliyor
+{{ masterchef'te }} şefin yemeği çöpe attığı sahne twitter'da|N meme|E oldu
+gelin evi programlarındaki kayınvalideler << savage >> puan veriyor, izlerken hem gülüyorum hem utanıyorum
+{{ o ses türkiye'de }} jüri koltuklarını çevirdiğinde yarışmacının reaction'ı|M=reaction+ı her şeye değiyor
+dizilerin sezon finalleri cliffhanger'la|M=cliffhanger+la bitiyor, sonra yeni sezon bir yıl sonra başlıyor, atv|N bunu çok yapıyor
+türk dizilerinin bölümleri üç saat sürüyor, yarısı flashback|E ve slow-motion|E sahneler
+{{ kızılcık şerbeti'nin }} yeni bölümünden sonra herkes x'te|N tartışıyor, trend|E listesi dizi karakterleriyle dolu
+yarışma programında host|E o kadar uzatıyor ki sonucu öğrenmek için reklamdan sonrasını bekliyorsun
+{{ yetenek sizsiniz'de }} çıkan bir dansçı viral|E oldu, şimdi netflix|N dizisinde oynuyor
+reality|E show'larının|M=show+larının senaryolu olduğunu herkes biliyor ama yine de izliyoruz
+dizi setinden sızan behind|E the|E scenes|E videoları instagram'da|N dizinin kendisinden daha çok izleniyor
+akşam haberlerinden sonra başlayan dizinin ilk yirmi dakikası önceki bölümün recap'i|M=recap+i
+{{ şahsiyet'i }} izledikten sonra türk|N dizilerine bakışım değişti, prodüksiyon|T kalitesi çok iyi
+yerli dijital platformların original|E dizileri artık netflix|N kalitesinde, gain|N özellikle iyi
+yarışma programına başvurdum, casting|E ekibi beni aradı ama ben telefonu açmadım
+# --- programming language debates ---
+python|N mu javascript|N mi tartışmasında herkes kendi kullandığı dili savunuyor, ben ikisini de debug'lamaktan|M=debug+lamaktan yoruldum
+rust|N öğrenmeye başladım, borrow|E checker|E ile her gün kavga ediyorum ama compile|E olunca çok mutlu oluyorum
+php|N öldü diyorlar ama hala internetin|T yarısı wordpress'le|N çalışıyor
+typescript'e|N geçince javascript'teki|N bütün bug'larımızın|M=bug+larımızın type|E hatası olduğunu anladık
+go|N dilinin syntax'ı|M=syntax+ı sade ama error|E handling|E her satırda aynı şeyi yazdırıyor
+c#|N developer'ları|M=developer+ları her şey için bir factory|E class'ı|M=class+ı yazıyor, enterprise|E kod böyle
+c++|N öğrenen arkadaşım pointer'larla|M=pointer+larla uğraşırken saçlarını yoluyor
+haskell|N öğrenmeye çalıştım, monad|E ne demek hala anlamadım ve bir daha sormayacağım
+vim'den|N çıkmayı bilmeyen developer|E sayısı dünyadaki en büyük gizemlerden biri
+yeni bir kütüphane eklemek için npm|N install|E yaptım, node_modules|E klasörü iki gigabyte oldu
+sql|E bilmeden data|E analyst|E olunmaz diyorlar, excel'de|N formüllerle idare eden çok kişi tanıyorum
+kotlin'e|N geçtikten sonra android|N kodumuz yarıya indi ama build|E süresi iki katına çıktı
+low-code|E platformlarla|A uygulama yapanlar gerçek programcı mı tartışması linkedin'de|N bitmiyor
+swift|N ile ilk ios|N uygulamamı yazdım, app|E store'a|M=store+a yüklemek kodu yazmaktan daha zor oldu
+regex|E yazdığım satırı bir hafta sonra okuyamadım, sanki başkası yazmış, stack|N overflow'a|N geri döndüm
+# end chunk
+# --- bureaucracy / e-devlet / banking apps ---
+e-devlet'e|N girmek için şifremi resetlemem|M=reset+lemem gerekti, sms|E kodu beş dakika sonra geldi
+banka uygulamasının yeni update'i|M=update+i face|E id'yi|M=id+yi bozdu, garanti|N müşteri hizmetlerini aradım bir saat bekledim
+mhrs'den|N doktor randevusu almak için gece yarısı slot|E açılmasını bekliyorum, sistem hep full|E
+vergi dairesinde sıra numarası aldım, ekranda numara hiç değişmedi, system|E error|E yazıyordu
+pasaport başvurusu için online|E randevu aldım ama formu doldururken site|T çöktü
+yapı|N kredi'nin|N mobil uygulamasında iban'ı|M=iban+ı yanlış yazdım, para başka birine gitti ve refund|E için üç gün bekledim
+akbank|N uygulamasında dark|E mode'a|M=mode+a geçince ekranlar okunmaz hale geldi, ux|E ekibi ne düşünmüş acaba
+nüfus müdürlüğünde kimlik yenilemek için appointment|E aldım, yine de iki saat bekledim
+papara'dan|N arkadaşıma para gönderdim, transaction|E fee'si|M=fee+si yokmuş, banka'dan|N bin kat iyi
+e-nabız'da|N tahlil sonuçlarıma baktım, pdf'i|M=pdf+i indirmek için üç kere login|E olmam gerekti
+icra dairesinden gelen tebligat mail|E olarak geldi, spam|E klasöründe bulduğumda süre dolmak üzereydi
+vize başvurusu için vfs|N global'de|N biometric|E randevusu aldım, fingerprint'lerimi|M=fingerprint+lerimi üç kez okuttular
+kredi kartı limitimi artırmak için müşteri temsilcisiyle chat'leştim|M=chat+leştim, sonunda robot|T olduğunu anladım
+belediyenin online|E ödeme sistemi sadece internet|T explorer'da|N çalışıyor, iki bin yirmi altı yılındayız
+noter'de|N vekaletname için sıra beklerken önümdeki adamın bütün dosyası yanlış çıktı, workflow|E diye bir şey yok
+# --- airlines / airports ---
+thy'nin|N {{ miles&smiles }} programında biriktirdiğim milleri kullanmak isterken bütün koltuklar doluydu
+pegasus'ta|N kabin bagajı için extra|E ücret ödedim, sonra boarding'de|M=boarding+de kimse çantaya bakmadı
+istanbul|N havalimanında transfer|T için koşarken gate'in|M=gate+in tam diğer uçta olduğunu fark ettim
+uçağım overbooking|E yüzünden iptal edildi, airline|E bana bir otel ve yemek kuponu verdi
+lounge'a|M=lounge+a girmek için kredi kartımın priority|E pass'ini|M=pass+ini kullandım, bedava yemekle karnımı doyurdum
+sabiha|N gökçen'de|N security|E kuyruğu o kadar uzundu ki boarding|E kapanmak üzereydi
+online|E check-in|E yaparken koltuk seçmek için para istediler, rastgele bir koltuğa razı oldum
+uçakta türbülans|T olunca pilotun << cabin crew please be seated >> anonsu herkesin kalbini hızlandırdı
+bagajım lost|E and|E found'a|M=found+a düştü, iki gün sonra otele teslim ettiler, ajet|N bu konuda hızlıydı
+duty|E free'de|M=free+de parfüm fiyatlarına baktım, şehirdeki mağazadan daha pahalıydı
+jet|E lag|E yüzünden ilk gün tokyo'da|N öğlen uyudum, gece üçte uyanıp otelde konbini|O aradım
+low-cost|E havayollarında koltuklar o kadar dar ki dizlerim önümdeki koltuğa yapışıyor, wizz|N air|N böyle
+uçuş delay'i|M=delay+i yüzünden bağlantılı uçuşu kaçırdım, frankfurt'ta|N bir gece geçirdim
+pilot|T arkadaşım bana << the best view is from the cockpit >> diye fotoğraf atıyor, kıskanıyorum
+airport|E transfer|E servisi beni otelin yanlış şubesine bıraktı, google|N maps|N da yardım etmedi
+# end chunk
+# --- weddings ---
+düğün planner'ımız|M=planner+ımız her şeyi pinterest|N board'una|M=board+una göre hazırladı ama bütçe iki katına çıktı
+nişan için photographer|E tuttuk, fotoğrafların yarısında amcam gözlerini kapatmış
+düğünde first|E dance|E için youtube'dan|N koreografi öğrendik, düğün günü her şeyi unuttuk
+gelinliği istanbul'daki|N bir showroom'dan|M=showroom+dan aldım, fitting|E randevusuna üç kez gittim
+destination|E wedding|E yapmak istiyorduk ama bodrum'daki|N mekanların fiyatlarını görünce vazgeçtik
+düğün davetiyesini whatsapp|N grubundan gönderdik, teyzeler bunu çok ayıp buldu
+düğün salonunun dj'i|M=dj+i halay müziğinden sonra direkt techno|E çaldı, misafirler şaşkın
+bekarlığa veda için amsterdam'a|N gittik, itinerary'yi|M=itinerary+yi ben hazırladım ve kimse uymadı
+nikah şahidimiz imza atarken pen'i|M=pen+i düşürdü, videoda o an slow-motion|E gibi görünüyor
+düğün pastası için instagram'daki|N bir cake|E designer'a|M=designer+a ulaştık, fiyatı kira kadar
+gelin ve damadın entrance|E şarkısını seçmek için iki hafta tartıştık, sonunda tarkan|N kazandı
+düğünde open|E bar|E olunca bütün kuzenler pistten inmedi, sabaha kadar dans ettik
+wedding|E registry|E listesi hazırlamak türkiye'de|N pek yaygın değil, yine de yaptık ve herkes altın taktı
+düğün videografı drone'la|M=drone+la çekim yaparken kuşlar drone'a|M=drone+a saldırdı
+nikahta registrar|E memur adımı yanlış okudu, salondaki herkes güldü, vows|E kısmını unuttum bile
+# --- cooking 2 ---
+masterchef|N izledikten sonra evde plating|E yapmaya başladım, ailem sadece porsiyonların küçüldüğünü fark etti
+sourdough|E starter'ımı|M=starter+ımı üç haftadır besliyorum, ekmek hala tuğla gibi çıkıyor
+air|E fryer'da|M=fryer+da patates yaptım, tiktok'taki|N tarif yalan söylememiş, gerçekten çıtır oldu
+gordon|N ramsay|N videolarını izleyip risotto|E yaptım, sonuç lapa gibi oldu
+evde ramen|A yapmak için broth'u|M=broth+u on iki saat kaynattım, mutfak bir hafta koktu
+meal|E prep|E pazarlarında bütün haftanın yemeğini yapıyorum, perşembe günü yemekten nefret ediyorum
+mantıyı dondurucuya koymak için batch|E halinde yaptık, annem her birini tek tek saydı
+vegan|E brownie|E tarifi denedim, yumurta yerine muz kullandım, tadı muzlu kek oldu
+kahve için french|E press'e|M=press+e geçtim, sabahları kahvaltıdan önce ritual|E gibi hazırlıyorum
+sous|E vide|E cihazı aldım, biftek mükemmel oldu ama makine mutfakta çok yer kaplıyor
+yemek kanalındaki şefin knife|E skills'i|M=skills+i beni büyüledi, ben domates doğrarken parmağımı kestim
+glutensiz ekmek yapmayı denedim, hamur hiç kabarmadı, recipe|E yanlış olmalı
+annemin dolma tarifini notion'a|N yazmak için ona her adımı sordum, cevap hep göz kararı
+food|E processor'la|M=processor+la humus yaptım, tahinden bile daha kremsi oldu, ottolenghi|N gurur duyardı
+mangal partisinde herkes grill|E master|E olmaya çalıştı, sonunda köfteler kömür oldu
+# end chunk
+# --- prices / economy daily ---
+market fişine bakınca shock|E oldum, a101'de|N aldığım beş ürün geçen ayki fiyatın iki katı
+netflix|N aboneliği bile zamlandı, artık subscription'larımı|M=subscription+larımı tek tek iptal ediyorum
+kira artışı için ev sahibi bana whatsapp'tan|N mesaj attı, contract'ı|M=contract+ı tekrar okumak zorunda kaldım
+benzin istasyonunda full|E depo yaptırınca maaşın bir kısmı gitti, shell'de|N fiyatlar yine değişmiş
+kahvenin fiyatı starbucks'ta|N yüz elli lira olmuş, ben de evde cold|E brew|E yapmaya başladım
+dolar kuru yükselince online|E alışverişte sepetteki ürünlerin fiyatı bir gecede değişti, amazon|N bile güncellendi
+yeni telefon almak yerine eski telefonumu repair'e|M=repair+e verdim, ekran değişimi bile pahalı
+ay sonu gelmeden budget'ım|M=budget+ım bitiyor, excel|N tablosu bana her gün kırmızı gösteriyor
+öğrenci indirimi için spotify|N student|E planına geçtim, mezun olduğumu henüz fark etmediler
+markette private|E label|E ürünlere geçtim, şok'un|N kendi markası bazen daha iyi bile
+dışarıda yemek yemek lüks oldu, artık arkadaşlarla potluck|E yapıp herkes bir yemek getiriyor
+elektrik faturası gelince bütün evde led|E ampullere geçtik, klima kullanmayı da bıraktık
+yurt dışından gelen arkadaşım türkiye'deki|N fiyatları ucuz buluyor, biz burada price|E shock|E yaşıyoruz
+indirim marketinde self-checkout|E kasası açılmış, kimse nasıl kullanılacağını bilmiyor, bim|N de şaşırmış
+araba sigortası yenilenince premium|E iki katına çıkmıştı, sigortacı bana << it's the market >> dedi
+# --- real estate / renting ---
+sahibinden'de|N gördüğüm ilan fotoğrafları wide|E angle|E lensle çekilmiş, ev gerçekte yarısı kadar
+emlakçı bana << this is a great investment >> dedi, ev otuz yıllık ve asansörü yok
+studio|E daire diye kiraladığım ev aslında bir oda, mutfak ve yatak aynı yerde, kadıköy|N fiyatı tabii
+ev sahibim depozitoyu geri vermemek için duvardaki küçük çizikleri bahane etti, airbnb|N bile bu kadar titiz değil
+roommate|E ilanına yazan kişi ilk mesajında bana zodiac|E sign'ımı|M=sign+ımı sordu
+ev turu için emlakçı bana zoom|N linki|M=link+i gönderdi, kamera sadece tavanı gösterdi
+yeni evin lease'ini|M=lease+ini imzalarken her maddeyi chatgpt'ye|N sordum, avukat tutmaktan ucuz
+kiralık ilanlarında << pet friendly >> yazıyor ama kedimle gidince ev sahibi fikrini değiştirdi
+taşınma şirketi moving|E day'de|M=day+de iki saat geç geldi ve buzdolabını merdivende çizdi
+evin heating'i|M=heating+i doğalgaz değil klima, kış gelince faturayı görünce anladım ki yanlış seçim yapmışız
+open|E plan|E mutfak güzel görünüyor ama yemek kokusu bütün eve siniyor, hepsiburada'dan|N aspiratör aldık
+site|T aidatı o kadar yüksek ki sanki bir resort'ta|M=resort+ta yaşıyoruz, havuz bile yok
+ev bakarken fotoğraflardaki dekorasyonun staging|E olduğunu öğrendim, gerçek ev boştu ve rutubetliydi
+# --- telecom ---
+turkcell'in|N yeni tarifesinde unlimited|E internet|T diyorlar ama yirmi gigabyte'tan|M=gigabyte+tan sonra hız düşüyor
+evdeki fiber|E bağlantı kesildi, türk|N telekom'un|N teknisyeni üç gün sonra geldi
+vodafone'un|N müşteri hizmetlerinde ivr|E menüsünde beş dakika dolaştım, sonunda operator'a|M=operator+a bağlandım
+roaming|E paketini açmayı unuttum, yurt dışından dönünce gelen faturayı görünce bayılıyordum, turkcell|N acımadı
+yeni sim|E kartı aktive etmek için mağazaya gittim, sistem down|E olduğu için yarın gel dediler
+modemin ışıkları yanıp sönüyor, superonline'ı|N aradım, << have you tried turning it off and on again >> dediler
+5g|E kapsama alanı haritada her yerde görünüyor ama evimde tek çizgi çekiyor
+tarife değiştirmek için uygulamaya girdim, her paketin altında küçük harflerle başka bir fine|E print|E vardı
+esim'e|M=esim+e geçtim, telefon değiştirince numaramı taşımak bir saat sürdü
+# --- exams ---
+yks|N hazırlığında youtube'daki|N study|E with|E me|E videolarını açıp saatlerce çalışıyorum
+kpss|N için online|E deneme sınavlarına giriyorum, netlerim|T düşünce motivasyonum da düşüyor
+ales|N için kursa yazıldım, hoca ilk derste bize mindset|E konuşması yaptı, matematik ikinci haftada başladı
+yds'de|N reading|E bölümündeki paragraflar o kadar uzundu ki son soruları okumadan işaretledim
+sınav sabahı alarmım çalmadı, uber'le|N sınav binasına son dakika yetiştim
+üniversite sınavı için study|E planner'ımı|M=planner+ımı renkli kalemlerle hazırladım, ilk hafta planlamakla geçti
+deneme sınavı sonuçlarını whatsapp|N grubunda paylaşan arkadaşlar yüzünden stresim ikiye katlandı
+gmat|N sınavının quant|E kısmı beklediğimden zordu, yine de mba|E başvurusu için yeterli puanı aldım
+sınavdan önceki gece cram|E session'ı|M=session+ı yaptık, sabah hiçbir şey hatırlamıyordum
+lgs'ye|N hazırlanan kardeşime flashcard'larla|M=flashcard+larla kelime çalıştırıyorum, quizlet|N çok işe yarıyor
+osym'nin|N sitesi sonuç günü çöktü, herkes aynı anda refresh|E yapıyordu
+sınav kaygısı için okul counselor'ı|M=counselor+ı ile konuştum, nefes egzersizleri gerçekten işe yaradı
+# --- gym 2 ---
+macfit'e|N yazıldım ama sadece saunayı kullanıyorum, membership|E paramın karşılığını almıyorum
+pre-workout|E içince kalbim o kadar hızlı attı ki set'in|M=set+in ortasında durmak zorunda kaldım
+crossfit|N kutusunda wod|E bitince herkes yere yatıyor, sonra birbirine high|E five|E çakıyor
+deadlift|E yaparken belimi sakatladım, fizyoterapist bana formuna dikkat et dedi
+gym'deki|M=gym+deki ayna karşısında selfie|E çeken adam yüzünden bench|E press|E sırası bekledim
+protein|A shake'imi|M=shake+imi soyunma odasında unuttum, ertesi gün çanta ekşi kokuyordu
+spinning|E dersinde instructor|E müziği o kadar açtı ki kulaklarım iki gün çınladı
+yeni gym|E çantam lululemon'dan|N, antrenman yapmasam da en azından spor yapıyor gibi görünüyorum
+pilates|E reformer|E derslerine başladım, ilk gün core|E kaslarımın varlığını öğrendim
+personal|E best'imi|M=best+imi kırdığım gün gym'deki|M=gym+deki herkese anlattım, kimse umursamadı
+# end chunk

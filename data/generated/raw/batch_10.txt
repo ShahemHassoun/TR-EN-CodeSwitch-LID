@@ -1,0 +1,206 @@
+# batch_10 — aim: >=1 MIXED per line. Written by Claude (Anthropic); style seeded by TurEngMix train split.
+# --- social media 3 ---
+instagram'da|N close|E friends|E listeme eklediğim kişi story'lerimi|M=story+lerimi screenshot'layıp|M=screenshot+layıp başkalarına göndermiş
+bereal|N bildirimi geldiğinde tuvaletteydim, o gün hiç post'lamadım|M=post+lamadım
+linkedin'de|N herkesin career|E update'leri|M=update+leri o kadar parlak ki kendimi işsiz gibi hissediyorum
+twitter'da|N thread'imi|M=thread+imi bir hesap kopyalayıp kendi adına paylaşmış, credit|E bile vermemiş
+tiktok'ta|N for|E you|E page'imde|M=page+imde sürekli köpek videoları çıkıyor, algoritma ne istediğimi biliyor
+pinterest'te|N mood|E board'umu|M=board+umu yaparken üç saat geçti, sonra hiçbir şey yapmadım
+youtube'da|N comment'imi|M=comment+imi kanal sahibi pin'ledi|M=pin+ledi, bir gün boyunca kendimi ünlü hissettim
+snapchat'te|N streak'imi|M=streak+imi bir gün unuttum, iki yüz günlük seri bitti
+facebook|N marketplace'te|M=marketplace+te sattığım koltuk için alıcı fiyatın yarısını teklif etti
+instagram|N live'ında|M=live+ında konser yayını yapan grup bağlantı kopunca şarkının yarısında kayboldu
+# --- gym 3 / sports ---
+gym'de|M=gym+de squat|E rack'i|M=rack+i curl|E yapmak için kullanan adamla göz göze geldik
+koşu öncesi warm-up'ı|M=warm-up+ı atlayınca baldırım kramp girdi, strava|N kaydım yarıda kaldı
+yeni running|E shoe'larımla|M=shoe+larımla ilk koşuyu yaptım, ayaklarım bulutta yürüyor gibi
+spor salonunun locker|E room'unda|M=room+unda telefonumu unuttum, ertesi gün resepsiyonda buldum
+pilates|E reformer'ında|M=reformer+ında ilk ders kaslarımın titremesini durduramadım
+basketbol sahasında pick-up|E game'e|M=game+e katıldım, iki metrelik bir adam beni blokladı
+tenis kortunda serve'imi|M=serve+imi düzeltmek için coach|E tuttum, ilk ders sadece top topladık
+bisiklet turunda puncture|E yaşadık, tamir kitini evde unutmuşum
+yüzme havuzunda lane'ler|M=lane+ler hız sırasına göre ayrılmış, ben yavaş lane'de|M=lane+de bile geride kaldım
+boks dersinde partner'ım|M=partner+ım bana << protect your face >> dedi, sonra yüzüme hafifçe vurdu
+# end chunk
+# --- online shopping 4 / returns ---
+amazon'a|N return|E talebi açtım, courier|E paketi almaya gelmedi ve return|E window'u|M=window+u kapandı
+zara'nın|N online|E iade sürecinde refund'ım|M=refund+ım üç hafta sonra hesabıma yattı
+kargo takibinde paketim delivered|E görünüyor ama kapıda hiçbir şey yok, yurtiçi|N kargo'yu|N aradım
+trendyol'da|N aldığım elbise küçük geldi, exchange|E için mağazaya gittim ama stock'ta|M=stock+ta başka beden yoktu
+online|E alışverişte wishlist'ime|M=wishlist+ime eklediğim ürünlerin fiyatı indirimden hemen önce artıyor
+ürünün review'larında|M=review+larında herkes beş yıldız vermiş ama yorumların hepsi aynı cümleyle başlıyor
+hediye paketlemesi istedim, gift|E wrap|E yerine ürünü poşete koyup göndermişler
+pre-order|E verdiğim oyun çıkış gününde gelmedi, store|E bana bir indirim kodu verdi
+iade etmek istediğim ürünün box'ını|M=box+ını atmıştım, iade kabul edilmedi
+kargo şirketinin chatbot'u|M=chatbot+u bana sürekli aynı cevabı veriyor, gerçek bir insanla konuşmak imkansız
+# --- music 5 ---
+apple|N music'te|N lossless|E kaliteyi açtım, eski kulaklığımla aradaki farkı duyamadım
+konser için sabah bütün setlist'i|M=setlist+i ezberledim, grup yarısını çalmadı
+plak dükkanında vinyl'leri|M=vinyl+leri karıştırırken nadir bir pressing|E buldum, fiyatı kiramdan fazla
+gitar pedal'larıma|M=pedal+larıma o kadar para harcadım ki artık gitar çalmaktan çok pedal topluyorum
+şarkının lyrics'ini|M=lyrics+ini yanlış ezberlemişim, karaoke'de|M=karaoke+de herkes bana güldü
+spotify'ın|N blend|E özelliğiyle sevgilimle ortak playlist|E yaptık, müzik zevkimizin yüzde on iki uyumlu olduğu çıktı
+yerel bir grubun gig'ine|M=gig+ine gittim, barda on beş kişi vardı ama atmosfer harikaydı
+piyano dersinde scale'leri|M=scale+leri çalışmaktan sıkıldım, hocam bana bir film soundtrack'i|M=soundtrack+i verdi
+müzik festivalinin lineup'ı|M=lineup+ı açıklanınca bütün arkadaş grubu aynı anda mesaj attı
+şarkı yazarken chorus'u|M=chorus+u bir türlü bitiremiyorum, verse'ler|M=verse+ler hazır
+# end chunk
+# --- city guides ---
+istanbul'da|N ilk kez bulunan arkadaşıma itinerary|E hazırladım, ilk gün sultanahmet|N ve galata|N, ikinci gün kadıköy|N
+balat'ın|N renkli evleri instagram'da|N o kadar popüler ki sokakta fotoğraf çekmek için kuyruk var
+karaköy'de|N rooftop|E kafede oturup boğaz'ı|N izlemek, şehrin en overrated|E ama yine de güzel aktivitesi
+beyoğlu'nda|N bir second-hand|E kitapçıda saatlerce kaybolduk, kitapçı sahibi bize çay ikram etti
+moda|N sahilinde sunset|E izleyip sonra bahariye'de|N dondurma yemek, mükemmel bir date|E rotası
+üsküdar'dan|N vapura binip eminönü'ne|N geçmek, turistlerin bosphorus|E cruise'una|M=cruise+una verdiği paranın yarısı
+cihangir'in|N kafelerinde laptop'la|M=laptop+la çalışan freelancer'lar|M=freelancer+lar o kadar çok ki kafe ofise döndü
+ortaköy'de|N kumpir yerken camii'nin|N fotoğrafını çekmek bütün turistlerin checklist'inde|M=checklist+inde var
+kuzguncuk'un|N sokaklarında yürürken bir dizi seti gördük, oyuncular break|E vermişti
+nişantaşı'nda|N window|E shopping|E yapmak benim bütçeme uygun tek aktivite
+# --- anime 2 / manga ---
+{{ demon slayer'ın }} yeni sezonu crunchyroll'a|N geldi, animation|E kalitesi yine olağanüstü
+{{ jujutsu kaisen'in }} manga'sında|M=manga+sında beklenmedik bir plot|E twist|E oldu, reddit|N çıldırdı
+anime|A conventions'larda|M=conventions+larda cosplayer'larla|M=cosplayer+larla fotoğraf çekmek için sıra beklemek zorundasın
+{{ spy x family'nin }} opening'ini|M=opening+ini skip'lemiyorum|M=skip+lemiyorum, her bölümde baştan izliyorum
+manga|A okurken sağdan sola okumaya alışmak iki haftamı aldı, ilk volume'u|M=volume+u ters okudum
+studio|N ghibli|N filmlerinin soundtrack'lerini|M=soundtrack+lerini çalışırken dinliyorum, joe|N hisaishi|N bir dahi
+anime|A izlediğimi söyleyince insanlar hala çizgi film mi diye soruyor, cartoon|E değil diye açıklıyorum
+{{ one piece'in }} live-action|E dizisi beklenenden iyi çıktı, netflix|N bu sefer fan'ları|M=fan+ları üzmedi
+waifu|O tartışmaları yüzünden anime|A discord'undan|N ayrıldım, çok yoğun bir ortamdı
+yeni anime|A sezonunun watchlist'ini|M=watchlist+ini hazırladım, yirmi diziyi takip etmeye çalışacağım
+# end chunk
+# --- work from home 2 ---
+evden çalışırken desk|E setup'ımı|M=setup+ımı upgrade'ledim|M=upgrade+ledim, standing|E desk|E aldım ama hep oturuyorum
+home|E office'te|M=office+te öğle arasında buzdolabına gidip gelmekten iki kilo aldım
+evde çalışırken çocuklar zoom|N toplantısının ortasında içeri girip << what are you doing >> diye bağırdı
+remote|E çalışmanın en kötü yanı slack|N mesajlarının gece onda bile gelmesi, boundary'leri|M=boundary+leri kimse bilmiyor
+evden çalışırken pijamadan çıkmadığım için kamerayı açmadan önce sadece üstüme gömlek giyiyorum
+ofise dönüş policy'si|M=policy+si açıklanınca slack'te|N bir anda bütün emoji'ler|M=emoji+ler ağlayan yüz oldu
+kahve makinemin yanına ikinci monitor|E koydum, artık evin mutfağı benim ofisim
+evden çalışırken focus|E mode'u|M=mode+u açıp telefonu başka odaya koyuyorum, yine de instagram'a|N giriyorum
+iş saatleri bitince laptop'u|M=laptop+u kapatıp üstüne havlu örtüyorum, görmeyince düşünmüyorum
+remote|E ekip için virtual|E coffee|E chat'ler|M=chat+ler başlattık, ilk haftadan sonra kimse katılmadı
+# --- tech news 2 / AI ---
+openai'ın|N yeni modeli çıkınca twitter'da|N herkes benchmark|E grafiklerini paylaştı, kimse kendisi denemedi
+ai|E startup'larının|M=startup+larının yarısı aynı api'nin|M=api+nin üstüne kurulmuş bir wrapper|E
+yapay zekanın ürettiği deepfake|E videolar o kadar gerçekçi ki haberlere güvenmek zorlaştı
+şirketimiz chatbot|E yapmak için bir llm|E kullandı, chatbot|E müşterilere rakip firmanın ürünlerini önerdi
+yapay zeka ile yazılmış kitaplar amazon'da|N bestseller|E listesine girmeye başladı
+github|N copilot'un|N önerdiği kodda bir security|E açığı vardı, review|E yapmasaydık prod'a|M=prod+a gidecekti
+yapay zeka çizimleri yüzünden illustrator|E arkadaşım müşteri kaybediyor, fiyatlarını düşürmek zorunda kaldı
+ai|E kullanarak hazırladığım sunumda bütün görsellerdeki insanların on parmağı vardı, en azından doğru sayı
+sesli asistanlara konuşurken kibar olmaya çalışıyorum, << please >> ve << thank you >> diyorum
+yeni telefonun ai|E özellikleri fotoğraflardan insanları siliyor, tatil fotoğraflarından eski sevgilimi sildim
+# end chunk
+# --- cooking 3 / food trends ---
+tiktok'ta|N viral|E olan feta|E pasta|E tarifini yaptım, makarnanın yarısı tencereye yapıştı
+evde bubble|E tea|E yapmak için tapioca|E pearl'leri|M=pearl+leri aldım, hepsi birbirine yapıştı
+dubai|N çikolatası trend'i|M=trend+i yüzünden bütün pastaneler fıstıklı kadayıf satmaya başladı
+mangalda smash|E burger'ı|M=burger+ı denedim, köfteyi fazla ezince hepsi dağıldı
+yeni açılan poke|E bowl'cu|M=bowl+cu fiyatları görünce evde pilav ve ton balığıyla kendi bowl'umu|M=bowl+umu yaptım
+cronut|E almak için pastanenin önünde sabah sekizde kuyruğa girdim, saat onda bitmişti
+kombucha|E yapmak için scoby|E aldım, mutfakta kavanozun içinde bir canlı yaşıyormuş gibi
+annemin tarifindeki ölçüler cup|E değil su bardağı, yine de ben ölçü kabıyla yaptım ve kek çöktü
+restoranın tasting|E menu'sünde|M=menu+sünde on iki tabak vardı, her biri bir lokmalıktı
+vegan|E döner|T denedim, tadı gerçeğine yakındı ama dürümcü abi bana kötü baktı
+# --- gaming 7 / new releases ---
+yeni çıkan oyunun early|E access'ine|M=access+ine para verdim, oyunun yarısı bug'larla|M=bug+larla dolu
+{{ hogwarts legacy'de }} bütün collectible'ları|M=collectible+ları toplamak için kırk saat harcadım
+playstation|N 5'in|N yeni exclusive'i|M=exclusive+i çıkınca bütün hafta sonunu oyun oynayarak geçirdim
+oyunun pre-order|E bonus'u|M=bonus+u bir skin|E ve iki saatlik erken erişimdi, iki saat sunucular çöktü
+steam|N review'larında|M=review+larında oyuna << mostly negative >> verilmiş, ben yine de aldım ve sevdim
+{{ cyberpunk 2077'nin }} çıkışı felaketti ama update'lerden|M=update+lerden sonra harika bir oyun oldu
+indie|E oyunun developer'ı|M=developer+ı discord'da|N her soruya tek tek cevap veriyor, harika bir topluluk
+nintendo|N direct|N yayınında yeni {{ mario kart'ı }} görünce bütün çocukluğum gözümün önünden geçti
+oyunun ilk boss'unda|M=boss+unda elli kez öldüm, sonunda youtube'dan|N walkthrough|E izledim
+xbox|N series|N x'imde|N quick|E resume|E özelliği sayesinde beş oyun arasında geçiş yapıyorum
+# end chunk
+# --- productivity 2 / study ---
+study|E session'larımı|M=session+larımı lofi|E müzik eşliğinde yapıyorum, youtube|N bana iki saatlik bir mix|E öneriyor
+flashcard'larımı|M=flashcard+larımı anki'ye|N taşıdım, spaced|E repetition|E sayesinde kelimeler kafama giriyor
+notion'daki|N exam|E planner'ım|M=planner+ım o kadar detaylı ki planlamak çalışmaktan daha uzun sürüyor
+kütüphanede noise|E cancelling|E kulaklıkla çalışırken yanımdaki kişinin chips|E yemesini bile duymadım
+pomodoro|E timer'ı|M=timer+ı çalınca mola veriyorum ama mola her seferinde yarım saat sürüyor
+ders kitabının pdf'ini|M=pdf+ini ipad'de|N not alarak okuyorum, goodnotes|N hayatımı kurtardı
+sınav öncesi all-nighter|E çektim, sabah sınavda gözlerim kapanıyordu
+grup çalışmasında herkes zoom'da|N kameralarını açtı ama kimse çalışmadı, sadece sohbet ettik
+ders notlarını tiktok|N videolarıyla tekrar eden kardeşim benden daha yüksek not aldı
+kendime reward|E sistemi kurdum, her bölüm sonunda bir çikolata, kitabın yarısında çikolata bitti
+# --- relationships 4 / family tech ---
+babam yeni smart|E tv'de|M=tv+de youtube'u|N açmayı öğrenince akşamları sadece belgesel izliyoruz
+annem facebook'ta|N gördüğü her haberi whatsapp'tan|N bize forward'lıyor|M=forward+lıyor, fact-check|E yapmak benim işim oldu
+dedemin hearing|E aid'i|M=aid+i bluetooth'lu|M=bluetooth+lu çıktı, telefonla konuşurken artık bizi daha iyi duyuyor
+kardeşimle playstation|N için kavga ettiğimiz günleri hatırlayınca gülüyorum, şimdi ikimizin de kendi konsolu var
+annemin yeni iphone'unda|N face|E id'yi|M=id+yi kurmak için yarım saat uğraştık, gözlük takınca tanımıyor
+teyzemin instagram|N hesabını public|E yaptım, şimdi bütün yorumlara tek tek cevap veriyor
+babam online|E bankacılığı öğrenince şubeye gitmeyi bıraktı, ama şifresini bir deftere yazıyor
+annem tiktok|N izlemeye başladı ve bana her gün yemek tarifi videosu gönderiyor
+aile grup chat'imizin|M=chat+imizin adı her bayramda değişiyor, şu an bayram sofrası
+kuzenimin bebeğinin fotoğraflarını google|N photos'ta|N paylaşılan albüme koyduk, bütün aile oradan takip ediyor
+# end chunk
+# --- hobbies 3 ---
+3d|E printer'ımla|M=printer+ımla ilk baskıyı yaptım, figür yarısında çöktü ve spagetti gibi bir şey çıktı
+lego|N koleksiyonumu displaylemek|M=display+lemek için ikea'dan|N raf aldım, kedi hepsini devirdi
+puzzle|E kulübünde bin parçalık yapbozu üç günde bitirdik, son parça kayıptı
+amatör astronomi için telescope|E aldım, ilk gece bulutlar yüzünden sadece komşunun balkonunu gördüm
+kaligrafi kursunda brush|E pen|E kullanmayı öğrendim, ilk denemelerde harfler titrek çıktı
+model|A tren setimi odama kurdum, track|E tasarımı için youtube'da|N saatlerce video izledim
+geocaching|E yaparken ormanda bir kutu bulduk, içinde başka birinin bıraktığı bir not vardı
+fotoğraf yürüyüşü grubuyla street|E photography|E yaparken bir esnaf bana poz verdi
+bonsai|O ağacımın pruning'ini|M=pruning+ini yanlış zamanda yaptım, yaprakları sarardı
+dikiş makinesi aldım, ilk projem bir tote|E bag|E oldu ama sapı ters dikilmiş
+# --- weather 2 / city ---
+istanbul'da|N lodos|T çıkınca vapurlar iptal oldu, herkes metroya akın etti ve rush|E hour|E kabus oldu
+ankara'da|N kış o kadar soğuk ki termal|T içlik giymeden dışarı çıkamıyorum
+izmir'de|N yaz sıcağında klima olmadan uyumak imkansız, airbnb'nin|N klimasının remote'u|M=remote+u kayıptı
+antalya'da|N kasım ayında bile denize girilebiliyor, beach'lerde|M=beach+lerde yabancı turistler hala güneşleniyor
+eskişehir'de|N kar yağınca porsuk|N kenarında yürümek çok romantik ama ayaklarım donuyor, snow|E boots|E almalıyım
+bursa'da|N uludağ'a|N çıkan teleferikte manzarayı instagram|N story|E olarak paylaşırken telefonum soğuktan kapandı
+trabzon'da|N bir günde güneş, yağmur ve sis gördük, weather|E app'i|M=app+i ne diyeceğini şaşırdı
+# end chunk
+# --- customer service ---
+müşteri hizmetleri bana << your call is important to us >> dedi ve kırk dakika bekletti
+internet şirketinin live|E chat'inde|M=chat+inde agent|E bana aynı copy-paste|E cevabı üç kez verdi
+turkcell'in|N chatbot'u|M=chatbot+u sorunumu anlamayınca << agent >> yazdım, yine chatbot|E cevap verdi
+havayolunun call|E center'ını|M=center+ını aradım, menüde doğru seçeneği bulmak için beş kez geri döndüm
+bankanın customer|E support'u|M=support+u bana ticket|E numarası verdi, üç gün sonra hala açık
+kargo şirketinin twitter|N hesabına yazınca bir saat içinde cevap geldi, telefonla ulaşamamıştım
+online|E mağazanın return|E policy'si|M=policy+si sayfasının en altında küçük harflerle yazıyordu
+müşteri temsilcisi bana << i completely understand your frustration >> dedi ve sorunumu çözmedi
+yemek siparişim yanlış gelince app'ten|M=app+ten complaint|E açtım, beş dakikada refund|E geldi
+elektrik şirketinin web|A sitesinde şikayet formu her seferinde error|E veriyor
+otelin front|E desk'i|M=desk+i odamızın klimasının bozuk olduğunu üç kez not etti, teknisyen gelmedi
+telefon operatörü bana loyalty|E indirimi teklif etti, ama sadece iptal etmek istediğimi söyleyince
+# end chunk
+# --- holidays 2 / gifts ---
+sevgilime anniversary|E hediyesi olarak custom|E bir harita posteri yaptırdım, etsy'den|N sipariş ettim
+yılbaşında ofiste white|E elephant|E oyunu oynadık, en kötü hediye benim aldığım mum çıktı
+doğum günü sürprizi için arkadaşlar whatsapp'ta|N secret|E group|E kurdu, sevgilim yanlışlıkla gruba eklendi
+anneler gününde annemi brunch'a|M=brunch+a götürdüm, menüdeki fiyatları görünce evde yapalım dedi
+bayramda yeğenlere harçlık yerine gift|E card|E verdim, hepsi steam|N için kullandı
+babama doğum gününde smart|E watch|E aldım, ilk iş adım sayısını benimkiyle karşılaştırdı
+sevgililer günü için restoran rezervasyonunu opentable'dan|N yaptım, masa kapının hemen yanındaydı
+kardeşime mezuniyet hediyesi olarak noise|E cancelling|E kulaklık aldım, artık beni de duymuyor
+arkadaşıma surprise|E party|E hazırlarken her şeyi instagram'da|N paylaşmamak için kendimi zor tuttum
+hediye alışverişinde gift|E receipt|E istemeyi unuttum, kazak küçük geldi ve değiştiremedik
+yılbaşı için ev dekorasyonunda pinterest|N fikirlerini denedim, ağaç biraz eğri ama christmas|E vibe'ı|M=vibe+ı tam
+# end chunk
+# --- hiring side / managers ---
+işe alım için job|E posting|E yayınladık, ilk gün iki yüz başvuru geldi ve yarısı chatgpt'yle|N yazılmış cover|E letter'dı|M=letter+dı
+mülakat yaptığım aday soruların hepsine << great question >> diye başladı, sonra cevap vermedi
+ekibime yeni bir junior|E aldım, onboarding|E planını hazırlarken kendi ilk günümü hatırladım
+performance|E review|E döneminde ekibimin feedback'lerini|M=feedback+lerini toplamak tam bir hafta sürdü
+1:1|E toplantılarında çalışanlarım bana sadece << all good >> diyor, sorunları slack'te|N öğreniyorum
+yeni pozisyon için budget|E onayı gelmedi, headcount|E freeze|E yüzünden bütün işe alımlar durdu
+aday mülakata kamerası kapalı girdi, sonra mikrofonundan arka planda başka bir mülakat sesi geldi
+referans kontrolünde adayın önceki manager'ı|M=manager+ı onu hiç tanımadığını söyledi
+ekibimdeki herkes farklı time|E zone'da|M=zone+da olunca toplantı saati bulmak bir puzzle|E oldu
+iş teklifini kabul eden aday ilk günden bir gün önce << i got a better offer >> diye mail attı
+# --- health / wellness 2 (general) ---
+sabah rutinime stretching|E ekledim, ilk hafta her şey ağrıdı ama şimdi sırtım daha rahat
+su içmeyi unutmamak için water|E bottle'ıma|M=bottle+ıma saat çizgileri çizdim, öğlene kadar bitiriyorum
+uyku düzenimi düzeltmek için akşam dokuzdan sonra screen|E kullanmıyorum, ilk gece tavanı izledim
+akşam yürüyüşleri için yeni bir podcast|E buldum, artık yürümek için bahane aramıyorum
+kahveyi azaltmak için decaf'e|M=decaf+e geçtim, ama kafeinsiz kahve bana plasebo|T gibi geliyor
+meditasyon için headspace|N aboneliği aldım, ilk session'da|M=session+da uyuyakaldım
+ofiste ergonomic|E sandalye talep ettim, hr|E bana bir form|T gönderdi ve üç ay bekledim
+# end chunk

@@ -1,0 +1,19 @@
+# batch_11 — aim: >=1 MIXED and >=1 NE per line. Written by Claude (Anthropic); style seeded by TurEngMix train split.
+# --- tech companies culture ---
+google'da|N çalışan arkadaşım kampüsteki free|E food'u|M=food+u anlatınca kendi ofis kantinime baktım ve ağladım
+meta'nın|N layoff|E haberinden sonra linkedin|N << open to work >> çerçeveli profillerle doldu
+apple'ın|N tasarım ekibinde intern|E olan kuzenim bize hiçbir şey anlatamıyor, nda|E yüzünden
+amazon'un|N depolarında çalışan robotların videosu tiktok'ta|N viral|E oldu, yorumlarda herkes işsizlikten bahsediyor
+microsoft'un|N teams'i|N zorla yükleyip durması yüzünden bilgisayarım her açılışta yavaşlıyor
+netflix'in|N culture|E deck'ini|M=deck+ini okudum, << no rules rules >> felsefesi kağıt üstünde çok güzel
+spotify|N ofisinde çalışan biri bana playlist'lerin|M=playlist+lerin nasıl seçildiğini anlattı, büyü bozuldu
+trendyol|N mühendislik blog'unda|M=blog+unda yazdıkları scaling|E yazısı türk|N yazılımcılar arasında çok paylaşıldı
+getir'in|N avrupa'dan|N çekildiği haberi startup|E ekosisteminde bir wake-up|E call|E oldu
+peak|N games'in|N başarı hikayesi türk|N startup|E dünyasında herkesin motivasyon kaynağı
+# --- driving / cars 3 ---
+arabanın parking|E sensor'ü|M=sensor+ü durmadan bipliyor, toyota|N servisi bir sorun olmadığını söyledi
+uzun yolda carplay'i|N bağlayınca navigasyon ve spotify|N aynı anda çalışmadı, bütün yol sessiz gittik
+araba kiralarken full|E insurance|E aldım, iyi ki almışım çünkü kapıyı bir direğe çarptım
+togg'umun|N yazılım update'i|M=update+i gece yüklendi, sabah ekranın tasarımı tamamen değişmişti
+otoyolda hız limiti display'i|M=display+i yanlış gösterdi, radar|E cezası geldi
+# end chunk

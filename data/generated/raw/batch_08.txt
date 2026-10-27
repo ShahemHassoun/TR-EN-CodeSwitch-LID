@@ -1,0 +1,227 @@
+# batch_08 — mixed density. Written by Claude (Anthropic); style seeded by TurEngMix train split.
+# --- crypto 4 / fintech ---
+binance'te|N stop-loss|E koymayı unuttum, bir gecede portföyüm yarıya indi
+cold|E wallet'ımı|M=wallet+ımı kaybettiğim için seed|E phrase'imi|M=phrase+imi her yerde arıyorum
+airdrop|E için on farklı kripto grubuna katıldım, sonunda beş dolar değerinde token|E aldım
+kripto youtuber'ı|M=youtuber+ı her videoda << this coin will 100x >> diyor, kanalının adı bile coin
+defi|E protokolünde yield|E farming|E yapayım derken smart|E contract|E hack'lendi|M=hack+lendi
+bitcoin|N halving'inden|M=halving+inden sonra fiyatın uçacağını söyleyenler hala bekliyor
+paribu'da|N hesap açtım, kyc|E doğrulaması için selfie|E çekerken ışık yüzünden üç kez reddedildi
+stablecoin|E diye aldığım coin|E bir hafta sonra depeg|E oldu, stable'ın|M=stable+ın anlamı değişmiş
+nft|E projesinin discord'unda|N herkes << gm >> yazıp duruyor, kimse projenin ne olduğunu bilmiyor
+crypto|E bro|E arkadaşım düğünde bile bana blockchain|E anlattı, kaçacak yer bulamadım
+# --- bakery / cafe work ---
+kafede barista|E olarak çalışırken müşterinin << extra hot oat milk latte >> siparişini ezberledim
+part-time|E iş için starbucks'a|N başvurdum, interview'da|M=interview+da en sevdiğim içeceği sordular
+sabah shift'inde|M=shift+inde kahve makinesi bozuldu, bütün sabah müşterilere filtre kahve verdik
+pastanede çalışırken tiktok'ta|N viral|E olan cheesecake|E yüzünden her gün yüz tane yapıyoruz
+müşteri wifi|E şifresini sordu, söyledim, sonra bütün gün tek bir çayla laptop'unda|M=laptop+unda çalıştı
+tip|E kavanozuna en çok para koyanlar yabancı turistler, türk|N müşteriler bahşiş vermeyi pek sevmiyor
+kafenin instagram|N hesabı için latte|E art|E fotoğrafı çekerken süt köpüğü bozuldu
+kapanış shift'inde|M=shift+inde temizlik yaparken son müşteri bir saat daha oturdu
+menüye yeni eklediğimiz matcha|O latte|E müşterilerin yarısına çim gibi geldi
+kafeye gelen influencer|E bedava kahve karşılığında story|E atacağını söyledi, hiç atmadı
+# end chunk
+# --- football tactics / fandom 2 ---
+guardiola'nın|N false|E nine|E taktiği ilk başta anlaşılmadı, şimdi herkes kopyalıyor
+beşiktaş'ın|N yeni hocası high|E press|E oynatıyor, ama oyuncular yetmişinci dakikada yoruluyor
+maç sonrası xg|E istatistiklerine bakınca kazanmayı hak etmediğimizi anladım, ama üç puan üç puandır
+fifa|N kariyer modunda trabzonspor'u|N şampiyon yaptım, gerçek hayatta bu biraz zor
+transfer|T haberlerini fabrizio|N romano'dan|N takip ediyorum, << here we go >> yazınca kalbim çarpıyor
+derbi öncesi pre-match|E show'larında|M=show+larında yorumcular aynı şeyleri üç saat konuşuyor
+takımımızın yeni forması online|E satışa çıktı, sponsor|E logosu o kadar büyük ki takımın arması görünmüyor
+var|T odası bu hafta da gündemde, hakemin offside|E kararı on dakika sürdü
+şampiyonlar|N ligi|N kurasında grubumuz o kadar zor ki taraftarlar şimdiden europa|N league'e|N hazırlanıyor
+futbol podcast'lerinde|M=podcast+lerinde analiz yapan gençler televizyondaki yorumculardan daha iyi
+# --- museums / culture ---
+istanbul|N modern'de|N açılan yeni exhibition'da|M=exhibition+da bir eserin önünde yarım saat durdum
+topkapı|N sarayı'nda|N audio|E guide|E kiraladım, anlatıcının sesi o kadar sakindi ki yürürken uyuyordum
+müzekart'la|N bütün yaz ayasofya|N ve efes|N dahil on müze gezdik, ticket|E kuyruğuna hiç girmedik
+pera|N müzesi'ndeki|N workshop'ta|M=workshop+ta çocuklarla birlikte resim yaptık
+sanat galerisindeki opening|E gecesinde herkes şarap içip telefonuna bakıyordu, kimse eserleri izlemiyordu
+arkeoloji müzesindeki digital|E guide|E uygulaması qr|E kodu okuyunca eserlerin hikayesini anlatıyor
+bienal'de|N gördüğüm installation|E o kadar garipti ki üç kişiye ne anlattığını sordum, herkes farklı cevap verdi
+müze shop'undan|M=shop+undan aldığım poster|E eve gelince kırıştı, çerçeveye koyamadım
+sanal müze turu yaptım, google|N arts|N and|N culture|N sayesinde louvre'u|N evden gezdim
+# end chunk
+# --- remote meetings ---
+zoom'da|N mute'u|M=mute+u açmayı unutup beş dakika konuştum, herkes << you're on mute >> yazdı
+google|N meet'te|N background|E blur'ünü|M=blur+ünü açtım ama kedim kameranın önüne geçince yarım kedi göründü
+teams|N call'unda|M=call+unda internetim donunca toplantıya robot sesiyle devam ettim
+online|E toplantıda herkes kamerayı kapatınca kendimi boş bir odada konuşuyormuş gibi hissettim
+breakout|E room'larda|M=room+larda kimse konuşmuyor, sonra ana odaya dönünce herkes << great discussion >> diyor
+sunum sırasında screen'imi|M=screen+imi paylaşınca whatsapp|N bildirimleri herkesin gözü önünde aktı
+toplantı recording'ini|M=recording+ini izleyeceğim diye toplantıya girmedim, recording'i|M=recording+i de izlemedim
+webinar'da|M=webinar+da q&a|E kısmına soru yazdım, moderator|E soruyu okurken adımı yanlış söyledi
+kulaklığımın mic'i|M=mic+i bozulunca bütün toplantıyı chat'ten|M=chat+ten yazarak geçirdim
+slack|N huddle'larında|M=huddle+larında herkes aynı anda konuşuyor, kimin ne dediği anlaşılmıyor
+# --- transportation 3 ---
+marti|N scooter'ını|M=scooter+ını kiraladım, yokuşta battery|E bitti ve son kilometreyi iterek çıktım
+istanbul|N metrosunda yeni hatlar açıldıkça commute|E sürem kısalıyor ama aktarmalar çoğalıyor
+bisikletle işe gitmek için bike|E lane|E arıyorum ama kadıköy'den|N sonra şerit kayboluyor
+ido'nun|N deniz otobüsünde laptop'umu|M=laptop+umu açtım, dalgalar yüzünden midem bulandı
+bolt'tan|N taksi çağırdım, şoför navigasyonu kullanmayı reddetti ve kendi bildiği yoldan gitti
+yht'de|N wifi|E çalışıyor ama ankara'ya|N gelene kadar bağlantı on kere koptu
+sabah metrobüs'te|N yer bulunca kendimi jackpot|E kazanmış gibi hissediyorum
+havaist'le|N havalimanına giderken trafikte kaldık, uçağı kaçırma korkusuyla stres|T yaptım
+elektrikli scooter|E park etme kurallarını kimse uygulamıyor, kaldırımlar scooter|E mezarlığı gibi
+gece yarısı otobüsünde şoför radyoda arabesk|T açtı, bütün yolcular sessizce dinledi
+# end chunk
+# --- appliances / home tech ---
+yeni bulaşık makinesinin eco|E mode'u|M=mode+u üç saat sürüyor, normal program bir saat
+akıllı buzdolabının ekranında netflix|N izlenebiliyormuş, buzdolabında dizi izleyen kim
+çamaşır makinesi error|E code|E verince youtube'dan|N video izleyip filtreyi temizledim, sorun çözüldü
+dyson'ın|N süpürgesi o kadar güçlü ki halının püsküllerini de yuttu
+kahve makinesinin descaling|E uyarısı aylardır yanıyor, ignore'luyorum|M=ignore+luyorum
+mikrodalganın timer'ını|M=timer+ını yanlış kurunca patlamış mısır kömür oldu, bütün ev yanık koktu
+robot süpürgeyi schedule'ladım|M=schedule+ladım, her sabah dokuzda çalışıyor ve kedi her sabah dokuzda kaçıyor
+klimanın remote'unu|M=remote+unu kaybettik, bütün yaz telefon uygulamasıyla açıp kapattık
+yeni tost makinesinin non-stick|E kaplaması ikinci haftada soyuldu, philips|N garantisi sağ olsun
+evdeki smart|E lock|E bataryası bitince dışarıda kaldım, çilingir yine eski usul açtı
+# --- health app / appointments (general) ---
+hastane randevusunu app'ten|M=app+ten aldım ama doktor iki saat gecikince online|E sistemin bir anlamı kalmadı
+e-nabız'da|N reçetemi görünce eczaneye gitmeden ilacın stokta olup olmadığını sordum
+diş hekimi bana << no pain no gain >> deyip güldü, ben gülemedim
+göz doktorundaki yeni makine retina|E taramasını bir saniyede yaptı, teknoloji|T inanılmaz
+check-up|E paketinde her şey normal çıktı, doktor bana sadece daha çok yürü dedi
+online|E doktor konsültasyonunda doktorun interneti donunca konuşmanın yarısını kaçırdım
+yeni gözlüklerimin blue|E filter'ı|M=filter+ı sayesinde gece ekrana bakınca gözlerim daha az yoruluyor
+akıllı saat nabzımın yüksek olduğunu söyleyince panikledim, sonra merdiven çıktığımı hatırladım
+eczacı bana vitamin|A önerirken ilacın generic|E versiyonunun aynı olduğunu söyledi, yarı fiyatına aldım
+# --- software 2: devops / data ---
+pipeline'ımız|M=pipeline+ımız her gece fail|E ediyor, log'lara|M=log+lara bakınca sebebin bir timeout|E olduğunu gördük
+aws'deki|N faturamız beklenenden üç kat geldi, biri test|T için açtığı instance'ı|M=instance+ı kapatmayı unutmuş
+dashboard'daki|M=dashboard+daki metric'ler|M=metric+ler doğru görünüyor ama kullanıcılar hala şikayet ediyor
+grafana'da|N alert|E kurdum, ilk gece yüz tane false|E positive|E geldi ve telefonumu sessize aldım
+data|E warehouse'umuzu|M=warehouse+umuzu snowflake'e|N taşıdık, sorgular hızlandı ama maliyet arttı
+jupyter|N notebook'umdaki|M=notebook+umdaki hücreleri sırayla çalıştırmayınca sonuçlar her seferinde değişiyor
+modeli production'a|M=production+a aldığımızda accuracy|E düştü, data|E drift|E dedikleri bu
+ci/cd|E kurduktan sonra her commit'te|M=commit+te testler otomatik çalışıyor, artık bozuk kod merge'lenmiyor|M=merge+lenmiyor
+docker|N image'ımız|M=image+ımız iki gigabyte, base|E image'ı|M=image+ı değiştirince yarıya indi
+sql|E query'mi|M=query+mi optimize|T etmek için index|E ekledim, tablo kilitlendi ve herkes bana kızdı
+microservice'ler|M=microservice+ler arasında bir api|E değişikliği yapınca üç ekip birden etkilendi
+on-call|E rotasyonunda gece gelen page'ler|M=page+ler yüzünden uykusuz kalıyorum, pagerduty|N kabus
+kubernetes|N cluster'ımızda|M=cluster+ımızda bir pod|E sürekli restart|E oluyor, kimse nedenini bulamadı
+terraform'la|N altyapıyı kod olarak yazınca her şey çok düzenli oldu, ta ki biri state|E dosyasını silene kadar
+python|N script'imi|M=script+imi cron|E job|E olarak ayarladım, ama sunucunun saati farklı timezone'daymış|M=timezone+daymış
+# end chunk
+# --- tourism in turkey ---
+pamukkale'de|N travertenlerin üstünde selfie|E çekmek için sıra vardı, havuzlara girmek yasak
+bodrum'daki|N beach|E club'ların|M=club+ların şezlong fiyatları bir otel gecesine eşit
+antalya'da|N all-inclusive|E otelde bir hafta kaldık, sadece yedik ve havuza girdik
+fethiye'de|N paragliding|E yaptım, babadağ'dan|N atlarken tandem|E pilotu bana << relax and enjoy >> dedi
+kaş'taki|N dalış okulunda open|E water|E sertifikası aldım, instructor|E her dalıştan önce safety|E check'i|M=check+i yaptırdı
+mardin'in|N taş evlerinde kalan boutique|E otel instagram'da|N çok popüler, rezervasyon için üç ay bekledik
+alaçatı'da|N windsurf|E dersi aldım, ilk gün suyun içinde board'dan|M=board+dan çok zaman geçirdim
+safranbolu'da|N kahvaltı yaptığımız konakta wifi|E yoktu ve bu tatilin en güzel kısmıydı
+nemrut|N dağı'nda|N sunrise|E izlemek için gece üçte yola çıktık, zirvede buz gibi rüzgar vardı
+istanbul'a|N gelen yabancı arkadaşıma grand|N bazaar'ı|N gezdirdim, pazarlık yapmayı ilk dakikada öğrendi
+kapadokya'da|N cave|E hotel'de|M=hotel+de kaldık, oda serindi ama telefonda signal|E yoktu
+ayvalık'ta|N bir bisiklet turu yaptık, rota|T zeytinlikler arasından denize iniyordu
+çeşme'nin|N plajlarında sezon dışında yürümek, yazın kalabalığından çok daha güzel bir experience|E
+uzungöl'e|N gittik, göl manzarası güzel ama etrafı otel dolu, nature|E kayboluyor
+erzurum'da|N kayak yaparken lift|E bileti online|E alınabiliyormuş, biz gişede bir saat bekledik
+# end chunk
+# --- electronics shopping in turkey ---
+vatan|N bilgisayar'da|N laptop|E bakarken satış danışmanı bana gaming|E modelini önerdi, ben sadece excel|N kullanıyorum
+mediamarkt'ın|N black|E friday|E indiriminde aldığım televizyon bir hafta sonra daha ucuza satılıyordu
+teknosa'dan|N aldığım kulaklık bozuldu, warranty|E kapsamında değiştirmek üç hafta sürdü
+yurt dışından telefon getirince imei|E kaydı ücreti telefonun yarısı kadar tuttu
+apple|N store'un|N education|E discount'u|M=discount+u ile ipad|N aldım, öğrenci belgemi bile sormadılar
+hepsiburada'da|N refurbished|E telefon aldım, kutudan çıkınca yepyeniydi
+mağazadaki satış görevlisi bana extended|E warranty|E satmak için on dakika dil döktü
+ikinci el macbook'u|N letgo'dan|N aldım, satıcı icloud|N hesabından çıkmayı unutmuş
+yeni ekran kartı stoğa girdiği an sold|E out|E oldu, reseller'lar|M=reseller+lar iki katına satıyor
+pazar yerinde aldığım şarj aleti fake|E çıktı, telefonu ısıttı ve kablo eridi
+# --- neighbours / apartment life ---
+apartman yöneticisi aidat ödemesini whatsapp|N grubundan iban'la|M=iban+la istedi, kimse ödemedi
+üst kattaki komşu her gece ikide workout|E yapıyor, tavan|T titriyor
+komşunun wifi|E adı komşuyu dinliyoruz diye görünüyor, korkudan kendi şifremi değiştirdim
+apartmanın asansörü bozulunca yedinci kata merdivenle çıkmak benim cardio'm|M=cardio+m oldu
+kapıcının amazon|N paketlerimi alıp sakladığı köşe artık bir mini depo oldu
+yan dairedeki öğrenciler house|E party|E yapınca bütün apartman uyuyamadı
+apartman toplantısında güvenlik kamerası alalım dedik, camera|E fiyatlarını görünce vazgeçtik
+alt kattaki teyze her gelişimde bana homemade|E börek getiriyor, diyetim bitti
+komşunun köpeği her sabah delivery|E kuryesine havlıyor, getir|N çocukları artık kapıya gelmiyor
+apartman grubunda biri asansöre not yazdı, not o kadar passive|E aggressive|E ki herkes screenshot|E aldı
+# end chunk
+# --- high school memories ---
+lisede msn|N durumuma şarkı sözü yazardım, crush'ım|M=crush+ım görsün diye her gün değiştirirdim
+okulda nokia|N 3310'la|N snake|E oynarken öğretmen telefonu toplardı, high|E score'umu|M=score+umu kaybederdim
+mezuniyet balosunda dj|E aynı üç şarkıyı çaldı, prom|E dedikleri bu muydu bilemedim
+lise yıllarında facebook'ta|N poke|E atmak flört etmenin en cesur yoluydu
+okul gezisinde otobüste herkes mp3|E player'ından|M=player+ından şarkı paylaşırdı, kulaklığın teki bendeydi
+dershanede deneme sonuçları duvara asılınca ranking'imi|M=ranking+imi görmek için koşardık
+lisede hazırladığım powerpoint|N sunumlarında her slide'a|M=slide+a farklı animation|E eklerdim
+ilk mail|E adresim çok utanç verici bir nick|E içeriyordu, hotmail|N hesabını hala kapatamadım
+okul kantininde tost ve ayran günlük menümüzdü, şimdi o tostlar için nostalgia|E yaşıyorum
+lisede {{ harry potter'ı }} okumak için gece yorganın altında flashlight|E kullanırdım
+# --- credit cards / banking 3 ---
+kredi kartının cashback|E kampanyasından yararlanmak için ihtiyacım olmayan bir airfryer|E aldım
+bonus|N kart puanlarını harcamak için markette checkout'ta|M=checkout+ta beş dakika uğraştım
+kartın contactless|E limiti düşük olduğu için her seferinde pin|E girmek zorunda kalıyorum
+banka bana premium|E kart teklif etti, annual|E fee'sini|M=fee+sini görünce teşekkür ettim
+taksit seçeneği olmayan online|E mağazalardan alışveriş yapmıyorum, öğrenci bütçesi bu
+kartım skimming|E yüzünden kopyalanmış, ziraat|N bankası hemen kartı bloke etti
+yurt dışında kart kullanınca foreign|E transaction|E fee'leri|M=fee+leri yüzünden ekstre şişti
+dijital bankanın virtual|E card|E özelliğiyle online|E alışverişte kendimi güvende hissediyorum
+otomatik ödeme talimatını iptal etmeyi unutunca gym|E üyeliğim bir yıl daha uzadı
+enpara'nın|N uygulaması o kadar sade ki banka şubesine gitmeye gerek kalmadı
+# end chunk
+# --- english verbs with turkish endings ---
+dün akşam fotoğrafları instagram'a|N post'ladım|M=post+ladım, sabah kalkınca kimse like'lamamıştı|M=like+lamamıştı
+arkadaşımın videosunu share'ledim|M=share+ledim ama yanlışlıkla iş whatsapp|N grubuna gitmiş
+dosyayı drive'a|N upload'ladım|M=upload+ladım, link'i|M=link+i gönderdim ama access|E vermeyi unuttum
+bu dizinin finalini twitter'da|N biri spoil'ladı|M=spoil+ladı, izlemeden bütün sonu öğrendim
+filmi pause'layıp|M=pause+layıp mutfağa gittim, döndüğümde netflix|N << are you still watching >> diye sordu
+eski sevgilimin fotoğraflarını delete'ledim|M=delete+ledim ama google|N photos'ta|N hala anılar olarak çıkıyor
+toplantı notlarını copy'leyip|M=copy+leyip mail'e|M=mail+e paste'ledim|M=paste+ledim, formatting|E tamamen bozuldu
+yeni çıkan oyunu install'ladım|M=install+ladım ama ilk açılışta yüz gigabyte'lık update|E istedi
+uber'den|N taksi book'ladım|M=book+ladım, şoför beni yanlış adreste bekledi
+bu şarkıyı spotify'da|N save'ledim|M=save+ledim ama kütüphanemde bulamıyorum, algoritma saklamış
+arkadaşımı story'de|M=story+de tag'ledim|M=tag+ledim, o da beni hemen block'ladı|M=block+ladı
+sayfa yüklenmeyince on kez refresh'ledim|M=refresh+ledim, sonra internetimin olmadığını fark ettim
+ekran görüntüsünü crop'layıp|M=crop+layıp gönderdim ama bildirimde mesajın tamamı görünüyordu
+video|T derste anlaşılmayınca rewind'layıp|M=rewind+layıp üç kez izledim, hoca o kısmı hızlı geçmiş
+müdürün mailini forward'ladım|M=forward+ladım, yanlışlıkla reply|E all|E yapmışım ve bütün departman okudu
+dün gece bütün oyun sezonunu binge'ledim|M=binge+ledim, sabah işe gözlerim kıpkırmızı gittim
+yeni bölüm çıkınca hemen download'luyorum|M=download+luyorum çünkü metroda internet|T çekmiyor
+arkadaşım bana << did you check my message >> yazınca whatsapp'ı|N açtım, mesajı seen'lemiştim|M=seen+lemiştim
+çocukken bilgisayarı restart'lamak|M=restart+lamak her sorunun çözümüydü, hala da öyle
+discord'da|N biri spam'leyince|M=spam+leyince bütün server|E bildirimleri kapattı
+# end chunk
+# --- more verbs + nouns ---
+yeni telefonun unboxing|E videosunu çekerken, kutunun içinden şarj aleti çıkmadı, apple|N tarzı
+toplantıyı reschedule'ladım|M=reschedule+ladım ama müdür takvimine yine en kötü saati koydu
+youtube'da|N podcast'i|M=podcast+i 2x|E hızda dinleyince konuşmacılar sincap gibi konuşuyor
+arkadaşım her sorunu overthink'liyor|M=overthink+liyor, ben de onu calm|E down|E etmek için saatlerce konuşuyorum
+müşteri meeting'i|M=meeting+i son dakika cancel'ladı|M=cancel+ladı, hazırladığım sunum boşa gitti
+ders notlarını photoshop'ta|N edit'leyip|M=edit+leyip paylaşan arkadaşım sınıfın hero'su|M=hero+su oldu
+bu playlist'i|M=playlist+i shuffle'layınca|M=shuffle+layınca her seferinde aynı üç şarkı çıkıyor
+mesaj atınca karşı taraf typing|E yazıp sonra duruyor, o an kalbim duruyor
+spotify'da|N bir şarkıyı repeat'e|M=repeat+e alıp bütün gün dinledim, wrapped'te|N bunu göreceğim
+kodumu push'ladım|M=push+ladım ama build|E kırıldı, github|N actions|N bütün gece kırmızı yandı
+# --- winter sports / snow ---
+palandöken'de|N snowboard|E yaparken lift'ten|M=lift+ten inerken düştüm, arkamdaki çocuk üstüme kaydı
+kartalkaya'da|N ski|E pass|E fiyatı bir otel gecesi kadar, kayak zengin sporu oldu
+uludağ'da|N kar|T yağınca bütün istanbul|N oraya akın etti, otelde check-in|E kuyruğu bir saat
+kayak dersinde instructor|E bana << bend your knees >> deyip durdu, dizlerim zaten bükülmüştü
+kar yağınca çocuklarla snowman|E yaptık, burnuna havuç yerine biber koyduk
+erciyes'te|N après-ski|E diye bir şey yok, kayaktan sonra herkes çorbacıya gidiyor
+kış lastiklerini taktırmadan yola çıkınca araba buzda drift|E yaptı, kalbim ağzıma geldi
+snowboard|E ekipmanlarını decathlon'dan|N kiraladım, boot'lar|M=boot+lar iki numara büyüktü
+kartopu savaşında yeğenim beni headshot'ladı|M=headshot+ladı, bütün aile güldü
+kayak merkezindeki hot|E chocolate|E bir servet, ama o soğukta başka seçenek yok
+# end chunk
+# --- ambiguous-word lines ---
+bu platform|A üzerinden satış yapan herkes komisyon oranından şikayet ediyor, etsy|N bile pahalı oldu
+web|A tasarımı yapan arkadaşım her müşteriye responsive|E olmayan bir site|T teslim ediyor
+evdeki tv|A artık sadece youtube|N açmak için kullanılıyor, kablo yayınını kimse izlemiyor
+yeni anime|A sezonunda izlediğim üç dizinin üçü de isekai|O, crunchyroll|N aboneliğim boşa gitmiyor
+manga|A dükkanında aradığım cildi bulamadım, amazon|N japonya'dan|N sipariş ettim
+spor sonrası protein|A barı yemek benim için bir ödül, tadı kartondan farksız olsa da
+bu model|A telefonun kamerası iyi ama batarya kötü, samsung|N kullanıcıları hep bunu söylüyor
+kapıyı açınca kuryeye hey|A dedim, o da bana hey|A dedi ve paketi verip gitti
+ooh|A dedim telefonun ekranı kırılınca, apple|N care|N almadığıma pişman oldum
+pardon|A deyip metroda yanımdakini ittim, adam kulaklığını çıkarmadan bana baktı
+# end chunk

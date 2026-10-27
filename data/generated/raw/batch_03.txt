@@ -1,0 +1,251 @@
+# batch_03 — dense code-mixing. Written by Claude (Anthropic); style seeded by TurEngMix train split.
+# --- startup / business ---
+startup'ımızın|M=startup+ımızın pitch|E deck'ini|M=deck+ini yatırımcıya sunduk, adam ilk slide'da|M=slide+da telefonuna baktı ve bir daha kaldırmadı
+co-founder'ım|M=co-founder+ım her toplantıda << we are disrupting the market >> diyor ama henüz tek bir müşterimiz yok
+yeni product|E launch'ımızda|M=launch+ımızda landing|E page|E çöktü, bin kişi aynı anda kayıt olmaya çalışmış
+mvp'yi|M=mvp+yi iki haftada çıkaralım dedik, altı ay oldu hala beta|E aşamasındayız
+şirketimiz series|E a|E turunu kapattı ve ilk iş olarak ofise bir playstation|N aldılar
+{{ y combinator'a }} başvurduk, red mailini|M=mail+ini okuyana kadar kendimizi unicorn|E sanıyorduk
+b2b|E satış yapmak b2c|E satıştan çok farklı, her müşteriyle altı ay meeting|E yapıyorsun
+kpi'larımızı|M=kpi+larımızı tutturamadık ama dashboard'umuz|M=dashboard+umuz çok güzel görünüyor
+churn|E oranımız o kadar yüksek ki gelen müşteri sayısı giden müşteriyi ancak karşılıyor
+bootstrapped|E bir şirket olarak her kuruşu düşünüyoruz, ofis kahvesini bile ortaklar kendi cebinden alıyor
+demo|E day'de|M=day+de jüri bize sadece << what's your moat >> diye sordu ve kimse cevap veremedi
+growth|E hacker|E olarak işe aldığımız arkadaş üç ayda sadece bir newsletter|E gönderdi
+shopify'da|N mağaza açtım, ilk siparişi annem verdi
+equity|E teklif ettiler ama maaş yarı yarıya düşük, riske girmek mi lazım bilemedim
+pivot|E yapmaya karar verdik, artık yapay zeka şirketiyiz çünkü yatırımcılar sadece onu soruyor
+remote-first|E bir şirkette çalışıyorum, iki yıldır kimseyi yüz yüze görmedim
+müşteri feedback'lerini|M=feedback+lerini topladık, herkes farklı bir feature|E istiyor
+notion'da|N o kadar çok sayfa açtık ki hangi dokümanın güncel olduğunu kimse bilmiyor
+şirketin linkedin|N sayfası için her gün bir post|E yazıyorum ve her biri << excited to announce >> diye başlıyor
+ilk çalışanımızı işe alırken culture|E fit'e|M=fit+e baktık, şimdi herkes aynı tip insan
+yatırımcı bize term|E sheet|E gönderdi ama avukat okuyunca maddelerin yarısını sildirdi
+saas|E ürünümüzün pricing'ini|M=pricing+ini üç kez değiştirdik, her seferinde müşteriler şikayet etti
+burn|E rate'imiz|M=rate+imiz yüzünden altı aylık runway|E kaldı, herkes biraz gergin
+networking|E etkinliğinde herkes kartvizit dağıtıyor, kimse kimseyi dinlemiyor
+exit|E yapan girişimcinin anlattığı hikaye o kadar parlak ki başarısız olanları hiç dinlemiyoruz
+# --- marketing / ads ---
+yeni kampanyanın engagement|E oranı beklenenden düşük çıktı, müşteri suçu algoritmaya attı
+instagram|N reklamlarında target|E kitleyi yanlış seçmişiz, bütün bütçe ortaokul öğrencilerine gitmiş
+bu markanın brand|E voice'u|M=voice+u o kadar samimi ki bazen bir şirketle konuştuğumu unutuyorum
+seo|E çalışması yaptık, google'da|N ikinci sayfadan birinci sayfaya çıktık ve herkes alkışladı
+content|E calendar'ımızı|M=calendar+ımızı üç ay öncesinden hazırladık ama her gün plan değişiyor
+influencer|E marketing|E ajansı bize mikro influencer'lar|M=influencer+lar önerdi, çoğunun takipçisi sahte hesap gibi duruyordu
+a/b|E testinde mavi buton kırmızı butondan daha çok tıklandı, bu bulgu için iki hafta harcadık
+müşteri bize viral|E olsun dedi, sanki viral|E olmak bir düğmeye basmakla oluyor
+newsletter'a|M=newsletter+a abone olan herkes ilk maili|M=mail+i açıp sonra unsubscribe|E yapıyor
+cta|E butonunu sayfanın en üstüne taşıdık, conversion|E iki katına çıktı
+billboard|E reklamları hala işe yarıyor mu bilmiyorum ama metroda gördüğüm her reklamı hatırlıyorum
+storytelling|E dersine katıldım, hoca her cümleye << imagine this >> diye başlıyordu
+markanın yeni logosu o kadar sade ki eski logoyu özleyen bir kitle oluştu
+copywriter|E arkadaşım bir slogan için iki yüz alternatif yazdı, müşteri ilkini seçti
+retargeting|E reklamları yüzünden bir kere baktığım ayakkabı bir aydır her yerde karşıma çıkıyor
+şirketin tiktok|N hesabını yönetmek için yirmi yaşında bir stajyer|T aldık, hesap bir haftada patladı
+bu reklam filmi o kadar duygusal ki ürünün ne olduğunu sonunda bile anlamadım
+email|E kampanyasının subject|E line'ını|M=line+ını değiştirdik, açılma oranı yüzde otuz arttı
+rakip markanın kampanyasını kopyaladık ama bizimki hiç tutmadı, galiba timing|E meselesi
+müşteri sunumunda << synergy >> kelimesini beş kez kullandım, ajans sahibi çok mutlu oldu
+ürün lansmanı için pop-up|E store|E açtık, ilk gün sadece arkadaşlarımız geldi
+markanın sosyal medyasına gelen her negatif yoruma dm'den|M=dm+den yazar mısınız diye cevap veriyorlar
+analytics|E paneline bakınca sitedeki ziyaretçilerin yarısının sahte hesap olduğunu fark ettik
+reklamda oynayan çocuk o kadar tatlıydı ki ürünü almasam bile videoyu üç kere izledim
+podcast|E sponsorluğu aldık, sunucu reklamı o kadar hızlı okudu ki kimse markanın adını anlamadı
+# --- money / investing ---
+borsa|T uygulamasında portföyüm kırmızıya döndü, uygulamayı silip yeniden yükledim ama düzelmedi
+dollar|E cost|E averaging|E yapıyorum diyerek her ay biraz alıyorum, sonuç hala eksi
+ethereum|N gas|E fee'leri|M=fee+leri yüzünden küçük bir transfer|T bile yapmak mantıksız hale geldi
+nft|E alan arkadaşım şimdi o maymun resmine bakıp derin derin iç çekiyor
+kredi kartımın cashback|E kampanyası yüzünden ihtiyacım olmayan şeyler aldım, kazanç sıfır
+index|E fund'a|M=fund+a yatırım yapmak sıkıcı ama uzun vadede en mantıklısı diyorlar
+influencer'ların|M=influencer+ların tavsiyesiyle aldığım hisse yarı yarıya düştü
+emlak yatırımı için ev baktık ama faizler o kadar yüksek ki kirada oturmak daha mantıklı çıktı
+budget|E tutmak için bir uygulama indirdim, ilk ay bütün harcamalarımı diğer kategorisine yazdım
+day|E trading|E yapan kuzenim her gün milyoner olacağını söylüyor, hala babasından harçlık alıyor
+altın fiyatları yükselince annem bütün bilezikleri sayıp iyi ki satmamışız dedi
+fintech|E uygulamasına para yatırdım, bir gün sonra sistem bakımda mesajı çıktı ve kalbim durdu
+emeklilik için bes'e|N girdim, ama emekli olabileceğim yaş her yıl biraz daha uzuyor
+crypto|E winter'da|M=winter+da alım yapanlar şimdi kazançlı ama o günlerde herkes onlara gülüyordu
+para biriktirmek için no-spend|E challenge|E yaptım, ilk hafta sonunda pes ettim
+yatırım danışmanı bana yatırımcı profilimi sordu, ben de bana para kaybettirmeyecek bir şey istiyorum dedim
+startup|E hissesi aldım ama şirket batınca hisse de kağıt parçası oldu
+bitcoin'in|N fiyatını her sabah ilk iş kontrol ediyorum, sanki bu fiyatı değiştirebilirmişim gibi
+portföyümü diversify|E edeyim derken on farklı coin|E aldım, onu da batıyor
+vergi beyannamesi döneminde muhasebecim bana her şey yolunda dedi, sonra ceza geldi
+maaşa zam geldi ama enflasyon|T zamdan daha hızlı koştu, cepte kalan aynı
+ikinci el araba almak yatırım mı yoksa masraf mı tartışmasında ailemle anlaşamadık
+robo|E advisor|E kullanmaya başladım, en azından kendi kendime kötü kararlar vermiyorum
+arkadaşım bana bir passive|E income|E kursu önerdi, kursun kendisi onun pasif geliri çıktı
+cüzdan uygulamasının şifresini unutunca bütün coin'lerim|M=coin+lerim sonsuza kadar kayboldu
+# --- phones / gadgets ---
+yeni iphone'umun|N kamerası o kadar iyi ki her şeyi fotoğraflıyorum ama hiçbirine bakmıyorum
+samsung'un|N katlanabilir telefonu ilginç ama ortadaki çizgi beni rahatsız ediyor
+airpods'umun|N tekini metroda düşürdüm, şimdi tek kulağımla müzik dinliyorum
+akıllı saatim gece uykumu takip ediyor ve her sabah bana deep|E sleep|E sürem az diyor
+telefonumun bataryası öğlene kadar yüzde yirmiye düşüyor, power|E bank'sız|M=bank+sız dışarı çıkamıyorum
+yeni aldığım mekanik klavyenin switch'leri|M=switch+leri o kadar sesli ki ev arkadaşım şikayet ediyor
+tablet|T aldım ama sadece netflix|N izlemek için kullanıyorum, çizim yapma planım suya düştü
+bu telefonun refresh|E rate'i|M=rate+i yüksek, ekran çok akıcı ama batarya o yüzden çabuk bitiyor
+kulaklığımın noise|E cancelling|E özelliğini açınca etraftaki bütün sesler kayboluyor, harika bir his
+telefonu yere düşürdüm ve ekran koruyucu sayesinde kurtuldu, en iyi yatırımım
+yeni laptop'ta|M=laptop+ta usb|E portu yok, her şey için ayrı bir adaptör taşıyorum
+oyun bilgisayarımın gpu'su|M=gpu+su o kadar ısınıyor ki odayı kış aylarında ısıtıyor
+akıllı ev sistemi kurduk, artık ışıkları açmak için alexa'yla|N kavga ediyorum
+drone|E aldım ama ilk uçuşta ağaca çarptı, şimdi ağaçta duruyor
+e-reader|E aldığımdan beri daha çok kitap okuyorum, ama hala kağıt kokusunu özlüyorum
+telefonumun storage'ı|M=storage+ı dolu diye uyarı veriyor, fotoğrafları silmeye kıyamıyorum
+smart|E tv|A aldık, menüsü o kadar karışık ki annem hala eski kumandayı arıyor
+bluetooth|E hoparlörüm piknikte bütün parka müzik dinletti, kimse şikayet etmedi
+telefonumu güncelledim ve bütün uygulamaların yeri değişti, bir hafta kendimi kaybolmuş hissettim
+fitbit'imin|N adım sayacı araba sürerken bile adım sayıyor, istatistiklerime güvenmiyorum
+monitörümü ikinci ekranla değiştirdim ve artık iki kat daha fazla sekme açıyorum
+şarj kablosu her seferinde kayboluyor, evde on tane var ama hiçbirini bulamıyorum
+oyun konsolunu kutusundan çıkardım ve ilk iş iki saatlik bir update|E indirdi
+bu kameranın autofocus'u|M=autofocus+u karanlıkta bile çalışıyor, gece fotoğrafları çok iyi çıkıyor
+eski telefonumu sattım, alıcı kutusunu bile istedi ve ben kutuyu çoktan atmıştım
+# --- streaming platforms ---
+netflix|N şifresini paylaşmayı yasaklayınca herkes yeniden kendi hesabını açmak zorunda kaldı
+{{ prime video'daki }} dizi o kadar iyiydi ki bütün sezonu bir hafta sonunda bitirdim
+spotify|N premium'u|M=premium+u iptal edince reklamlar arasında şarkı dinlemeye başladım
+youtube|N premium|E almaya karar verdim çünkü her videoda üç tane reklam vardı
+disney+|N aboneliğini sadece bir dizi için aldım, finali izleyip hemen cancel'ladım|M=cancel+ladım
+spotify'ın|N daily|E mix'leri|M=mix+leri beni benden iyi tanıyor, her sabah tam ruh halime göre şarkılar geliyor
+bu platform|A çok pahalı oldu, aylık abonelik ücreti neredeyse bir sinema bileti kadar
+{{ apple music'e }} geçtim ama playlist'lerimi|M=playlist+lerimi spotify'dan|N taşımak tam bir kabus oldu
+netflix'in|N recommendation|E algoritması bana sürekli kore|N dizileri öneriyor, haklı da
+{{ youtube music'in }} background|E play|E özelliği için premium|E almak zorunda kalmak saçma
+exxen'de|N maç izlemek için abonelik aldım ama yayın her golde donuyor
+abonelik ücretleri o kadar arttı ki artık her ay hangi platformu|T iptal edeceğimi düşünüyorum
+blutv|N ile hbo|N max|N birleşince içerik arttı ama uygulama tamamen değişti
+dizinin yeni season'ı|M=season+ı haftalık yayınlanıyor, binge|E izleyemediğim için sinirliyim
+twitch|N prime|E sub'ımı|M=sub+ımı her ay sevdiğim streamer'a|M=streamer+a veriyorum
+audible'dan|N sesli kitap dinlemeye başladım, yolda giderken bir kitabı bitiriyorum
+mubi'de|N izlediğim indie|E filmler bana sinema zevkimin geliştiğini hissettiriyor
+netflix|N party|E özelliğiyle uzaktaki sevgilimle aynı anda film izliyoruz, << long distance >> için ideal
+spotify|N podcast|E kategorisine çok yatırım yaptı ama ben hala sadece müzik dinliyorum
+gain'de|N izlediğim belgesel o kadar iyiydi ki bütün arkadaşlarıma link'ini|M=link+ini attım
+streaming|E savaşları yüzünden sevdiğim dizi bir platformdan diğerine geçti, iki aboneliğim oldu
+youtube'da|N ad|E blocker|E kullanınca sitede uyarı çıkmaya başladı
+{{ apple tv'ye }} bedava deneme için girdim, iptal etmeyi unuttum ve üç ay ödedim
+# --- dating apps ---
+tinder'da|N match|E olduğum kişi ilk mesajda hey|A yazdı ve sonra bir daha hiç konuşmadık
+bumble'da|N kadınlar ilk mesajı atıyor ama bana gelen herkes sadece << hi >> yazıyor
+dating|E app'lerde|M=app+lerde herkesin bio'sunda|M=bio+sunda << love travelling and good food >> yazıyor, kimse farklı değil
+ilk date'imizde|M=date+imizde adam bana crypto|E portföyünü anlattı, ikinci date|E olmadı
+hinge'de|N prompt'lara|M=prompt+lara verilen cevaplar insanı daha iyi tanıtıyor bence
+swipe'lamaktan|M=swipe+lamaktan parmağım yoruldu ama hala doğru kişiyi bulamadım
+benimle konuşan kişi ghosting|E yaptı ama story'lerime|M=story+lerime bakmaya devam ediyor
+uygulamada tanıştığımız kişiyle ilk buluşmada catfish|E olduğunu anladım, fotoğraflar on yıl önceymiş
+<< situationship >> denen şeyin içindeyim ve ne olduğunu kendim de bilmiyorum
+arkadaşım bana << red flag >> listesi hazırladı, tanıştığım herkes listede bir şeye uyuyor
+online|E dating|E yorucu ama yüz yüze tanışmak artık neredeyse imkansız
+superlike|E atan kişi beni o kadar hızlı mesajla boğdu ki unmatch|E yapmak zorunda kaldım
+tinder|N premium|E aldım ve bir haftada daha az match|E aldım, nasıl oluyor anlamadım
+date|E planlarken restoranı ben seçiyorum, hesap gelince ödeme konusunda bir << awkward >> sessizlik oluyor
+eski sevgilim dating|E app'te|M=app+te karşıma çıktı, iki saniye düşündükten sonra sola kaydırdım
+bu uygulamada herkes << looking for something serious >> yazıyor ama kimse ciddi değil
+tanıştığım kişi bana bütün akşam ex'ini|M=ex+ini anlattı, ben de terapi seansına gelmiş gibi hissettim
+voice|E note|E atan biriyle eşleştim, ilk mesajı dört dakikalık bir ses kaydıydı
+ilişki koçu bir youtuber'ın|M=youtuber+ın tavsiyesiyle ilk buluşmada telefonu masaya ters koydum
+iki ay mesajlaşıp bir kere buluşamadık, buna pen|E pal|E denir galiba
+# --- language learning / abroad ---
+duolingo'da|N iki yüz günlük streak'im|M=streak+im var ama hala ispanyolca|N bir cümle kuramıyorum
+ielts|N sınavında speaking|E kısmında heyecandan söyleyeceğim her şeyi unuttum
+almanya'ya|N master|E için başvurdum, motivation|E letter'ı|M=letter+ı yazarken beş kez baştan başladım
+toefl|N için çalışırken vocabulary|E listesindeki kelimelerin yarısını hayatımda hiç duymamıştım
+ispanya'da|N ilk günüm herkese << hola|O >> diyerek geçti, sonrasını hiç bilmiyordum
+yurt dışında yaşayan arkadaşım türkçe|N konuşurken araya sürekli ingilizce|N kelimeler katıyor ve bunun farkında değil
+fransızca|N kursuna başladım, hocamız her derse << bonjour|O >> diye giriyor ve bütün sınıf utanıyor
+hollanda'da|N yaşamak güzel ama hava sürekli yağmurlu, güneşi özledim
+erasmus|N döneminde öğrendiğim en önemli şey << cheers >> demeden kimsenin içmediği oldu
+ingilizcemi|N geliştirmek için dizileri altyazısız izliyorum ama britanyalı aksanında hala kayboluyorum
+italya'da|N bir kafede garson bana << grazie|O mille|O >> deyince çok mutlu oldum, ben de << prego|O >> dedim
+kanada'ya|N gitmek için vize başvurusu yaptım, istenen dokümanların listesi iki sayfa
+online|E konuşma partneri bulduğum uygulamada herkes sadece instagram|N hesabımı istiyor
+yurt dışında ilk ay homesick|E oldum ve her gün annemle görüntülü konuştum
+japonya'da|N trende yanlış yöne bindim, bir görevli bana sabırla << daijoubu|O >> deyip yolu gösterdi
+almanca|N öğrenirken artikelleri ezberlemek imkansız, der|O die|O das|O hala kabus
+amerika'da|N small|E talk|E kültürüne alışamadım, kasiyerin bana << how are you >> demesi beni şaşırtıyor
+ingiltere'de|N master|E yaparken en çok çay saatlerini sevdim, herkes her şeyi çayla çözüyor
+yabancı arkadaşım türkçe|N öğrenmeye çalışıyor ve ilk öğrendiği kelime kolay gelsin oldu
+language|E exchange|E etkinliğinde bir alman arkadaşla tanıştım, o bana almanca|N ben ona türkçe|N öğretiyorum
+yurt dışından dönünce kendi şehrimde turist gibi hissettim, her şey çok değişmişti
+amsterdam'da|N bisiklet|T kullanmayı bilmiyorsan hayatta kalman zor
+çince|N öğrenmek için uygulama indirdim, ilk derste tonları ayırt edemediğim için pes ettim
+viyana'da|N bir konserde yanımdaki teyze bana << wunderbar|O >> diye fısıldadı, tam o anı anlatıyordu
+avustralya'da|N working|E holiday|E vizesiyle bir yıl çalıştım, hayatımın en güzel yılıydı
+# end chunk
+# --- pets ---
+kedim laptop'umun|M=laptop+umun klavyesine oturup bütün dosyamı sildi, ctrl|E z|E bile kurtaramadı
+köpeğimi dog|E parka götürdüm, orada tanıştığı golden|E retriever|E ile en yakın arkadaş oldular
+kedim için aldığım cat|E tree|E duruyor, kedi kutusunun içinde uyuyor
+veteriner|T bana köpeğin overweight|E olduğunu söyledi, ödül mamalarını azaltmamız gerekiyormuş
+instagram'da|N kedimin hesabı benim hesabımdan daha çok follower|E aldı
+köpeğimle sabah walk'larımız|M=walk+larımız güne başlamanın en güzel yolu, yağmurda bile çıkıyoruz
+pet|E shop'tan|M=shop+tan aldığım oyuncağı kedi beğenmedi, kutusuyla oynuyor
+sokak kedilerine mama koyan apartman görevlimiz bütün mahallenin hero'su|M=hero+su oldu
+köpeğim zoom|E toplantısında havlayınca bütün ekip kamerayı açıp köpeği görmek istedi
+kedim gece üçte zoomies|E yapıyor, koridorda koşarken her şeyi deviriyor
+akvaryumdaki balıklara isim verdim ama hangisi hangisi hiç bilmiyorum
+köpeğim için smart|E feeder|E aldım, uygulamadan mama veriyorum ama köpek hala bana bakıyor
+kedi sahipleri bilir, << if i fits i sits >> gerçek bir kural
+papağanım alarm sesini taklit etmeyi öğrendi, her sabah iki kez uyanıyorum
+köpeğimin pet|E insurance'ı|M=insurance+ı için ayda ödediğim para benim sigortamdan fazla
+sokaktan aldığım yavru kedi şimdi evin patronu, herkes onun schedule'ına|M=schedule+ına göre yaşıyor
+köpek eğitmeni bana << consistency is key >> dedi ve ben bunu hiç uygulayamadım
+kedimin tüyleri her yerde, siyah pantolon giymeyi bıraktım
+hamster'ım|M=hamster+ım gece boyunca çarkında koşuyor, odada uyumak imkansız
+köpeğimi pet|E kuaförüne götürdüm, döndüğünde tanınmayacak hale gelmişti
+kedim balkona çıkan kuşları izlerken çıkardığı sesler bir belgesel gibi
+yeni sahiplendiğimiz köpek ilk gece ağladı, hepimiz onunla salonda uyuduk
+veterinerin yanında köpeğim o kadar uslu ki evdeki haylaz o değil sanki
+kedim her sabah tam alarmdan beş dakika önce yüzüme pati atıyor
+köpeğimi parkta gezdirirken herkes adını soruyor, kimse benim adımı sormuyor
+# --- home / decoration ---
+ikea'dan|N aldığım dolabı kurmak altı saat sürdü ve sonunda iki vida arttı
+evi yeniden dekore ettim, pinterest'te|N gördüğüm odaya hiç benzemedi
+plant|E mom|E olmaya karar verdim, iki ayda üç bitkiyi öldürdüm
+minimalist|E bir salon istiyordum ama annemin verdiği vazolar yüzünden müze gibi oldu
+robot süpürge aldık, kedi onun üstüne binip evde tur atıyor
+home|E office|E köşesi kurdum ama yine yatakta laptop'la|M=laptop+la çalışıyorum
+kiralık evde duvara çivi çakamadığımız için bütün tabloları yere dayadık
+mutfağı yenilerken usta bana iki günlük iş dedi, iki ay sürdü
+led|E şerit ışıkları odaya taktım, oda gaming|E setup'ı|M=setup+ı gibi oldu ama annem disko dedi
+balkonda küçük bir urban|E garden|E yaptım, domatesler kuşlara yem oldu
+ev arkadaşımla temizlik schedule'ı|M=schedule+ı yaptık, ilk haftada bozuldu
+yeni evin housewarming|E partisine herkes bitki getirdi, şimdi evde orman var
+banyonun fayanslarını değiştirmek için youtube'dan|N tutorial|E izledim, sonuç pek tutorial'daki|M=tutorial+daki gibi olmadı
+koltuğu online|E sipariş ettim, kapıdan girmedi ve geri göndermek zorunda kaldık
+evin wifi|E sinyali yatak odasına ulaşmıyor, extender|E aldım o da çalışmadı
+bohem tarzı dekorasyon için makrome yaptım, kedi hepsini parçaladı
+akıllı ampul taktık, artık ışıkları kapatmak için telefonu bulmam gerekiyor
+eski bir sandığı restore|E ettim, şimdi salonun en güzel parçası
+taşınırken kutulara isim yazmadık ve üç ay boyunca çatal aradık
+duvarı accent|E wall|E yapmak için koyu yeşile boyadık, oda mağara gibi oldu
+yeni halıyı serdik ve köpek ilk gün üstüne tuvaletini yaptı
+mutfakta open|E shelf|E sistemine geçtim, her şey toz içinde kalıyor
+cozy|E bir köşe yaratmak için puf aldım, kedi sahiplendi
+evdeki eşyaları declutter|E ettim, üç poşet kıyafet bağışladım
+annem yeni evime gelince ilk iş perdeleri değiştirdi, kendi evi gibi
+# --- weather / seasons ---
+istanbul'da|N bir günde dört mevsim yaşanıyor, sabah mont öğlen tişört akşam yine mont
+yaz geldi ve klimanın faturası kiradan fazla geldi
+kar yağınca bütün şehir durdu, ben de home|E office|E bahanesiyle yataktan çıkmadım
+bahar gelince alerjim başlıyor, cebimde her zaman bir paket mendil var
+hava durumu uygulaması güneşli dedi, şemsiyesiz çıktım ve sırılsıklam oldum
+sonbahar|T geldiğinde pumpkin|E spice|E latte|E içmek bir ritüel oldu, aslında tadını sevmiyorum
+heatwave|E yüzünden ofiste klima savaşları başladı, kimse dereceye karar veremiyor
+kışın hygge|O yapalım dedik, bütün akşam battaniye altında film izledik
+bu yaz tatilde o kadar güneşte kaldım ki sunscreen|E sürmeyi unuttuğum yerler yandı
+sabah sisli havada vapura binmek bir film sahnesi gibi
+yağmur yağınca istanbul|N trafiği iki kat daha kötü oluyor, kimse araba kullanmayı bilmiyor
+kış aylarında güneşi görmeyince seasonal|E depression|E değil ama moralim bozuluyor
+lodos|T çıktı ve balkondaki bütün saksılar komşunun bahçesine uçtu
+yazın sahilde sunset|E izlemek için her akşam aynı kayalığa gidiyoruz
+ilk kar yağışında çocuklar gibi sevindim, sonra işe gitmek zorunda kaldığımı hatırladım
+nem o kadar yüksek ki saçlarım frizz|E oldu ve hiçbir ürün işe yaramadı
+mevsim geçişlerinde herkes hasta oluyor, ofiste öksürük korosu var
+hava sıcakken soğuk kahve, soğukken sıcak kahve, kahve her mevsim var
+bu kış o kadar ılık geçti ki montumu bir kez bile giymedim
+güneşli bir pazar günü parkta piknik yapmak hayattan aldığım en büyük keyiflerden biri
+# end chunk

@@ -1,0 +1,24 @@
+TurEngMix corpus and benchmark — licence
+========================================
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International (CC BY-NC-SA 4.0)
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+TERMS
+-----
+Attribution   Cite the paper (see CITATION.cff).
+NonCommercial No commercial use of the corpus or annotations.
+No re-identification
+              Do not attempt to identify the authors of the source posts, or
+              to link them to other data.
+
+SOURCE MATERIAL
+---------------
+The corpus consists of public posts from Ekşi Sözlük, collected as described
+in corpus_construction/. Copyright in the underlying posts remains with their
+authors; this licence covers the compilation and the annotations.
+
+CODE
+----
+The code in this repository is licensed separately, under MIT. See LICENSE.

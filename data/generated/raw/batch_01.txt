@@ -1,0 +1,261 @@
+# batch_01 — mixed topics. Written by Claude (Anthropic) using TurEngMix train split as the style example.
+# --- work / office ---
+sabah dokuzda meeting'e|M=meeting+e girdim öğlen çıktım, << productive >> bir gün diyemem
+manager'ım|M=manager+ım her cuma feedback|E istiyor ama kimse okumuyor
+bu hafta üç tane deadline|E var ve ben hala mail|E kutumu temizleyemedim
+remote|E çalışmaya başladıktan sonra pijamadan çıkmaz oldum
+yeni gelen intern|E her şeyi slack'ten|N soruyor, bir kere de google'a|N baksa keşke
+şirket << work life balance >> diyor ama akşam onda call'a|M=call+a çağırıyor
+offer'ı|M=offer+ı kabul etmeden önce maaşı bir daha konuşmak lazım
+ikinci round|E mülakatta << case study >> verdiler, iki saat uğraştım
+standup|E dediğin beş dakika olur, bizimki kırk dakika sürüyor
+müdür toplantıda << let's take this offline >> dediği an anladım ki iş uzayacak
+linkedin'de|N herkes çok mutlu, gerçek hayatta herkes yorgun
+cv'mi|M=cv+mi güncelledim ama hala dönen yok
+iş ilanında << fast paced environment >> yazıyorsa kaçın derim
+toplantı notlarını drive'a|N yükledim, linki|M=link+i gruba atıyorum
+bizim team'de|M=team+de herkes kendi task'ına|M=task+ına bakıyor, kimse kimseye yardım etmiyor
+yarın sunum var ve slide'lar|M=slide+lar hala yarım
+excel'de|N << pivot table >> yapmayı öğrenince kendimi hacker|E gibi hissettim
+bu şirkette promotion|E almak için ya müdürün arkadaşı olacaksın ya da on yıl bekleyeceksin
+hr|E departmanı her şeye << we value your feedback >> diyor ama hiçbir şey değişmiyor
+onboarding|E sürecinde bana bir laptop|E verdiler, şifresini kimse bilmiyordu
+akşam altıda logout|E olup telefonu sessize alıyorum, kimse beni arayamaz
+outlook'ta|N takvimim renk renk, boş bir saatim kalmamış
+müşteri son dakikada scope'u|M=scope+u değiştirdi, bütün plan çöpe gitti
+çalıştığım yerde ofis kahvesi o kadar kötü ki herkes starbucks'a|N gidiyor
+mesai bitince << out of office >> mesajını açıp bilgisayarı kapattım
+# --- social media ---
+instagram'da|N story'me|M=story+me bakıp mesaj atmayan insanlar ayrı bir tür
+dün akşam bir tweet|E attım, sabah kalktığımda iki bin like|E almıştı
+tiktok'ta|N scroll'larken|M=scroll+larken saatin nasıl geçtiğini anlamıyorum
+eski sevgilim beni unfollow|E etmiş, ben de onu block'ladım|M=block+ladım
+bu hesabı takip etmeyin, sürekli fake|E haber paylaşıyor
+youtube'daki|N yorumlar videonun kendisinden daha eğlenceli
+influencer'ların|M=influencer+ların çoğu ürünü denemeden reklamını yapıyor
+twitter'da|N her gün yeni bir drama|E var, insan yoruluyor
+post'u|M=post+u silmişti ama ben çoktan screenshot|E almıştım
+reels|E izlemekten kitap okuyamaz hale geldim
+dm'den|M=dm+den yazan herkese cevap vermek zorunda değilim
+bir hesap açıp sadece kedi fotoğrafı paylaşıyorum, follower|E sayısı bin oldu
+caption'a|M=caption+a ne yazacağımı düşünürken yarım saat geçti
+instagram|N algoritması bana sürekli ev dekorasyonu öneriyor, nereden bildi acaba
+<< no offense >> ama bu filtreyle fotoğraf koymak biraz komik
+comment'lere|M=comment+lere bakınca insanlığa olan inancım azalıyor
+kendi hesabımı private|E yaptım, artık kimse göremiyor
+discord'da|N gece üçe kadar oyun konuştuk
+bu trend'in|M=trend+in nereden çıktığını kimse bilmiyor
+facebook|N artık sadece annem ve teyzelerim kullanıyor
+viral|E olan videoyu ilk ben paylaşmıştım ama kimse inanmıyor
+herkesin feed'i|M=feed+i aynı tatil fotoğraflarıyla dolu
+linki|M=link+i bio'ya|M=bio+ya koydum, oradan bakabilirsiniz
+hashtag'leri|M=hashtag+leri doğru seçmezsen kimse görmüyor
+sosyal medyadan bir hafta detox|E yaptım, hayatımın en sakin haftasıydı
+# --- gaming ---
+dün gece ranked|E maçta takım arkadaşım afk|E kaldı, rank'ım|M=rank+ım düştü
+steam'de|N indirim başlayınca cüzdanım ağlıyor
+{{ elden ring }} oynarken boss'u|M=boss+u yenmek için on saat uğraştım
+bu oyunun gameplay'i|M=gameplay+i güzel ama hikayesi çok zayıf
+lag|E yüzünden maçı kaybettik, internet şirketine sinirliyim
+yeni update'le|M=update+le karakterin skill'leri|M=skill+leri tamamen değişmiş
+valorant'ta|N aim'im|M=aim+im kötü ama takım oyununu iyi biliyorum
+playstation|N aldım ama oynamaya vaktim yok
+co-op|E oyunları arkadaşlarla oynayınca daha keyifli oluyor
+skin'lere|M=skin+lere para vermek bana hala mantıksız geliyor
+oyunun son patch'inden|M=patch+inden sonra her şey bozuldu
+{{ league of legends }} oynayan biriyle asla tartışmayın
+bu oyunun save|E sistemi berbat, iki saatlik ilerleme gitti
+loot|E kutularından hiç iyi bir şey çıkmıyor
+speedrun|E videoları izlemek bana inanılmaz huzur veriyor
+<< git gud >> diyen adama ne cevap verilir bilmiyorum
+oyunun ilk level'ı|M=level+ı bile zor, sonrası nasıl olacak acaba
+mmo|E oyunlarında gerçek arkadaşlıklar kurulabiliyor, ben bizzat yaşadım
+indie|E oyunlar büyük şirketlerin oyunlarından daha yaratıcı
+fifa|N oynarken kumandayı kırmama ramak kaldı
+online|E maçlarda herkes çok toksik, mikrofonu kapattım
+gaming|E laptop'u|M=laptop+u aldım ama fanı uçak gibi ses çıkarıyor
+twitch'te|N yayın açtım, izleyen iki kişi vardı biri annemdi
+build'imi|M=build+imi değiştirdikten sonra oyun çok kolaylaştı
+minecraft'ta|N ev yapmak benim için terapi gibi
+# --- series / film ---
+{{ breaking bad'i }} üçüncü kez izliyorum ve hala aynı yerde ağlıyorum
+bu dizinin season|E finali tam bir << plot twist >> ile bitti
+netflix'e|N yeni gelen dizinin trailer'ı|M=trailer+ı çok iyiydi ama dizi aynı tadı vermedi
+lütfen yoruma spoiler|E yazmayın, daha ilk bölümdeyim
+{{ the office'i }} bitirdikten sonra boşluğa düştüm
+binge|E watching|E yüzünden sabah işe uykusuz gittim
+bu filmin soundtrack'i|M=soundtrack+i filmden daha meşhur oldu
+türk dizileri artık netflix'te|N de var, yurt dışından arkadaşlar bile izliyor
+yönetmenin önceki filmleri daha iyiydi, bu biraz << overrated >> olmuş
+altyazısız izleyince ingilizcem|N gelişti mi bilmiyorum ama denedim
+dizinin pilot|E bölümü o kadar sıkıcıydı ki ikinci bölüme geçmedim
+marvel|N filmlerinden artık sıkıldım, hepsi aynı formül
+bu sahnede cgi|E o kadar kötü ki gülmekten öldüm
+sinemada telefonla konuşan adam yüzünden filmin yarısını kaçırdım
+<< based on a true story >> yazınca film daha korkunç geliyor
+dizinin cast'i|M=cast+i çok iyi ama senaryo zayıf
+imdb'de|N puanı yüksek diye izledim, hayal kırıklığı oldu
+{{ game of thrones'un }} final sezonu hala konuşuluyor
+çocukken izlediğimiz çizgi filmlerin reboot'u|M=reboot+u çıkmış, izlemeye korkuyorum
+bu dizide her karakter grey|E bir karakter, kimseyi tam sevemiyorsun
+episode'u|M=episode+u bitirince hemen sonrakine geçiyor, durmak imkansız
+film eleştirmenleri beğenmemiş ama ben çok sevdim, << guilty pleasure >> diyelim
+disney+|N aboneliğimi iptal ettim, izleyecek bir şey kalmadı
+bu oyuncunun performance'ı|M=performance+ı ödülü kesinlikle hak ediyordu
+korku filmlerinde jumpscare|E kullanmak artık çok ucuz bir numara
+# --- university / student ---
+final|E haftası geldi ve ben hala dersin slide'larını|M=slide+larını açmadım
+hoca bütün semester|E boyunca bir kere bile mail'e|M=mail+e cevap vermedi
+grup projesinde herkes kaçtı, bütün işi ben yaptım
+erasmus'a|N gitmek için ingilizce|N sınavına çalışıyorum
+kütüphanede yer bulmak için sabah yedide gidiyorum
+bu dersin syllabus'ı|M=syllabus+ı dört sayfa ama kimse okumuyor
+gpa'm|M=gpa+m düşük ama projelerim iyi, umarım işe alırken buna bakarlar
+yurt odasında ders çalışmak imkansız, oda arkadaşım sürekli oyun oynuyor
+assignment|E teslimine iki saat kala başladım, yine aynı hata
+online|E derslerde kamerayı kapatıp uyuyan çok kişi var
+hocanın << any questions >> demesiyle sınıfın sessizleşmesi bir oldu
+mezuniyet töreninde cüppe giymek çok sıcaktı
+staj başvurusu için cover letter|E yazmak beni benden aldı
+bu bölümde herkes yazılımcı olmak istiyor, kimse akademiye kalmak istemiyor
+vize sınavında soruların yarısı derste hiç anlatılmamıştı
+quiz'e|M=quiz+e hazırlıksız girdim, yine de ellinin üstünde aldım
+kampüste kahve on liraydı, şimdi yetmiş lira olmuş
+tez danışmanım draft'ımı|M=draft+ımı okuyup sadece << interesting >> yazmış
+ders seçme günü sistem çöktü, herkes aynı anda girdi
+bu hocanın derslerine << attendance >> zorunlu ama kimse gelmiyor
+bilgisayar mühendisliği okuyorum ama annem hala yazıcıyı tamir etmemi istiyor
+ilk dönem bütün dersleri geçtim, ikinci dönem her şey değişti
+study|E group'u|M=group+u kurduk ama hep sohbet edip dağıldık
+sabah sekiz dersine gitmek için altıda kalkıyorum, bu bir tür işkence
+hoca notları github'a|N yüklemiş, en azından bir işe yarıyor
+# --- gym / food ---
+bugün leg|E day'di|M=day+di ve merdivenleri inemiyorum
+gym'e|M=gym+e yazıldım ama sadece iki kez gidebildim
+personal|E trainer'ım|M=trainer+ım bana diyet listesi verdi, yarısını uygulayamıyorum
+protein|A tozu almak için maaşımın yarısını harcadım
+cardio|E yapmaktan nefret ediyorum ama bir şekilde yapıyorum
+spor salonunda aynanın karşısında selfie|E çekenler ayrı bir dünya
+cheat|E meal'imde|M=meal+imde bütün pizzayı tek başıma yedim
+meal|E prep|E yapınca hafta içi daha az para harcıyorum
+vegan|E restoranı denedim, beklediğimden çok daha lezzetliydi
+pazar sabahı brunch'a|M=brunch+a gidip üç saat oturduk
+bu kafede latte|E sipariş ettim ama süt resmen soğuktu
+evde ekmek yapmaya başladım, karantinadan kalma bir alışkanlık
+fitness|E influencer'larının|M=influencer+larının yarısı photoshop|N kullanıyor
+koşu bandında yarım saat yürüdüm, bugünlük bu kadar
+squat|E yaparken dizlerim çatırdıyor, bir sorun var galiba
+sabah aç karnına kahve içmek bana iyi gelmiyor
+yemeksepeti'nden|N sipariş verdim, kurye yarım saat kapıda bekledi çünkü zil bozuk
+bu tarifin original'i|M=original+i çok daha basitmiş, ben abartmışım
+bodybuilding|E forumlarında herkes birbirine bağırıyor
+haftada üç gün antrenman yapınca uykum düzene girdi
+smoothie|E bowl'a|M=bowl+a üç yüz lira vermek bana mantıklı gelmiyor
+pt|E derslerine başladığımdan beri formum çok değişti
+anneannemin dolmasını hiçbir restoran yapamaz
+diyet kola içip yanında hamburger yemek benim tarzım
+workout|E playlist'im|M=playlist+im olmadan spor yapamıyorum
+# --- travel ---
+berlin'e|N gittiğimde herkes ingilizce|N konuşuyordu, almanca|N bilmeme gerek kalmadı
+uçak delay'li|M=delay+li olduğu için havalimanında altı saat bekledim
+airbnb'den|N tuttuğumuz ev fotoğraflardakinden çok daha küçüktü
+kapadokya'da|N balon turu pahalı ama kesinlikle değer
+bu tatil << budget friendly >> olacaktı ama kredi kartı başka şeyler söylüyor
+pasaport kuyruğunda iki saat bekledikten sonra check-in|E kapanmıştı
+londra'da|N metro|E çok pahalı, her yere yürüdük
+gece yarısı otele vardığımızda resepsiyonda kimse yoktu
+backpacking|E yaparken her şeyi tek çantaya sığdırmayı öğrendim
+roma'da|N bir garson bana bella|O deyip fazla hesap getirdi
+vize randevusu almak için üç ay beklemek zorunda kaldım
+sabah gün doğumunu izlemek için dağa çıktık, buz gibiydi
+hostel'de|M=hostel+de kalınca bir sürü farklı insanla tanışıyorsun
+amsterdam'da|N bisikletlerden kaçmak trafikten kaçmaktan daha zor
+booking'den|N rezervasyon yaptım ama otel beni kaydetmemiş
+yurt dışına çıkınca en çok annemin yemeklerini özlüyorum
+bu şehirde << hidden gems >> diye gösterilen her yer turist dolu
+uçakta yanımdaki bebek on saat boyunca ağladı
+roadtrip|E yaparken yolda bulduğumuz köy kahvesi hayatımın en iyisiydi
+paris'te|N kruvasan yemek için sıraya girdik, değdi
+otelde wifi|E o kadar yavaştı ki mesaj bile gitmiyordu
+tatil dönüşü << post vacation blues >> beni fena yakaladı
+istanbul'dan|N izmir'e|N otobüsle gitmek uçaktan daha keyifli
+ilk solo|E seyahatimi japonya'ya|N yaptım ve hiç pişman değilim
+tokyo'da|N herkes bana sumimasen|O deyip özür diliyordu
+# --- music ---
+spotify|N wrapped'ım|M=wrapped+ım beni rezil etti, en çok dinlediğim şarkı bir çocuk şarkısı
+bu albümün ilk single'ı|M=single+ı çıktığından beri dinliyorum
+konser bileti satışa çıktı ve on dakikada sold|E out|E oldu
+playlist'imi|M=playlist+imi arkadaşlarla paylaştım, herkes beni yargıladı
+bu şarkının remix'i|M=remix+i orijinalinden daha iyi bence
+gece yarısı lo-fi|E dinleyerek ders çalışmak bir klasik
+festivalde en önde durmak için sabahtan sıraya girdik
+gitar çalmayı youtube'dan|N öğrendim, hala sadece üç akor biliyorum
+rap|E dinleyenleri yargılayanlar şarkı sözlerini hiç okumamış
+bu grubun canlı performance'ı|M=performance+ı stüdyo kayıtlarından daha güçlü
+kulaklığımı unuttuğum gün metro yolculuğu bitmek bilmedi
+vinyl|E toplamaya başladım, cüzdanım bunu sevmedi
+şarkının chorus'u|M=chorus+u kafama takıldı, üç gündür kurtulamıyorum
+annem en sevdiğim şarkıyı dinleyip bu ne gürültü dedi
+eski türkçe|N şarkıları cover'layan|M=cover+layan gençler çok iyi iş çıkarıyor
+podcast'lere|M=podcast+lere geçtiğimden beri müzik dinlemeyi bıraktım
+bu sanatçı her albümde tarzını değiştiriyor, bazen tutuyor bazen tutmuyor
+karaoke|E gecesinde mikrofonu bırakmayan biri hep olur
+jazz|E barda geçirdiğim akşam bu yılın en güzel akşamıydı
+müzik zevkimi kimseyle paylaşmıyorum çünkü herkes << cringe >> diyor
+shuffle'da|M=shuffle+da çıkan her şarkı bir anı hatırlatıyor
+konserde telefonla video çeken adam önümü kapattı
+gece sürüşü için hazırladığım playlist|E bir harika
+bu şarkıyı ilk dinlediğimde lisedeydim, şimdi nostalji oldu
+indie|E müzik dinlediğimi söyleyince herkes gözlerini deviriyor
+# --- money / crypto / tech ---
+bitcoin|N düştüğünde aldım sandım, meğer daha da düşecekmiş
+kripto paraya yatırım yapan arkadaşım her gün << this is the bottom >> diyip duruyor
+yeni iphone'u|N almak için taksit yaptım, hala pişman değilim
+şirket server'ları|M=server+ları çökünce bütün gece uyumadık
+kodda bir bug|E bulduk ama düzeltince üç tane daha çıktı
+bu uygulamanın son update'i|M=update+i telefonu yavaşlattı
+github'a|N proje yükleyince kendimi gerçek bir developer|E gibi hissediyorum
+chatgpt'ye|N ödev yaptıran öğrenciler hocayı da şaşırtmaya başladı
+yeni laptop'umun|M=laptop+umun bataryası iki saat dayanıyor, rezalet
+startup'ımız|M=startup+ımız ikinci yatırım turunu aldı, herkes çok mutlu
+backend|E kodu o kadar karışık ki kimse dokunmaya cesaret edemiyor
+python|N öğrenmeye başladım, ilk hafta sadece hello|E world|E yazdım
+bu telefonun kamerası iyi ama yazılımı berbat
+bulut depolamaya para vermek istemiyorum ama fotoğraflarım sığmıyor
+password'umu|M=password+umu unuttum ve hesabım kilitlendi
+şifre yöneticisi kullanmaya başladım, hayatım kolaylaştı
+deploy'dan|M=deploy+dan sonra site|T yarım saat çalışmadı
+<< it works on my machine >> cümlesi yazılımcıların en büyük yalanı
+evdeki wifi|E modemini resetlemekten|M=reset+lemekten yoruldum
+borsada kazanan herkes konuşuyor, kaybedenler susuyor
+akıllı saatim her sabah bana uykumun kötü olduğunu söylüyor
+bu hafta iki tane code|E review|E yaptım, ikisinde de aynı hatalar vardı
+kredi kartı ekstresi gelince alışveriş yapmayı bırakıyorum, bir hafta sonra tekrar başlıyorum
+yeni bir framework|E çıkınca herkes eskisini bırakıyor, bitmeyen bir döngü
+fintech|E uygulamaları bankalardan daha hızlı ama güvenmek zor
+# --- daily life / relationships ---
+sevgilim bana << we need to talk >> mesajı attı, kalbim durdu
+ilk date'imizde|M=date+imizde ikimiz de telefonla oynadık
+tinder'da|N herkes kendini << adventure seeker >> olarak tanıtıyor
+arkadaşım beni ghost'ladı|M=ghost+ladı, üç gündür cevap vermiyor
+red|E flag|E dediğin şey bazen sadece farklı bir karakter
+annemle babam whatsapp'ta|N bana aynı videoyu ayrı ayrı gönderiyor
+sabah alarmı beşinci kez snooze'ladım|M=snooze+ladım, işe geç kaldım
+ev arkadaşım bulaşıkları yıkamıyor ve ben artık pasif agresif notlar bırakıyorum
+bu hafta sonu hiçbir şey yapmadım ve buna << self care >> diyorum
+komşumuz her gece saat ikide matkap kullanıyor
+kedim sabah dörtte yüzüme oturuyor, alarm saatine gerek yok
+arkadaş grubumuzda herkes evlendi, bir ben kaldım
+doğum günümü unutan arkadaşım ertesi gün << sorry >> yazıp geçti
+bu ay kiralar yine arttı, maaş aynı yerde sayıyor
+pazar akşamları gelen o bunalım hissine << sunday scaries >> diyorlarmış
+eski bir arkadaşımla sokakta karşılaştık ve beş dakika << awkward >> bir sessizlik oldu
+babam yeni telefonunda emojileri keşfetti, her mesaja kalp atıyor
+sevgilimle ilişkimizi instagram'da|N << soft launch >> yaptık, herkes merak etti
+dün gece üçe kadar uyumadım, sabah zombi gibiydim
+yeni taşındığımız evde internet|T yok, bir hafta mobil veriyle yaşadık
+bu kış kombiyi açmamak için üç kat giyiniyorum
+arkadaşlarla grup chat'inde|M=chat+inde planlanan hiçbir şey gerçekleşmiyor
+<< long distance >> ilişki zor ama imkansız değil
+markette sıra beklerken önümdeki teyze bütün hayat hikayesini anlattı
+kuzenimin düğününde dj|E bütün gece aynı şarkıyı çaldı

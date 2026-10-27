@@ -1,0 +1,211 @@
+# batch_09 — mixed density. Written by Claude (Anthropic); style seeded by TurEngMix train split.
+# --- food delivery courier view ---
+getir|N kuryesi olarak çalışıyorum, app|E bana her siparişte bir rating|E veriyor, beş yıldız almak için koşuyorum
+yemeksepeti|N siparişini teslim ederken müşteri kapıda << keep the change >> dedi, bahşiş elli kuruştu
+trendyol|N go'da|N peak|E saatlerde sipariş o kadar çok ki motorla trafikte slalom|E yapıyoruz
+kuryelerin route'ını|M=route+ını algoritma belirliyor ama algoritma tek yönlü sokakları bilmiyor
+yağmurlu günlerde surge|E pricing|E oluyor ama kuryeye giden pay değişmiyor
+müşteri adrese pin|E bırakmış ama pin|E denizin ortasında, kadıköy'de|N yarım saat dolaştım
+gece shift'inde|M=shift+inde gelen siparişlerin çoğu sigara ve energy|E drink|E
+müşteri yorumlarında << courier was rude >> yazmışlar, ben sadece merdivenleri koşarak çıkmıştım
+uygulamanın tracking|E haritası müşteriye benim hızımı gösteriyor, durunca hemen mesaj geliyor
+kurye arkadaşlarla bir whatsapp|N grubumuz var, hangi restoranın paketleri geciktirdiğini orada paylaşıyoruz
+# --- concerts abroad ---
+londra'da|N arctic|N monkeys|N konserine gittik, o2|N arena'da|N ses sistemi inanılmazdı
+berlin'de|N berghain'e|N girmek için iki saat sıra bekledik, bouncer|E bize bakıp sadece başını salladı
+paris'te|N bir jazz|E club'ında|M=club+ında tanıştığım müzisyen beni sahneye çağırdı, sadece alkış tuttum
+amsterdam|N dance|N event'te|M=event+te dj'ler|M=dj+ler on iki saat boyunca durmadan çaldı
+glastonbury'ye|N bilet bulmak için registration|E yaptım, satış günü queue|E iki saat sürdü ve bilet bitti
+konserde yanımdaki japon|T hayranlar her şarkıdan sonra << arigato|O >> diye bağırıyordu
+viyana'daki|N opera|T binasında standing|E bilet aldık, üç saat ayakta durmak beklediğimden zordu
+barcelona'daki|N primavera|N festivalinde gün batımında sahneye çıkan grup bütün kalabalığı ağlattı
+new|N york'ta|N broadway|N müzikalinin rush|E ticket'ı|M=ticket+ı için sabah altıda kuyruğa girdik
+seul'de|N bir k-pop|E konserinde fan|E chant'leri|M=chant+leri ezbere bilen tek türk|N bendim
+# end chunk
+# --- startup life 2 ---
+ofisteki ping-pong|E masası sadece investor|E ziyaretlerinde kullanılıyor, diğer günler üstüne laptop'lar|M=laptop+lar konuyor
+standup'ta|M=standup+ta herkes << no blockers >> diyor ama sprint|E sonunda hiçbir task|E bitmemiş oluyor
+roadmap'imizi|M=roadmap+imizi her çeyrek baştan yazıyoruz, ceo|E her yatırımcı toplantısından sonra yeni bir feature|E istiyor
+user|E research|E için yaptığımız interview'larda|M=interview+larda herkes ürünü sevdiğini söyledi, kimse satın almadı
+şirketin slack'inde|N random|E channel'ı|M=channel+ı iş konuşulan kanallardan daha aktif
+product|E manager'ımız|M=manager+ımız her toplantıda << what problem are we solving >> diye soruyor, cevap hiç belli değil
+bir yatırımcı demo'muzda|M=demo+muzda << can it do ai >> diye sordu, ertesi gün pitch'imize|M=pitch+imize ai|E ekledik
+şirketin first|E hire'ı|M=hire+ı ben oldum, şimdi otuz kişiyiz ve hala onboarding|E dokümanı yok
+founder'lar|M=founder+lar her cuma all-hands'te|M=all-hands+te motivasyon konuşması yapıyor, maaşlar yine geç yattı
+techcrunch'ta|N şirketimizin haberi çıkınca bütün ekip linkedin'de|N paylaştı, aynı gün site|T çöktü
+# --- parenting teens ---
+ergen oğlum bana << you wouldn't understand >> diyor, ben de onun yaşındayken aynısını söylemiştim
+kızım tiktok'ta|N viral|E olan dance|E challenge'ını|M=challenge+ını bütün aileye zorla yaptırdı
+oğlumun gaming|E setup'ı|M=setup+ı benim işteki bilgisayarımdan daha pahalı, harçlığını biriktirmiş
+çocuğun screen|E time|E raporunda günde sekiz saat youtube|N izlediğini gördük, wifi'ı|M=wifi+ı akşam dokuzda kapatıyoruz
+kızım instagram'da|N private|E hesap açmış, beni takip etmesine izin vermiyor
+oğlum discord'da|N arkadaşlarıyla konuşurken o kadar çok ingilizce|N kelime kullanıyor ki türkçe|N cümle kuramıyor
+ergen çocuğa telefonu bırak deyince << five more minutes >> diyor, beş dakika iki saat oluyor
+çocuğumun okulundaki parent|E whatsapp|N grubu benden daha aktif bir sosyal hayata sahip
+kızım bana yeni bir slang|E kelime öğretti, kullandığımda << cringe >> deyip odadan çıktı
+oğlum ilk part-time|E işine başladı, ilk maaşıyla bize pizza|E ısmarladı, gururlandım
+# end chunk
+# --- gaming 6: streaming / communities ---
+twitch'te|N bir streamer'ın|M=streamer+ın raid'i|M=raid+i gelince chat'im|M=chat+im bir anda patladı, beş yüz kişi geldi
+yayında donate|E eden biri text-to-speech|E ile saçma bir şarkı okuttu, bütün stream|E güldük
+kick'e|N geçen yayıncılar daha çok para kazanıyormuş, ama izleyici kitlesi twitch'teki|N kadar sadık değil
+oyun discord'unda|N mod'luk|M=mod+luk yapıyorum, her gün en az on kişiyi mute'luyorum|M=mute+luyorum
+streamer|E arkadaşım yayında face|E cam|E açınca izleyici sayısı iki katına çıktı
+speedrun|E topluluğunda bir glitch|E bulununca bütün world|E record'lar|M=record+lar bir haftada değişiyor
+reddit'teki|N oyun subreddit'inde|M=subreddit+inde developer'lar|M=developer+lar haftalık patch|E notes|E paylaşıyor
+yayıncının clip'i|M=clip+i tiktok'ta|N viral|E olunca kanalına on bin yeni follower|E geldi
+oyunun beta|E testine davet edildim ama nda|E imzaladığım için kimseye anlatamıyorum
+yayında birinci olduğum turnuvanın ödülü bir mouse|E pad|E oldu, yine de çok mutlu oldum
+# --- university admin / dorm 2 ---
+yurdun wifi'ı|M=wifi+ı akşam on ikide kesiliyor, bütün assignment'ları|M=assignment+ları gece yarısından önce teslim etmek zorundayız
+öğrenci işlerine transcript|E almaya gittim, sistem down|E dediler ve yarın gel dediler
+kampüs kartımı kaybedince kafeteryaya giremedim, öğrenci işleri yeni kart için form|T doldurttu
+yurtta oda arkadaşım her gece tiktok|N izlerken kahkaha atıyor, earplug|E almak zorunda kaldım
+üniversitenin mobil app'i|M=app+i ders programını yanlış gösteriyor, ilk hafta yanlış sınıfa gittim
+burs başvurusu için motivation|E letter|E yazdım, kabul mailini spam|E klasöründe buldum
+öğrenci kulübü için instagram|N hesabını yönetiyorum, etkinlik post'larını|M=post+larını canva'da|N hazırlıyorum
+kütüphanenin study|E room'larını|M=room+larını online|E rezerve etmek için sabah yedide sisteme giriyorum
+# --- fashion 3 / beauty ---
+sephora'da|N skincare|E rutinim için serum|T aldım, satış danışmanı bana dokuz adımlık bir routine|E anlattı
+makeup|E tutorial'larında|M=tutorial+larında herkes contour|E yaparken çok kolay görünüyor, ben yapınca kirli gibi duruyor
+saç rengimi pastel|E pembeye boyattım, iki hafta sonra fade|E olup somon rengine döndü
+nail|E art|E yaptırmak için instagram'da|N randevu aldım, tırnaklarım çok güzel oldu ama klavyede yazamıyorum
+sunscreen|E kullanmadan dışarı çıkmayın diyen dermatolog tiktok'çusu|N haklıymış, yüzüm yandı
+gratis'te|N indirim varken bütün cilt bakım ürünlerini stock'ladım|M=stock+ladım, banyoda yer kalmadı
+lipstick|E rengimi seçmek için yarım saat mağazada swatch|E yaptım, sonunda yine aynı rengi aldım
+korean|E skincare|E furyasında on adımlık rutine başladım, sabahları işe geç kalıyorum
+erkek arkadaşım benim face|E mask'imi|M=mask+imi deneyince kendi rutinini oluşturdu, şimdi benden çok ürünü var
+hair|E stylist'im|M=stylist+im bana << trust me >> deyip saçımı kısa kesti, iki ay ağladım
+# --- pets 2 ---
+kedimin instagram|N hesabı brand|E deal'i|M=deal+i aldı, bir mama markası bedava ürün gönderiyor
+köpeğimi dog|E sitter'a|M=sitter+a bırakıp tatile gittim, sitter|E bana her saat video|T attı
+kedim cat|E tree'nin|M=tree+nin en üstünde uyuyor ve ben her seferinde düşecek diye korkuyorum
+veterinerin app'inden|M=app+inden aşı randevusu aldım, reminder|E notification'ı|M=notification+ı bir gün önce geldi
+köpeğim agility|E kursunda tüneli geçmeyi reddetti, eğitmen << every dog is different >> dedi
+kedim zoom|N toplantısında klavyeye bastı ve bütün ekibi mute'ladı|M=mute+ladı, en verimli toplantımızdı
+pet|E friendly|E kafelerde köpeğimle oturmak çok keyifli, garson ona su kabı getirdi
+köpeğim için aldığım smart|E collar|E nerede olduğunu gösteriyor, çoğunlukla kanepede oluyor
+kedimin tüyü yüzünden dyson|N süpürgeyi haftada üç kez boşaltıyorum
+akvaryum için aldığım led|E lamba balıkları stresli yaptı, petshop'taki|M=petshop+taki adam kapatmamı söyledi
+# end chunk
+# --- weekend plans / social ---
+cumartesi brunch'ında|M=brunch+ında herkes telefonla menünün fotoğrafını çekti, yemekler soğudu
+arkadaşlarla game|E night|E yaptık, {{ codenames'te }} kaybeden takım bulaşıkları yıkadı
+pazar günü netflix|N and|E chill|E planım vardı ama annem beni pazara götürdü
+hafta sonu escape|E room'a|M=room+a gittik, son bulmacayı çözemedik ve görevli bize hint|E verdi
+kadıköy'deki|N bit|N pazarında vintage|E kameralar buldum, satıcı bana << very good price >> dedi
+arkadaş grubumuzun plan'ları|M=plan+ları whatsapp|N grubunda konuşuluyor ama hiçbiri gerçekleşmiyor
+cuma akşamı happy|E hour'dan|M=hour+dan sonra karaoke'ye|M=karaoke+ye geçtik, sesim pazartesiye kadar gelmedi
+pazar sabahı belgrad|N ormanında jogging|E yaptık, dönüşte simit ve çay ile recovery|E yaptık
+hafta sonu bir pottery|E workshop'una|M=workshop+una katıldım, yaptığım kase yamuk ama çok seviyorum
+arkadaşımın birthday|E dinner'ında|M=dinner+ında hesap bölüşürken herkes calculator|E açtı
+cumartesi akşamı evde movie|E marathon|E yaptık, {{ lord of the rings }} üçlemesini bir gecede bitirdik
+pazar günü ikea'da|N gezerken hot|E dog|E yemek bizim ailenin weekend|E ritüeli oldu
+arkadaşlarla picnic'e|M=picnic+e gittik, bluetooth|E hoparlörü unuttuk ve birimiz bütün gün şarkı söyledi
+cumartesi sabah pilates|E dersine gidip sonra brunch|E yapmak, istanbul'un|N beyaz yaka hafta sonu klasiği
+# --- daily commute thoughts ---
+metroda herkes aynı anda telefonuna bakarken bir black|E mirror|E bölümünün içindeymiş gibi hissediyorum
+otobüste podcast|E dinlerken durağı kaçırdım, google|N maps|N bana on beş dakikalık bir yürüyüş verdi
+vapurda martılara simit atan turistleri izlerken istanbul'un|N ne kadar cinematic|E bir şehir olduğunu düşündüm
+sabah trafikte kalınca audiobook'umun|M=audiobook+umun bir bölümünü bitirdim, trafiğin tek iyi yanı bu
+işe giderken yol üstündeki kahveciden flat|E white|E almak benim için bir ritual|E
+toplu taşımada kulaklığım şarjsız kalınca etraftaki herkesin konuşmalarını dinlemek zorunda kaldım
+bisikletle işe gidince ilk yarım saat ofiste ter içinde oturuyorum, shower|E olan ofis lazım
+metrobüste yanımdaki adam bütün yol boyunca speaker'dan|M=speaker+dan video|T izledi
+# end chunk
+# --- job / office 3 ---
+yeni işimde ilk gün laptop|E setup'ı|M=setup+ı bütün günü aldı, it|E ekibi şifreleri mail'le|M=mail+le gönderdi
+ofisteki hot|E desk|E sistemi yüzünden her sabah boş masa bulmak için erken geliyorum
+yöneticim bana << let's grab coffee >> deyince ya terfi ya da kötü haber geliyor
+quarterly|E review'da|M=review+da hedeflerimin yarısını tutturdum, manager'ım|M=manager+ım bunu << solid >> olarak değerlendirdi
+şirketin intranet'inde|M=intranet+inde duyurular o kadar çok ki önemli olanları kimse görmüyor
+yeni gelen müdür open|E door|E policy|E dedi ama kapısı her zaman kapalı
+çalıştığım yerde dress|E code|E business|E casual|E, ama kimse ne demek olduğunu bilmiyor
+ofis partisinde secret|E santa|E çekilişinde müdürüme hediye almak zorunda kaldım, budget'ı|M=budget+ı aşmamak için kupa aldım
+iş arkadaşım her mail'inin|M=mail+inin sonuna << best regards >> yazıyor, en kısa mesajında bile
+outlook|N away|E mesajımı açmayı unutunca tatilde iki yüz mail cevaplamak zorunda kaldım
+# --- relationships 3 / friendship ---
+en yakın arkadaşım yurt dışına taşınınca time|E zone|E farkı yüzünden konuşmalarımız voice|E note|E değişimine döndü
+arkadaş grubumuzun yıllık reunion'ında|M=reunion+ında herkes kariyerinden bahsetti, ben kedimden
+yeni şehirde arkadaş edinmek için bumble|N bff'yi|N denedim, ilk buluşma çok awkward|E geçti
+arkadaşım her konuşmamızda kendi problem'lerini|M=problem+lerini anlatıyor, bir kere bile bana nasılsın demedi
+çocukluk arkadaşımla instagram'da|N yeniden bağlantı kurduk, sanki hiç ayrılmamışız gibi
+arkadaşımın düğününde best|E man|E olmak zorunda kaldım, speech'imi|M=speech+imi üç kez prova ettim
+uzun zamandır görüşmediğim arkadaşım bana << we should catch up >> yazdı, bunu her yıl yazıyor
+arkadaş grubunda birinin breakup'ı|M=breakup+ı yüzünden ikiye bölündük, hangi tarafta olacağımızı seçmek zorunda kaldık
+yeni tanıştığım kişi ilk buluşmada mbti|N tipimi sordu, ben bilmiyorum deyince şaşırdı
+arkadaşlarla road|E trip'e|M=trip+e çıktık, playlist|E kavgası yüzünden ilk saatte radyoyu açtık
+# end chunk
+# --- names-heavy lines (people, places, brands) ---
+ahmet|N abinin dükkanında aldığım iphone|N kılıfı amazon'dakinden|N daha sağlam çıktı, quality|E gerçekten iyi
+zeynep'le|N moda'da|N buluşup starbucks'tan|N kahve aldık, sonra sahilde sunset|E izledik
+mert|N bana {{ red dead redemption'ı }} önerdi, oyun o kadar uzun ki hala ilk chapter'dayım|M=chapter+dayım
+elif'in|N düğününde dj|E olarak çalan kuzeni bütün gece tarkan|N ve dua|N lipa|N karışık çaldı
+can'la|N ankara'dan|N izmir'e|N road|E trip|E yaparken yol üstünde afyon'da|N sucuklu yumurta yedik
+selin|N netflix|N hesabının şifresini bütün aileyle paylaşıyor, profile'lardan|M=profile+lardan biri bende
+burak|N fenerbahçe|N maçı için kadıköy'e|N gidince metroda sarı lacivert formalı binlerce kişi vardı
+deniz'in|N doğum gününde {{ the weeknd'in }} şarkısını çalınca herkes dans etmeye başladı
+ayşe|N teyze whatsapp'ta|N bana günaydın gif'leri|M=gif+leri gönderiyor, her biri ayrı parlak
+emre|N yeni macbook|N aldı ama hala excel|N bilmiyor, sadece youtube|N izliyor
+ece|N londra'da|N master|E yapıyor, her hafta bana tesco'dan|N aldığı meal|E deal'lerinin|M=deal+lerinin fotoğrafını atıyor
+kerem|N bey|T toplantıda chatgpt'yi|N kullanmayı yasakladı, sonra kendisi sunumu chatgpt'yle|N hazırladı
+murat|N galatasaray|N kombinesi aldı, ama sezonun yarısında rams|N park'a|N gidemedi
+cem|N bilgisayarına linux|N kurdu ve bir hafta boyunca herkese anlattı
+gizem|N spotify|N premium|E aboneliğini iptal edip youtube|N music'e|N geçti, sonra pişman oldu
+# end chunk
+# --- tech troubleshooting 2 ---
+windows|N update'i|M=update+i gece kendi kendine yüklenmiş, sabah bütün açık dosyalarım kaybolmuştu
+mac'imin|N fan'ı|M=fan+ı chrome|N açınca uçak gibi ses çıkarıyor, safari'ye|N geçmeyi düşünüyorum
+telefonum boot|E loop'a|M=loop+a girdi, factory|E reset|E yapmak zorunda kaldım ve fotoğraflarımın yarısı gitti
+bluetooth|E kulaklığım sadece sol taraftan ses veriyor, pair'lemeyi|M=pair+lemeyi on kez denedim
+icloud|N storage'ım|M=storage+ım dolu diye her gün bildirim geliyor, ödemeye karşı direniyorum
+yazıcı yine paper|E jam|E hatası veriyor ama içinde kağıt yok, hp|N bunu bilerek yapıyor
+wifi|E şifresini değiştirdim ve evdeki bütün smart|E cihazları yeniden bağlamak bir günümü aldı
+laptop'un|M=laptop+un ekranında dead|E pixel|E var, warranty|E bitmeden bir gün önce fark ettim
+excel|N dosyası crash'leyince|M=crash+leyince autosave|E açık değildi, üç saatlik çalışma gitti
+# --- third-language words (OTHER) ---
+italyan restoranında şef bize << prego|O >> deyip tiramisu|E getirdi, dessert|E menüsünde en iyisi buydu
+ispanyol arkadaşım her şeye << vamos|O >> diyor, maça giderken metroda da aynı enerjiyle bağırdı
+almanca|N öğrendiğim ilk kelime schadenfreude|O oldu, rakip takım kaybedince instagram|N story'mde|M=story+mde kullandım
+japon|T arkadaşım sushi|A yerken << oishii|O >> deyip durdu, ben de taklit ettim
+fransız|T kafede garson bana << merci|O >> deyince ben de << thank you >> dedim, utandım
+korece|N dizide herkes << saranghae|O >> diyor, kız kardeşim bunu bana her gün söylüyor
+rusça|N bilen kuzenim otelde resepsiyona << spasibo|O >> dedi, adam türk|N çıktı
+portekiz|N gezisinde her öğün bacalhau|O yedik, eve dönünce balık görmek istemedim
+hollandalı ev arkadaşım her sabah << goedemorgen|O >> diyor, ben de günaydın diyorum
+yunan|T restoranında garson << kalimera|O >> deyip menüyü verdi, menü zaten türkçe|N yazılmıştı
+# --- coding interview 2 ---
+leetcode'da|N medium|E soruları çözemiyorum ama mülakatta bana hard|E soru sordular
+system|E design|E mülakatında url|E shortener|E tasarlamamı istediler, cache'i|M=cache+i unuttum
+mülakatçı kodumu çalıştırınca edge|E case'lerde|M=case+lerde patladı, << interesting approach >> dedi
+behavioral|E mülakatta bir framework|E ile cevap vermem gerekiyormuş, ben sadece hikaye anlattım
+amazon'un|N mülakat sürecinde dört round|E vardı, son round'da|M=round+da tükenmiştim
+whiteboard'da|M=whiteboard+da kod yazmak bilgisayarda yazmaktan bin kat zor, syntax'ı|M=syntax+ı unutuyorum
+mülakattan sonra recruiter|E bana << we'll get back to you >> dedi, iki aydır bekliyorum
+pair|E programming|E mülakatında mülakatçı benden daha çok konuştu, sonunda geçtim
+take-home|E projemi github'a|N yükledim, documentation'ı|M=documentation+ı hazırlamak kodun kendisinden uzun sürdü
+teklif aldıktan sonra counter|E offer|E yaptım, şirket kabul etti ve bir hafta mutluluktan uçtum
+# end chunk
+# --- movie night / cinema 3 ---
+sinemada trailer'lar|M=trailer+lar yirmi dakika sürdü, film başladığında popcorn|E bitmişti
+cinemaximum'da|N 4dx|E deneyimi yaşadım, koltuk o kadar sallandı ki filmin hikayesini unuttum
+{{ oppenheimer'ı }} imax'te|M=imax+te izledim, patlama sahnesinde bütün salon titredi
+film festivalinde premiere|E gecesine katıldım, yönetmen q&a|E kısmında sorulara çok kısa cevap verdi
+evde home|E theater|E sistemi kurduk ama komşular yüzünden sesi hiç açamıyoruz
+letterboxd'da|N her filme puan veriyorum, review'larım|M=review+larım sadece iki kişi tarafından okunuyor
+korku filminde jumpscare|E gelince yanımdaki yabancının koluna yapıştım, ikimiz de utandık
+eski filmlerin remake'leri|M=remake+leri hep hayal kırıklığı, orijinali kimse geçemiyor
+sinema salonunda telefonunun ışığını açan kişiye herkes aynı anda << shh >> dedi
+oscar|N adaylarını izlemek için mubi|N aboneliği aldım, şubat ayında her gece bir film izledim
+# --- language / translation ---
+google|N translate|N türkçe|N cümleleri ingilizceye|N çevirince anlam tamamen değişiyor
+deepl'ın|N çevirileri daha iyi ama deyimleri yine de literal|E çeviriyor
+altyazı çevirmeni olarak çalışan arkadaşım netflix|N projelerinde timing|E ile uğraşmaktan şikayet ediyor
+ingilizce|N bir kelimenin türkçe|N karşılığını bulamayınca araya english|E kelime sıkıştırıyorum, plaza|T diline dönüşüyor
+çeviri yaparken chatgpt'ye|N danıştım, cevap çok resmi çıktı ve bütün metni yeniden yazdım
+yabancı arkadaşıma türkçe|N deyimleri anlatmaya çalışırken << it's raining cats and dogs >> gibi örnekler veriyorum
+tercüme bürosunda proofreading|E işi yapıyorum, en çok hata tarih formatlarında oluyor
+duolingo'nun|N türkçe|N kursunu deneyen amerikalı|T arkadaşım ilk derste ünlü uyumuna şaşırdı
+iş mailini ingilizce|N yazdım, grammarly|N bütün cümlelerimi değiştirdi
+dizi altyazısında << break a leg >> deyimi bacağını kır diye çevrilmiş, güldük
+# end chunk

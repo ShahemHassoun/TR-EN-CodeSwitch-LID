@@ -22,7 +22,7 @@ when writing data, so the final test stays fair.
 | `NE` | Any token that is part of a name (person, brand, place, title, organisation) | 6.9% |
 | `MIXED` | One token whose stem and suffix come from different languages | 1.3% |
 | `AMBIGUOUS` | Could belong to either language, and the sentence does not decide | 0.4% |
-| `OTHER` | A third language (German, French, Spanish…) | <0.1% |
+| `OTHER` | A third language (e.g. Japanese `seinen`) | <0.1% |
 
 `MIXED` is the rare, hard class and the reason this project exists. In the published
 results, fine-tuned BERTurk reaches only **0.13 F1** on it.
@@ -115,7 +115,7 @@ nothing to argue about later.
 | `türkçe`, `ingilizce` | NE | language names (TurEngMix majority) |
 | `xbox 360`, `windows 10` | NE | number is part of a name |
 | `15dk`, `%50'sini`, `2026'da` | TR | number outside a name, in Turkish |
-| `tv'nin` | TR | follows TurEngMix |
+| `tv'nin` | TR | follows TurEngMix (seen once) |
 | `site`, `internet` in a Turkish sentence | TR | nativised |
 | keyboard mash (`kasdjkajh`) | — | TurEngMix is inconsistent (OTHER once, AMBIGUOUS once). Do not put these in generated data. |
 
@@ -123,13 +123,14 @@ nothing to argue about later.
 
 ## 5. Tokenization
 
-We use **TurEngMix's own tokenizer** (`tokenize_text`, MIT licence) so that tokens line
-up exactly with the benchmark. In short:
+**Split on spaces. Nothing else.** One token = one space-separated word.
 
-1. Split on whitespace.
-2. Strip trailing punctuation from every token.
-3. Keep apostrophe suffixes attached: `download'ladım` is **one** token.
-4. Keep `@handles`, `#hashtags`, URLs and emoji whole.
+- `download'ladım` is **one** token. The apostrophe never splits.
+- Punctuation is never split off. `refund,` stays one token.
+
+*Why not TurEngMix's own tokenizer script?* We tested it: it splits punctuation into
+separate tokens (`refund,` → `refund` `,`), but their released benchmark contains no
+such tokens. Splitting on spaces is what reproduces the benchmark exactly.
 
 ---
 

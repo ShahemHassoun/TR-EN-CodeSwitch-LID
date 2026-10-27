@@ -1,0 +1,261 @@
+# batch_02 — longer multi-clause entries. Written by Claude (Anthropic); style seeded by TurEngMix train split.
+# --- software / dev culture ---
+junior|E developer|E olarak girdiğim ilk işte bana legacy|E bir proje verdiler, kodu yazan adam beş yıl önce ayrılmış ve hiçbir yere documentation|E bırakmamış
+pull|E request'imi|M=request+imi açtım, senior|E arkadaş bütün değişken isimlerini beğenmedi ama asıl bug'ı|M=bug+ı görmedi bile
+cuma akşamı production'a|M=production+a deploy|E yapmayın diye bir kural var ve bunu bize unutturan tek şey müşterinin acelesi
+stack|E overflow'da|M=overflow+da sorduğum soruya ilk cevap << this question has already been answered >> oldu ama linkteki|M=link+teki cevap tamamen başka bir konuydu
+yeni projede microservice|E mimarisine geçtik, artık tek bir hata yerine on iki farklı serviste on iki farklı hata var
+code|E review'da|M=review+da arkadaşım sadece << lgtm >> yazıp onaylıyor, sonra canlıda patlayınca herkes birbirine bakıyor
+vscode'a|N yeni bir extension|E kurdum, editör o kadar yavaşladı ki tekrar notepad'e|N dönmeyi düşündüm
+şirketimizde herkes agile|E diyor ama sprint|E planning|E toplantısı üç saat sürüyor ve sonunda kimse ne yapacağını bilmiyor
+frontend'ci|M=frontend+ci arkadaş butonun rengini on kez değiştirdi, backend'ciler|M=backend+ciler hala api|E dokümantasyonunu bekliyor
+git|N merge|E conflict'i|M=conflict+i çözmeye çalışırken kendi kodumu sildim, neyse ki commit'lemiştim|M=commit+lemiştim
+<< it's not a bug, it's a feature >> diyen müdürüme ne diyeceğimi bilemedim, çünkü haklı olabilir
+yeni başlayan stajyere docker|N kurdurmak bir haftamızı aldı, sonra laptop'unun|M=laptop+unun ram'i|M=ram+i yetmedi
+javascript|N bilmeyen kalmadı ama herkes farklı bir framework|E kullanıyor, react|N mı vue|N mu tartışması bitmiyor
+bu kodu ben mi yazdım diye git|N blame'e|M=blame+e baktım, evet ben yazmışım ve hiç hatırlamıyorum
+uzaktan çalışma başladığından beri kamerayı açmadan toplantıya giriyorum, kimse yüzümü hatırlamıyor bile
+test|E yazmayı herkes önemli buluyor ama deadline|E yaklaşınca ilk feda edilen şey yine testler oluyor
+teknik mülakatta bana linked|E list|E tersine çevirmeyi sordular, gerçek işte bunu hiç kullanmadım
+kod yazmak işin kolay kısmı, asıl zor olan toplantılarda neden bu kadar uzun sürdüğünü anlatmak
+open|E source|E bir projeye katkı yapmak istedim ama issue'ların|M=issue+ların hepsi çoktan alınmıştı
+staging|E ortamında her şey çalışıyordu, canlıya çıkınca bütün sayfalar beyaz ekran verdi
+yeni gelen cto|E her şeyi kubernetes'e|N taşıyalım dedi, bir ayda bütün ekip tükendi
+bu hafta üç kez on-call|E oldum ve üçünde de gece ikide telefon çaldı, birinde sadece disk dolmuştu
+sql|E sorgusunu optimize|E ettim, sayfa on saniyeden yarım saniyeye düştü ve kimse fark etmedi
+şirket hackathon'unda|M=hackathon+unda yaptığımız proje ödül aldı ama sonra kimse devam ettirmedi
+yazılımcı olmak için bootcamp'e|M=bootcamp+e gidenlerin çoğu ilk işi bulmakta zorlanıyor, piyasa çok değişti
+# --- football / sports ---
+galatasaray'ın|N son maçında hakem öyle bir penaltı verdi ki video hakem odasında bile şaşırmışlardır
+fenerbahçe|N taraftarı olarak bu sezon da şampiyonluk hayalim başka bahara kaldı, alıştık artık
+transfer döneminde her gün yeni bir isim konuşuluyor ama sonunda hep aynı yaşlı oyuncular geliyor
+{{ champions league }} gecelerinde arkadaşlarla toplanıp maç izlemek benim için bir gelenek oldu
+messi|N mi ronaldo|N mu tartışması bu ülkede hiçbir zaman bitmeyecek, iki tarafın da argümanları hazır
+milli takımın maçında stat o kadar doluydu ki merdivenlerde oturup izledik ama atmosfer harikaydı
+fantasy|E ligde kaptanımı yanlış seçtim, haftayı sondan ikinci bitirdim
+basketbol maçında son saniye üçlüğü girince bütün salon yerinden fırladı, hayatımın en güzel anlarından biri
+spor yorumcularının yarısı futbol oynamamış, diğer yarısı da maçı izlememiş gibi konuşuyor
+formula|N 1|N izlemeye {{ drive to survive'dan }} sonra başladım, artık her yarışı takip ediyorum
+halı saha maçında kaleci kimse olmak istemediği için hep ben geçiyorum, artık penaltı kurtarmayı öğrendim
+nba|N finallerini izlemek için gece üçte kalkıyorum, sabah işte zombi gibi dolaşıyorum
+bu teknik direktör gelince takımın oyun tarzı değişti, artık topa sahip olmak yerine kontra atak oynuyoruz
+video hakem sistemi geldiğinden beri gol sevinci yaşamak için iki dakika bekliyoruz, futbolun büyüsü kaçtı
+tenis|T izlemeyi sevmiyordum ama wimbledon|N finalinde beş set süren maçı nefesimi tutarak izledim
+koşu kulübüne katıldım, her pazar sabahı moda'da|N on kilometre koşuyoruz ve sonra kahvaltıya gidiyoruz
+maraton|T hazırlığı için interval|E antrenmanı yapıyorum ama dizlerim bu kadar yükü kaldırmıyor
+taraftar grubunun yaptığı koreografi o kadar güzeldi ki rakip takımın taraftarları bile alkışladı
+bu sezonun en iyi transferi bence sağ bek oldu, kimse beklemiyordu ama her maçta asist yapıyor
+e-spor|T turnuvasını izlemeye gittim, salon bir futbol maçından daha kalabalıktı
+voleybol milli takımımız bu yıl yine çok iyi oynadı, kızlarla gurur duyuyoruz
+derbi haftası şehirde trafik kilitleniyor, maçtan üç saat önce evden çıkmak gerekiyor
+bisiklet yarışını televizyondan izlemek sıkıcı ama yolda canlı görünce insan heyecanlanıyor
+dün akşamki maçta forvetimiz üç tane net pozisyon kaçırdı, sosyal medyada meme'leri|M=meme+leri hazırdı bile
+ufc|N maçlarını izlemeye başladım ama kan görünce hala gözlerimi kapatıyorum
+# --- cars / commute ---
+metrobüste sabah saat sekizde yer bulmak imkansız, insanlar birbirinin üstüne biniyor
+yeni aldığım arabanın lane|E assist|E özelliği beni şeritte tutuyor ama bazen direksiyonu benden alıyor gibi hissediyorum
+tesla|N almak istiyorum ama şarj istasyonları hala yeterli değil, uzun yolda korkarım
+navigasyon|T uygulaması beni kestirmeden götüreyim derken bir köy yoluna soktu, araba çamura saplandı
+otopark ücretleri o kadar arttı ki artık ofise toplu taşımayla gidiyorum, en azından kitap okuyabiliyorum
+scooter|E kiralayıp işe gitmek pratik ama yokuşlarda batarya hemen bitiyor
+araba servise girdi ve usta bana motor çok yorulmuş abi dedi, ne demek olduğunu hala bilmiyorum
+uber'den|N çağırdığım taksi yirmi dakika boyunca haritada aynı yerde durdu, sonra iptal etti
+ehliyet sınavında park etmeyi beceremedim, hoca bana acıyıp geçirdi galiba
+istanbul|N trafiğinde podcast|E dinlemek tek kurtuluşum, haftada beş podcast|E bitiriyorum
+benzin fiyatları yine zamlandı, artık depoyu doldurmak yerine yarıma kadar alıyorum
+cruise|E control'u|M=control+u kullanmayı öğrendikten sonra uzun yol çok daha az yorucu oldu
+vapurla karşıya geçmek bu şehrin en güzel yanı, martılara simit atarken bütün stres gidiyor
+yeni marmaray|N hattı açıldığından beri işe gidiş süresi yarıya indi
+araç muayenesinde sıra beklerken önümdeki adam bütün gün aracının neden geçemediğini anlattı
+ikinci el araba ilanlarında herkes hatasız boyasız yazıyor ama ekspertizde gerçek ortaya çıkıyor
+elektrikli bisiklet aldım, artık yokuşlardan korkmuyorum ve işe terlemeden varıyorum
+otobüs şoförü durağı kaçırdı, arkadan bağıran teyzeler sayesinde geri döndü
+araba kiralarken insurance|E paketini almadım, sonra küçük bir çizik için yüklü bir fatura geldi
+dashcam|E taktırdım, artık trafikte olan her şeyi kayıt altına alıyorum
+sabahları bisikletle işe gidince güne çok daha enerjik başlıyorum ama yağmurda bu mümkün değil
+taksiciler kısa mesafeye gitmek istemiyor, bu yüzden hep bitaksi'den|N çağırıyorum
+yolda giderken lastik patladı ve stepnenin de patlak olduğunu o an öğrendim
+oto yıkamada aracı köpükledikten sonra su kesildi, yarım saat bekledik
+tüm gün trafikte kalınca anladım ki bu şehirde zamanın çoğu yolda geçiyor
+# --- fashion / shopping ---
+black|E friday|E indirimlerinde aldığım montun fiyatı aslında indirimden önce de aynıymış, kandırıldım
+zara'da|N her şey çok güzel görünüyor ama eve gelince hiçbir kıyafet aynı durmuyor
+online|E alışverişte size|E tablosuna güvenmeyin, aldığım pantolon iki beden küçük geldi
+vintage|E dükkanlarını gezmeyi çok seviyorum, bu ceketi elli liraya buldum ve herkes nereden aldığımı soruyor
+yeni sezon koleksiyonu çıktı ama fiyatlar o kadar yüksek ki sadece fotoğraflarına bakıyorum
+outfit'imi|M=outfit+imi seçmek her sabah yarım saatimi alıyor, sonra yine aynı tişörtü giyiyorum
+sneaker|E koleksiyonum o kadar büyüdü ki dolapta yer kalmadı, annem ayakkabılarımı balkona çıkardı
+kargo üç gün içinde gelecekti ama bir hafta oldu ve hala dağıtıma çıktı yazıyor
+trendyol|N sepetimde iki yüz ürün var, hiçbirini almıyorum ama sepette durması bile mutlu ediyor
+fast|E fashion|E markalarından alışveriş yapmayı bıraktım, ikinci el kıyafet almaya başladım
+bu ceketin kumaşı yağmurda eridi gibi oldu, quality|E control'den|M=control+den geçmiş olamaz
+kapalıçarşı'da|N pazarlık yapmayı bilmiyorsanız ilk söylenen fiyatın üçte birini teklif edin
+minimalist|E gardırop yapmaya karar verdim, şimdi sadece siyah ve gri tişörtlerim var
+düğün için takım elbise aldım, terzi paçaları o kadar kısa kesti ki çorabım görünüyor
+indirim kodunu girdim ama sistem kabul etmedi, müşteri hizmetleri de sistemsel bir sorun dedi
+moda haftasında gördüğüm kıyafetlerin hiçbirini gerçek hayatta kimse giyemez
+ikinci el uygulamasında sattığım ceket için alıcı fiyatın yarısını teklif etti, bir de kargoyu benden istedi
+oversize|E giyinmek rahat ama annem her seferinde bu senin büyük ağabeyinin mi diye soruyor
+hediye almak için mağazaya girdim, kendime üç şey alıp çıktım
+bu marka collab'ını|M=collab+ını duyurdu ve site|T beş dakikada çöktü
+mağazada deneme kabini sırası on beş kişiydi, denemeden aldım ve tabii ki olmadı
+kozmetik alışverişinde skincare|E rutini için on tane ürün aldım ama hangisini ne zaman süreceğimi bilmiyorum
+kış indirimleri başlamadan aldığım çizme şimdi yarı fiyatına satılıyor, içim yanıyor
+hepsiburada'dan|N verdiğim siparişte kutunun içinden tamamen başka bir ürün çıktı
+yazın beyaz pantolon giymek cesaret ister, özellikle de dondurma yerken
+# --- anime / kpop / fandom ---
+anime|A izlemeye {{ attack on titan'la }} başladım, şimdi izleme listemde iki yüz dizi var
+bu karakterin bana << senpai|O >> demesi için bütün sezonu izledim ama sonunda başkasıyla evlendi
+isekai|O türünden sıkıldım, her dizide ana karakter kamyon çarpıp başka dünyaya gidiyor
+manga|A okumak animeden daha keyifli çünkü hikaye çok daha detaylı ilerliyor
+kpop|E konserine bilet bulmak için üç bilgisayar ve iki telefonla aynı anda sıraya girdim
+bu idol grubunun fandom'u|M=fandom+u o kadar güçlü ki twitter'da|N trend|E olmayan gün yok
+arkadaşım her mesajın sonuna << kawaii|O >> yazıyor, artık alıştım
+japonca|N öğrenmeye animelerden başladım ama sadece << itadakimasu|O >> ve << arigato|O >> biliyorum
+cosplay|E yarışmasında gördüğüm kostümlerin bazıları gerçekten sanat eseri gibiydi
+bu dizinin opening'i|M=opening+i o kadar güzel ki her bölümde atlamadan izliyorum
+korece|N dizileri izlemeye başladıktan sonra her şeye << daebak|O >> demeye başladım
+fan|E fiction|E okumaktan uykusuz kalan tek kişi ben değilimdir umarım
+one|N piece|N bitmeden ben yaşlanacağım, bin bölümü geçti hala bitmedi
+ghibli|N filmlerini izlerken içimi bir huzur kaplıyor, özellikle yağmurlu günlerde
+bu sezonun en iyi animesi bence hiç beklenmedik bir yerden çıktı, herkes başka diziyi konuşuyordu
+shounen|O animelerinde dostluk gücüyle kazanılmayan savaş yok
+{{ comic con'a }} gittik, en çok imza kuyruğu olan kişi bir seslendirme sanatçısıydı
+ekipteki herkes farklı bir grubun hayranı, ofiste kimin biası|M=bias+ı daha iyi tartışması bitmiyor
+bu animenin dublajı o kadar kötü ki altyazıyla izlemeye döndüm
+manga|A koleksiyonum için kitaplık aldım ama şimdiden doldu
+fandom|E içindeki kavgalar bazen dizinin kendisinden daha dramatik oluyor
+yeni çıkan animenin animasyonu o kadar akıcıydı ki studio|E bütün bütçeyi tek bölüme harcamış
+sevdiğim karakterin ölmesini kabul edemedim, bir hafta o diziyi açmadım
+anime|A festivalinde yediğim ramen|A gerçek japon ramenine en yakın şeydi
+dizinin bu kadar uzaması fan|E base'in|M=base+in sabrını zorluyor
+# --- cooking / restaurants ---
+evde sushi|A yapmaya çalıştım, pirinç her yere yapıştı ve sonunda pilav yedik
+bu restoranın menüsünde her şey << artisanal >> yazıyor ama yemekler normal lokanta yemeğinden farksız
+air|E fryer|E aldığımdan beri her şeyi onda yapıyorum, fırını hiç açmıyorum
+annem tarif verirken hep göz kararı diyor ve ben hiçbir zaman aynı tadı tutturamıyorum
+italyan restoranında garson bize << buon|O appetito|O >> dedi ve fiyat listesi de italyan fiyatıydı
+kahvaltıda menemen soğanlı mı soğansız mı tartışması aile içinde savaş çıkarabilir
+food|E blogger'ların|M=blogger+ların övdüğü burgerci yarım saat bekletti ve burger soğuktu
+mantı yapmayı annemden öğrendim, bir saat hamur açtım ve elim koptu
+kahve dükkanında barista|E latte|E art|E yaparken o kadar uğraştı ki içmeye kıyamadım
+gece yarısı acıkınca dolaba bakıp sonra yine kapatmak bir tür ritüel oldu
+bu şehirde gerçek bir pizza yemek için napoli'ye|N gitmek gerekiyor galiba
+restoranın yorumları çok iyiydi ama hepsi aynı gün yazılmış, sonradan anladım
+yeni açılan kore|N restoranında kimchi|A tattım, beklediğimden çok daha ekşiydi
+pazardan aldığım domatesler gerçek domates tadındaydı, marketinkiler gibi plastik değil
+fırında kek yaparken kapağı açtım ve kek söndü, kimse bana bunu söylememişti
+mutfakta yeni bir şey denediğimde ailem önce bana bakıyor, sonra tabağa
+dürümcüden eve gelene kadar yarısını yemiş oluyorum, bu bir alışkanlık
+bu kafenin brownie'si|M=brownie+si için yirmi dakika yürüyorum, buna değer
+evde baklava yapmayı denedim, yufkalar kâğıt gibi yırtıldı
+vejetaryen arkadaşım için mangalda sebze pişirdim, herkes etten çok sebzeleri yedi
+paket servisten gelen çorbanın yarısı yolda dökülmüş
+çay demlerken sohbet ederken unuttum, çay zehir gibi oldu
+buralarda yeni açılan fine|E dining|E restoranında porsiyonlar o kadar küçüktü ki çıkışta dönerciye gittik
+mutfak robotu aldım ama temizlemesi yemek yapmaktan uzun sürüyor
+bu yemeği yaparken bütün evin kokusu değişti, komşu kapıyı çalıp ne pişirdiğimi sordu
+# --- family / parenting ---
+yeğenim bana tabletten nasıl youtube|N açılacağını öğretti, dört yaşında
+annem her bayram evlenmeyi düşünmüyor musun diye soruyor, cevabım her yıl aynı
+babamın whatsapp|N grubunda paylaştığı sabah mesajları bütün aileyi uyandırıyor
+çocuğun ödevine yardım ederken ben de matematiği tekrar öğrendim, sanırım sınıfı geçemezdim
+ailecek film gecesi yaptık, herkes telefonuna baktığı için kimse filmi izlemedi
+dedem hala gazeteyi kağıttan okuyor ve internetteki|T haberlere güvenmiyor
+kardeşimle aynı odayı paylaştığımız yıllarda her gece kavga ederdik, şimdi en yakın arkadaşım
+bebek uyusun diye bütün evde ışıkları kapatıp parmak ucunda yürüyoruz
+annemin yemeklerini özlediğim için her hafta sonu ona gidiyorum ve dönüşte bir çanta yemekle dönüyorum
+babama akıllı telefonda ekran görüntüsü almayı on kez anlattım, hala fotoğrafını çekiyor
+kuzenlerle yazlıkta geçirdiğimiz yazlar çocukluğumun en güzel anılarıydı
+çocuklar okula başlayınca evde ilk kez sessizliği duydum, biraz ağladım
+ailede herkesin bir grup sohbeti var ve ben hepsinde sessize alınmış durumdayım
+annem bana sürekli montunu giy mesajı atıyor, otuz yaşındayım
+çocuğumun ilk kelimesi baba oldu ama sonra bana bakıp anne dedi, kalbim eridi
+bayramda el öpmeye gittiğimiz akrabaların yarısının adını bilmiyorum
+babaannemin evinde her zaman bir kutu kurabiye olurdu, o kokuyu hala hatırlıyorum
+kardeşim üniversiteyi kazandığında bütün aile ağladı, sanki biz kazanmışız gibi
+evde internet|T kesildiğinde ailecek ilk kez bir masa oyunu oynadık ve çok eğlendik
+anneme yeni bir telefon aldım, ilk iş zil sesini en yüksek seviyeye getirdi
+hafta sonu kahvaltıları bizim ailede dört saat sürüyor, kimse kalkmak istemiyor
+babamla futbol konuşmak dışında ortak bir konumuz yok ama o konuşmalar bana yetiyor
+çocuklara ekran süresi koymaya çalışıyoruz ama tablet olmadan yemek yemiyorlar
+annemle ilk kez birlikte seyahate çıktık, beni hala çocuk gibi görüyor
+yeğenlerim her geldiğinde evdeki bütün çikolatalar bitiyor
+# --- science / space / education ---
+james|N webb|N teleskobunun çektiği fotoğrafları görünce evrende ne kadar küçük olduğumuzu bir kez daha anladım
+yapay zeka herkesin işini elinden alacak diyorlar ama benim yapay zekam hala doğru dürüst bir tarif bile veremiyor
+spacex|N roketinin geri iniş videosunu izlerken çocuk gibi sevindim
+bu belgeselin anlatıcısı o kadar sakin konuşuyor ki her seferinde yarısında uyuyorum
+fizik dersinde hocanın anlattığı kuantum konusu hala aklımı karıştırıyor, kedi hem ölü hem diri ne demek
+online|E kurs platformlarında aldığım kursların yarısını hiç açmadım, ama sertifikaları alacağım diye umut ediyorum
+mars'a|N koloni kurma fikri heyecan verici ama ben dünyada bile kira ödeyemiyorum
+müzede gördüğüm dinozor iskeleti o kadar büyüktü ki fotoğrafını tek kareye sığdıramadım
+bilim insanları yeni bir gezegen keşfetmiş, adı bir sayı ve harf karmaşası
+lisede kimya laboratuvarında yaptığımız deney yüzünden bütün koridor duman olmuştu
+podcast|E dinleyerek yeni şeyler öğrenmek bana kitap okumaktan daha kolay geliyor
+bu yazılımın machine|E learning|E modeli hala kedi ile köpeği ayıramıyor
+deprem bilimcileri ne zaman deprem olacağını bilemiyor ama herkes sosyal medyada uzman oldu
+güneş tutulmasını izlemek için özel gözlük aldık, son dakika bulutlar her şeyi kapattı
+çocukken astronot olmak istiyordum, şimdi muhasebe yapıyorum
+bu hafta çıkan araştırmaya göre kahve sağlığa iyi, geçen haftakine göre kötüydü
+gece gökyüzünü izlemek için şehirden uzaklaştık, samanyolu'nu|N ilk kez gördüm
+yeni yapılan araştırma bitkilerin birbirleriyle iletişim kurduğunu söylüyor, saksıdaki bitkimle konuşmaya başladım
+öğretmenlik yapan arkadaşım öğrencilerin dikkat süresinin bir tiktok|N videosu kadar olduğunu söylüyor
+uzay temalı sergide sanal gerçeklik gözlüğüyle ayda yürüdüm, midem bulandı
+wikipedia|N sayfalarında kaybolup gece yarısı kendimi ortaçağ tarihini okurken bulmak sık yaşadığım bir şey
+kuantum bilgisayarların her şeyi değiştireceğini söylüyorlar ama ne zaman olacağını kimse bilmiyor
+iklim değişikliği belgeseli izledikten sonra plastik şişe kullanmayı bıraktım
+matematik olimpiyatlarında yarışan öğrencilerin sorularını okudum, soruyu bile anlayamadım
+bilim kurgu filmlerinde gördüğümüz teknolojilerin yarısı artık cebimizde
+# --- internet culture / memes ---
+bu meme|E o kadar eski ki annem bile bana gönderdi
+<< ok boomer >> diyen gençlere boomer'lar|M=boomer+lar artık << ok zoomer >> diye cevap veriyor
+yorumlarda herkes birbirine << ratio >> yazıyor, ne demek olduğunu tam anlamadım
+internette|T bir şey okuyup sonra kaynağına bakmadan paylaşanlar yüzünden bu ülkede herkes her şeyin uzmanı
+reddit'te|N bir thread'i|M=thread+i okumaya başladım ve üç saat sonra hala oradaydım
+bu videonun altındaki en beğenilen yorum videodan daha komikti
+twitch|N yayıncısı stream'de|M=stream+de uyuyakaldı ve izleyiciler sekiz saat boyunca onu izledi
+<< touch grass >> tavsiyesini ciddiye aldım, parka gittim ve gerçekten iyi geldi
+yeni çıkan uygulamada herkes aynı filtreyle fotoğraf paylaşıyor, bir hafta sonra kimse hatırlamayacak
+eski forumlarda geçirdiğim yıllar aklıma gelince internetin daha samimi olduğunu düşünüyorum
+bir kullanıcı bu konuya ilk entry'yi|M=entry+yi on beş yıl önce girmiş, hala herkes ona cevap yazıyor
+bu emoji'yi|M=emoji+yi benim yaşımdakiler gülmek için kullanıyor, gençler ağlamak için
+yapay zekanın çizdiği resimlerdeki eller her seferinde altı parmaklı oluyor
+internet|T kültürünü takip etmeyi bıraktım, her hafta yeni bir kelime çıkıyor
+<< main character energy >> diye bir şey çıkmış, herkes kendini dizinin başrolü sanıyor
+bu tweet'in|M=tweet+in altındaki quote|E tweet'ler|M=tweet+ler orijinal paylaşımdan daha viral|E oldu, internet|T böyle bir yer
+youtube|N shorts|E izlerken << just one more >> deyip iki saat kaybettim, algoritma beni benden iyi tanıyor
+whatsapp|N grubumuzda moderatörlük yapıyorum ve her gün en az bir kişiyi spam|E yüzünden ban'lıyorum|M=ban+lıyorum
+streamer'ın|M=streamer+ın chat'i|M=chat+i o kadar hızlı akıyor ki hiçbir mesajı okuyamıyorum, yine de herkes << pog >> yazıyor
+bu meme'yi|M=meme+yi ilk kim yaptı bilen var mı, üç farklı instagram|N sayfası kendine mal ediyor
+<< chronically online >> olduğumu fark ettim çünkü arkadaşlarımla konuşurken tiktok|N sesleri taklit ediyorum
+reddit|N kullanıcıları bir konuda birleşince bir şirketin bütün pr|E ekibini çökertebiliyor
+bu youtuber'ın|M=youtuber+ın yeni videosu clickbait|E çıktı, başlıkta yazan hiçbir şey videoda yoktu
+twitter'ın|N adı x|N oldu ama hala kimse x|N demiyor, herkes tweet|E atmaya devam ediyor
+hesabım shadowban|E yemiş, paylaşımlarım kimsenin feed'ine|M=feed+ine düşmüyor
+# --- city life ---
+kadıköy'de|N yeni açılan specialty|E coffee|E dükkanında filtre kahve iki yüz lira, ama latte art'ı|M=art+ı çok güzel
+beşiktaş'ta|N akşam saatlerinde bir bar|E bulmak kolay ama oturacak yer bulmak imkansız
+istanbul'un|N en güzel yanı sunset|E saatinde boğaz kenarında yürümek, en kötü yanı oraya ulaşmak
+ankara'da|N hayat daha sakin ama hafta sonu yapacak bir şey bulmak için plan|T yapmak gerekiyor
+izmir'e|N taşındım ve ilk hafta herkesin akşam altıda kordon'a|N indiğini öğrendim, << work life balance >> buna denir
+coworking|E space'lerde|M=space+lerde çalışmak evde çalışmaktan daha verimli ama kahvesi berbat
+kiralık ev bakarken emlakçı bana << fully furnished >> dedi, evde sadece bir yatak ve bir sandalye vardı
+moda|N sahilinde piknik yapmak için erken gitmek lazım, yoksa çimlerde yer kalmıyor
+şehrin her köşesinde bir starbucks|N var ama iyi bir esnaf lokantası bulmak giderek zorlaşıyor
+cihangir'de|N kedilerin sayısı insanlardan fazla, hepsi de çok << chill >>
+galata|N kulesinin önünde fotoğraf çekmek için kuyruk o kadar uzundu ki vazgeçtik
+nişantaşı'nda|N bir brunch|E mekanına gittik, menüde avocado|E toast|E fiyatı benim haftalık market bütçemdi
+gece yarısı yemek siparişi verirken getir'in|N on dakikada gelmesi beni hala şaşırtıyor
+bu mahallede herkes birbirini tanıyor, bakkal amca bile instagram|N hesabımı takip ediyor
+taksim'de|N bir konser çıkışında metroya yetişmek için koştuk, son sefer kapıları yüzümüze kapattı
+eskişehir'de|N öğrenci olmak çok keyifliydi, porsuk|N kenarında oturup bira içerdik
+şehirde nightlife|E denince herkes aynı üç mekanı söylüyor, alternatif|T bulmak zor
+yeni açılan rooftop|E barın manzarası harika ama müzik o kadar yüksek ki konuşamıyorsun
+belediye parkı yeniledi, artık her akşam yüzlerce kişi orada jogging|E yapıyor
+istanbul|N kartımı kaybettim, yeni kart için bir saat sırada bekledim
+karaköy'de|N her hafta yeni bir concept|E store|E açılıyor ve bir ay sonra kapanıyor
+bu şehirde kira o kadar yüksek ki arkadaşlarımın yarısı flatmate|E ile yaşıyor
+hafta sonu bebek'te|N kahvaltı yapmak için saat dokuzda masa ayırtmak gerekiyor
+kuzguncuk'ta|N yürürken gördüğüm renkli evler instagram|N için yapılmış gibiydi
+pazar günleri şehir o kadar sessiz ki sanki herkes bir anda başka bir yere taşınmış

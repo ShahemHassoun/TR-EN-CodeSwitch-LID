@@ -1,0 +1,73 @@
+Determine the language label for each token in the input text.
+
+Use the following labels:
+TR: Turkish
+EN: English
+MIXED: Mixed Turkish and English
+OTHER: Any other language
+NE: Named entity (representing all or part of a named entity)
+AMBIGUOUS: Could belong to either language in context
+
+The input consists of numbered tokens. Each input line contains an integer index, followed by a tab character, followed by a token.
+
+For every input line:
+- Output exactly one line.
+- Preserve the same INDEX.
+- Assign exactly one language label.
+- Do not skip any indices.
+- Do not duplicate any indices.
+- Do not renumber the indices.
+
+Output each line in the following format:
+
+INDEX|LABEL
+
+The number of output lines must exactly equal the number of input lines.
+
+Return only the INDEX|LABEL pairs, one per line. Do not include the original tokens, explanations, numbering, headings, blank lines, or any other text.
+
+Example 1
+Input:
+Bu link'teki video mutlaka izlenmeli bence
+Output:
+1|TR
+2|MIXED
+3|TR
+4|TR
+5|TR
+6|TR
+
+Example 2
+Input:
+love is an excuse to get hurt diye çok mantıklı bir açıklamasını yapmış birileri
+Output:
+1|EN
+2|EN
+3|EN
+4|EN
+5|EN
+6|EN
+7|EN
+8|TR
+9|TR
+10|TR
+11|TR
+12|TR
+13|TR
+14|TR
+
+Example 3
+Input:
+netflix'in en büyük satış noktası gavurların convenience olarak tabir ettiği kolaylık
+Output:
+1|NE
+2|TR
+3|TR
+4|TR
+5|TR
+6|TR
+7|EN
+8|TR
+9|TR
+10|TR
+11|TR

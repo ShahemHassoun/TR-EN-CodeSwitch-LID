@@ -1,0 +1,191 @@
+# batch_06 — every line: >=1 MIXED, >=1 NE, >=1 EN. Written by Claude (Anthropic); style seeded by TurEngMix train split.
+# --- ekşi / forum culture ---
+ekşi'de|N bu başlığa ilk entry'yi|M=entry+yi girenin nick'i|M=nick+i hala aktif, on beş yıldır aynı başlıkta yazıyor
+sözlükte bir debe|N listesine girmek için entry'mi|M=entry+mi üç kez edit'ledim|M=edit+ledim, yine de girmedi
+forumda biri benim post'umu|M=post+umu kopyalayıp kendi yazmış gibi paylaşmış, moderator'a|M=moderator+a şikayet ettim
+reddit'teki|N türk|N subreddit'lerinde|M=subreddit+lerinde her gün aynı soru soruluyor, search|E butonunu kimse kullanmıyor
+ekşi'de|N biri entry'sine|M=entry+sine spoiler|E yazmış, altına yüz tane eksi oy gelmiş
+forumdaki eski thread'leri|M=thread+leri okurken 2009'dan|T kalma bir tartışmaya denk geldim, kullanıcıların yarısı banned|E olmuş
+sözlük yazarlarının nick'lerini|M=nick+lerini görünce hangi yıl üye olduklarını tahmin edebiliyorum, ekşi|N veteranları belli
+bir başlığa trolling|E için entry|E girenler yüzünden başlık kilitlendi, ekşi|N moderatörleri bu konuda hızlı
+forumda signature'ımı|M=signature+ımı yıllar önce bir anime|A gif'iyle|M=gif+iyle yapmıştım, şimdi görünce utanıyorum
+reddit'te|N bir ama|E session'ında|M=session+ında ünlü bir oyuncuya soru sordum, cevap verdi ve upvote|E yağmuru başladı
+donanımhaber'de|N bir telefonun review|E thread'i|M=thread+i iki bin sayfa olmuş, herkes kendi deneyimini yazıyor
+sözlükte en çok favori alan entry'lerin|M=entry+lerin çoğu üç satırlık espri, uzun analizler kimsenin umurunda değil
+discord'daki|N eski forum arkadaşlarımla hala konuşuyoruz, nostalji|T moduna girince geceler bitmiyor
+ekşi'nin|N mobil uygulamasında dark|E theme|E olmadan gece okumak imkansız
+forumlarda flame|E war|E çıktığında popcorn|E alıp izlemek benim için en iyi eğlence
+r/askreddit'te|N okuduğum bir thread'deki|M=thread+deki hikaye üç gün aklımdan çıkmadı
+sözlükte bir yazar bütün gün aynı başlığa entry|E girdi, adam resmen live|E blogging|E yapıyor
+quora'da|N sorduğum soruya gelen cevap bir ürün reklamıydı, spam|E her yerde
+technopat'ta|N pc|E toplama tavsiyesi istedim, on kişi on farklı build|E önerdi
+eski msn|N messenger'daki|N away|E mesajlarımı hatırlayınca 2008'deki|T halime gülüyorum
+facebook|N gruplarında yazışan teyzelerin flood'u|M=flood+u yüzünden bildirimleri kapattım
+4chan|N gibi anonim forumlar internetin|T en karanlık köşeleri ama meme|E kültürünün de doğduğu yer
+# end chunk
+# --- AI assistants / smart home ---
+chatgpt'ye|N cv'mi|M=cv+mi düzelttirdim, bütün cümleler << passionate about >> diye başlıyor, kimse inanmaz
+siri'ye|N alarm kurmasını söyledim, bana yakındaki pizza|E restoranlarını listeledi
+google|N home'a|M=home+a ışıkları kapat dedim, bütün evdeki müzik durdu, smart|E home|E dedikleri bu
+yapay zeka ile yazdığım email'i|M=email+i müdürüm okuyunca << did you write this >> diye sordu
+copilot'un|N önerdiği kod çalıştı ama neden çalıştığını ne ben anladım ne de ai|E açıklayabildi
+midjourney'de|N ürettiğim logo|T müşteriye çok beğenildi, sonra telif hakkı sorusu geldi
+alexa|N her sabah bana hava durumunu söylüyor ama hep yanlış şehir, location|E ayarını bulamıyorum
+gemini'ye|N bir tarih sorusu sordum, cevap çok emin ama tamamen yanlıştı, hallucination|E dedikleri bu
+ai|E ile ödev yapan öğrenciler yüzünden hocalar sözlü sınava geçti, chatgpt|N sağ olsun
+robot süpürgemin app'i|M=app+i evin haritasını çıkardı, mutfağı balkon sanıyor
+claude'a|N uzun bir pdf|E özetlettim, okumaya üşendiğim rapor beş dakikada bitti
+akıllı kapı zilinin camera'sı|M=camera+sı her gece geçen kediyi kaydediyor, ring|N bildirimleri durmuyor
+yapay zekaya prompt|E yazmak bir meslek oldu, linkedin'de|N herkes kendini prompt|E engineer|E olarak tanıtıyor
+sesli asistan bana şaka anlattı, çok cringe|E bir espriydi ama yine de güldüm, siri|N böyle
+evdeki smart|E plug'ları|M=plug+ları wifi|E kesilince çalışmıyor, eski usul düğme daha güvenilir
+# --- youtube creator economy ---
+kanalım bin aboneye ulaşınca monetization|E açıldı, ilk ay adsense'ten|N on iki lira kazandım
+youtuber'ların|M=youtuber+ların sponsor|E segmentleri o kadar uzun ki skip'lemek|M=skip+lemek için butona hazır bekliyorum
+yeni videomun retention|E grafiğine baktım, herkes ilk otuz saniyede çıkmış, intro|E çok uzun galiba
+patreon'da|N destekçilerime özel video çekiyorum, toplam beş kişiler ama çok sadıklar
+collab|E videosu için başka bir youtuber'la|M=youtuber+la buluştuk, çekim bir saat sürdü ama vlog|E bir dakika
+kanal büyütmek için algorithm'i|M=algorithm+i anlamaya çalıştım, sonunda tamamen şansa bağlı olduğuna karar verdim
+youtube|N shorts'tan|M=shorts+tan gelen izlenmeler para etmiyor ama abone getiriyor
+ünlü bir youtuber|E kendi markasını çıkardı, merch'leri|M=merch+leri bir saatte tükendi
+videonun altına gelen hate|E comment'lere|M=comment+lere cevap vermemeyi öğrendim, block|E butonu en iyi arkadaşım
+twitch'ten|N youtube'a|N geçen yayıncı vod'larını|M=vod+larını kesip highlight|E olarak yüklüyor
+# end chunk
+# --- esports ---
+{{ league of legends }} worlds|E finalini izlemek için arkadaşlarla bir pc|E cafe'de|M=cafe+de toplandık
+fut|N esports'un|N valorant|N takımı champions'a|N kaldı, twitter|N bütün gece kutlama yaptı
+esports|E turnuvasında caster'ların|M=caster+ların hype'ı|M=hype+ı maçtan daha heyecanlıydı
+pro|E player|E olmak isteyen kuzenim günde on iki saat ranked|E oynuyor, okulu bırakmayı düşünüyor
+dota|N 2'nin|N international|E turnuvasındaki prize|E pool'u|M=pool+u bir futbol takımının bütçesinden büyük
+cs2|N major'ında|M=major+ında türk|N oyuncunun clutch'ı|M=clutch+ı reddit'te|N viral|E oldu
+takımımızın coach'u|M=coach+u maç arasında timeout|E alınca bütün strateji değişti
+mobile|E esports|E türkiye'de|N çok büyüdü, {{ pubg mobile'ın }} turnuvalarını milyonlar izliyor
+oyuncuların burnout|E yaşaması çok normal, yirmi beş yaşında retire|E olan oyuncular var
+esports|E arenasında bilet satışları sold|E out|E oldu, insanlar oyun izlemeye stadyum gibi geliyor
+# --- outdoor / camping ---
+kaçkar'da|N kamp yaparken çadırın rain|E fly'ını|M=fly+ını unuttuk, gece yağmur başladı ve her şey ıslandı
+hiking|E rotasını alltrails'den|N seçtim, << easy >> yazıyordu ama dört saat yokuş çıktık
+trekking|E botlarımı yeni almıştım, ilk yürüyüşte ayaklarımda blister'lar|M=blister+lar çıktı
+likya|N yolunda backpacking|E yaparken her köyde bir teyze bize çay ikram etti
+kamp sandalyesi ve camping|E stove'u|M=stove+u almak için decathlon'a|N gittik, kamptan çok alışverişi sevdim
+glamping|E denen şeyi denedik, aslında çadırda otel odası gibi bir yer, gerçek kampçılar bize güldü
+gece kampta yıldızları izlerken sky|E map|E uygulamasıyla takımyıldızlarını bulduk
+dağda signal|E yoktu, iki gün boyunca kimse bana ulaşamadı ve harikaydı
+kayaking|E turunda kürek çekmekten kollarım koptu, rehber bize << just enjoy the view >> dedi
+uludağ'da|N snowboard|E dersi aldım, gün boyunca kalkmaktan çok düştüm
+# end chunk
+# --- coffee culture ---
+third|E wave|E kahvecilerde barista|E bana kahvenin tasting|E note'larını|M=note+larını anlattı, ben sadece acı buldum
+v60'la|N demlediğim kahveyi instagram'a|N koydum, kahvenin kendisinden çok fotoğrafla uğraştım
+starbucks'taki|N barista|E adımı bardağa yine yanlış yazdı, artık takma adla sipariş veriyorum
+oat|E milk|E latte|E siparişi verince arkadaşlarım bana << hipster >> diyor, ben laktozsuz diye içiyorum
+kahve dükkanında laptop'la|M=laptop+la çalışanlar yüzünden oturacak yer yok, cafe|E artık ofis olmuş
+espresso|E makinesi aldım, kahve kursu videolarını izleyip grind|E ayarını yapmaya çalışıyorum
+mahalledeki yeni kahveci specialty|E coffee|E diyor ama türk|N kahvesi bile yok, fiyatlar da londra|N fiyatı
+yazın cold|E brew'u|M=brew+u evde hazırlıyorum, kahve dükkanına gitmekten çok daha ucuz
+kahve falı bakan arkadaşım bana yakında bir trip|E olacağını söyledi, ertesi gün iş için ankara'ya|N gönderildim
+nespresso|N kapsülleri çevreye zararlı diye moka|E pot'a|M=pot+a geçtim, mutfakta kahve kokusu harika
+# --- car culture ---
+arabama yeni rim'ler|M=rim+ler taktım, park ederken kaldırıma sürtüp hepsini çizdim
+modifiye|T yaptırdığım egzoz o kadar ses çıkarıyor ki komşular apartman whatsapp|N grubunda şikayet etti
+drift|E yapmak için kapalı pist kiraladık, ilk turda arabayı çimenlere soktum
+bmw'nin|N yeni modelinin grill'i|M=grill+i o kadar büyük ki internette herkes meme|E yapıyor
+araba fuarında concept|E car'ların|M=car+ların hepsi uzay gemisi gibi ama hiçbiri satışa çıkmayacak
+track|E day'de|M=day+de lastiklerim yarım saatte bitti, motorsporu pahalı hobi
+tesla|N autopilot'unu|M=autopilot+unu otoyolda açtım, direksiyondan elimi çekemedim, güvenmek zor
+klasik araba restore|E etmek için hurdalıktan bir murat|N 124|N aldım, babam çok duygulandı
+car|E wash'ta|M=wash+ta köpüklü yıkama yaptırdım, çıkarken yağmur başladı
+navigasyonda waze'i|N kullanıyorum çünkü radar|E uyarıları geliyor, google|N maps|N bunu yapmıyor
+# end chunk
+# --- scams / security ---
+bankadan geliyormuş gibi görünen bir phishing|E mesajı aldım, link'e|M=link+e tıklamadan önce domain'e|M=domain+e baktım, sahteydi
+instagram|N hesabım hack'lendi|M=hack+lendi, hacker|E profilime kripto reklamı koymuş, two-factor|E açmamıştım
+whatsapp'ta|N bir numara beni << mom i lost my phone >> mesajıyla kandırmaya çalıştı, annem türkçe|N bile yazamıyor
+şifre yöneticisi kullanmaya başladıktan sonra her site|T için ayrı password|E var, bitwarden|N hayatımı kurtardı
+sahte bir amazon|N mailinde invoice|E ekliydi, pdf'i|M=pdf+i açsaydım virus|E bulaşacaktı
+telefonuma bilmediğim bir numaradan otp|E kodu geldi, biri hesabıma girmeye çalışıyormuş
+linkedin'de|N fake|E recruiter|E profilleri artıyor, bana gelen job|E offer|E bir crypto|E dolandırıcılığıydı
+şirketin it|E ekibi bize phishing|E simulation|E maili attı, ofiste yarısı link'e|M=link+e tıklamış
+public|E wifi'da|M=wifi+da banka uygulamasına girmeyin diyorlar, ben havalimanında vpn|E kullanıyorum
+yaşlı komşumuza telefonla << your account is blocked >> diyerek para çalmaya çalışmışlar, polise haber verdik
+# --- online courses ---
+udemy'de|N indirimdeyken on tane course|E aldım, hepsi certificate|E almak için yarım kaldı
+coursera'daki|N machine|E learning|E kursunun assignment'ları|M=assignment+ları beni gerçekten zorladı
+online|E bootcamp'in|M=bootcamp+in reklamında << get hired in 12 weeks >> yazıyordu, mezunların çoğu hala iş arıyor
+youtube'daki|N ücretsiz tutorial'lar|M=tutorial+lar bazen paralı kurslardan daha iyi, freecodecamp|N bunun en iyi örneği
+masterclass'ta|N ünlü bir şefin cooking|E dersini izledim, yemek yapmadım ama kendimi şef gibi hissettim
+linkedin|N learning'den|N aldığım excel|N sertifikasını cv'ye|M=cv+ye ekledim, kimse sormadı
+online|E kursun forumunda instructor|E sorulara bir ay sonra cevap veriyor, hepimiz kendi kendimize öğreniyoruz
+skillshare'de|N illustration|E dersi aldım, procreate'te|N ilk çizimim bir patateste benziyordu
+mit|N opencourseware'den|N algoritma derslerini izliyorum, hocalar çok iyi ama video kalitesi 2005'ten|T kalma
+kurs platformundaki quiz'ler|M=quiz+ler o kadar kolay ki videoyu izlemeden geçiyorum, öğrenme bu değil
+# end chunk
+# --- digital nomad / remote life ---
+bali'de|N digital|E nomad|E olarak yaşayan arkadaşım her gün coworking|E space'ten|M=space+ten fotoğraf atıyor
+lizbon'a|N taşındım çünkü remote|E çalışıyorum ve hava güzel, ama time|E zone|E yüzünden toplantılar gece oluyor
+nomad|E vizesi başvurusunda bank|E statement'larımı|M=statement+larımı istediler, maaşımın yetmediğini anladım
+airbnb'de|N aylık kiralamada discount|E var ama wifi|E hızı fotoğraflardaki kadar iyi değil
+meksika'dan|N çalışırken sabah altıda standup'a|M=standup+a giriyorum, istanbul'daki|N ekip öğle arasında
+nomad|E list|E sitesinde şehirlerin cost|E of|E living'ini|M=living+ini karşılaştırdım, istanbul|N ortalarda çıktı
+laptop'umu|M=laptop+umu sahilde açtım, güneşten ekranı göremedim, instagram'daki|N fotoğraflar yalan
+vergi konusunu çözmeden nomad|E hayatına geçmeyin, accountant'ım|M=accountant+ım hala bir şey anlamadı
+kaş'ta|N bir ay remote|E çalıştım, öğle aralarında denize giriyordum, office'e|M=office+e dönmek çok zor oldu
+nomad|E toplulukları için meetup|E etkinliklerine gidince herkes aynı soruyu soruyor, << what do you do >>
+# --- standup comedy / theater ---
+cem|N yılmaz'ın|N yeni gösterisi netflix'e|N geldi, bazı espriler türkçe|N dışında çalışmıyor ama subtitle|E çok iyi
+open|E mic|E gecesinde ilk kez sahneye çıktım, beş dakikalık set|E iki dakikada bitti çünkü heyecandan hızlı konuştum
+standup|E gösterisinde ön sırada oturunca komedyen bütün gece benimle uğraştı, crowd|E work|E dedikleri bu
+tiyatro biletini online|E aldım ama seat|E map|E yanlış göstermiş, sahnenin arkasından izledim
+{{ hamlet'in }} modern uyarlamasında oyuncular sahnede smartphone|E kullanıyordu, ilginç bir concept|E
+komedyenin special'ı|M=special+ı youtube'da|N ücretsiz yayınlandı, bir haftada iki milyon izlendi
+doğaçlama tiyatro grubuna katıldım, improv|E derslerinde << yes and >> kuralını öğrendim
+stand-up|E dinlerken gülmekten çayımı püskürttüm, yanımdaki adam bana döndü, awkward|E bir an
+müzikal izlemek için londra'da|N west|N end'e|N gittik, bilet fiyatı uçak biletinden pahalıydı
+komedi kulübünde headliner|E çıkmadan önce üç tane amatör komedyen çıktı, ikisi gerçekten iyiydi
+# end chunk
+# --- streetwear / sneakers ---
+nike|N snkrs|N uygulamasında drop|E saatinde online|E oldum, iki saniyede sold|E out|E yazdı
+supreme|N kutusu üstündeki logo|T için o kadar para vermek bana mantıksız geliyor ama hype|E bu
+streetwear|E markaları limited|E edition|E diyerek aynı tişörtü her sezon tekrar satıyor
+jordan|N 1'lerimi|N temizlemek için youtube'dan|N sneaker|E cleaning|E videosu izledim
+vintage|E band|E tee'lerin|M=tee+lerin fiyatı o kadar arttı ki kadıköy'deki|N sahaflar bile fiyat koymuş
+oversize|E hoodie'mi|M=hoodie+mi annem eşofman sanıyor, yüz dolar verdiğimi bilmiyor
+yeni sezon drop'unda|M=drop+unda bütün kuyruğu reseller'lar|M=reseller+lar doldurmuştu
+adidas|N samba|N herkesin ayağında, trend|E o kadar yayıldı ki artık özel değil
+model|A gibi poz vermek için bir fotoğrafçıyla streetwear|E çekimi yaptık, sonuç biraz cringe|E oldu
+platform|A ayakkabılar geri döndü, annem doksanlardaki fotoğraflarını gösterip güldü
+# --- f1 / tennis / misc sports ---
+verstappen'in|N bu sezonki dominance'ı|M=dominance+ı yüzünden yarışlar sıkıcı hale geldi
+hamilton|N ferrari'ye|N geçince bütün italya|N sevinçten çıldırdı, tifosi|O kırmızıya boyandı
+pit|E stop|E süresi iki saniye, ben marketteki kasada bundan daha uzun bekliyorum
+f1|N oyununda kariyer modunda ilk yarışta duvara çarptım, steering|E wheel|E almam lazım
+alcaraz'ın|N drop|E shot'ları|M=shot+ları rakiplerini çaresiz bırakıyor, tenis izlemeyi bu sezon sevdim
+djokovic|N kazanınca her zamanki gibi celebration|E dansını yaptı, tribünler ikiye bölündü
+istanbul|N park'ta|N yarışın olduğu hafta otellerin fiyatları uçtu, ticket|E fiyatları da öyle
+padel|E kortları her yerde açılıyor, beyaz yakalıların yeni hobby'si|M=hobby+si oldu
+{{ süper lig }} maçlarında tribün sesi o kadar yüksek ki tv|A yayınında spiker duyulmuyor
+voleybol maçında ace|E servis atan kaptanımız maç sonunda instagram|N canlı yayınında ağladı
+# end chunk
+# --- self-help / psychology (general) ---
+self-help|E kitaplarının hepsi aynı şeyi söylüyor, {{ atomic habits'i }} okuyunca diğerlerine gerek kalmadı
+mindfulness|E uygulamasında gün içinde kaç kez << breathe >> bildirimi geldiğini saydım, on iki
+youtube'daki|N motivational|E videoları izledikten sonra bir saat çok verimli oluyorum, sonra yine eski halime dönüyorum
+therapy|E konuşmak eskiden ayıp sayılırdı, şimdi instagram'da|N herkes boundary'lerinden|M=boundary+lerinden bahsediyor
+toxic|E positivity|E denen şeyi linkedin'de|N çok görüyorum, işten çıkarılan biri bile << grateful for this journey >> yazıyor
+introvert|E olduğumu fark ettikten sonra hafta sonu planlarını iptal etmek için bahanem oldu, social|E battery|E bitti
+morning|E pages|E yazmaya başladım, ilk üç sayfa sadece uykumun geldiğini yazdım
+people|E pleaser|E olmayı bırakmak için hayır demeyi öğreniyorum, ilk denemede müdürüme evet dedim
+overthinking|E yapmamak için bir podcast'te|M=podcast+te önerilen yöntemi denedim, bu sefer yöntemi overthink'ledim|M=overthink+ledim
+mbti|N testinde her seferinde farklı sonuç çıkıyor, herhalde kişiliğim update|E alıyor
+# --- daily small moments ---
+sabah metroda kulaklığımı takınca shuffle'da|M=shuffle+da tam sevdiğim şarkı geldi, gün güzel başladı
+markette self|E checkout|E makinesi bana << unexpected item in bagging area >> deyip durdu, migros|N çalışanı yardıma koştu
+apartman whatsapp|N grubunda biri yanlışlıkla selfie|E gönderdi ve grup bir anda karıştı
+otobüste yanımdaki çocuk tabletinde minecraft|N oynarken sesi sonuna kadar açtı
+öğle arasında yemek kuyruğunda beklerken linkedin'de|N scroll'ladım|M=scroll+ladım, herkesin hayatı benimkinden heyecanlı
+evde internet|T gidince kendimi on dokuzuncu yüzyıldaymışım gibi hissettim, hotspot|E açmak zorunda kaldım
+kasiyer bana poşet ister misiniz diye sorduğunda reflex|E olarak << no thanks >> dedim, ingilizce|N kafam açık kalmış
+sabah kahvemi dökünce bütün gün kötü geçeceğini hissettim, murphy's|N law|N işte
+asansörde komşuyla small|E talk|E yapmak zorunda kalınca hava durumundan başka konu bulamadım
+eve dönerken yağmur başladı, google|N weather|E yalan söylemiş, şemsiye yine evde kalmış
+# end chunk

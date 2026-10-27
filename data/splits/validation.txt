@@ -1,0 +1,30 @@
+# TurEngMix document-level split — validation
+# 25 documents, 1173 tokens. Partition unchanged from the original release;
+# doc_ids remapped from the two-scheme export (post_0001_1, post_007_47) to
+# the simplified post_NNNN scheme by scripts/remap_splits.py.
+# Committed deliberately: do not edit by hand, do not regenerate with make_splits.py.
+post_002
+post_040
+post_041
+post_051
+post_057
+post_072
+post_087
+post_088
+post_108
+post_115
+post_144
+post_151
+post_167
+post_179
+post_180
+post_184
+post_195
+post_196
+post_207
+post_208
+post_215
+post_230
+post_234
+post_237
+post_241

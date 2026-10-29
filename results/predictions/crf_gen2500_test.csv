@@ -96,7 +96,7 @@ post_027,1,1,önce,TR,,O,27,1,TR
 post_027,1,2,üye,TR,,O,27,2,TR
 post_027,1,3,olup,TR,,O,27,3,TR
 post_027,1,4,bugün,TR,,O,27,4,TR
-post_027,1,5,hi,EN,,O,27,5,EN
+post_027,1,5,hi,EN,,O,27,5,AMBIGUOUS
 post_027,1,6,i'm,EN,,O,27,6,MIXED
 post_027,2,0,i'am,EN,,O,27,0,NE
 post_027,2,1,a,EN,,O,27,1,EN
@@ -328,7 +328,7 @@ post_063,1,18,ac,TR,,O,63,18,TR
 post_063,1,19,akbankin,NE,,B-ORG,63,19,TR
 post_063,1,20,anlik,TR,,O,63,20,TR
 post_063,1,21,borsasini,TR,,O,63,21,TR
-post_063,1,22,javascripttir,NE,MIXED,B-PROD,63,22,TR
+post_063,1,22,javascripttir,NE,MIXED,B-PROD,63,22,NE
 post_063,1,23,altyapisi,TR,,O,63,23,TR
 post_063,1,24,falan,TR,,O,63,24,TR
 post_063,1,25,filan,TR,,O,63,25,TR
@@ -343,7 +343,7 @@ post_063,1,33,artik,TR,,O,63,33,TR
 post_063,1,34,webin,MIXED,MIXED,O,63,34,TR
 post_063,1,35,hakimi,TR,,O,63,35,TR
 post_063,1,36,oldu,TR,,O,63,36,TR
-post_071,1,0,lise,TR,,O,71,0,TR
+post_071,1,0,lise,TR,,O,71,0,NE
 post_071,1,1,yıllarında,TR,,O,71,1,TR
 post_071,1,2,takip,TR,,O,71,2,TR
 post_071,1,3,ettiğim,TR,,O,71,3,TR
@@ -422,7 +422,7 @@ post_109,1,17,ve,TR,,O,109,17,TR
 post_109,1,18,doğrularını,TR,,O,109,18,TR
 post_109,1,19,savunan,TR,,O,109,19,TR
 post_109,1,20,birçok,TR,,O,109,20,TR
-post_109,1,21,türk,NE,,B-OTHER,109,21,TR
+post_109,1,21,türk,NE,,B-OTHER,109,21,NE
 post_109,1,22,var,TR,,O,109,22,TR
 post_109,1,23,ancak,TR,,O,109,23,TR
 post_109,1,24,o,TR,,O,109,24,TR
@@ -672,7 +672,7 @@ post_155,1,53,ancak,TR,,O,155,53,TR
 post_155,1,54,buna,TR,,O,155,54,TR
 post_155,1,55,hala,TR,,O,155,55,TR
 post_155,1,56,bi,TR,,O,155,56,TR
-post_155,1,57,fix,EN,,O,155,57,EN
+post_155,1,57,fix,EN,,O,155,57,NE
 post_155,1,58,getirilmemiş,TR,,O,155,58,TR
 post_155,1,59,bununla,TR,,O,155,59,TR
 post_155,1,60,ilgili,TR,,O,155,60,TR
@@ -934,9 +934,9 @@ post_190,1,66,hakkında,TR,,O,190,66,TR
 post_190,1,67,da,TR,,O,190,67,TR
 post_190,1,68,konuşayım:,TR,,O,190,68,TR
 post_190,1,69,albüm,TR,,O,190,69,TR
-post_190,1,70,ray,NE,,B-TITLE,190,70,NE
-post_190,1,71,of,NE,,I-TITLE,190,71,NE
-post_190,1,72,light,NE,,I-TITLE,190,72,NE
+post_190,1,70,ray,NE,,B-TITLE,190,70,EN
+post_190,1,71,of,NE,,I-TITLE,190,71,EN
+post_190,1,72,light,NE,,I-TITLE,190,72,EN
 post_190,1,73,ın,TR,,O,190,73,TR
 post_190,1,74,folk,EN,,O,190,74,EN
 post_190,1,75,eklenmiş,TR,,O,190,75,TR

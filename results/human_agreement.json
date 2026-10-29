@@ -1,0 +1,89 @@
+{
+  "has_answer_key": false,
+  "overall_all_items": {
+    "n_items": 402,
+    "pairwise_overall_kappa": {
+      "tugra_vs_ibrahim": 0.7052,
+      "tugra_vs_mahmut": 0.774,
+      "ibrahim_vs_mahmut": 0.6481
+    },
+    "average_overall_kappa": 0.7091,
+    "pairwise_per_label_kappa": {
+      "tugra_vs_ibrahim": {
+        "TR": 0.8097,
+        "EN": 0.6829,
+        "MIXED": 0.7973,
+        "NE": 0.4865,
+        "AMBIGUOUS": 0.21,
+        "OTHER": 0.6931
+      },
+      "tugra_vs_mahmut": {
+        "TR": 0.8131,
+        "EN": 0.8656,
+        "MIXED": 0.8816,
+        "NE": 0.6481,
+        "AMBIGUOUS": -0.0128,
+        "OTHER": 0.5164
+      },
+      "ibrahim_vs_mahmut": {
+        "TR": 0.7553,
+        "EN": 0.6631,
+        "MIXED": 0.7896,
+        "NE": 0.3142,
+        "AMBIGUOUS": -0.0127,
+        "OTHER": 0.7655
+      }
+    },
+    "average_per_label_kappa": {
+      "TR": 0.7927,
+      "EN": 0.7372,
+      "MIXED": 0.8228,
+      "NE": 0.4829,
+      "AMBIGUOUS": 0.0615,
+      "OTHER": 0.6583
+    },
+    "label_counts": {
+      "TR": {
+        "tugra": 162,
+        "ibrahim": 140,
+        "mahmut": 158,
+        "majority": 160
+      },
+      "EN": {
+        "tugra": 93,
+        "ibrahim": 138,
+        "mahmut": 90,
+        "majority": 99
+      },
+      "MIXED": {
+        "tugra": 76,
+        "ibrahim": 84,
+        "mahmut": 68,
+        "majority": 75
+      },
+      "NE": {
+        "tugra": 41,
+        "ibrahim": 17,
+        "mahmut": 77,
+        "majority": 43
+      },
+      "AMBIGUOUS": {
+        "tugra": 17,
+        "ibrahim": 16,
+        "mahmut": 3,
+        "majority": 13
+      },
+      "OTHER": {
+        "tugra": 13,
+        "ibrahim": 7,
+        "mahmut": 6,
+        "majority": 12
+      }
+    }
+  },
+  "agreement_breakdown": {
+    "unanimous_3_of_3": 285,
+    "majority_2_of_3": 92,
+    "total_disagreement_1_1_1": 25
+  }
+}

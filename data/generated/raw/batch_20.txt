@@ -1,0 +1,207 @@
+# batch_20 — mixed. Written by Claude (Anthropic); style seeded by TurEngMix train split.
+# --- mixed brands + verbs ---
+trendyol'dan|N gelen paketi açarken video|T çektim, içinden yanlış renk çıktı
+hepsiburada'daki|N sepetimi checkout'lamadan|M=checkout+lamadan önce indirim kodunu aradım
+getir'den|N gelen kuryeye tip|E vermeyi unuttum, app|E bana hatırlattı
+yemeksepeti'nde|N favori restoranımı bookmark'ladım|M=bookmark+ladım, her hafta aynı yerden söylüyorum
+amazon'daki|N ürünün spec'lerini|M=spec+lerini karşılaştırırken bir saat geçti
+netflix'teki|N yeni filmi watchlist'e|M=watchlist+e ekledim, hiçbir zaman izlemeyeceğim
+spotify'da|N podcast|E bölümünü download'ladım|M=download+ladım, uçakta dinleyeceğim
+youtube'daki|N videoyu save'ledim|M=save+ledim ama nereye kaydettiğimi bulamıyorum
+instagram'da|N story'mi|M=story+mi highlight'lara|M=highlight+lara ekledim
+linkedin'de|N post'umu|M=post+umu boost'layayım|M=boost+layayım dedim, para istedi
+uber'de|N trip'imi|M=trip+imi share'ledim|M=share+ledim, annem bütün yolu takip etti
+airbnb'de|N host|E bize welcome|E basket|E hazırlamış, içinde lokum vardı
+booking'de|N rezervasyonumu cancel'ladım|M=cancel+ladım, refund|E üç hafta sürdü
+steam'de|N wishlist'imdeki|M=wishlist+imdeki oyunlar indirime girince hepsini aldım
+discord'da|N bir sunucuya join'ledim|M=join+ledim, bin kişi aynı anda yazıyordu
+# end chunk
+# --- turkish-heavy realistic ---
+akşam işten çıkınca eve yürüyerek döndüm, yol boyunca düşündüm ve kafam rahatladı, bazen bir mental|E break|E gerekiyor
+babaannemin yaptığı börek tarifini bir deftere yazdım, ileride çocuklarıma da öğreteceğim, family|E recipe|E dediğin bu
+yağmurlu bir günde eski bir kitapçıya girdim, sahibi bana çay ikram etti ve bir saat sohbet ettik
+sabah kahvaltısında annem bütün aileyi topladı, yıllar sonra ilk kez hep beraberdik
+dedemin anlattığı eski istanbul|N hikayeleri her seferinde beni başka bir zamana götürüyor
+kış akşamlarında evde mandalina yiyip film izlemek benim için en güzel aktivite
+komşumuzun çocuğu her sabah kapımızın önünden geçerken bize el sallıyor, günüm güzelleşiyor
+mahallenin fırınından aldığım sıcak ekmeği eve gelene kadar yarıladım
+eski okul arkadaşımla yıllar sonra karşılaştık, ilk cümlesi << you haven't changed at all >> oldu
+pazar günü bütün gün hiçbir şey yapmadım, sadece uyudum, kitap okudum ve çay içtim
+yaz tatilinde köyde dedemle bahçede çalıştım, akşam yorgunluktan hemen uyudum
+annemle mutfakta beraber yemek yaparken eski şarkılar söyledik, en güzel akşamlarımızdan biri
+otobüste yanımdaki teyze bana bütün torunlarının fotoğraflarını gösterdi, hepsi çok tatlıydı
+eski fotoğraflara bakarken çocukluğumun geçtiği evi gördüm, şimdi orada bir apartman var
+bir sokak kedisi her sabah balkonumuza geliyor, ona isim bile koyduk
+# end chunk
+# --- work 7 dense ---
+yeni hire'ımız|M=hire+ımız ilk gün onboarding|E checklist'ini|M=checklist+ini bitirdi, çok hızlı
+müşteri escalation'ı|M=escalation+ı yüzünden bütün weekend|E çalıştık
+sprint|E velocity'miz|M=velocity+miz bu ay düştü, retro'da|M=retro+da sebebini tartıştık
+proje stakeholder'ları|M=stakeholder+ları her hafta farklı bir öncelik istiyor
+kpi|E dashboard'umuz|M=dashboard+umuz yeşil ama müşteriler mutsuz
+q4|E target'ları|M=target+ları açıklanınca sales|E ekibi panik oldu
+bu quarter'ın|M=quarter+ın en büyük win'i|M=win+i yeni müşterimiz oldu
+manager'ım|M=manager+ım bana stretch|E assignment|E verdi, her gün geç saate kadar çalışıyorum
+yeni process'imiz|M=process+imiz o kadar uzun ki bir onay için beş kişiye mail|E atıyoruz
+şirketin layoff|E haberinden sonra slack|N kanalları sessizleşti
+team|E offsite'ımız|M=offsite+ımız iptal oldu, budget|E kesintisi yüzünden
+yeni tool'umuzun|M=tool+umuzun license'ı|M=license+ı bitince herkes eski excel|N dosyalarına döndü
+müşteri meeting'inde|M=meeting+inde demo|E environment'ı|M=environment+ı çöktü
+performance|E improvement|E planı alan iş arkadaşım çok stresli
+şirketin hackathon'unda|M=hackathon+unda kazanan proje production'a|M=production+a alındı
+# end chunk
+# --- entertainment / music NE ---
+{{ coldplay'in }} istanbul|N konseri için bilet satışı başladığında site|T çöktü
+{{ the weeknd'in }} yeni albümü spotify'da|N rekor kırdı
+{{ dua lipa'nın }} konserinde sahne şovu inanılmazdı, her şarkıda farklı bir kostüm
+{{ billie eilish'in }} yeni şarkısını dinlerken içim burkuldu
+{{ arctic monkeys'in }} eski albümleri hala en sevdiğim playlist'te|M=playlist+te
+sertab|N erener'in|N eurovision|N şarkısı hala her düğünde çalıyor
+manga'nın|N we|N could|N be|N the|N same'i|N lise yıllarımın soundtrack'iydi|M=soundtrack+iydi
+{{ duman'ın }} konserinde bütün salon bir ağızdan şarkı söyledi
+{{ son feci bisiklet }} konserinde moshpit|E çok çılgındı
+{{ ezhel'in }} yeni şarkısının klibi youtube'da|N trend|E oldu
+# end chunk
+# --- parenting 3 ---
+bebeğin ilk birthday'i|M=birthday+i için smash|E cake|E çekimi yaptık, pasta her yere yapıştı
+çocuğun daycare'ine|M=daycare+ine giderken her sabah ağlıyor, öğretmen << it's normal >> dedi
+yeğenim bana cocomelon|N şarkılarını söyletti, şarkı üç gündür kafamda
+çocuk için baby|E monitor|E app'i|M=app+i kurduk, gece her hareketinde bildirim geliyor
+oğlumun ilk tooth|E fairy|E deneyimi için yastığının altına para koyduk, sabah mektup bıraktı
+kızım okulda ingilizce|N öğreniyor, evde bize << thank you mommy >> diyor
+bebek arabası alırken stroller|E modellerini karşılaştırmak araba almaktan zordu
+çocuğun doğum günü partisi için kids|E club'ı|M=club+ı kiraladık, ebeveynler bizden çok eğlendi
+yeğenim playstation|N oynamak için ödevlerini erken bitirmeye başladı, motivasyon bu
+kızım tiktok'ta|N gördüğü bir deneyi mutfakta yaptı, tezgah köpükle doldu
+oğlum lego|N setini bitirince instruction|E kitapçığını dikkatle sakladı
+çocuklarla road|E trip'te|M=trip+te arabada audiobook|E dinledik, kimse sıkılmadı
+kızımın okul play'i|M=play+i için kostüm yaparken bütün geceyi kumaş keserek geçirdim
+# end chunk
+# --- mixed medium 5 ---
+yeni açılan coworking|E space'te|M=space+te üyelik aldım, kahve sınırsız ama sandalyeler rahatsız
+arkadaşım bana bir side|E hustle|E fikri anlattı, aslında mlm|E çıktı
+kuzenim instagram'da|N home|E decor|E hesabı açtı, evinin her köşesini fotoğraflıyor
+sabah koşusundan sonra protein|A bar|T yedim, tadı karton gibiydi
+iş arkadaşım her toplantıya farklı bir mug|E ile geliyor, koleksiyonu elli tane olmuş
+yeni ev arkadaşım bana chore|E chart'ı|M=chart+ı gösterdi, bütün temizlik bana düşmüş
+annem whatsapp'ta|N bir zincir mesaj gönderdi, forward'lamazsam|M=forward+lamazsam şanssızlık gelecekmiş
+otelin spa'sında|M=spa+sında masaj yaptırırken uyuyakaldım, kendi horlamamla uyandım
+arkadaşlarla board|E game|E cafe'ye|M=cafe+ye gittik, {{ catan'da }} kimse ticket|E vermek istemedi
+yeni kulaklığımın transparency|E mode'u|M=mode+u sayesinde trafikte etrafı duyabiliyorum
+kahve dükkanında barista|E bana << for here or to go >> diye sordu, türkçe|N cevap verdim
+yeni projede client|E ile weekly|E sync|E toplantıları yapıyoruz, her hafta aynı konular
+kuzenim düğün davetiyesini qr|E kodla gönderdi, teyzeler nasıl açacağını bilmedi
+spor salonundaki tv'de sürekli aynı müzik kanalı açık, aynı on şarkı
+sevgilim bana netflix'te|N romantik bir film önerdi, korku filmi çıktı
+# end chunk
+# --- online classes / hobbies 5 ---
+online|E piyano kursunda teacher|E bana << slow down >> diye uyarıp durdu
+youtube'da|N bir chef|E kanalından ekmek yapmayı öğrendim, ilk ekmek taş gibi oldu
+duolingo|N bana her gün push|E notification|E gönderiyor, baykuş beni tehdit ediyor gibi
+masterclass'ta|N fotoğrafçılık dersi aldım, sonra telefonla daha iyi fotoğraf çektim
+skillshare'de|N procreate|N dersini bitirdim, ilk dijital çizimim bir kediydi
+online|E dans dersinde camera'yı|M=camera+yı açınca ev arkadaşım içeri girdi ve beni gördü
+coursera'da|N bitirdiğim kurs için certificate|E aldım, linkedin'e|N ekledim
+pilates|E app'i|M=app+i indirdim, her gün on dakika yapıyorum
+akşamları origami|O yapıyorum, en zor model|A bir turna kuşu
+evde sourdough|E yapmak için youtube'da|N bir baker'ı|M=baker+ı takip ediyorum, adam çok sakin
+# end chunk
+# --- city transport & travel quick ---
+metroda yanımdaki adam yüksek sesle speaker'dan|M=speaker+dan video|T izliyordu
+vapurda martılar simidimi kaptı, turistler video|T çekip güldü
+dolmuşta şoför para üstünü vermeyi unuttu, utandığım için sormadım
+havalimanında gate|E değişikliğini son anda fark ettim, koşarak yetiştim
+taksiciye google|N maps'teki|N rotayı gösterdim, kendi bildiği yoldan gitti
+otobüs durağındaki dijital ekranda bekleme süresi on dakika diyordu, yarım saat bekledim
+bisikletle işe giderken bike|E lane'de|M=lane+de park etmiş bir araba vardı
+istanbulkart'ım|N turnikede okumayınca arkamdaki kuyruk bana kızdı
+scooter|E kiralarken app|E kredi kartımı iki kez çekti
+uçakta yanımdaki yolcu bütün yolculuk boyunca bana life|E coaching|E yaptı
+tren yolculuğunda wifi|E çalışmadı, manzaraya bakıp kitap okudum
+otel resepsiyonunda check-in|E için iki saat bekledik, odamız hazır değilmiş
+airbnb'deki|N evin wifi|E şifresi buzdolabının üstünde yazıyordu
+yurt dışında roaming|E paketini açmadan internete girdim, fatura geldi
+# --- ekşi entry style ---
+toplantı ortasında kameranın açık olduğunu unutmak, bir kere başıma geldi, o günden beri her call'da|M=call+da kamerayı iki kez kontrol ediyorum
+pazartesi sendromu, hafta sonunun bütün enerjisini pazar akşamı sunday|E scaries|E ile bitirip pazartesiye boş başlamak
+plaza dili, toplantıda bu konuyu bir deep|E dive|E yapalım denince herkesin başını sallayıp kimsenin bir şey yapmaması
+instagram|N story|E izleme sırası, en son kimin story'mi|M=story+mi izlediğine bakmak bir tür hobi
+netflix|N şifresi, bir aileyi bir arada tutan son bağ
+yemek siparişi verirken bir saat menü incelemek, sonra yine aynı dürümü söylemek, bkz: decision|E fatigue|E
+kahve fiyatları, starbucks'ta|N bir latte|E ile bir öğün yemek arasında seçim yapmak zorunda kalmak
+çalışırken müzik dinlemek, lo-fi|E olmadan kod yazamayan bir nesil yetişti
+spor salonu üyeliği, ocakta alınıp şubatta unutulan, sektörü ayakta tutan şey
+linkedin|N gönderileri, herkesin her başarısızlığı bir << learning experience >> olarak paylaştığı yer
+whatsapp|N aile grubu, sabah günaydın mesajları ve doğrulanmamış haberlerin buluştuğu platform|A
+uber|N şoförleriyle sohbet, bazen bir terapi seansı, bazen bir siyaset paneli
+cuma akşamı yorgunluğu, plan yapıp sonra hepsini iptal edip evde netflix|N izlemek
+ikea|N alışverişi, bir mum almaya gidip bir kanepe ile dönmek
+podcast|E dinlemek, yolda giderken kendini bir şey öğreniyormuş gibi hissetmek
+# end chunk
+# --- ekşi entry style 2 ---
+mesai sonrası slack|N bildirimi, akşam yemeğinde bile insanın kalbini hızlandıran ses
+yeni telefon almak, ilk hafta her şeyi çok dikkatli kullanıp ikinci hafta yere düşürmek
+online|E alışverişte sepeti doldurup ödeme sayfasında vazgeçmek, budget|E korumanın en kolay yolu
+zoom|N yorgunluğu, bütün gün ekrana bakıp akşam kimseyle konuşmak istememek
+tatil fotoğrafları, telefonda iki bin tane olup bir kere bile bakılmayan anılar
+startup|E kültürü, beanbag|E koltuklar ve ücretsiz kahve ile düşük maaşı telafi etme sanatı
+spotify|N wrapped|N haftası, herkesin müzik zevkini kanıtlamaya çalıştığı bir hafta
+youtube|N reklamları, beş saniye sonra atla butonu çıkmayan en sinir bozucu şey
+iş ilanlarındaki dinamik ekip ifadesi, genelde fazla mesai demek
+kargo takip numarası, paket gelene kadar günde on kez bakılan bir sayı
+instagram|N filtreleri, gerçek hayatta tanınmamanın garantisi
+gece yarısı buzdolabı ziyareti, diyet planlarının sessiz katili
+yazılımcı esprileri, sadece diğer yazılımcıların güldüğü ama herkesin anlıyormuş gibi yaptığı şakalar
+grup ödevleri, bir kişinin bütün işi yapıp herkesin aynı notu aldığı sistem
+emoji|E kullanımı, gülen yüzün nesilden nesile farklı anlamlar taşıdığı bir dil
+# end chunk
+# --- office and remote work, denser ---
+sprint|E planning'de|M=planning+de herkes task'larını|M=task+larını estimate|E ederken ben hâlâ kahvemi bekliyordum
+manager'ım|M=manager+ım bana feedback'i|M=feedback+i one|E on|E one'da|M=one+da vermek yerine herkesin önünde verdi
+bu hafta üç tane deadline|E var ve hiçbirine yetişeceğimi sanmıyorum
+remote|E çalışınca evdeki kedi her call'a|M=call+a katılmaya başladı
+yeni intern|E ilk gününde production|E database'ini|M=database+ini sildi, herkes şokta
+team|E lead'imiz|M=lead+imiz bize her cuma retrospective|E yaptırıyor ama hiçbir şey değişmiyor
+toplantıyı reschedule|E ettiler ama kimse calendar'ı|M=calendar+ı güncellemedi
+slack|N kanalında biri << quick question >> yazınca bir saatlik bir sohbet başlayacağını biliyorsun
+kpi'larımızı|M=kpi+larımızı tutturamadık diye bonus|E yok dediler
+ofiste hybrid|E model|A geldi, salı ve perşembe herkes ofiste
+onboarding|E sürecinde bana bir laptop|E ve üç yüz sayfalık bir document|E verdiler
+code|E review'da|M=review+da yorumları okuyunca kendimi yeniden junior|E gibi hissettim
+client|E feedback'i|M=feedback+i gelince logo|T rengini on birinci kez değiştirdim
+okr|E toplantısında hedefleri yazdık, üç ay sonra kimse hatırlamıyor
+iş görüşmesinde maaş beklentimi sordular, rakam söyleyince interviewer'ın|M=interviewer+ın yüzü düştü
+linkedin'de|N herkes << excited to announce >> diye başlıyor, ben de yeni işimi öyle duyurdum
+bu ay overtime|E yapmaktan sosyal hayatım bitti
+şirketin yeni dashboard'u|M=dashboard+u o kadar yavaş ki excel'e|N geri döndük
+jira|N ticket'ımı|M=ticket+ımı kapattım ama qa|E ekibi tekrar açtı
+standup|E toplantısı on beş dakika olacaktı, kırk beş dakika sürdü
+müdür bana bu task'ı|M=task+ı asap|E bitirmemi söyledi ama ne istediğini kendisi de bilmiyor
+freelance|E çalışırken invoice|E kesmeyi unutursan ay sonu çok acı oluyor
+şirketin internal|E tool'u|M=tool+u o kadar eski ki internet|N explorer|N isteyen bir ekranı var
+zoom|N call'unda|M=call+unda mute|E tuşunu unutup annemle konuştuğumu herkes duydu
+haftalık report|E hazırlamak işimin yarısını alıyor
+bugün işte productive|E bir gün geçirdim, iki email|E attım
+ekip arkadaşım her mesajın sonuna thanks|E in|E advance|E yazıyor
+pazartesi sabahı all|E hands|E toplantısı en sevmediğim şey
+yeni laptop'umun|M=laptop+umun keyboard'u|M=keyboard+u öncekinden çok daha iyi
+şirket bize wellness|E app'i|M=app+i verdi ama maaşa zam yapmadı
+performans review'umda|M=review+umda bana << meets expectations >> yazdılar, ne demek bilmiyorum
+dün gece deploy|E sırasında her şey patladı, sabaha kadar hotfix|E yazdık
+müşteriyle meeting'de|M=meeting+de demo|E çalışmadı, klasik
+iş arkadaşım bana her şeyi cc'liyor|M=cc+liyor, inbox'ım|M=inbox+ım taştı
+slack'te|N status'umu|M=status+umu away|E yapınca kimse yazmıyor, harika bir trick|E
+bu sprint'te|M=sprint+te bug|E fix'lerden|M=fix+lerden yeni feature'a|M=feature+a vakit kalmadı
+yeni ceo|E geldi ve ilk iş olarak bütün meeting'leri|M=meeting+leri iptal etti, efsane adam
+iş ilanında entry|E level|E yazıp beş yıl experience|E istiyorlar
+hr|E departmanı bize anket gönderdi, kimse doldurmadı
+ofisin mutfağındaki coffee|E machine'i|M=machine+i bozuk, bütün kat mutsuz
+# --- money and shopping, denser ---
+maaş yattı, sepetimdeki her şeyi checkout'a|M=checkout+a gönderdim
+trendyol'da|N indirim kodu girince fiyat düşmedi, scam|E gibi hissettim
+kredi kartımın cashback|E kampanyası bitince harcamam da azaldı
+bitcoin'e|N yatırım yapan arkadaşım her gün portfolio'suna|M=portfolio+suna bakıp ağlıyor
+black|E friday|E indirimleri aslında fiyatları önce artırıp sonra düşürmekmiş
+subscription|E sayısı arttıkça ay sonunda neye para verdiğimi bilmiyorum
+amazon'dan|N aldığım ürün review'larda|M=review+larda harika görünüyordu, gelen şey tamamen farklı
+saving|E yapmaya karar verdim, ilk hafta yeni kulaklık aldım

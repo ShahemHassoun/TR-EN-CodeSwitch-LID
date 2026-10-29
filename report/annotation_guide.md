@@ -115,7 +115,10 @@ nothing to argue about later.
 | `türkçe`, `ingilizce` | NE | language names (TurEngMix majority) |
 | `xbox 360`, `windows 10` | NE | number is part of a name |
 | `15dk`, `%50'sini`, `2026'da` | TR | number outside a name, in Turkish |
-| `tv'nin` | TR | follows TurEngMix (seen once) |
+| `tv'nin`, `platformu`, `mangası` | TR | a both-languages word + Turkish ending is TR (TurEngMix) |
+| `türk`, `japon`, `alman` | NE | nationality words, like language names (TurEngMix majority) |
+| `final`, `pilot`, `sponsor`, `poster` | TR | established Turkish words |
+| `black friday'de` | EN + MIXED | an English phrase, not a name (TurEngMix) |
 | `site`, `internet` in a Turkish sentence | TR | nativised |
 | keyboard mash (`kasdjkajh`) | — | TurEngMix is inconsistent (OTHER once, AMBIGUOUS once). Do not put these in generated data. |
 

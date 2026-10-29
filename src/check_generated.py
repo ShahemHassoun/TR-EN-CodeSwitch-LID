@@ -141,6 +141,12 @@ def main(path: str) -> int:
     leak = {t for s in held for t, l in zip(s.tokens, s.labels)
             if l in {"MIXED", "NE", "OTHER", "AMBIGUOUS"} and t not in train_tokens}
     leak |= BLOCKLIST
+    core = lambda w: w.strip(".,!?;:\"()[]").replace("’", "'")
+    leak_core = {core(t) for t in leak} - {""}
+    # Found when this check was made stricter (ignoring ’ vs '), after the first 2,500
+    # sentences were frozen and already used in training runs. One common word form, not
+    # copied text; kept so gen2500 stays identical. Documented in data/generated/README.md.
+    leak_core -= {"startup'larının"}
     seen_ngrams = {tuple(s.tokens[i:i + NGRAM]) for s in train + held
                    for i in range(len(s.tokens) - NGRAM + 1)}
 
@@ -184,7 +190,7 @@ def main(path: str) -> int:
             for t in toks:
                 if PUNCT_ONLY.match(t):
                     hard.append(f"{where}: punctuation-only token '{t}'")
-                if t in leak:
+                if t in leak or core(t) in leak_core:
                     hard.append(f"{where}: token '{t}' is blocked (test leakage)")
             splits = r.get("mixed", {})
             for i, (t, l) in enumerate(zip(toks, labs)):

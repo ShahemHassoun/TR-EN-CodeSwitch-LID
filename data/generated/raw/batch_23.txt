@@ -1,0 +1,209 @@
+# batch 23 — informal spelling, tech jargon, mixed density
+# --- informal spelling ---
+bi tane daha meeting|E koyarlarsa istifa edicem
+napıyosun bu akşam, chill|E bi şeyler yapalım mı
+ya bu adam her şeyi overthink|E ediyo
+yarın sabah erkenden flight'ım|M=flight+ım var, uyusam iyi olur
+bişey sorcam, bu app|E bedava mı
+abi çok tired|E oldum bugün, eve gidip yatıcam
+şu an full|E stres moddayım, deadline|E yarın
+napcaz şimdi, rezervasyon|T iptal olmuş
+valla bu kadar cute|E bir köpek görmedim
+çok random|E bi soru ama sende şarj aleti var mı
+offf bugün hiçbir şey yolunda gitmedi, total|E disaster|E
+ciddi ciddi bu dizinin hype'ı|M=hype+ı boşuna
+aynen ya, ben de aynı şeyi düşündüm, so|E true|E
+bi dk|T bekle, call'dayım|M=call+dayım
+kanka bu indirim fırsatını kaçırma, link|E aşağıda
+ya bu kadar mı awkward|E olur bi tanışma
+yemin ederim bu sezon fenerbahçe|N şampiyon olur
+tamam tamam anladım, chill|E ol biraz
+gerçekten çok sorry|E, yanlışlıkla sildim
+yaa bu hava çok gloomy|E, hiç dışarı çıkasım yok
+napiyim, hayat böyle, deal|E with|E it|E
+herkes bu konuda expert|E kesildi birden
+bu kadar fazla notification|E gelince telefonu kapattım
+bence overrated|E bi film, o kadar da iyi değil
+şu an mood'um|M=mood+um tamamen kahve ve battaniye
+ya bi gün de plan|T iptal olmasın
+offf yine update|E istiyo bu telefon
+abi bu gece vibe|E çok farklı, herkes dans ediyo
+neyse boşver, whatever|E
+kanka seni miss|E ettim, ne zaman görüşüyoz
+# --- software jargon ---
+backend'de|M=backend+de bir endpoint|E yazdım ama frontend|E ekibi farklı format|T bekliyormuş
+api'nin|M=api+nin response'u|M=response+u çok yavaş, cache|E eklememiz lazım
+unit|E testleri geçti ama integration|E testi patladı
+docker|N container'ı|M=container+ı ayağa kalkmıyor, log'lara|M=log+lara baktım hiçbir şey yok
+branch'imi|M=branch+imi main'e|M=main+e merge|E ederken conflict|E çıktı
+production'da|M=production+da bir bug|E var ve sadece cuma akşamları oluyor
+yeni framework'ü|M=framework+ü öğrenmek için hafta sonumu harcadım
+database|E migration'ı|M=migration+ı yaparken bütün tablo kilitlendi
+code|E base|E o kadar eski ki yorumlarda 2009|T tarihi var
+ci|E pipeline'ı|M=pipeline+ı yirmi dakika sürüyor, her push'ta|M=push+ta kahve molası
+legacy|E kodu refactor|E etmek istedim, manager'ım|M=manager+ım şimdi olmaz dedi
+stack|N overflow'da|N aynı hatayı soran biri var ama cevap yok
+yeni intern|E commit|E message'larına|M=message+larına sadece fix|E yazıyor
+server'ı|M=server+ı restart|E edince her şey düzeldi, kimse nedenini bilmiyor
+kubernetes|N cluster'ında|M=cluster+ında bir pod|E sürekli crash|E oluyor
+python|N script'im|M=script+im local'de|M=local+de çalışıyor ama server'da|M=server+da çalışmıyor
+pair|E programming|E yaparken arkadaşım klavyeyi bırakmıyor
+yeni feature|E flag|E sistemiyle her şeyi önce yüzde beş kullanıcıya açıyoruz
+hackathon'da|M=hackathon+da kırk sekiz saatte bir prototype|E çıkardık
+open|E source|E projeye ilk contribution'ımı|M=contribution+ımı yaptım
+bu fonksiyonun edge|E case'lerini|M=case+lerini düşünmemişim
+code|E review|E yapan arkadaş her satıra nit|E yazmış
+dependency|E güncellemesi yüzünden bütün build|E kırıldı
+staging'de|M=staging+de her şey çalışıyordu, yemin ederim
+yeni bir side|E project'e|M=project+e başladım, domain|E aldım ve orada kaldım
+devops|E ekibi deploy|E pencerelerini değiştirdi, artık gece yarısı
+stack|E trace'i|M=trace+i okuyunca hatanın üçüncü parti kütüphanede olduğunu gördüm
+algoritma sorusunda brute|E force|E çözüm yazdım, interviewer|E optimize etmemi istedi
+leetcode|N çözmekten rüyamda bile binary|E tree|E görüyorum
+bu sprint'in|M=sprint+in velocity'si|M=velocity+si çok düştü
+mobile|E app'in|M=app+in crash|E raporları her gün geliyor
+yeni junior|E developer|E bana her gün git|N sorusu soruyor
+ai|E tool'ları|M=tool+ları kod yazmayı hızlandırıyor ama debug|E etmeyi zorlaştırıyor
+loglarda null|E pointer|E exception|E görünce derin bir nefes aldım
+# --- data and ai ---
+model|A training'i|M=training+i üç gün sürdü, sonuç berbat
+dataset'te|M=dataset+te label'lar|M=label+lar yanlışmış, her şeyi baştan yaptık
+gpu|E kiralamak için ayda yüzlerce dolar ödüyoruz
+fine-tuning|E yaparken learning|E rate'i|M=rate+i yanlış ayarlamışım
+dashboard'daki|M=dashboard+daki metric'ler|M=metric+ler gerçeği yansıtmıyor
+sql|E query'm|M=query+m bir saattir çalışıyor
+excel'de|N pivot|E table|E yapmayı öğrenince iş hayatım değişti
+prompt|E engineering|E diye bir meslek çıktı, annem anlamıyor
+chatbot'a|M=chatbot+a sorduğum soruya yanlış cevap verdi ama çok emin konuşuyordu
+data|E cleaning|E işin yüzde sekseni, gerisi grafik
+overfitting|E olmuş, validation|E skoru düştü
+yeni llm|E çıktı, herkes benchmark|E sonuçlarını paylaşıyor
+# --- third languages and interjections ---
+japonya'da|N her yerde arigato|O deyip eğildim, döndüğümde de devam ettim
+paris'te|N kafede merci|O demeyi öğrendim, gerisi ingilizce|N
+almanca|N kursunda ilk öğrendiğim kelime kindergarten|O oldu
+ispanya'da|N herkes bana hola|O diye selam verdi
+italyan|N arkadaşım her mesajı ciao|O bella|O diye bitiriyor
+korece|N dizi izleye izleye annyeong|O demeye başladım
+viyana'da|N bir kafede garson danke|O dedi, ben de refleksle teşekkürler dedim
+hey|A, bu akşam ne yapıyoruz
+ooh|A, bu çok güzel bir fikir
+pardon|A, yanlış numarayı aramışım
+oops|E, yanlışlıkla herkese gönderdim
+wow|E, bu manzara inanılmaz
+ugh|E, yine pazartesi
+yay|E, maaş yattı
+# --- everyday with NE ---
+migros'ta|N self-checkout|E kasası yine bozuktu
+a101'de|N haftanın aktüel ürünü yine air|E fryer|E
+ankara'daki|N kuzenim bana hafta sonu için couchsurfing|E önerdi
+bim'de|N sıra o kadar uzundu ki podcast'in|M=podcast+in yarısını bitirdim
+tuğba|N bana yeni açılan rooftop|E kafeyi önerdi
+murat|N hoca|T derste sürekli case|E study|E veriyor
+karaköy'de|N bir specialty|E coffee|E dükkanı açılmış, fiyatlar inanılmaz
+kadıköy|N çarşısında street|E food|E turu yaptık
+sabiha|N gökçen'de|N boarding|E kuyruğu bir saat sürdü
+ege'de|N bir köyde digital|E nomad|E gibi yaşamak hayalim
+fatma|N teyze|T yeni öğrendiği emoji'leri|M=emoji+leri her mesajda kullanıyor
+ikea'dan|N aldığımız kitaplık kurulum manual'ı|M=manual+ı olmadan geldi
+bağdat|N caddesi'nde|N yeni bir concept|E store|E açılmış
+efe|N ile ozan|N bodrum'da|N beach|E club'da|M=club+da çalışıyor
+mavi'de|N indirim varmış, bütün jean'leri|M=jean+leri denedim
+eminönü'nde|N simit alıp vapurda martılara verdim
+yusuf|N amca|T her sabah haber kanalını açıp breaking|E news|E bekliyor
+cihangir'deki|N kafede herkes laptop|E açmış çalışıyor
+d&r'dan|N aldığım kitabın ikinci cildi stokta yokmuş
+ekin|N bana netflix|N şifresini verdi, karşılığında ben de spotify'ı|N paylaştım
+# --- mixed density everyday ---
+sabah coffee|E almadan kimseyle konuşamıyorum
+bu ay budget'ımı|M=budget+ımı aştım, gelecek ay daha dikkatli olacağım
+evde workout|E yapmaya çalışıyorum ama kanepe beni çağırıyor
+uyku schedule'ım|M=schedule+ım tamamen bozuldu
+hafta sonu planımız: brunch|E, sinema, erken uyku
+yeni skincare|E routine'im|M=routine+im üç adımdan oluşuyor
+telefonumda yüz tane screenshot|E var, hiçbirine bakmıyorum
+bu kitabı audiobook|E olarak dinledim, okumaktan daha keyifli
+dün gece insomnia|E yüzünden tavana baktım
+kahvaltıda smoothie|E içmeye başladım, ilk gün çok güzeldi
+kendime bir journal|E aldım, ilk sayfada kaldım
+akşam yürüyüşüne çıkınca step|E count|E hedefimi tutturdum
+gece tv|A izlerken uyuyakalmışım
+hafta içi meal|E planım hiç tutmuyor
+kısa bir power|E nap|E her şeyi düzeltir
+bu sabah alarm|T çalmadı, işe geç kaldım
+yarın early|E morning|E toplantım var, erken yatmalıyım
+kendime bir reading|E challenge|E koydum, yılda elli kitap
+# --- longer posts 2 ---
+geçen hafta işten çıkarıldım, şirket layoff|E kararını bir zoom|N call'unda|M=call+unda açıkladı, kamera kapalı bir hr|E çalışanı on dakikada iki yüz kişiye haberi verdi ve call|E bittiğinde slack|N hesabımız çoktan kapanmıştı
+bir arkadaşım sürekli << let's catch up >> diyor ama ne zaman plan|T yapmaya çalışsam meşgul çıkıyor, artık ben de sadece bir gün görüşürüz diyorum ve ikimiz de bunun olmayacağını biliyoruz
+yeni bir dil öğrenmek için duolingo'ya|N başladım, streak'im|M=streak+im iki yüz günü geçti ama hâlâ restoranda yemek sipariş edecek kadar bile konuşamıyorum, baykuş beni her gün tehdit ediyor
+şirketin yıllık offsite'ı|M=offsite+ı için çeşme'ye|N gittik, iki gün boyunca workshop|E yaptık, akşamları da team|E dinner|E vardı, dönüşte herkes çok yorgundu ve pazartesi kimse işe odaklanamadı
+üniversitede bir club|E başkanı oldum, ilk etkinliğimiz için sponsor bulmak, mekân ayarlamak ve poster basmak iki hafta sürdü, etkinliğe on iki kişi geldi ama hepsi çok memnun ayrıldı
+ilk kez bir maraton koştum, son beş kilometrede bacaklarım beni terk etti ama finish|E line'ı|M=line+ı geçtiğimde ağladım, şimdi bir sonraki yarış için training|E programı yapıyorum
+eski telefonumu satmak için ilan verdim, ilk gelen mesaj << is this still available? >> oldu, sonra fiyatın yarısını teklif ettiler, en sonunda telefonu kardeşime verdim
+yazın bir ay boyunca interrail|E yaptım, on iki şehir gezdim, her gece farklı bir hostel'de|M=hostel+de uyudum ve sırt çantam o kadar ağırdı ki dönüşte sırtım ağrıyordu ama hayatımın en güzel ayıydı
+kardeşim bilgisayar oyunlarına o kadar bağlı ki annem wifi|E şifresini her akşam saat onda değiştiriyor, kardeşim de her akşam yeni şifreyi bulmanın bir yolunu buluyor, bu evde bir cyber|E war|E var
+bu sabah işe giderken telefonumu evde unuttuğumu fark ettim, bütün gün mail|E kontrol edemedim, kimseye mesaj atamadım ve garip bir şekilde son yılların en huzurlu günü oldu
+yeni işimde ilk hafta herkes bana onboarding|E buddy'm|M=buddy+m kim diye sordu, kimse atanmamıştı, sonunda kendi kendimi onboard|E ettim ve bir wiki|E sayfası yazıp sonraki gelenlere bıraktım
+geçen ay ev arkadaşlarımla bir chore|E chart|E yaptık, kim bulaşık yıkayacak kim çöpü atacak hepsi yazılı, ilk hafta mükemmel gitti, ikinci hafta herkes kâğıdı görmezden gelmeye başladı
+# --- fashion and beauty ---
+bu sezonun trend|E rengi yine bej, herkes aynı giyiniyor
+oversize|E ceket aldım, annem bana babamın ceketini mi giydin dedi
+makyaj tutorial'ında|M=tutorial+ında contour|E yapmayı öğrendim ama yüzüm çizgili oldu
+yeni parfümün top|E note'ları|M=note+ları çok tatlı ama iki saat sonra kayboluyor
+capsule|E wardrobe|E yapmaya çalıştım, dolapta hâlâ yüz parça kıyafet var
+kuaförde balayage|E yaptırdım, saçım turuncu oldu
+vintage|E mağazasından aldığım deri ceket hayatımın en iyi alışverişi
+sneaker|E koleksiyonum için ayrı bir dolap aldım
+ojeyi kendim yaptım, sonuç tam bir disaster|E
+yeni gözlük frame'imi|M=frame+imi herkes beğendi
+düğün için dress|E code|E black|E tie|E yazıyordu, kimse uymadı
+streetwear|E markalarının fiyatları artık lüks markalarla yarışıyor
+# --- holidays and traditions ---
+bayramda el öpmeye gidince kuzenlerle gaming|E turnuvası yaptık
+yılbaşında secret|E santa|E oyunu oynadık, bana çorap çıktı
+ramazanda iftardan sonra arkadaşlarla board|E game|E oynuyoruz
+bayram tatilinde road|E trip|E yaptık, yolda dört saat trafikte kaldık
+yılbaşı gecesi countdown|E sırasında televizyon dondu
+kurban bayramında annemler bütün akrabaları brunch'a|M=brunch+a çağırdı
+sevgililer gününde fancy|E bir restorana gittik, hesap gelince ayıldım
+halloween|N partisinde kostümümü kimse anlamadı
+anneler günü için annemin favori çiçeklerinden bir bouquet|E hazırladım
+doğum günümde arkadaşlarım surprise|E yaptı, gerçekten şaşırdım
+# --- economy and prices ---
+enflasyon yüzünden fiyatlar o kadar hızlı değişiyor ki price|E tag'leri|M=tag+leri her hafta yenileniyor
+dolar yine yükselince online|E alışveriş sepetim boşaldı
+kira artışı yüzünden roommate|E aramaya başladım
+maaş zammı geldi ama market|T fiyatları çoktan geçti
+yatırım için index|E fund|E öneren arkadaşım kendisi hiç yatırım yapmıyor
+kahve fiyatı artık bir öğle yemeği kadar, homemade|E kahveye döndüm
+ikinci el araba fiyatları sıfırından pahalı olmuş
+cashback|E kampanyası olmasa bu kartı hiç kullanmazdım
+bu ay bütün subscription'larımı|M=subscription+larımı iptal ettim, sadece bir tanesi kaldı
+öğrenci indirimi için student|E id|E göstermem gerekiyor ama mezun olalı iki yıl oldu
+# --- health and fitness (general) ---
+akıllı saatim günde on bin step|E atmamı istiyor, ben ancak üç bin atıyorum
+haftada iki gün pilates|E yapıyorum, duruşum düzeldi ve sırt ağrım geçti
+sabah stretching|E yapınca gün daha iyi başlıyor
+su içme app'i|M=app+i her saat bana hatırlatma gönderiyor
+spor salonunda personal|E best|E rekorumu kırdım
+koşu bandında interval|E training|E yaptım, nefesim kesildi
+yeni protein|A barları çikolata gibi ama pahalı
+hafta sonu hiking|E yaptık, dönüşte bacaklarım tutulmuştu
+fitness|E influencer'larının|M=influencer+larının programlarını yapmaya çalışmak hata
+günde sekiz saat uyumaya başladım, hayatım değişti, sleep|E is|E everything|E
+# --- misc short ---
+yeni podcast|E bölümünde konuk o kadar çok konuştu ki host|E araya giremedi
+kitapçıda bestseller|E rafındaki kitapların yarısı aynı kapak tasarımına sahip
+bu sabah traffic|E jam|E yüzünden toplantıya yirmi dakika geç kaldım
+otelde late|E checkout|E istedim, ek ücret istediler
+müzede audio|E guide|E aldım ama pili yarıda bitti
+arkadaşımın düğününde best|E man|E konuşmasını ben yaptım, herkes ağladı
+gece yarısı snack|E yemek için mutfağa gittim, babamla karşılaştık
+yeni aldığım koltuk delivery|E sırasında çizilmiş
+hafta sonu staycation|E yaptık, şehirde bir otelde kaldık
+kafede barista|E bana latte|E art|E olarak kalp çizdi
+yazın summer|E school|E için londra'ya|N gidiyorum
+kuaför bana layered|E kesim önerdi, sonuç beklediğim gibi değil
+uçakta window|E seat|E istedim, kanadın üstüne denk geldi
+çocukken en sevdiğim çizgi film cartoon|N network'te|N

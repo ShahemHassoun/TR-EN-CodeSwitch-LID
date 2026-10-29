@@ -1,0 +1,217 @@
+# batch_13 — mixed density, longer posts. Written by Claude (Anthropic); style seeded by TurEngMix train split.
+# --- tech life ---
+yeni laptop'umu|M=laptop+umu aldığımda ilk iş bütün gereksiz uygulamaları sildim, dell|N bilgisayarlar bu konuda rekor kırıyor
+iphone'dan|N android'e|N geçtim, ilk hafta bütün gesture'ları|M=gesture+ları karıştırdım ama sonunda alıştım
+evdeki mesh|E wifi|E sistemi sayesinde artık banyoda bile netflix|N izleyebiliyorum, hayat kalitem arttı
+kodlama yaparken mechanical|E keyboard|E sesi bana konsantrasyon veriyor, ev arkadaşım ise kafayı yiyor
+şirket bana yeni bir monitor|E verdi, dual|E screen|E setup'ına|M=setup+ına geçince verimliliğim iki katına çıktı
+github'da|N açtığım issue'ya|M=issue+ya maintainer|E bir yıl sonra cevap verdi, << is this still relevant >> diye sordu
+yazılım ekibimizde code|E review|E kültürü o kadar güçlü ki bir satırlık değişiklik için on comment|E geliyor
+excel|N makrolarıyla raporları otomatikleştirdim, müdürüm hala elle yaptığımı sanıyor
+cloud|E storage|E faturamız beklenenden yüksek gelince eski backup'ları|M=backup+ları temizlemek bir haftamızı aldı
+akıllı telefonumda screen|E time|E sınırı koydum, ilk gün şifreyi kendime söyleyip sınırı kaldırdım
+evdeki bütün cihazları google|N home'a|N bağladım, artık sabah << good morning >> deyince perdeler açılıyor
+oyun bilgisayarımın psu'su|M=psu+su yanınca bütün oda yanık koktu, neyse ki diğer parçalar sağlam çıktı
+şirkette yeni bir saas|E aracına geçtik, onboarding|E webinar'ı|M=webinar+ı iki saat sürdü ve kimse dinlemedi
+# --- long posts ---
+bu şehirde kiralık ev bulmak tam bir survival|E game|E, sahibinden'de|N ilan açılır açılmaz emlakçılar arıyor, eve gidiyorsun ve yirmi kişi daha bakıyor, ev sahibi de en yüksek teklifi verene veriyor, sonunda biz de bir bodrum katında kaldık
+yıllar sonra lise arkadaşlarımla reunion|E yaptık, herkes instagram'dan|N gördüğümüz hayatlardan çok farklıydı, biri startup|E kurmuş batırmış, biri öğretmen olmuş, biri de hala aynı mahallede yaşıyor ve en mutlu görünen oydu
+ilk kez kendi başıma ikea|N mobilyası kurdum, talimat kağıdında sadece resimler vardı ve ben üç saat boyunca a parçasının b parçasına nasıl girdiğini çözmeye çalıştım, sonunda dolap ayakta ama bir kapısı ters
+mezuniyetten sonra ilk iş başvurularımı yaparken her ilanda << three years of experience >> istendiğini gördüm, junior|E pozisyon için bile, sonunda bir staj buldum ve oradan devam ettim
+annem bana her telefon görüşmemizde yemek yiyip yemediğimi soruyor, ben de ona her seferinde instagram|N story'mdeki|M=story+mdeki yemek fotoğraflarını gösteriyorum, ama yine de soruyor
+# --- sports / fitness ---
+maraton|T antrenmanında long|E distance|E gününde yirmi beş kilometre koştum, ertesi gün merdiven inmek kabus oldu
+ankara'da|N bir crossfit|N box'una|M=box+una katıldım, ilk wod'da|M=wod+da yerde yatarken koç bana << great job >> dedi
+fenerbahçe|N maçında var|T kararını beklerken tribünde herkes nefesini tuttu, gol iptal olunca stadyum sessizleşti
+yüzme dersinde freestyle|E nefes almayı öğrenene kadar havuzun yarısını yuttum
+spor salonunda yeni bir hareket denemek için youtube'dan|N tutorial|E izledim, sonra yine de yanlış yaptım
+# end chunk
+# --- food & cafes 5 ---
+kadıköy'deki|N yeni ramen|A dükkanında broth|E o kadar yoğundu ki kaşığı bırakamadım
+moda'daki|N kahvecide barista|E bana ethiopian|E çekirdeklerin fruity|E notalarını anlattı, ben sadece kahve istiyordum
+beşiktaş'ta|N bir burger'cıda|M=burger+cıda double|E patty|E sipariş ettim, yarısını eve götürdüm
+nişantaşı'ndaki|N bakery'de|M=bakery+de bir croissant|E yüz elli lira, ama tadı paris'tekinden|N farksızdı
+karaköy'de|N brunch|E yaptığımız yerde eggs|E benedict|E vardı ama yanında simit de vardı, fusion|E dedikleri bu
+cihangir'de|N vegan|E bir kafede jackfruit|E burger|E denedim, tadı tavuğa çok benziyordu
+istanbul'un|N en iyi baklavasını bulmak için food|E tour'a|M=tour+a katıldık, rehber bizi karaköy|N güllüoğlu'na|N götürdü
+yeni açılan specialty|E çay dükkanında matcha|O ceremony'si|M=ceremony+si izledik, sonunda içtiğimiz çay soğumuştu
+gece yarısı kumpir için ortaköy'e|N gittik, sıradaki turistler her şeyi instagram'a|N çekiyordu
+balat'taki|N küçük kahvaltıcıda serpme kahvaltı o kadar büyüktü ki iki saat masadan kalkamadık
+# --- relationships 5 ---
+sevgilimle aynı netflix|N profilini kullanıyoruz, bu yüzden continue|E watching|E listemiz tam bir kaos
+nişanlım düğün için playlist|E hazırlarken her şarkıda veto hakkını kullandı
+evlilik yıl dönümümüzde ilk date'imizin|M=date+imizin yapıldığı restorana gittik, restoran kapanmıştı
+partnerimle couple|E therapy'ye|M=therapy+ye gitmeye başladık, terapist ilk seansta telefonlarımızı bıraktırdı
+eşim bana sürekli reels|E gönderiyor, ben hepsini akşam yatarken izliyorum
+kız arkadaşım instagram'da|N couple|E fotoğrafı paylaşmak istiyor, ben ise private|E biriyim
+sevgilimle long|E distance|E dönemde her gece facetime|N açık uyuyorduk
+düğünümüzün hashtag'ini|M=hashtag+ini seçmek için iki hafta tartıştık, sonunda kimse kullanmadı
+eşim bana kahve yaparken latte|E art|E denemeye başladı, her gün kalpten çok patates çıkıyor
+ilk kavgamız ikea'da|N oldu, hangi kanepeyi alacağımızda anlaşamadık
+# end chunk
+# --- MIXED-rich everyday ---
+sabah alarmı duymadım, toplantıya geç kaldım ve manager'ım|M=manager+ım beni zoom'da|N bekletti
+yeni aldığım hoodie'nin|M=hoodie+nin kapüşonu o kadar büyük ki içinde kayboluyorum
+podcast'leri|M=podcast+leri 1.5x|E hızda dinleyince normal insanlarla konuşmak yavaş geliyor
+weekend'leri|M=weekend+leri artık sadece uyuyarak geçiriyorum, sosyal hayatım yok
+spotify'daki|N playlist'lerim|M=playlist+lerim ruh halime göre isimlendirilmiş, birinin adı sadece << sad >>
+laptop'umun|M=laptop+umun klavyesine kahve döktüm, b|E tuşu artık çalışmıyor
+deadline'dan|M=deadline+dan önceki gece her zaman en productive|E olduğum gece
+email'lerimi|M=email+lerimi sabah ilk iş kontrol etmemeye çalışıyorum ama hep başarısız oluyorum
+cv'me|M=cv+me yeni bir skill|E ekledim, chatgpt|N kullanabiliyorum yazdım
+instagram'daki|N close|E friends'e|M=friends+e eklediğim kişiler aslında sadece kedim fotoğraflarını görüyor
+gym'e|M=gym+e gitmek için aldığım pre-workout|E bana kalp çarpıntısı yaptı
+bu hafta üç tane webinar'a|M=webinar+a katıldım, hepsinde kamerayı kapatıp yemek yedim
+yeni phone'umun|M=phone+umun bataryası eskisinden daha kötü, update|E sonrası bozuldu
+online|E siparişlerimin tracking'ini|M=tracking+ini takip etmek bir hobi haline geldi
+kahve shop'larında|M=shop+larında çalışan laptop'lı|M=laptop+lı insanlar artık mobilyanın bir parçası
+flat|E white'ı|M=white+ı bir kez denedim, artık başka bir şey içemiyorum
+twitter'daki|N thread'leri|M=thread+leri okumaktan kitap okumaya vaktim kalmıyor
+grup chat'imizde|M=chat+imizde herkes aynı anda yazınca bildirimler patlıyor
+yeni sneaker'larım|M=sneaker+larım yağmurda ıslandı ve beyaz rengi gitti
+kardeşim youtube'da|N gameplay|E videoları yayınlıyor, subscriber'ı|M=subscriber+ı yüz kişi oldu
+# end chunk
+# --- work 5 ---
+yeni şirketin onboarding|E checklist'inde|M=checklist+inde otuz madde vardı, ilk hafta sadece onları bitirdim
+ekip lead'imiz|M=lead+imiz her sprint|E sonunda bize kahoot|N quiz'i|M=quiz+i yaptırıyor, kazanan kahve alıyor
+müşteri sunumunda slide'lardan|M=slide+lardan biri boş çıktı, sanki bilerek bırakmışım gibi devam ettim
+şirketin internal|E hackathon'ında|M=hackathon+ında yaptığımız chatbot|E ödül aldı ama kimse kullanmadı
+ofiste hot|E desk|E sistemi yüzünden her gün farklı biriyle oturuyorum, networking|E için iyi
+teams'te|N status'umu|M=status+umu hep available|E bırakıyorum, aslında kahve içiyorum
+proje kickoff'unda|M=kickoff+unda herkes çok heyecanlıydı, iki hafta sonra kimse toplantıya gelmiyordu
+yöneticim bana stretch|E goal|E verdi, ne demek olduğunu google'da|N aradım
+şirketin town|E hall'unda|M=hall+unda ceo|E yeni stratejiyi anlattı, kimse bir şey sormadı
+remote|E çalışan iş arkadaşımla ilk kez yüz yüze tanıştım, kamerada daha uzun görünüyordu
+iş yerinde mentor'umla|M=mentor+umla her hafta coffee|E chat|E yapıyoruz, en çok kariyer tavsiyesini orada alıyorum
+yeni tool'umuzun|M=tool+umuzun dashboard'ı|M=dashboard+ı o kadar karışık ki eğitim videosu izlemek zorunda kaldım
+yıl sonu bonus'u|M=bonus+u açıklanınca bütün ofis sessizce linkedin'e|N girdi
+müdür bana feedback|E verirken sandviç yöntemini kullandı, ama ortadaki eleştiri çok büyüktü
+şirket offsite'ında|M=offsite+ında trust|E fall|E yaptık, beni tutacak kişi telefonuna bakıyordu
+# end chunk
+# --- places + brands dense ---
+kadıköy'de|N bir second|E hand|E dükkanında levi's|N kot bulduk, vintage|E diye üç katına satıyorlardı
+izmir'deki|N kordon'da|N bisiklet sürerken bir martı sandviçimi kaptı, instagram|N story'mde|M=story+mde viral|E oldu
+antalya'daki|N konyaaltı'nda|N sunset|E pilates'ine|M=pilates+ine katıldık, herkes telefonla fotoğraf çekiyordu
+ankara'daki|N anitkabir'e|N giderken google|N maps|N bizi yanlış kapıya götürdü
+bodrum'daki|N beach|E club'larda|M=club+larda şezlong fiyatı otel odası kadar, insanlar yine de sırada bekliyor
+eskişehir'deki|N odunpazarı|N modern|N müzesi'nde|N bir installation|E o kadar ilginçti ki yarım saat önünde durdum
+bursa'da|N kebapçıda sıra beklerken önümüzdeki turist grubu her şeyin fotoğrafını çekip tiktok'a|N yükledi
+trabzon'daki|N sümela|N manastırı'na|N gittik, yolda sis o kadar yoğundu ki gps|E bile kayboldu
+kapadokya'daki|N cave|E hotel'in|M=hotel+in odasında wifi|E yoktu, balkonda signal|E arıyorduk
+mardin'de|N bir rooftop|E kafede kahve içerken mezopotamya|N ovasını izlemek, hayatımın en güzel view'larından|M=view+larından biri
+çanakkale'deki|N truva|N atının önünde selfie|E çekmek için kuyruk vardı
+# --- shopping 6 ---
+decathlon'dan|N kamp ekipmanı alırken satış görevlisi bana ultralight|E çadır önerdi, fiyatı ağırdı
+watsons'ta|N skincare|E indiriminde sepetimi doldurdum, kasada total'i|M=total+i görünce yarısını bıraktım
+boyner'in|N outlet'inde|M=outlet+inde bütün markalar yüzde elli indirimdeydi, kaos vardı
+koçtaş'tan|N aldığım led|E şeritleri yatak odasına taktım, ev arkadaşım disko dedi
+a101'in|N aldın|N aldın|N kampanyasında bir televizyon aldım, kutudan çıkınca remote'u|M=remote+u eksikti
+lcw'nin|N kasasında kampanya kodu çalışmayınca kasiyer manager'ı|M=manager+ı çağırdı, sıra on kişi uzadı
+# --- gaming 9 ---
+{{ elden ring'in }} dlc'sinde|M=dlc+sinde ilk boss'a|M=boss+a yüz kez öldüm, sonunda youtube'dan|N strateji izledim
+{{ helldivers 2'de }} friendly|E fire|E yüzünden takım arkadaşımı üç kez öldürdüm, discord'da|N özür diledim
+{{ baldur's gate 3'te }} save|E scumming|E yapmadan oynamak imkansız, her dialogue|E seçeneğini deniyorum
+{{ zelda tears of the kingdom'da }} yaptığım uçan araç tam havalanırken parçalara ayrıldı
+{{ palworld'de }} base'imi|M=base+imi kurarken pal'lerim|M=pal+lerim grev yaptı, oyun gerçek hayattan farksız
+{{ street fighter 6'da }} combo'ları|M=combo+ları ezberlemek için training|E mode'da|M=mode+da iki saat geçirdim
+{{ hades'te }} her run'da|M=run+da farklı bir build|E deniyorum, en sonunda zeus|N ile kazandım
+{{ the witcher 3'te }} gwent|N oynamaktan ana hikayeyi unuttum, yüz saat sonra hala ilk bölgedeyim
+{{ red dead 2'de }} atıma o kadar bağlandım ki ölünce oyunu kapatıp yarım saat oturdum
+{{ factorio'da }} conveyor|E belt'leri|M=belt+leri düzenlemek benim için en iyi stress|E relief|E
+{{ fortnite'ın }} yeni season'ında|M=season+ında map|E tamamen değişmiş, düşmek için yer bulamadım
+{{ apex legends'ta }} squad'ım|M=squad+ım beni sürekli revive|E etmeyi unutuyor, ben de yerde onları izliyorum
+{{ dead by daylight'ta }} killer|E olunca herkes beni tea|E bag'liyor|M=bag+liyor, çok sinir bozucu
+{{ civilization 6'da }} << one more turn >> dedim ve sabah altı oldu
+{{ terraria'da }} wall|E of|E flesh'i|M=flesh+i ilk denemede yendim, arkadaşlarım bana inanmadı
+# end chunk
+# --- motorcycles / sailing / surfing ---
+yeni motorumun exhaust'unu|M=exhaust+unu değiştirdim, ses o kadar arttı ki apartmandaki herkes beni tanıyor
+motosiklet ehliyeti için kursa gittim, ilk derste slalom|E parkurunda iki koniyi devirdim
+yamaha'mla|N istanbul'dan|N ege'ye|N road|E trip|E yaptım, kask içinde podcast|E dinledim
+sailing|E kursunda tack|E yaparken bom kafama çarptı, hoca bana << watch your head >> dedi
+alaçatı'da|N kitesurf|E dersi aldım, rüzgar beni üç kez havaya kaldırıp suya bıraktı
+surf|E board'umu|M=board+umu karadeniz'e|N götürdüm, dalga yoktu ama manzara harikaydı
+tekne turunda kaptan bize snorkel|E ekipmanı verdi, ilk dalışta mask'ime|M=mask+ime su doldu
+motor kuryesi arkadaşım helmet|E camera'sıyla|M=camera+sıyla çektiği trafik videolarını youtube'a|N yüklüyor
+# --- cocktails / bars ---
+bartender|E bize signature|E cocktail'lerini|M=cocktail+lerini anlattı, hepsinin içinde biraz rakı vardı
+karaköy'deki|N speakeasy|E bara girmek için şifre lazımmış, instagram'dan|N bulduk
+happy|E hour'da|M=hour+da iki kokteyl bir fiyatına diye gittik, menüdeki fiyatlar zaten iki katıydı
+mocktail|E menüsü olan barlar artık çok popüler, alkol içmeyenler de dışarıda kalmıyor
+bar|T quiz|E gecemizde takımımızın adı kimsenin anlamadığı bir şakaydı, hepsini kaybettik
+# --- comics / books 2 ---
+marvel|N comic'lerini|M=comic+lerini topluyorum, eski sayıların fiyatları inanılmaz yükseldi
+graphic|E novel|E okumaya {{ persepolis'le }} başladım, sonra bütün kütüphaneyi bitirdim
+webtoon|N uygulamasında okuduğum seri o kadar uzun ki bin bölümü geçti
+kitap fuarında sevdiğim yazarın imza kuyruğunda iki saat bekledim, bookmark|E da hediye ettiler
+audible'da|N dinlediğim kitabın narrator'ü|M=narrator+ü o kadar iyiydi ki kağıt versiyonunu da aldım
+# --- cleaning / laundry ---
+evi deep|E clean|E yaptım, buzdolabının arkasından üç yıllık bir çatal çıktı
+tiktok'taki|N cleaning|E hack'lerini|M=hack+lerini denedim, karbonat ve sirke gerçekten işe yarıyor
+çamaşır makinesinin quick|E wash|E programı yarım saat sürüyor ama kıyafetler kokuyor
+kurutma makinesinde küçülen kazağımı kedime giydirdim, tam oldu
+ev temizliği için bir app'ten|M=app+ten yardımcı çağırdım, gelen kişi evi benden iyi tanıyordu
+# end chunk
+# --- insurance / taxes / paperwork ---
+araç sigortası yenilerken online|E quote|E aldım, beş şirketin teklifini karşılaştırınca fark iki katıydı
+vergi beyannamesini ilk kez kendim doldurdum, gib'in|N sitesindeki help|E sayfası hiçbir işe yaramadı
+freelancer|E olarak invoice|E kesmek için muhasebeci tuttum, ilk ayki fee'si|M=fee+si kazancımın yarısıydı
+seyahat insurance'ı|M=insurance+ı almadan yola çıktım, tabii ki bagajım kayboldu
+dask|N poliçemi yenilemeyi unutunca bankadan reminder|E mesajı geldi, iyi ki geldi
+yurt dışı vize başvurusunda bank|E statement'ımın|M=statement+ımın ingilizce|N olması gerekiyordu, şube bir hafta sürdü
+noterdeki sıra numarası sistemi o kadar yavaş ki bütün sabah orada geçti
+e-devlet'ten|N aldığım belgenin barcode'unu|M=barcode+unu okutunca sistem geçersiz dedi, ertesi gün çalıştı
+# --- astronomy / nature ---
+perseid|N meteor|E shower'ını|M=shower+ını izlemek için şehir dışına çıktık, bir saatte on beş tane gördük
+teleskopla satürn'ün|N halkalarını ilk kez gördüğümde çocuk gibi bağırdım
+birdwatching|E için sabah beşte göl kenarına gittik, binoculars|E ile sadece ördek gördük
+astrophotography|E denemesinde fotoğrafların hepsi bulanık çıktı, tripod'u|M=tripod+u sallamışım
+northern|E lights'ı|M=lights+ı görmek için norveç'e|N gittik, bulutlar yüzünden üç gece bekledik
+dağda gece kamp yaparken gökyüzü o kadar netti ki samanyolu|N çıplak gözle görünüyordu
+# --- open source / libraries ---
+ilk open|E source|E katkım bir typo|E düzeltmesiydi ama pull|E request'im|M=request+im merge'lenince|M=merge+lenince çok mutlu oldum
+belediye kütüphanesinde coworking|E alanı açılmış, wifi'ı|M=wifi+ı da çok hızlı
+kütüphaneden ödünç aldığım kitabın içinde birinin bıraktığı bookmark|E vardı, üzerinde bir not yazıyordu
+github'da|N star'larımın|M=star+larımın sayısı yüzü geçince linkedin'de|N paylaştım
+python|N kütüphanesinin documentation'ı|M=documentation+ı o kadar kötüydü ki kaynak kodunu okumak zorunda kaldım
+# end chunk
+# --- online learning 2 / skills ---
+youtube'da|N excel|N tutorial'ları|M=tutorial+ları izleyerek pivot|E table|E ve vlookup|E öğrendim, şimdi ofisin guru'suyum|M=guru+suyum
+coursera'nın|N data|E analytics|E sertifikasını bitirdim, linkedin'de|N paylaşınca üç recruiter|E yazdı
+udemy'den|N aldığım react|N kursunun instructor'ı|M=instructor+ı her videoda << alright guys >> diyor
+online|E gitar kursunda chord|E değişimlerini yapamıyorum, parmaklarım düğüm oluyor
+dil öğrenmek için italki'de|N tutor|E tuttum, ilk derste sadece kendimi tanıtabildim
+khan|N academy'de|N istatistik derslerini tekrar izledim, üniversitede neden anlamadığımı şimdi anladım
+skillshare'deki|N photography|E dersinden sonra bütün fotoğraflarımı rule|E of|E thirds'e|M=thirds+e göre çekiyorum
+bootcamp'teki|M=bootcamp+teki capstone|E projemizde ekip arkadaşımın kodunu merge'lerken|M=merge+lerken her şey bozuldu
+masterclass'ta|N yazarlık dersi aldım, ilk paragrafımı yazmak bir hafta sürdü
+coding|E challenge|E sitesinde günlük problem çözüyorum, streak'im|M=streak+im elli günü geçti
+# --- family 3 ---
+annem yeni öğrendiği zoom'da|N bütün teyzeleri topladı, kimse mikrofonu açmayı bilmiyordu
+babamın emeklilik partisinde slideshow|E hazırladım, gençlik fotoğraflarını görünce herkes ağladı
+kardeşim üniversiteye başlayınca ona laptop|E aldık, ilk hafta virüs kaptı
+dedemin doksanıncı doğum gününde ona tablet|T aldık, şimdi her akşam youtube|N izliyor
+babam aile grubuna sabah beşte forward|E edilmiş bir haber attı, kimse okumadan like|E bıraktı
+bayram ziyaretinde kuzenimle fifa|N oynadık, kaybeden bulaşık yıkadı
+yeğenim bana yeni kelimeler öğretiyor, en son << slay >> dedi ve dans etti
+annem bana instagram|N reels'lerinden|M=reels+lerinden yemek tarifleri gönderiyor, hiçbirini yapmıyor
+babam araba kullanırken navigation|E sesini kapatıp kendi bildiği yoldan gidiyor, hep kayboluyoruz
+kardeşimle ortak netflix|N hesabımız var, profilimi kullanıp benim dizilerimi izliyor
+# end chunk
+# --- rare labels ---
+platform|A değiştirmek istiyoruz ama bütün müşteri datası|M=data+sı eski sistemde, migration|E kabus olacak
+web|A geliştirici arkadaşım her projeye yeni bir framework|E ile başlıyor
+anime|A karakterlerinin cosplay'ini|M=cosplay+ini yapan arkadaşım comic|N con'da|N birinci oldu
+tv|A dizisinin finali yaklaşınca herkes spoiler|E korkusuyla twitter'ı|N kapattı
+manga|A serisinin son cildi çıkınca kitapçının önünde kuyruk oldu
+model|A tasarımını değiştirdik ama müşteriler eski halini istiyor
+bu protein|A barlarının şekeri çikolatadan fazla, healthy|E diye satılıyor
+pardon|A diyerek kalabalıktan geçmeye çalıştım, kimse yol vermedi
+ooh|A diye bağırdı yanımdaki çocuk, havai fişekler başladığında
+hey|A diye seslendim ama arkadaşım kulaklık taktığı için duymadı
+japon|N restoranda şef << itadakimasu|O >> dedikten sonra hepimiz yemeğe başladık
+alman|N arkadaşım her güzel şey için << wunderbar|O >> diyor, artık ben de diyorum
+brüksel'de|N bir pastanede kasiyer bana fransızca|N bir şey sordu, ben sadece oui|O diyebildim
+ispanyol|T arkadaşımız doğum gününde herkesi << salud|O >> diye kadeh kaldırmaya zorladı
+korece|N öğrenen kardeşim her sabah << annyeong|O >> diye selam veriyor
+# end chunk

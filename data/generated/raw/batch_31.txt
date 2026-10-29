@@ -1,0 +1,153 @@
+# batch 31 — titles, reviews, fandom
+{{ the bear }} dizisinin mutfak sahneleri o kadar gerçekçi ki izlerken stres oluyorum
+{{ succession'ın }} final|T sezonu bütün karakterleri çok iyi bağladı
+{{ dune part two'yu }} imax'te|N izlemek hayatımın en iyi sinema deneyimiydi
+{{ oppenheimer'ın }} sound|E design'ı|M=design+ı koltuğumu titretti
+{{ the last of us }} oyununu oynamadan diziyi izleyen arkadaşım ağladı
+{{ fleabag }} izlerken karakterin kameraya bakıp konuşması çok etkileyici
+{{ dark }} dizisini izlerken bir defter tutmak zorunda kaldım, timeline|E çok karışık
+{{ ted lasso'nun }} pozitifliği bana iyi geldi
+{{ the crown'un }} kostümleri çok detaylı
+{{ severance }} dizisinin konsepti iş hayatına dair en iyi satire|E
+{{ atlanta }} dizisi her bölümde başka bir türe geçiyor
+{{ better call saul'u }} breaking|N bad'den|N daha çok sevdim
+{{ peaky blinders'ın }} soundtrack'i|M=soundtrack+i her sahneyi daha cool|E yapıyor
+{{ interstellar'ı }} izledikten sonra bir hafta uzayı düşündüm
+{{ spirited away'i }} çocukken izleyip korkmuştum, şimdi başyapıt gibi geliyor
+{{ the godfather'ı }} hâlâ izlemedim, herkes bana kızıyor
+{{ everything everywhere all at once }} izlerken hem güldüm hem ağladım
+{{ arcane }} animasyonunun stili inanılmaz
+{{ the office'in }} amerikan|N versiyonu ingiliz|N versiyonundan daha komik bence
+{{ friends'in }} reunion|E bölümünü izlerken nostaljiden ağladım
+# --- fandom and reviews ---
+bu filmin fanbase'i|M=fanbase+i biraz toxic|E, eleştiri yapamıyorsun
+dizinin ikinci sezonu hype'ı|M=hype+ı karşılamadı
+filmin cgi'ı|M=cgi+ı ucuz görünüyordu, bütçe nereye gitti
+yönetmenin director's|E cut|E versiyonu üç buçuk saat
+bu dizinin cast'ine|M=cast+ine sonradan katılan oyuncu her şeyi kurtardı
+filmin plot|E hole'ları|M=hole+ları o kadar büyük ki içinden tır geçer
+sezon finalindeki cameo|E herkesi şok etti
+fan|E fiction|E yazan arkadaşım dizinin sonunu kendi yazdı
+bu filmin rotten|N tomatoes|N skoru beni yanılttı
+dizinin opening|E sequence'ı|M=sequence+ı her bölümde izlediğim tek intro
+karakterin redemption|E arc'ı|M=arc+ı çok güzel yazılmış
+sinema salonunda biri bütün film boyunca telefonla konuştu
+dizinin pacing'i|M=pacing+i ilk bölümlerde çok yavaş
+bu animenin çizimleri çok güzel ama filler|E bölümleri çok fazla
+dizinin spin-off'u|M=spin-off+u orijinalinden daha çok izlendi
+film festivalinde izlediğim documentary|E beni çok etkiledi
+dizideki villain|E o kadar iyi yazılmış ki onu destekledim
+filmin ending'inde|M=ending+inde herkes ayağa kalkıp alkışladı
+bu sezonun en iyi episode'u|M=episode+u kesinlikle altıncı bölüm
+# --- music fandom ---
+{{ taylor swift'in }} eras|N tour|N biletlerini bulmak imkansızdı
+{{ arctic monkeys'in }} istanbul|N konserinde sesim kısıldı
+kpop|E fandomları|M=fandom+ları sosyal medyada çok organize|T
+{{ the weeknd'in }} yeni albümü beklediğim gibi çıkmadı
+konserde encore|E için herkes telefonunun ışığını açtı
+yeni albümün tracklist'i|M=tracklist+i çıkınca twitter|N çıldırdı
+sevdiğim grubun reunion|E turnesi açıklandı, biletler bir saatte bitti
+{{ daft punk'ın }} dağıldığını duyunca çok üzüldüm
+müzik festivalinde silent|E disco|E vardı, kulaklıkla dans ettik
+şarkının music|E videosu yönetmenin kısa filmi gibi
+gitaristin solo'su|M=solo+su konserin en iyi anıydı
+yeni çıkan single|E radyoda her saat çalıyor
+# --- books/games titles ---
+{{ harry potter'ı }} yetişkin olarak tekrar okuyunca bambaşka geldi
+{{ the witcher 3'ü }} üçüncü kez bitirdim, hâlâ yeni şeyler buluyorum
+{{ red dead redemption 2'nin }} hikayesi beni çok etkiledi
+{{ baldur's gate 3 }} için iki yüz saat harcadım
+{{ hollow knight'ın }} zorluğu beni sinirlendiriyor ama bırakamıyorum
+{{ stardew valley'de }} çiftliğimi kurmak bana meditasyon gibi geliyor
+{{ the midnight library }} kitabını okuyunca kendi seçimlerimi düşündüm
+{{ atomic habits'i }} okuyup üç gün yeni alışkanlıklarımı sürdürdüm
+{{ sapiens'i }} okuduktan sonra bütün sohbetlerde ondan bahsettim
+{{ the hobbit'i }} kardeşime yatmadan önce okuyorum
+{{ minecraft'ta }} kardeşimle birlikte koca bir şehir kurduk
+{{ among us }} oynarken en yakın arkadaşım beni hiç düşünmeden attı
+{{ it takes two }} oyununu sevgilimle oynarken iki kere kavga ettik
+{{ hades'te }} her ölümde hikaye biraz daha ilerliyor, çok akıllıca
+{{ portal 2'nin }} co-op|E modu hâlâ en iyilerden
+# --- mixed fan talk ---
+bu oyunun lore'unu|M=lore+unu öğrenmek için youtube'da|N saatlerce video izledim
+kitabın film adaptation'ı|M=adaptation+ı kitaba hiç sadık kalmamış
+oyunun dlc'si|M=dlc+si ana oyundan daha uzun
+fan|E art|E paylaşan sanatçıları takip etmek çok keyifli
+convention'da|M=convention+da sevdiğim seslendirme sanatçısıyla tanıştım
+kitap serisinin yeni cildi için pre-order|E verdim
+oyunun remaster'ı|M=remaster+ı çıkınca eski save'lerimi|M=save+lerimi aradım
+dizinin behind|E the|E scenes|E videolarında oyuncuların ne kadar eğlendiği belli
+filmin trailer|E breakdown|E videoları filmin kendisinden uzun
+cosplay|E yapmak için aylarca kostüm diktim
+# --- EN-heavy everyday ---
+bugün full|E day|E meeting|E vardı, akşam brain|E dead|E durumdayım
+iş arkadaşım her cümleye basically|E diye başlıyor
+sevgilim bana sürekli << you're overthinking >> diyor, haklı olabilir
+bu sabah zero|E motivation|E ile uyandım
+sınavdan önce last|E minute|E study|E session|E yaptık
+yeni haircut|E aldım, honestly|E çok beğendim
+toplantıda biri << let's circle back >> deyince herkes iç çekti
+bu hafta sonu sadece rest|E and|E recover|E
+annem bana good|E vibes|E only|E yazılı bir kupa aldı
+kafede yanımdaki adam yüksek sesle << synergy >> kelimesini beş kere kullandı
+bu proje tam bir nightmare|E oldu
+spor salonunda no|E pain|E no|E gain|E diye bağıran bir hoca var
+yeni işim hakkında mixed|E feelings|E var
+bu kadar iş varken weekend|E off|E almak lüks
+arkadaşım bana << trust the process >> dedi, process|E nerede bilmiyorum
+gece yarısı deep|E talk|E yapınca kendimi daha iyi hissettim
+bu sene benim glow|E up|E senem olacak
+toplantıdan sonra quick|E sync|E diye yarım saat daha konuştuk
+bugün sadece bare|E minimum|E yaptım ve pişman değilim
+sevgilimle long|E story|E short|E barıştık
+yeni ofis tam bir open|E space|E, gizlilik sıfır
+dün gece bir rabbit|E hole'a|M=hole+a düştüm, sabaha kadar wikipedia|N okudum
+bu ay bütçe tight|E, dışarıda yemek yok
+arkadaşım bana << you got this >> mesajı attı, sınav iyi geçti
+yeni hobim cold|E plunge|E, arkadaşlar deli olduğumu düşünüyor
+bu dizi tam bir comfort|E show|E, her akşam bir bölüm
+bu sabah kahve olmadan totally|E useless|E bir insandım
+iş görüşmesi awkward|E başladı ama iyi bitti
+bu kadar çok podcast|E arasında hangisini dinleyeceğimi bilemiyorum
+# --- MIXED + TR medium ---
+akşam eve gelince ilk iş ayakkabılarımı çıkarıp laptopu|M=laptop+u kapatıyorum
+sabah toplantısında managerın|M=manager+ın söylediklerini kimse anlamadı
+kardeşim yeni telefonunun kamerasıyla her şeyin fotoğrafını çekiyor
+annem whatsapp'ta|N bana gelen bütün forwardları|M=forward+ları tek tek yolluyor
+yeni evimizin balkonunda bir hammock|E var, bütün gün orada yatıyorum
+dün gece arkadaşlarla sohbet ederken konu yine crypto'ya|M=crypto+ya geldi
+kardeşimin gaming|E kulaklığı o kadar büyük ki kafasından düşüyor
+okulda yeni bir robotics|E kulübü açıldı, ilk proje bir çöp toplayan robot
+akşam yemeğini delivery'den|M=delivery+den söyleyince annem bana kızdı
+iş yerinde herkes kendi mugını|M=mug+ını getiriyor, bulaşık yıkanmıyor
+kardeşim playstationda|N saatlerce oynayınca babam fişi çekti
+yeni evin interior|E designını|M=design+ını tamamen kendim yaptım
+bu sabah otobüste herkes kulaklık takmıştı, sessiz bir vibe|E vardı
+arkadaşımın düğün davetiyesi o kadar fancy|E ki saklamaya karar verdim
+yeni laptopumun|M=laptop+umun bataryası bütün gün gidiyor
+kasada beklerken önümdeki adam bütün couponları|M=coupon+ları tek tek okuttu
+okulun kantinine yeni bir coffee|E köşesi açılmış
+kardeşim tabletinde çizim yapıyor, digital|E art|E çok iyi
+babam yeni öğrendiği spotify|N özelliğiyle bütün aileye playlist|E yaptı
+annem sabah kahvaltısında avocadolu|M=avocado+lu tost yapınca şaşırdım
+akşamları balkonda podcast|E dinleyerek kahve içiyorum
+yeni projenin timelineı|M=timeline+ı çok sıkışık, herkes stresli
+babaannem facebook'ta|N bütün torunlarının fotoğraflarını paylaşıyor
+ofisin printerı|M=printer+ı yine kağıt sıkıştırdı
+kampüste yeni bir bike|E sharing|E sistemi kuruldu
+yeni bir sitcom|E keşfettim, her bölüm yirmi dakika
+okulun basketbol takımı finale kaldı, bütün okul tribündeydi
+annem yeni aldığı air|E fryerda|M=fryer+da her şeyi pişiriyor
+haftasonu kuzenimle birlikte bir pottery|E atölyesine gittik
+yeni mahallemizdeki gymde|M=gym+de herkes birbirini tanıyor
+# --- long posts 5 ---
+dün işten çıkınca arkadaşlarla bir quiz|E night|E etkinliğine gittik, takım adımızı yarım saat düşündük, sorular genel kültür, müzik ve film üzerineydi ve biz sadece film kategorisinde tam puan aldık, sonunda üçüncü olduk ve ödül olarak bir kutu çikolata kazandık
+geçen hafta bir job|E fair'e|M=fair+e gittim, her stantta aynı soruları sordum, en çok ilgimi çeken şirket bir game|E studio'su|M=studio+su oldu ve bana hemen bir take-home|E assignment|E gönderdiler, şimdi hafta sonumu ona harcıyorum
+kuzenimin bebeği için bir gender|E reveal|E partisi yapıldı, balon patlayınca pembe konfeti yerine mavi çıktı, herkes çığlık attı ve dedem ne olduğunu anlamadan alkışladı
+uzun süredir ertelediğim diş randevusuna sonunda gittim, bekleme odasında bir saat oturdum, doktor sadece check-up|E yaptı ve altı ay sonra tekrar gel dedi, bütün o stres boşunaymış
+mahallemizde bir community|E garden|E başlattık, her komşu bir sıra sebze ekiyor, ilk hasat gününde herkes ürettiğini paylaştı ve sonunda kocaman bir sofra kurup birlikte yedik
+geçen ay bir arkadaşımın tavsiyesiyle journaling|E yapmaya başladım, her akşam günün üç güzel anını yazıyorum, ilk başta zorlandım ama artık gün içinde yazacak şeyler arıyorum
+ofisin yeni coffee|E machine'i|M=machine+i dokunmatik ekranlı, ilk gün herkes on dakika menüyü inceledi, sonunda herkes yine sade filtre kahve seçti
+annemle babam emeklilik için kasabaya taşındılar, şimdi her telefon görüşmesinde bana bahçedeki domateslerin son durumu hakkında update|E veriyorlar
+lise arkadaşlarımla her yıl bir camping|E trip|E yapıyoruz, bu yıl çadırlardan biri rüzgarda uçtu ve iki kişi arabada uyumak zorunda kaldı ama yine de en güzel kamplarımızdan biriydi
+geçen hafta sonu ilk kez bir pottery|E wheel'e|M=wheel+e oturdum, hoca çok kolay gösterdi ama benim kasem üç kez çöktü ve sonunda düz bir tabak yapmaya karar verdim

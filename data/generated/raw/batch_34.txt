@@ -1,0 +1,127 @@
+# batch 34
+# --- tech life ---
+yeni telefonuma bütün uygulamaları tek tek kurmak bir gün sürdü, backup|E işe yaramadı
+bilgisayarımın fanı|M=fan+ı sürekli çalışıyor, thermal|E paste|E değiştirmem lazım
+evdeki internet|T hızını test|T ettim, ödediğimin yarısı geliyor
+kulaklığımın firmware|E updatei|M=update+i yarıda kaldı, şimdi çalışmıyor
+telefonumda iki yüz tane unread|E mesaj var
+bilgisayarda çok fazla tab|E açınca ram|E yetmiyor
+eski laptopumu|M=laptop+umu linux'a|N geçirdim, uçuyor
+yeni bir vpn|E aboneliği aldım, bazı siteler açılmıyor
+şarj aletimi kaybedince powerbankle|M=powerbank+le bir gün idare ettim
+telefonumun ekran koruyucusu çatlayınca yenisini taktım, bubble'lar|M=bubble+lar kaldı
+akıllı saatim gece uyurken bile notification|E gönderiyor
+bilgisayarın masaüstünde yüz tane screenshot|E birikmiş
+oyun bilgisayarı toplarken bütçeyi ekran kartına harcadım
+yeni klavyemin rgb|E ışıkları gece odayı aydınlatıyor
+evde mesh|E wifi|E sistemi kurduk, artık her odada sinyal var
+# --- daily NE ---
+ece|N ile can|N kadıköy'deki|N plak dükkanında saatlerce takıldı
+babam her pazar sabahı trt|N haber'i|N açıp kahvaltı yapıyor
+annem migros'tan|N aldığı indirimli ürünleri gururla gösterdi
+kardeşim fenerbahçe'nin|N formasını giyip okula gitti
+yazın bodrum'a|N giderken yolda afyon'da|N mola verdik
+dedem ankara'daki|N eski evini satmak istemiyor
+kuzenim londra'da|N master|E yapıyor, her hafta video|T call|E yapıyoruz
+teyzem izmir'den|N bize zeytinyağı gönderdi
+arkadaşım boğaziçi'nde|N okuyor, kampüsü çok güzel
+annem a101'den|N aldığı ekmek kızartma makinesini çok seviyor
+sevgilimle kapadokya'ya|N gitmek için hafta sonu planı yaptık
+kardeşim galatasaray|N lisesi'ni|N kazandı, bütün aile çok mutlu
+dayım almanya'dan|N her yaz bize çikolata getirir
+eniştem konya'da|N bir fabrika işletiyor
+yengem instagram'da|N el yapımı takılar satıyor
+# --- everyday ---
+bu sabah otobüse yetişmek için koştum, kapılar yüzüme kapandı
+akşam evde patates kızartması yaptık, bütün ev yağ koktu
+kedimiz bu sabah balkondan kuş yakalamaya çalıştı
+okul servisi bu sabah yine geç geldi, kardeşim derse geç kaldı
+markette kasada önümdeki teyze bütün bozuklukları saydı
+kahvaltıda annem herkese ayrı yumurta pişirdi, sahanda mı haşlama mı
+akşam yemeğinden sonra babamla tavla oynadık, yine kaybettim
+apartman bahçesinde çocuklar top oynarken bir camı kırdılar
+bu hafta her gün yağmur yağdı, şemsiyemi iki kez unuttum
+kardeşimle aynı odayı paylaşmak bazen çok zor
+annem bu sene ilk kez kendi turşusunu kurdu
+akşam haberlerinde mahallemizdeki yangını gösterdiler, herkes balkona çıktı
+komşunun köpeği sabahları bizim kapının önünde bekliyor
+babam yeni gözlüklerini taktı, herkese yeni bir insan gibi görünüyor
+kışın ilk karı görünce bütün mahalle sokağa döküldü
+# --- dense EN/MIXED ---
+bu hafta full|E remote|E çalıştım, ofisi özlemedim
+toplantıda brainstorm|E yaparken herkes post-it|E notlarına bir şey yazdı
+yeni şirkette onboarding|E buddymiz|M=buddy+miz bize her şeyi gösterdi
+arkadaşım bana << you need a break >> dedi, haklıydı
+weekend|E planımız iptal oldu, yağmur yüzünden
+sunumdan önce bütün slideları|M=slide+ları bir kez daha gözden geçirdim
+yeni proje için kickoff|E meeting|E yarın sabah
+iş yerinde herkes casual|E friday|E için kot giydi
+akşam yemeğinde bir wine|E pairing|E menüsü vardı, şarapları anlamadım
+okulda debate|E clubda|M=club+da bu hafta konu yapay zekaydı
+yeni bir side|E projecte|M=project+e başladım, adını bile koymadım
+annemin doğum günü için bir surprise|E dinner|E ayarladım
+iş görüşmesinde << tell me about a challenge you faced >> sorusuna hazırlıksızdım
+evde bir movie|E marathonu|M=marathon+u yaptık, üç film arka arkaya
+bu sabah gym'de|M=gym+de personal|E trainerım|M=trainer+ım beni çok yordu
+arkadaşım yeni sevgilisini bizimle tanıştırdı, ilk izlenim çok positive|E
+iş yerinde haftalık one-on-one|E toplantılarımız çok verimli
+bu cuma ofiste bir pizza|E party|E var
+yeni bir freelance|E projeye başladım, client|E çok detaycı
+kardeşim üniversitede bir startup|E incubatorına|M=incubator+ına kabul edildi
+arkadaşlarla yaptığımız trivia|E gecesinde film sorularında herkesi geçtim
+yeni ev arkadaşımla house|E rules|E belirledik, ilk gün bozuldu
+bu hafta kendime bir self-care|E günü ayırdım, telefonu kapattım
+yeni işimde bir welcome|E kit|E verdiler, içinde kupa ve defter var
+sevgilimle aramızda bir communication|E problemi var, ikimiz de mesajları geç okuyoruz
+şirkette her ay bir employee|E of|E the|E month|E seçiliyor
+annem yeni bir skincare|E serumu aldı, her sabah bana gösteriyor
+okulda yeni bir mental|E health|E desteği başladı, herkes çok memnun
+iş yerinde stres azaltmak için bir quiet|E room|E açıldı
+evde plant|E parent|E olmak düşündüğümden zor
+# --- MIXED natural 6 ---
+yeni gelen stajyerin mentoru|M=mentor+u benim, ilk gün ona her şeyi anlattım
+bu oyunun matchmakingi|M=matchmaking+i çok kötü, hep benden iyi oyuncularla eşleşiyorum
+annemin yeni telefonunda autocorrecti|M=autocorrect+i kapatamadım
+kardeşimin streami|M=stream+i sırasında elektrik kesildi
+yeni dizinin castingi|M=casting+i çok başarılı
+arkadaşımın weddingine|M=wedding+ine giderken trafikte kaldık
+bu kitabın endingi|M=ending+i beni çok üzdü
+sabah gymde|M=gym+de herkes aynı makineyi bekliyor
+ajansın gönderdiği moodboardda|M=moodboard+da her renk vardı, karar veremedik
+yeni şirketin culture'ı|M=culture+ı çok rahat, herkes birbirine yardım ediyor
+bu kursun instructorı|M=instructor+ı çok iyi anlatıyor
+kardeşimin youtube|N kanalının subscriberları|M=subscriber+ları bin oldu
+evdeki speakerın|M=speaker+ın bluetoothu|M=bluetooth+u bağlanmıyor
+bu restoranın menüsündeki dessertler|M=dessert+ler çok pahalı
+yeni projenin requirementları|M=requirement+ları her gün değişiyor
+toplantının recordingini|M=recording+ini izlemek toplantıdan daha sıkıcı
+arkadaşımın grubunun ilk gigi|M=gig+i küçük bir barda oldu, salon doluydu
+yeni telefonun wallpaperını|M=wallpaper+ını her gün değiştiriyorum
+bu filmin directorı|M=director+ı ilk filminde de aynı oyuncuyla çalışmış
+kardeşim bütün gün gaming|E chairında|M=chair+ında oturuyor
+yeni sneakerlarım|M=sneaker+larım için bir cleaning|E kit|E aldım
+şirketin townhallunda|M=townhall+unda yeni stratejiyi anlattılar
+okulun yearbookuna|M=yearbook+una herkes bir alıntı yazdı
+annemin kitchenaidi|N bütün tezgahı kaplıyor
+# --- long posts 6 ---
+bu hafta ofiste bir lunch|E and|E learn|E oturumunda kendi side|E projemi anlattım, sunumun ortasında demo|E çöktü ama herkes çok anlayışlıydı ve sonunda en çok soru benim sunumuma geldi
+geçen yıl bir arkadaşımın ısrarıyla bir marathon|E kayıt formu doldurdum, aylarca training|E yaptım, yarış günü yağmur yağdı ama yine de bitirdim ve madalyayı hâlâ odamda asılı tutuyorum
+kuzenim new|N york'ta|N bir tech|E şirketinde çalışıyor, her yaz türkiye'ye|N geldiğinde bize silicon|N valley|N hikayeleri anlatıyor ve dedem her seferinde orada çay var mı diye soruyor
+yeni evimize taşındığımız ilk hafta internet|T yoktu, bütün aile akşamları salonda oturup sohbet ettik, internet|T bağlandığında herkes yine kendi odasına çekildi ve o haftayı özledik
+sevgilimle ilk yıldönümümüzde bir cooking|E class'a|M=class+a gittik, şef bize sushi|A yapmayı öğretti, benim rulolarım dağıldı ama sevgilim hepsini yedi ve çok güzel olmuş dedi
+iş yerinde yıllık performance|E reviewlarda|M=review+larda herkes kendini yüksek puanlarla değerlendiriyor, müdürümüz ise ortalamayı tutturmak için herkese aynı notu veriyor
+annemle babam evliliklerinin kırkıncı yılında bir vow|E renewal|E töreni yaptılar, bütün aile toplandı ve babam konuşma yaparken ilk kez ağladığını gördük
+geçen ay şirketimiz bir charity|E koşusu düzenledi, herkes bir sponsor|T buldu, toplanan para bir köy okuluna kütüphane kurmak için kullanıldı ve açılışa hep birlikte gittik
+bir arkadaşım yıllardır instagram'da|N bir food|E sayfası yönetiyor, geçen ay bir restoran ondan menüsünü değerlendirmesini istedi ve şimdi bütün şehrin yemek mekanlarına davet ediliyor
+lisede en sevdiğim öğretmenim bana bir kitap hediye etmişti, yıllar sonra o kitabın içinde bir not buldum: << never stop learning, >> şimdi o not masamın üstünde duruyor
+# --- NE dense 6 ---
+selim|N ile nazlı|N izmir'deki|N konser için uçak bileti aldı
+fatih|N beşiktaş'taki|N ofisine yeni bir ekip kurdu
+nermin|N hanım|T bize google|N meet|N linkini gönderdi
+efe|N amazon'dan|N bir kindle|N paperwhite|N sipariş etti
+burak|N ile duygu|N kaş'ta|N dalış kursuna katıldı
+gamze|N netflix'teki|N yeni türk|N dizisini çok beğendi
+umut|N abi|T bize karaköy'deki|N yeni lokantasını tanıttı
+hilal|N spotify'da|N kendi yaptığı remix'leri|M=remix+leri paylaşıyor
+ömer|N bey|T toplantıyı zoom'dan|N yönetti
+tuba|N ile serkan|N fethiye'de|N yamaç paraşütü yaptı

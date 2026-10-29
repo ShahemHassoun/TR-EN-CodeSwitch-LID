@@ -1,0 +1,224 @@
+# batch_16 — mixed lengths. Written by Claude (Anthropic); style seeded by TurEngMix train split.
+# --- short and medium mixed ---
+bu sabah alarm|T çalmadı ve meeting'i|M=meeting+i kaçırdım, manager'ım|M=manager+ım çok kızgındı
+kahve makinesinin filter'ını|M=filter+ını değiştirmeyi unuttum, kahve çamur gibi oldu
+yeni monitörümün brightness'ı|M=brightness+ı çok yüksek, gözlerim yanıyor
+bu dizinin cast'i|M=cast+i harika ama senaryo çok yavaş ilerliyor
+arkadaşımın birthday|E party'si|M=party+si için cake|E siparişi verdim, adını yanlış yazmışlar
+otelin breakfast'ı|M=breakfast+ı dahil diye seçtik, sadece tost ve çay vardı
+şirketin benefit|E paketinde gym|E membership|E var, ama ofise en yakın şube kapandı
+telefonumun camera'sı|M=camera+sı gece fotoğraflarında çok iyi, ayı bile net çekiyor
+annemin recipe'si|M=recipe+si ile yaptığım kek hiç onunki gibi olmadı
+youtube'daki|N tutorial'ı|M=tutorial+ı izleyerek bisikletimin zincirini taktım
+spotify'da|N podcast'imin|M=podcast+imin ilk bölümü yirmi dinlenme aldı, yarısı annemdi
+yeni projenin kickoff'u|M=kickoff+u pazartesi, herkes heyecanlı
+ofisteki printer'ın|M=printer+ın toner'ı|M=toner+ı bitti, kimse değiştirmeyi bilmiyor
+sevgilimle ilk trip'imiz|M=trip+imiz kapadokya'ya|N oldu, balon turu harikaydı
+akşam gym'de|M=gym+de leg|E day|E yaptım, şu an yürüyemiyorum
+pazar günü bütün evi deep|E clean|E yaptım, şimdi yorgunluktan uyuyamıyorum
+en sevdiğim dizinin finale'i|M=finale+i bu hafta yayınlanıyor, şimdiden hüzünlüyüm
+yeni ev arkadaşımın playlist'i|M=playlist+i benimkine çok benziyor, iyi anlaşacağız
+iş görüşmesinde portfolio'mu|M=portfolio+mu gösterirken laptop|E dondu
+kardeşimin graduation|E töreninde fotoğrafçı herkesi aynı pozda çekti
+arkadaşlarla pizza|E night|E yaptık, herkes farklı topping|E istedi
+yeni restoranın menu'sü|M=menu+sü çok kısa ama her şey çok lezzetli
+apartmanın wifi|E şifresi kapının arkasına yazılmış, güvenlik sıfır
+online|E toplantıda background|E noise|E yüzünden kimse beni duymadı
+kitap kulübünde bu ayki book'u|M=book+u kimse bitirmemişti, sohbet yine başka konulara kaydı
+# end chunk
+# --- names heavy 3 ---
+leyla'yla|N kadıköy'deki|N moda|N sahnesi'nde|N bir standup|E gösterisine gittik
+okan|N bize {{ the last of us'ı }} izlemesini önerdi, iki bölüm sonra ağlıyorduk
+bodrum'da|N tanıştığımız ingiliz|T çift bize london|N eye'ın|N manzarasını anlattı
+ankara'dan|N gelen arda|N bize atatürk|N orman|N çiftliği'ndeki|N bira fabrikasını gezdirdi
+izmir'de|N alsancak'ta|N nur'la|N bir vinyl|E dükkanı keşfettik, sahibi harika bir adamdı
+merve'nin|N netflix|N hesabıyla {{ squid game'i }} izledik, profilini karıştırdık
+ercan|N hoca|T derste bize github|N copilot|N kullanmamızı yasakladı
+seda|N paris'teki|N louvre'da|N mona|N lisa'yı|N görmek için yarım saat sırada bekledi
+istanbul|N modern'de|N tolga'yla|N bir yayoi|N kusama|N sergisine gittik
+emir|N {{ fifa 24'te }} beni üç kez yendi, rövanş için bir hafta antrenman yapacağım
+bursa'daki|N uludağ|N üniversitesi'nde|N okuyan kuzenim kerem|N bize kampüsü gezdirdi
+gökhan|N abinin|T kafesinde nilüfer|N şarkıları çalınca bütün masalar eşlik etti
+barış|N manço'nun|N şarkılarını yeniden yorumlayan bir indie|E grup keşfettim
+sezen|N aksu|N konserinde {{ harbiye açık hava tiyatrosu }} tamamen doluydu
+fatih|N terim'in|N basın toplantısı twitter'da|N meme|E oldu, herkes repliklerini paylaştı
+# end chunk
+# --- long posts 3 ---
+sabahları metroda herkesin telefonuna baktığını görünce bir deney yaptım, bir hafta boyunca telefonu çantada tuttum ve sadece etrafı izledim, insanların ne kadar yorgun göründüğünü fark ettim, sonra ben de tekrar instagram'a|N döndüm
+yıllardır kullandığım laptop'umu|M=laptop+umu sonunda değiştirdim, eski bilgisayarın içindeki dosyaları taşırken üniversite yıllarımdan kalma ödevler, fotoğraflar ve yarım kalmış bir roman taslağı buldum, gece yarısına kadar hepsini okudum
+şirketimiz dört günlük çalışma haftasını denedi, ilk ay herkes çok mutluydu ve productivity|E bile arttı, ama müşteriler cuma günü bize ulaşamadığı için şikayet etmeye başladı ve deneme bitti
+bir youtuber'ın|M=youtuber+ın tavsiyesiyle minimalist|E yaşamaya karar verdim, bütün kıyafetlerimi otuz parçaya indirdim, ilk hafta çok özgür hissettim ama sonra bir düğüne davet edildim ve giyecek hiçbir şeyim yoktu
+ilk kez bir hackathon'a|M=hackathon+a katıldım, kırk sekiz saat boyunca neredeyse hiç uyumadık, red|N bull|N ve pizza|E ile yaşadık, sonunda projemiz çalıştı ama demo|E sırasında internet|T koptu ve jüri sadece slide'larımızı|M=slide+larımızı gördü
+annemle babam evlilik yıl dönümlerinde ilk kez bir airbnb'de|N kaldılar, ev sahibine her şeyi telefonla sordular, check-out|E sabahı evi otelden daha temiz bıraktılar
+bütün yaz bir dil kursuna gidip ispanyolca|N öğrendim, sonra barcelona'ya|N gittim ve herkes bana katalanca|N konuştu, ilk gün sadece << gracias|O >> diyebildim
+# end chunk
+# --- tech short ---
+yeni app'i|M=app+i indirdim, ilk açılışta yirmi permission|E istedi
+şifremi reset'ledim|M=reset+ledim ama yeni şifreyi de unuttum
+telefonun storage'ı|M=storage+ı doldu, fotoğrafları cloud'a|M=cloud+a taşıdım
+laptop'ın|M=laptop+ın şarjı bitti, charger|E evde kaldı
+bluetooth|E kulaklığım bağlanmıyor, pair'leme|M=pair+leme modunu bulamadım
+bu website'ın|M=website+ın tasarımı 2005'ten|T kalma gibi
+yeni update|E ile bütün icon'lar|M=icon+lar değişmiş
+wifi'ın|M=wifi+ın şifresini kimse hatırlamıyor, modemin arkasına bakacağız
+dark|E mode'u|M=mode+u açınca gözlerim rahatladı
+uygulamanın notification'larını|M=notification+larını kapattım, hayatım değişti
+oyun bilgisayarımın fps'i|M=fps+i yeni ekran kartıyla iki katına çıktı
+github'daki|N repo'mu|M=repo+mu private|E yaptım, kodum çok kötüydü
+chatgpt'ye|N mail|E yazdırdım, çok kibar oldu, hiç bana benzemiyor
+excel'de|N formula|E hatası aldım, sorun bir boşluk karakteriymiş
+zoom'un|N chat'inde|M=chat+inde yanlışlıkla herkese mesaj attım
+yeni tabletimin pen'i|M=pen+i çok hassas, çizim yapmak çok keyifli
+oyun konsolunun controller'ını|M=controller+ını şarj etmeyi unuttum, oyun yarıda kaldı
+browser'da|M=browser+da elli tane tab|E açık, bilgisayar ağlıyor
+yeni smartwatch'ım|M=smartwatch+ım her saat bana kalk diyor
+spotify'ın|N algorithm'i|M=algorithm+i beni tanıyor, her öneri tam isabet
+# end chunk
+# --- english stretches ---
+<< i honestly didn't expect that ending, >> dizinin finali beni çok şaşırttı
+<< it is what it is >> dedi müdürüm, bütçe kesintisini açıklarken
+arkadaşım her konuşmamızın sonunda << anyway, long story short >> diyor ama hikaye hiç kısalmıyor
+<< life is too short for bad coffee >> yazan kupa aldım, içindeki kahve hala kötü
+toplantıda müşteri << we need this by yesterday >> dedi, herkes birbirine baktı
+<< this meeting could have been an email >> diye düşündüğüm toplantı iki saat sürdü
+kardeşim bana << you only live once >> deyip bütün maaşını bir konsere harcadı
+spor hocam her setin sonunda << one more rep >> diyor, bir tane hiçbir zaman bir tane değil
+<< better late than never >> dedim ve dokuz yıl sonra ehliyet sınavına girdim
+<< good things take time >> yazan bir poster ofisimizin duvarında asılı, deadline'lar|M=deadline+lar bunu bilmiyor
+arkadaşım instagram'a|N << living my best life >> yazıp bir tabak makarna paylaştı
+oyunda takım arkadaşım her ölümde << my bad >> yazıyor, oyun boyunca yüz kez yazdı
+<< let me sleep on it >> dedim iş teklifine, bütün gece uyuyamadım
+yeni çalışan ilk gün herkese << nice to meet you all >> diye mail|E attı, çok sevimliydi
+<< what goes around comes around >> dedi annem, kardeşim çikolatamı yedikten sonra
+# end chunk
+# --- mixed medium 2 ---
+taksim'de|N bir rooftop|E terasında sunset|E izledik, kokteyller fiyatına göre küçüktü
+şirketin yeni office'i|M=office+i maslak'ta|N, ulaşım için shuttle|E servisi koydular
+arkadaşım bana linkedin'den|N endorse|E yaptı, ben de ona yaptım, karşılıklı bir anlaşma
+sabah koşusunda airpods'umun|N biri düştü, bütün parkı aradık
+yeni dizimin pilot bölümünü izledim, karakterler ilginç ama tempo yavaş
+kadıköy'de|N bir bookstore|E cafe'de|M=cafe+de bütün öğleden sonrayı kitap okuyarak geçirdim
+çocukların tablet|T kullanımı için screen|E time|E kuralları koyduk, ilk gün ağlama krizi oldu
+yeni işime başlamadan önce linkedin|N profilimi update'ledim|M=update+ledim, eski fotoğrafı değiştirdim
+annem facebook'ta|N bir quiz|E çözdü ve hangi çiçek olduğunu öğrendi, bütün akrabalarla paylaştı
+oyun gecemizde {{ uno'da }} draw|E four|E kartı yüzünden arkadaşlığımız sınandı
+izmir'de|N bir boutique|E otelde kaldık, odanın balkonundan denize bakıyorduk
+iş arkadaşım bana excel'de|N shortcut'ları|M=shortcut+ları öğretti, artık mouse|E kullanmıyorum
+# --- food 6 ---
+evde ramen|A yaparken broth'u|M=broth+u sekiz saat kaynattım, sonuç hazır paketten iyi değildi
+bu restoranın chef'i|M=chef+i instagram'da|N çok ünlü, rezervasyon için iki ay bekledik
+pizza|E siparişimde extra|E cheese|E istedim, peynir pizzanın yarısını bile kapatmamıştı
+yeni açılan smash|E burger'cı|M=burger+cı kadıköy'ün|N en uzun kuyruğuna sahip
+food|E truck'tan|M=truck+tan aldığım taco|E çok acıydı, gözlerim yaşardı
+kahvaltı brunch'ında|M=brunch+ında pancake|E siparişi verdim, gelen şey krep gibiydi
+yemek kursunda knife|E skills|E dersinde parmağımı kestim, hoca << that's how you learn >> dedi
+evde sushi|A yapmak için rice|E cooker|E aldım, ilk denemede pirinç lapa oldu
+bu kafenin cheesecake'i|M=cheesecake+i şehrin en iyisi, her hafta gidiyorum
+vegan|E restoranın beyond|N burger'ı|N gerçek ete çok benziyordu
+annemin kurabiye recipe'sini|M=recipe+sini kopyaladım ama kurabiyeler taş gibi oldu
+mangalda yaptığımız steak|E fazla pişti, kimse rare|E istediğini söylemeye cesaret edemedi
+kahve dükkanında pour-over|E kahve için on beş dakika bekledim, tadı normal filtre kahve gibiydi
+dondurmacının yeni flavor'ı|M=flavor+ı lavanta ve bal, beklediğimden çok daha iyi
+# end chunk
+# --- quick daily batch A ---
+sabah ilk iş inbox'ımı|M=inbox+ımı kontrol ettim, yüz tane okunmamış mail|E vardı
+öğle arasında linkedin'de|N biraz gezindim, herkes yeni iş bulmuş
+akşam netflix'te|N yeni bir belgesel başladım, yarısında uyudum
+otobüste podcast|E dinlerken durağımı kaçırdım
+kafede laptop'umu|M=laptop+umu açtım ama wifi|E şifresi çalışmadı
+toplantıdan sonra manager'ımla|M=manager+ımla kısa bir sync|E yaptık
+spor salonunda yeni bir workout|E programına başladım
+akşam yemeği için yemeksepeti'nden|N pizza|E söyledim
+gece yatmadan önce instagram'da|N reels|E izledim, iki saat geçti
+hafta sonu için airbnb'den|N bir ev ayarladık
+kardeşimle facetime'da|N konuştuk, yeni şehrine alışmış
+iş çıkışı arkadaşlarla happy|E hour'a|M=hour+a gittik, iki saat sonra eve döndüm
+sabah koşusunu strava'ya|N yükledim, arkadaşlarım kudos|E verdi
+markette self-checkout'u|M=self-checkout+u kullanmaya çalıştım, görevli yardım etti
+yeni kitabımı kindle'a|N indirdim, ilk sayfada uyudum
+akşam yürüyüşünde spotify'da|N yeni bir playlist|E keşfettim
+iş arkadaşım bana slack'ten|N meme|E gönderdi, toplantıda gülmemek için zor durdum
+öğle yemeğini getir'den|N söyledim, on dakikada geldi
+gece yarısı amazon'dan|N gereksiz bir şey sipariş ettim, sabah pişman oldum
+pazar günü bütün haftanın meal|E prep'ini|M=prep+ini yaptım
+annem bana whatsapp'tan|N tarif gönderdi, tarifin yarısı sesli mesajdı
+# end chunk
+# --- quick daily batch B ---
+yeni phone|E case'imi|M=case+imi trendyol'dan|N aldım, renk fotoğraftakinden farklı
+bugün home|E office|E yaptım, bütün gün pijamayla çalıştım
+müdürüm feedback|E formunu doldurmamı istedi, yarım saat ne yazacağımı düşündüm
+akşam gym'e|M=gym+e gidecektim, kanepede uyuyakaldım
+kuzenim bana tiktok|N videosu attı, beş dakika sonra kendimi tiktok'ta|N buldum
+yeni bir hobby|E edinmek için youtube'da|N origami|O tutorial'ları|M=tutorial+ları izledim
+online|E dersin kaydını izlerken 2x|E hıza aldım
+ev arkadaşım bulaşıkları yine yıkamadı, notion'da|N chore|E listesi yaptım
+iş için yeni bir mouse|E aldım, ergonomic|E diye satılıyordu ama elim ağrıyor
+yeni dizinin trailer'ını|M=trailer+ını izledim, çok umut verici
+kardeşim bana spotify|N premium|N hediye etti, reklamlardan kurtuldum
+kahve makinesinin capsule'ları|M=capsule+ları bitti, sabah çay içmek zorunda kaldım
+toplantıda screen|E share|E yaparken yanlış pencereyi paylaştım
+akşam yemeğinde ailemle board|E game|E oynadık, kimse kaybetmeyi sevmiyor
+yeni ofisimizin kitchen'ı|M=kitchen+ı çok büyük, herkes orada toplanıyor
+sevgilim bana surprise|E dinner|E hazırlamış, mutfak savaş alanına dönmüştü
+arkadaşımın podcast'ini|M=podcast+ini dinledim, sesi radyoda gibi çok profesyonel
+yeni aldığım kitabın audiobook|E versiyonu da varmış, ikisini birlikte kullanıyorum
+okul whatsapp|N grubunda biri sticker|E savaşı başlattı, bütün veliler katıldı
+gece yarısı uber|N eats'ten|N dondurma söyledim, kurye eriyik getirdi
+# end chunk
+# --- quick batch C (dense) ---
+yeni hoodie'mi|M=hoodie+mi yıkadım, iki beden küçüldü
+sprint'in|M=sprint+in sonunda demo'muz|M=demo+muz çok iyi geçti
+müşteri call'u|M=call+u bir saat sürdü, sonunda hiçbir şey karar verilmedi
+arkadaşımın vlog'una|M=vlog+una çıktım, kameraya bakmayı unuttum
+bu playlist'in|M=playlist+in ilk şarkısı bütün günümü değiştirdi
+yeni laptop'ta|M=laptop+ta bütün keyboard|E shortcut'ları|M=shortcut+ları farklı
+crush'ımla|M=crush+ımla aynı kafede karşılaştık, merhaba bile diyemedim
+podcast'te|M=podcast+te konuşan adamın sesi çok rahatlatıcı
+gym'deki|M=gym+deki trainer|E bana yeni bir program verdi
+manager'ımın|M=manager+ımın feedback'i|M=feedback+i beklediğimden olumlu çıktı
+toplantının agenda'sı|M=agenda+sı yoktu, herkes ne konuşacağını bilmeden geldi
+yeni restoranın review'ları|M=review+ları çok iyi, bu akşam deneyeceğiz
+date'imiz|M=date+imiz çok güzel geçti, ikinci date'i|M=date+i ayarladık
+kahve shop'unda|M=shop+unda çalışan barista|E adımı artık biliyor
+bu weekend|E road|E trip'e|M=trip+e çıkıyoruz, playlist|E hazır
+deadline'a|M=deadline+a iki saat kala sistemi çöktü
+weekend'imi|M=weekend+imi tamamen netflix'e|N ayırdım
+yeni setup'ımın|M=setup+ımın fotoğrafını reddit'e|N attım, yüz upvote|E aldı
+ofisin wifi'ı|M=wifi+ı yine çöktü, herkes hotspot|E açtı
+bu sezonun finale'ini|M=finale+ini izlemeden kimse bana spoiler|E vermesin
+yeni sneaker'ım|M=sneaker+ım ilk günden ayağımı vurdu
+müşterinin brief'i|M=brief+i o kadar kısa ki ne istediğini anlamadık
+arkadaşımın startup'ında|M=startup+ında part-time|E çalışıyorum
+bugünkü workout|E çok zordu, coach'umuz|M=coach+umuz acımadı
+toplantı invite'ını|M=invite+ını kabul ettim ama takvime eklenmedi
+# end chunk
+# --- varied medium ---
+kadıköy|N çarşısında balıkçının önünden geçerken satıcı bana << fresh fish, very fresh >> diye bağırdı, turist sandı
+ofisin yeni open|E space|E düzeninde herkes kulaklık takıyor, sanki kütüphanede çalışıyoruz
+arkadaşlarla gittiğimiz murder|E mystery|E akşamında katil benmişim, bütün gece kimse fark etmedi
+annemin yeni telefonunda font|E size|E en büyük ayarda, ekranda üç kelime görünüyor
+kuzenim yeni bir youtube|N kanalı açtı, ilk videosu ikea|N mobilyası kurma tutorial'ıydı|M=tutorial+ıydı
+iş arkadaşlarımla lunch|E break'te|M=break+te ofisin yanındaki parka gidiyoruz, güneşli günlerde çok güzel
+babam emekli olunca bir instagram|N hesabı açtı, şimdi her gün bahçesindeki domateslerin fotoğrafını paylaşıyor
+şehirdeki yeni bisiklet yolları güzel ama scooter'lar|M=scooter+lar ve yayalar da aynı yolu kullanıyor, kaos var
+arkadaşımla online|E chess|E oynuyoruz, her hamle için bir gün bekliyoruz, oyun iki aydır sürüyor
+sınav haftasında kütüphanede bir study|E buddy|E buldum, birlikte çalışınca daha az kaytarıyoruz
+yeni evimizin balkonundan boğaz|N görünüyor ama kira o manzarayı hak etmiyor
+# end chunk
+# --- sports / outdoors quick ---
+pazar sabahı belgrad|N ormanında trail|E run'a|M=run+a çıktık, çamura battık
+yüzme havuzunda lane|E değiştirmek zorunda kaldım, yanımdaki adam çok hızlıydı
+bisikletimin gear'ları|M=gear+ları takılınca yokuşta yürümek zorunda kaldım
+basketbol sahasında three-pointer|E attım, kimse görmedi
+tenis kortunda serve'im|M=serve+im hala çok zayıf, hocam sabırlı
+uludağ'da|N ski|E lift'te|M=lift+te mahsur kaldık, yirmi dakika havada bekledik
+pilates|E dersinde core|E egzersizleri beni bitirdi
+futbol maçında offside|E kuralını arkadaşıma üçüncü kez anlattım
+kampta camping|E stove'umuz|M=stove+umuz çalışmadı, soğuk sandviç yedik
+dağ yürüyüşünde hiking|E boots'larım|M=boots+larım ayağımı vurdu
+sadece pilates|E diye ısrar eden arkadaşım iki dersten sonra bıraktı
+maraton günü starting|E line'da|M=line+da heyecandan midem bulandı
+crossfit|N box'ında|M=box+ında herkes birbirini motive ediyor, << you got this >> diye bağırıyorlar
+golf sahasında ilk swing'imde|M=swing+imde topa değil yere vurdum
+boks dersinde sparring|E partner'ım|M=partner+ım bana acımadı
+# end chunk

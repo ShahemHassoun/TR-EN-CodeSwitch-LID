@@ -55,7 +55,7 @@ iklim aktivisti arkadaşım her konuşmayı climate|E crisis'e|M=crisis+e bağl�
 gelin evi programlarındaki kayınvalideler << savage >> puan veriyor, izlerken hem gülüyorum hem utanıyorum
 {{ o ses türkiye'de }} jüri koltuklarını çevirdiğinde yarışmacının reaction'ı|M=reaction+ı her şeye değiyor
 dizilerin sezon finalleri cliffhanger'la|M=cliffhanger+la bitiyor, sonra yeni sezon bir yıl sonra başlıyor, atv|N bunu çok yapıyor
-türk dizilerinin bölümleri üç saat sürüyor, yarısı flashback|E ve slow-motion|E sahneler
+türk|N dizilerinin bölümleri üç saat sürüyor, yarısı flashback|E ve slow-motion|E sahneler
 {{ kızılcık şerbeti'nin }} yeni bölümünden sonra herkes x'te|N tartışıyor, trend|E listesi dizi karakterleriyle dolu
 yarışma programında host|E o kadar uzatıyor ki sonucu öğrenmek için reklamdan sonrasını bekliyorsun
 {{ yetenek sizsiniz'de }} çıkan bir dansçı viral|E oldu, şimdi netflix|N dizisinde oynuyor
@@ -78,7 +78,7 @@ vim'den|N çıkmayı bilmeyen developer|E sayısı dünyadaki en büyük gizemle
 yeni bir kütüphane eklemek için npm|N install|E yaptım, node_modules|E klasörü iki gigabyte oldu
 sql|E bilmeden data|E analyst|E olunmaz diyorlar, excel'de|N formüllerle idare eden çok kişi tanıyorum
 kotlin'e|N geçtikten sonra android|N kodumuz yarıya indi ama build|E süresi iki katına çıktı
-low-code|E platformlarla|A uygulama yapanlar gerçek programcı mı tartışması linkedin'de|N bitmiyor
+low-code|E platformlarla uygulama yapanlar gerçek programcı mı tartışması linkedin'de|N bitmiyor
 swift|N ile ilk ios|N uygulamamı yazdım, app|E store'a|M=store+a yüklemek kodu yazmaktan daha zor oldu
 regex|E yazdığım satırı bir hafta sonra okuyamadım, sanki başkası yazmış, stack|N overflow'a|N geri döndüm
 # end chunk
@@ -96,8 +96,8 @@ e-nabız'da|N tahlil sonuçlarıma baktım, pdf'i|M=pdf+i indirmek için üç ke
 icra dairesinden gelen tebligat mail|E olarak geldi, spam|E klasöründe bulduğumda süre dolmak üzereydi
 vize başvurusu için vfs|N global'de|N biometric|E randevusu aldım, fingerprint'lerimi|M=fingerprint+lerimi üç kez okuttular
 kredi kartı limitimi artırmak için müşteri temsilcisiyle chat'leştim|M=chat+leştim, sonunda robot|T olduğunu anladım
-belediyenin online|E ödeme sistemi sadece internet|T explorer'da|N çalışıyor, iki bin yirmi altı yılındayız
-noter'de|N vekaletname için sıra beklerken önümdeki adamın bütün dosyası yanlış çıktı, workflow|E diye bir şey yok
+belediyenin online|E ödeme sistemi sadece internet|N explorer'da|N çalışıyor, iki bin yirmi altı yılındayız
+noterde vekaletname için sıra beklerken önümdeki adamın bütün dosyası yanlış çıktı, workflow|E diye bir şey yok
 # --- airlines / airports ---
 thy'nin|N {{ miles&smiles }} programında biriktirdiğim milleri kullanmak isterken bütün koltuklar doluydu
 pegasus'ta|N kabin bagajı için extra|E ücret ödedim, sonra boarding'de|M=boarding+de kimse çantaya bakmadı

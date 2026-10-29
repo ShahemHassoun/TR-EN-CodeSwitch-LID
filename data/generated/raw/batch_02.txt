@@ -3,7 +3,7 @@
 junior|E developer|E olarak girdiğim ilk işte bana legacy|E bir proje verdiler, kodu yazan adam beş yıl önce ayrılmış ve hiçbir yere documentation|E bırakmamış
 pull|E request'imi|M=request+imi açtım, senior|E arkadaş bütün değişken isimlerini beğenmedi ama asıl bug'ı|M=bug+ı görmedi bile
 cuma akşamı production'a|M=production+a deploy|E yapmayın diye bir kural var ve bunu bize unutturan tek şey müşterinin acelesi
-stack|E overflow'da|M=overflow+da sorduğum soruya ilk cevap << this question has already been answered >> oldu ama linkteki|M=link+teki cevap tamamen başka bir konuydu
+stack|N overflow'da|N sorduğum soruya ilk cevap << this question has already been answered >> oldu ama linkteki|M=link+teki cevap tamamen başka bir konuydu
 yeni projede microservice|E mimarisine geçtik, artık tek bir hata yerine on iki farklı serviste on iki farklı hata var
 code|E review'da|M=review+da arkadaşım sadece << lgtm >> yazıp onaylıyor, sonra canlıda patlayınca herkes birbirine bakıyor
 vscode'a|N yeni bir extension|E kurdum, editör o kadar yavaşladı ki tekrar notepad'e|N dönmeyi düşündüm
@@ -15,14 +15,14 @@ yeni başlayan stajyere docker|N kurdurmak bir haftamızı aldı, sonra laptop'u
 javascript|N bilmeyen kalmadı ama herkes farklı bir framework|E kullanıyor, react|N mı vue|N mu tartışması bitmiyor
 bu kodu ben mi yazdım diye git|N blame'e|M=blame+e baktım, evet ben yazmışım ve hiç hatırlamıyorum
 uzaktan çalışma başladığından beri kamerayı açmadan toplantıya giriyorum, kimse yüzümü hatırlamıyor bile
-test|E yazmayı herkes önemli buluyor ama deadline|E yaklaşınca ilk feda edilen şey yine testler oluyor
+test yazmayı herkes önemli buluyor ama deadline|E yaklaşınca ilk feda edilen şey yine testler oluyor
 teknik mülakatta bana linked|E list|E tersine çevirmeyi sordular, gerçek işte bunu hiç kullanmadım
 kod yazmak işin kolay kısmı, asıl zor olan toplantılarda neden bu kadar uzun sürdüğünü anlatmak
 open|E source|E bir projeye katkı yapmak istedim ama issue'ların|M=issue+ların hepsi çoktan alınmıştı
 staging|E ortamında her şey çalışıyordu, canlıya çıkınca bütün sayfalar beyaz ekran verdi
 yeni gelen cto|E her şeyi kubernetes'e|N taşıyalım dedi, bir ayda bütün ekip tükendi
 bu hafta üç kez on-call|E oldum ve üçünde de gece ikide telefon çaldı, birinde sadece disk dolmuştu
-sql|E sorgusunu optimize|E ettim, sayfa on saniyeden yarım saniyeye düştü ve kimse fark etmedi
+sql|E sorgusunu optimize ettim, sayfa on saniyeden yarım saniyeye düştü ve kimse fark etmedi
 şirket hackathon'unda|M=hackathon+unda yaptığımız proje ödül aldı ama sonra kimse devam ettirmedi
 yazılımcı olmak için bootcamp'e|M=bootcamp+e gidenlerin çoğu ilk işi bulmakta zorlanıyor, piyasa çok değişti
 # --- football / sports ---
@@ -127,14 +127,14 @@ manga|A koleksiyonum için kitaplık aldım ama şimdiden doldu
 fandom|E içindeki kavgalar bazen dizinin kendisinden daha dramatik oluyor
 yeni çıkan animenin animasyonu o kadar akıcıydı ki studio|E bütün bütçeyi tek bölüme harcamış
 sevdiğim karakterin ölmesini kabul edemedim, bir hafta o diziyi açmadım
-anime|A festivalinde yediğim ramen|A gerçek japon ramenine en yakın şeydi
+anime|A festivalinde yediğim ramen|A gerçek japon|N ramenine en yakın şeydi
 dizinin bu kadar uzaması fan|E base'in|M=base+in sabrını zorluyor
 # --- cooking / restaurants ---
 evde sushi|A yapmaya çalıştım, pirinç her yere yapıştı ve sonunda pilav yedik
 bu restoranın menüsünde her şey << artisanal >> yazıyor ama yemekler normal lokanta yemeğinden farksız
 air|E fryer|E aldığımdan beri her şeyi onda yapıyorum, fırını hiç açmıyorum
 annem tarif verirken hep göz kararı diyor ve ben hiçbir zaman aynı tadı tutturamıyorum
-italyan restoranında garson bize << buon|O appetito|O >> dedi ve fiyat listesi de italyan fiyatıydı
+italyan|N restoranında garson bize << buon|O appetito|O >> dedi ve fiyat listesi de italyan|N fiyatıydı
 kahvaltıda menemen soğanlı mı soğansız mı tartışması aile içinde savaş çıkarabilir
 food|E blogger'ların|M=blogger+ların övdüğü burgerci yarım saat bekletti ve burger soğuktu
 mantı yapmayı annemden öğrendim, bir saat hamur açtım ve elim koptu
@@ -235,7 +235,7 @@ twitter'ın|N adı x|N oldu ama hala kimse x|N demiyor, herkes tweet|E atmaya de
 hesabım shadowban|E yemiş, paylaşımlarım kimsenin feed'ine|M=feed+ine düşmüyor
 # --- city life ---
 kadıköy'de|N yeni açılan specialty|E coffee|E dükkanında filtre kahve iki yüz lira, ama latte art'ı|M=art+ı çok güzel
-beşiktaş'ta|N akşam saatlerinde bir bar|E bulmak kolay ama oturacak yer bulmak imkansız
+beşiktaş'ta|N akşam saatlerinde bir bar bulmak kolay ama oturacak yer bulmak imkansız
 istanbul'un|N en güzel yanı sunset|E saatinde boğaz kenarında yürümek, en kötü yanı oraya ulaşmak
 ankara'da|N hayat daha sakin ama hafta sonu yapacak bir şey bulmak için plan|T yapmak gerekiyor
 izmir'e|N taşındım ve ilk hafta herkesin akşam altıda kordon'a|N indiğini öğrendim, << work life balance >> buna denir

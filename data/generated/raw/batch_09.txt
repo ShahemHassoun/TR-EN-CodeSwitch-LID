@@ -16,7 +16,7 @@ berlin'de|N berghain'e|N girmek için iki saat sıra bekledik, bouncer|E bize ba
 paris'te|N bir jazz|E club'ında|M=club+ında tanıştığım müzisyen beni sahneye çağırdı, sadece alkış tuttum
 amsterdam|N dance|N event'te|M=event+te dj'ler|M=dj+ler on iki saat boyunca durmadan çaldı
 glastonbury'ye|N bilet bulmak için registration|E yaptım, satış günü queue|E iki saat sürdü ve bilet bitti
-konserde yanımdaki japon|T hayranlar her şarkıdan sonra << arigato|O >> diye bağırıyordu
+konserde yanımdaki japon|N hayranlar her şarkıdan sonra << arigato|O >> diye bağırıyordu
 viyana'daki|N opera|T binasında standing|E bilet aldık, üç saat ayakta durmak beklediğimden zordu
 barcelona'daki|N primavera|N festivalinde gün batımında sahneye çıkan grup bütün kalabalığı ağlattı
 new|N york'ta|N broadway|N müzikalinin rush|E ticket'ı|M=ticket+ı için sabah altıda kuyruğa girdik
@@ -94,7 +94,7 @@ arkadaşlarla game|E night|E yaptık, {{ codenames'te }} kaybeden takım bulaş�
 pazar günü netflix|N and|E chill|E planım vardı ama annem beni pazara götürdü
 hafta sonu escape|E room'a|M=room+a gittik, son bulmacayı çözemedik ve görevli bize hint|E verdi
 kadıköy'deki|N bit|N pazarında vintage|E kameralar buldum, satıcı bana << very good price >> dedi
-arkadaş grubumuzun plan'ları|M=plan+ları whatsapp|N grubunda konuşuluyor ama hiçbiri gerçekleşmiyor
+arkadaş grubumuzun planları whatsapp|N grubunda konuşuluyor ama hiçbiri gerçekleşmiyor
 cuma akşamı happy|E hour'dan|M=hour+dan sonra karaoke'ye|M=karaoke+ye geçtik, sesim pazartesiye kadar gelmedi
 pazar sabahı belgrad|N ormanında jogging|E yaptık, dönüşte simit ve çay ile recovery|E yaptık
 hafta sonu bir pottery|E workshop'una|M=workshop+una katıldım, yaptığım kase yamuk ama çok seviyorum
@@ -104,7 +104,7 @@ pazar günü ikea'da|N gezerken hot|E dog|E yemek bizim ailenin weekend|E ritüe
 arkadaşlarla picnic'e|M=picnic+e gittik, bluetooth|E hoparlörü unuttuk ve birimiz bütün gün şarkı söyledi
 cumartesi sabah pilates|E dersine gidip sonra brunch|E yapmak, istanbul'un|N beyaz yaka hafta sonu klasiği
 # --- daily commute thoughts ---
-metroda herkes aynı anda telefonuna bakarken bir black|E mirror|E bölümünün içindeymiş gibi hissediyorum
+metroda herkes aynı anda telefonuna bakarken bir black|N mirror|N bölümünün içindeymiş gibi hissediyorum
 otobüste podcast|E dinlerken durağı kaçırdım, google|N maps|N bana on beş dakikalık bir yürüyüş verdi
 vapurda martılara simit atan turistleri izlerken istanbul'un|N ne kadar cinematic|E bir şehir olduğunu düşündüm
 sabah trafikte kalınca audiobook'umun|M=audiobook+umun bir bölümünü bitirdim, trafiğin tek iyi yanı bu
@@ -164,11 +164,11 @@ wifi|E şifresini değiştirdim ve evdeki bütün smart|E cihazları yeniden ba�
 laptop'un|M=laptop+un ekranında dead|E pixel|E var, warranty|E bitmeden bir gün önce fark ettim
 excel|N dosyası crash'leyince|M=crash+leyince autosave|E açık değildi, üç saatlik çalışma gitti
 # --- third-language words (OTHER) ---
-italyan restoranında şef bize << prego|O >> deyip tiramisu|E getirdi, dessert|E menüsünde en iyisi buydu
+italyan|N restoranında şef bize << prego|O >> deyip tiramisu|E getirdi, dessert|E menüsünde en iyisi buydu
 ispanyol arkadaşım her şeye << vamos|O >> diyor, maça giderken metroda da aynı enerjiyle bağırdı
 almanca|N öğrendiğim ilk kelime schadenfreude|O oldu, rakip takım kaybedince instagram|N story'mde|M=story+mde kullandım
-japon|T arkadaşım sushi|A yerken << oishii|O >> deyip durdu, ben de taklit ettim
-fransız|T kafede garson bana << merci|O >> deyince ben de << thank you >> dedim, utandım
+japon|N arkadaşım sushi|A yerken << oishii|O >> deyip durdu, ben de taklit ettim
+fransız|N kafede garson bana << merci|O >> deyince ben de << thank you >> dedim, utandım
 korece|N dizide herkes << saranghae|O >> diyor, kız kardeşim bunu bana her gün söylüyor
 rusça|N bilen kuzenim otelde resepsiyona << spasibo|O >> dedi, adam türk|N çıktı
 portekiz|N gezisinde her öğün bacalhau|O yedik, eve dönünce balık görmek istemedim

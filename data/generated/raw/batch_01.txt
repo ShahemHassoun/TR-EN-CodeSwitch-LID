@@ -85,10 +85,10 @@ lütfen yoruma spoiler|E yazmayın, daha ilk bölümdeyim
 {{ the office'i }} bitirdikten sonra boşluğa düştüm
 binge|E watching|E yüzünden sabah işe uykusuz gittim
 bu filmin soundtrack'i|M=soundtrack+i filmden daha meşhur oldu
-türk dizileri artık netflix'te|N de var, yurt dışından arkadaşlar bile izliyor
+türk|N dizileri artık netflix'te|N de var, yurt dışından arkadaşlar bile izliyor
 yönetmenin önceki filmleri daha iyiydi, bu biraz << overrated >> olmuş
 altyazısız izleyince ingilizcem|N gelişti mi bilmiyorum ama denedim
-dizinin pilot|E bölümü o kadar sıkıcıydı ki ikinci bölüme geçmedim
+dizinin pilot bölümü o kadar sıkıcıydı ki ikinci bölüme geçmedim
 marvel|N filmlerinden artık sıkıldım, hepsi aynı formül
 bu sahnede cgi|E o kadar kötü ki gülmekten öldüm
 sinemada telefonla konuşan adam yüzünden filmin yarısını kaçırdım
@@ -104,7 +104,7 @@ disney+|N aboneliğimi iptal ettim, izleyecek bir şey kalmadı
 bu oyuncunun performance'ı|M=performance+ı ödülü kesinlikle hak ediyordu
 korku filmlerinde jumpscare|E kullanmak artık çok ucuz bir numara
 # --- university / student ---
-final|E haftası geldi ve ben hala dersin slide'larını|M=slide+larını açmadım
+final haftası geldi ve ben hala dersin slide'larını|M=slide+larını açmadım
 hoca bütün semester|E boyunca bir kere bile mail'e|M=mail+e cevap vermedi
 grup projesinde herkes kaçtı, bütün işi ben yaptım
 erasmus'a|N gitmek için ingilizce|N sınavına çalışıyorum

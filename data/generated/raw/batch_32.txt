@@ -1,0 +1,178 @@
+# batch 32 — mixed topics, balanced
+# --- morning to night ---
+sabah alarm çalınca ilk iş telefondan notificationlara|M=notification+lara bakıyorum
+kahvaltıda overnight|E oats|E yemeye başladım, sabah zaman kazandırıyor
+işe giderken metroda e-book|E okuyorum
+ofise varınca ilk iş inboxımı|M=inbox+ımı kontrol ediyorum
+öğle arasında arkadaşlarla food|E courtta|M=court+ta buluştuk
+öğleden sonra enerji düşünce bir espresso|E shot|E alıyorum
+akşamüstü toplantısı uzayınca eve geç kaldım
+eve dönerken yolda groceryleri|M=grocery+leri aldım
+akşam yemeğinden sonra annemle mahallede tur atıp dedikodu yapıyoruz, best|E part|E of|E the|E day|E
+geceleri yatmadan önce journalıma|M=journal+ıma üç cümle yazıyorum
+uyumadan önce telefonu night|E shift|E moduna alıyorum ama yine de uyuyamıyorum
+# --- neighbourhood life 2 ---
+mahallenin berberi bana her seferinde aynı fade|E kesimi yapıyor
+köşedeki market|T artık self|E service|E kasa koydu
+sokağımızda yeni bir coworking|E kafe açıldı, herkes laptoplarıyla|M=laptop+larıyla orada
+mahallede her cuma bir farmers|E market|E kuruluyor
+apartmanımızın girişine bir parcel|E locker|E konuldu, kargo sorunu bitti
+sokakta skateboard|E yapan çocuklar bütün gün aynı numarayı deniyor
+parkta açık hava fitness|E aletleri var, sabahları teyzeler kullanıyor
+mahalle grubunda kayıp kedi posteri paylaşıldı, iki saatte bulundu
+yeni açılan pet|E shop'ta|M=shop+ta kedimin sevdiği maması yok
+semt pazarında organic|E yazan stantta fiyatlar iki katı
+# --- tech at home ---
+babamın telefonuna parental|E control|E koymam gerekiyor, her linke tıklıyor
+evdeki smart|E speaker|E gece yarısı kendi kendine konuşmaya başladı
+televizyonun remote'u|M=remote+u kayboldu, telefondan kontrol ediyoruz
+yeni robot süpürgemiz kediyi kovalıyor
+annemin bilgisayarına antivirus|E kurdum, şimdi her gün uyarı veriyor
+wifi|E extender|E aldım, artık balkonda da internet|T var
+evdeki bütün cihazlar aynı anda update|E isteyince internet|T çöktü
+babam whatsapp|N web'i|N keşfetti, artık bilgisayardan mesaj atıyor
+kardeşim akıllı saatini telefonla eşleştiremeyince bana pairing|E nasıl yapılır diye sordu
+akıllı prizi telefondan kapatmayı unuttum, ütü bütün gün açık kaldı
+# --- university 3 ---
+dönem başında bütün derslerin syllabuslarını|M=syllabus+larını indirip hiçbirini okumadım
+hocamız derste bize case|E studyleri|M=study+leri grup halinde tartıştırıyor
+kampüsteki career|E center|E bana cv|E yazımında çok yardım etti
+erasmus'ta|N tanıştığım arkadaşlarla hâlâ group|E chatte|M=chat+te konuşuyoruz
+yüksek lisans için statement|E of|E purpose|E yazmak düşündüğümden zor
+bu dönem online|E ve yüz yüze dersler karışık, schedule|E çok kafa karıştırıcı
+kütüphanenin silent|E zone'unda|M=zone+unda biri telefonla konuştu, herkes ona baktı
+hocamız final|T yerine take-home|E exam|E verdi, herkes sevindi
+tez danışmanım bana bütün literature|E reviewı|M=review+ı baştan yazdırdı
+kampüsteki hackathona|M=hackathon+a katılan ekip birinci oldu
+mezuniyet töreninde cap|E fırlatırken birinin kafasına çarptı
+üniversitede part-time|E çalışmak hem para hem tecrübe sağlıyor
+akademik yazımda passive|E voice|E kullanmamamız söylendi
+hocamız her derste bir pop|E quiz|E yapıyor, kimse hazırlıklı değil
+staj başvurusu için portfolio|E sitemi yeniden tasarladım
+# --- sport 3 ---
+sabah koşusunda yeni bir personal|E record|E yaptım
+spor salonunda deadlift|E yaparken belimi incittim
+yeni başladığım boks dersinde ilk gün sadece footwork|E çalıştık
+basketbol maçında three-pointer|E atınca bütün takım bağırdı
+yüzme kursunda hocam bana breathing|E tekniğini öğretti
+tenis kortunda backhand'im|M=backhand+im hâlâ çok zayıf
+voleybolda serve|E atarken top hep fileye takılıyor
+dağ bisikletinde downhill|E inerken düştüm, dizlerim mahvoldu
+crossfit|E kutusunda herkes birbirini motive ediyor
+evde yaptığım hiit|E antrenmanı alt kat komşuyu rahatsız ediyor
+koşu kulübümüz her pazar sabahı sahilde toplanıyor, sonra hep birlikte kahvaltı
+spor salonunun yeni group|E classları|M=class+ları çok kalabalık
+masa tenisi turnuvasında finale kaldım, rakibim on iki yaşındaydı
+# --- money and work-life ---
+maaşımı alır almaz bir kısmını savings|E hesabına aktarıyorum
+bu ay emergency|E fund|E için biraz para ayırdım
+freelance|E işlerden gelen ödemeler hep gecikiyor
+iş değiştirince salary|E negotiation|E yapmayı öğrendim
+yan gelir için online|E kurs hazırlıyorum
+şirketin verdiği stock|E optionlar|M=option+lar dört yılda açılıyor
+maaş bordrosundaki deductionları|M=deduction+ları anlamak için muhasebeciye sordum
+yılbaşı bonusunu tatile harcadım, regret|E yok
+kendi işimi kurmak istiyorum ama business|E plan|E yazmak gözümü korkutuyor
+ev almak için down|E payment|E biriktirmek yıllar sürecek
+bütçe yaparken fixed|E ve variable|E giderleri ayırmayı öğrendim
+# --- NE + MIXED dense 4 ---
+elif|N bana instagram'dan|N bir reel|E attı, yarım saat güldük
+koray|N netflix'teki|N yeni belgeseli tavsiye etti, ilk episode'u|M=episode+u çok iyiydi
+dilan|N ile oğuzhan|N spotify'da|N ortak bir playlist|E yaptılar
+berk|N bana steam'de|N co-op|E bir oyun önerdi, bütün hafta sonu oynadık
+ilayda|N amazon'dan|N aldığı kindle'ı|N çok seviyor
+tuna|N ile defne|N kadıköy'deki|N yeni ramen|A dükkanına gitti
+sena|N hoca|T derste zoom'un|N breakout|E roomlarını|M=room+larını kullandı
+eren|N bana linkedin'de|N bir job|E posting|E gönderdi
+ipek|N ile barış|N antalya'daki|N konser için bilet aldı
+ozan|N abi|T bize airbnb'deki|N evin wifi|E şifresini yanlış verdi
+özge|N trendyol'dan|N aldığı ceketi iade etti, beden tablosu yanlışmış
+cem|N ile ayşegül|N beşiktaş'ta|N bir rooftop|E restoranda nişanlandı
+murat|N bey|T bize teams'te|N yeni bir channel|E açtı
+nehir|N youtube'da|N bir cooking|E channelı|M=channel+ı açtı
+alp|N ile cansu|N playstation'da|N it|N takes|N two|N oynadı
+yiğit|N bana github'daki|N projesinin linkini|M=link+ini attı
+irem|N hanım|T toplantıda bütün slideları|M=slide+ları tek tek anlattı
+kaan|N bana getir'den|N gece yarısı dondurma söyledi
+şeyma|N ile emre|N bodrum'daki|N beach|E clubda|M=club+da çalışıyor
+deniz|N bana pinterest'te|N düğün fikirleri boardı|M=board+ı paylaştı
+ali|N rıza|N hoca|T dersi canvas|N üzerinden yapıyor
+gökçe|N ile mert|N ikea'dan|N aldıkları dolabı kuramadı, manuel|T eksikmiş
+anıl|N bana uber'den|N taksi çağırdı, şoför yolu bilmiyordu
+buse|N spotify|N wrapped'ını|N paylaşınca herkes ona güldü
+tamer|N abi|T mahalledeki kahvede herkese crypto|E anlatıyor
+# --- mixed bag 5 ---
+dün akşam ev arkadaşımla netflix|N party|E yaptık, iki farklı evden aynı anda izledik
+yeni telefonumun always-on|E display'i|M=display+i bataryayı yiyor
+kardeşimle aramızda bir dijital detox|E yarışması başlattık, ilk gün ikimiz de kaybettik
+işyerinde herkes slackte|N emoji|E reaction|E ile cevap veriyor, kimse yazmıyor
+akşam yemeği için hazır meal|E kit|E siparişi verdim, tarif kartı çok net
+otelde late|E night|E room|E service|E istedik, menüde sadece tost vardı
+toplantının ortasında internet|T kesildi, reconnect|E olana kadar her şey bitmişti
+yeni bir dil app'inde|M=app+inde günde beş dakika çalışıyorum, streakimi|M=streak+imi bozmuyorum
+sabah işe giderken car|E pool|E yapıyoruz, yolda müzik seçimi kavga sebebi
+apartmanın çatısında bir movie|E night|E düzenledik, projektör yarıda bozuldu
+mahallede bir book|E swap|E kutusu kurduk, herkes kitap bırakıp alıyor
+geçen hafta ilk kez bir improv|E tiyatro gösterisine gittim, seyircileri sahneye çağırdılar
+yeni ofiste her şey paperless|E, imza bile dijital
+arkadaşımın evinde fondue|E gecesi yaptık, peynir her yere damladı
+kardeşim üniversite için dorm|E odasını süslemek için bütün evi boşalttı
+yeni aldığım bitkinin care|E instructionlarını|M=instruction+larını okumadım, öldü
+kahve dükkanında loyalty|E kartımda dokuz damga var, bir sonraki bedava
+bir sonraki tatil için bucket|E list|E yaptım, hepsi çok pahalı
+yeni işte ilk günüm, herkes bana welcome|E aboard|E mesajı attı
+arkadaşım bana flowchart|E çizerek hangi diziyi izleyeceğimi anlattı
+babam araba kullanırken sesli asistana sürekli teşekkür ediyor, polite|E bir adam
+kampüste bir lost|E and|E found|E kutusu var, içinde yüz tane şemsiye
+bu yıl kendime bir no|E spend|E month|E koydum, ilk haftada kitap aldım
+annem bana sürekli << drink water >> yazılı sticker'lar|M=sticker+lar gönderiyor
+sevgilim bana handwritten|E bir mektup yazdı, çok duygulandım
+apartman toplantısında biri zoom|N üzerinden katılmak istedi, kimse kurmayı bilmiyordu
+yeni yılın ilk günü bütün aile morning|E walk|E yaptı, ikinci gün kimse kalkmadı
+evde bir home|E gym|E köşesi yaptım, şimdi çamaşır askısı olarak kullanılıyor
+uçakta yanımdaki yolcu bütün yol boyunca spreadsheet|E üzerinde çalıştı, ben de izledim
+arkadaşımın evindeki housewarming|E yemeğinde herkes farklı bir ülke mutfağından yemek getirdi
+iş yerinde bir book|E club|E başlattık, ilk ay herkes kitabı yarıda bıraktı
+kafede masada şarj için outlet|E bulmak imkansız
+yeni dairemizin lease|E sözleşmesi iki yıllık
+toplantıya girmeden önce mute|E butonunu iki kere kontrol ediyorum
+okulda bir pen|E pal|E projesi başladı, kızım fransız|N bir çocukla mektuplaşıyor
+geçen hafta bir cooking|E challenge|E yaptık, herkes buzdolabındaki malzemelerle yemek yaptı
+evden çalışırken arka plana bir virtual|E background|E koydum, kafam kayboluyor
+akşamları yatmadan önce bir chapter|E okumak alışkanlığım oldu
+tatilde all|E inclusive|E otelde kaldık, üç gün boyunca sadece yedik
+# --- MIXED natural 4 ---
+bu projede frontendi|M=frontend+i ben, backendi|M=backend+i arkadaşım yapıyor
+yeni gelen designerın|M=designer+ın hazırladığı mockuplar|M=mockup+lar çok temiz
+müşteri bizden iki gün içinde bir demo|E istedi, hackathon|E modundayız
+yeni releaseden|M=release+den sonra kullanıcı sayısı ikiye katlandı
+bu bugı|M=bug+ı fixlemek|M=fix+lemek için bütün geceyi harcadım
+ekibin velocitysi|M=velocity+si bu sprint düştü
+müşterinin feedbacki|M=feedback+i çok net değildi
+yeni featureların|M=feature+ların hepsi beta|E aşamasında
+production databaseine|M=database+ine yanlışlıkla bağlandım, panik yaptım
+loglarda bir exception|E var ama stack|E traceı|M=trace+ı eksik
+ekip toplantısında roadmapi|M=roadmap+i tekrar konuştuk
+yeni internümüz|M=intern+ümüz ilk gün production'a|M=production+a deploy|E yaptı
+sprint planningde|M=planning+de herkes her şeye üç puan verdi
+code|E reviewda|M=review+da arkadaşım her satıra yorum yazmış
+api|E dokümantasyonu güncel olmadığı için endpointleri|M=endpoint+leri tek tek denedim
+serverın|M=server+ın cpu|E kullanımı gece yarısı yüzde yüze çıktı
+ekibe yeni katılan developerla|M=developer+la pair|E programming|E yaptık
+müşteriyle yaptığımız callda|M=call+da her şeyi yeniden tartıştık
+mobil appin|M=app+in yeni versiyonu store'a|M=store+a yüklendi
+backlogdaki|M=backlog+daki eski ticketları|M=ticket+ları kapattık, kimse fark etmedi
+yeni ekip liderimiz her sabah stand-upa|M=stand-up+a beş dakika geç geliyor
+ekipçe hackathonda|M=hackathon+da yaptığımız proje şirketin yeni ürünü oldu
+yeni dashboardda|M=dashboard+da metrikler gerçek zamanlı görünüyor
+# --- medium-long narrative ---
+dün akşam metrobüste telefonumun şarjı bitti, eve kadar kimseye haber veremedim ve annem beni kayıp ilan etmek üzereydi
+bu hafta sonu kardeşimin okulunda bir bilim fuarı vardı, tema renewable|E energy|E idi, onun projesi limondan elektrik üretmekti ve jüri çok beğendi
+sabah işe giderken yolda bir sokak müzisyeni gördüm, gitarla eski türk|N şarkıları çalıyordu, durup dinledim ve toplantıya geç kaldım
+annem bana yıllardır aynı tavsiyeyi veriyor: erken yat, erken kalk, ama ben bir night|E owl|E olarak bunu hiçbir zaman başaramadım
+yeni işime başladığımdan beri her sabah aynı kafeden kahve alıyorum, barista|E artık siparişimi ben söylemeden hazırlıyor
+geçen ay bir arkadaşımın tavsiyesiyle bir running|E club'a|M=club+a katıldım, ilk gün en arkadan geldim ama kimse beni bırakmadı
+kardeşim ilk maaşıyla bütün aileye akşam yemeği ısmarladı, hesap gelince yüzü bembeyaz oldu ama bozuntuya vermedi
+eski mahallemdeki kitapçı kapanınca çok üzüldüm, sahibi bana son gün bir kutu kitap hediye etti, hâlâ hepsini okumadım
+bu yıl ilk kez yılbaşını evde yalnız geçirdim, kendime güzel bir dinner|E hazırladım, film izledim ve gece yarısından önce uyudum
+iş yerindeki yeni projede ilk kez bir ekibe liderlik ediyorum, her sabah daily|E sync|E yapıyoruz ve herkesin ne yaptığını takip etmek düşündüğümden zor

@@ -11,11 +11,17 @@ Raw format (data/generated/raw/batch_NN.txt), one sentence per line:
   * {{ ... }}   every word inside is NE (multi-word names and titles)
   * lines starting with # are comments
 
-Two realism steps, both documented in data/generated/README.md:
+Realism steps, all documented in data/generated/README.md:
   1. ASCII typing: TurEngMix users often type Turkish without Turkish letters
      (only ~30% of its Turkish words contain ç ğ ı ö ş ü). A fixed 25% of our
      sentences are converted the same way (ç→c ğ→g ı→i ö→o ş→s ü→u).
-  2. Fixed order: batches are shuffled internally and appended in order, so
+  2. Dropped apostrophes (batch 13 onward): in TurEngMix 63% of MIXED words are
+     written without an apostrophe (linki, influencerlar, editleyip), but we
+     tend to write one (link'i). From batch 13 on, 70% of MIXED words with a stem
+     of 4+ letters lose the apostrophe (deadline'dan → deadlinedan), and 30% of
+     suffixed names do too (netflix'te → netflixte). Batches 01-12 (the first
+     2,500 sentences, already shared and annotated) are left exactly as they were.
+  3. Fixed order: batches are shuffled internally and appended in order, so
      the first 2,500 sentences never change when more batches are added
      (gen2500 ⊂ gen5000 ⊂ gen10000).
 
@@ -26,8 +32,12 @@ from __future__ import annotations
 
 import json
 import random
+import re
 import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from check_generated import mixed_ok  # noqa: E402  (same rule the checker applies)
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 RAW_DIR = REPO_ROOT / "data" / "generated" / "raw"
@@ -36,6 +46,11 @@ TAGS = {"E": "EN", "N": "NE", "A": "AMBIGUOUS", "O": "OTHER", "T": "TR"}
 ASCII = str.maketrans("çğıöşü", "cgiosu")
 ASCII_SHARE = 0.25
 SEED = 13
+APOS_FROM_BATCH = 13        # batches before this are frozen (first 2,500 sentences)
+APOS_DROP_MIXED = 0.70
+APOS_DROP_NE = 0.30
+VOWELS = set("aeıioöuüy")
+NE_SUFFIXED = re.compile(r"^([a-zçğıöşü0-9]{4,})'([a-zçğıöşü]{1,8})([,.;:!?]*)$")
 
 
 def parse_line(line: str, where: str) -> dict:
@@ -80,6 +95,23 @@ def parse_line(line: str, where: str) -> dict:
     return {"tokens": tokens, "labels": labels, "mixed": mixed}
 
 
+def drop_apostrophes(row: dict, rng: random.Random) -> dict:
+    """Write some suffixed English stems and names the way TurEngMix users often do: no apostrophe."""
+    for i, (tok, lab) in enumerate(zip(row["tokens"], row["labels"])):
+        if lab == "MIXED":
+            stem, ending = row["mixed"][str(i)]
+            core = tok.rstrip(",.;:!?")
+            vowel_clash = stem[-1] in VOWELS and ending[0] in VOWELS     # time'a, meme'i: keep
+            if core == f"{stem}'{ending}" and stem.isalpha() and len(stem) >= 4 and not vowel_clash:
+                if rng.random() < APOS_DROP_MIXED and mixed_ok(stem + ending, stem, ending)[0]:
+                    row["tokens"][i] = stem + ending + tok[len(core):]
+        elif lab == "NE":
+            m = NE_SUFFIXED.match(tok)
+            if m and rng.random() < APOS_DROP_NE:
+                row["tokens"][i] = m.group(1) + m.group(2) + m.group(3)
+    return row
+
+
 def asciify(row: dict) -> dict:
     row["tokens"] = [t.translate(ASCII) for t in row["tokens"]]
     row["mixed"] = {k: [s.translate(ASCII), e.translate(ASCII)] for k, (s, e) in row["mixed"].items()}
@@ -102,7 +134,10 @@ def main() -> int:
             sentences.append(row)
         rng = random.Random(f"{SEED}-{b.stem}")       # each batch: own fixed shuffle
         rng.shuffle(sentences)
+        apos_rng = random.Random(f"{SEED}-apostrophe-{b.stem}")
         for row in sentences:
+            if int(b.stem.split("_")[1]) >= APOS_FROM_BATCH:
+                drop_apostrophes(row, apos_rng)
             if rng.random() < ASCII_SHARE:
                 asciify(row)
         rows.extend(sentences)

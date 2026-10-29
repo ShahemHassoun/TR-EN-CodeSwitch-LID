@@ -1,0 +1,171 @@
+# batch 30 — tech-forum style like TurEngMix, no-apostrophe MIXED
+# --- programming forum style ---
+python|N ile web|A scraping|E yapacaksanız en çok kullanılan iki library|E var: requests|N ve beautifulsoup|N
+javascript'te|N async|E await|E mantığını anlamak için önce promise|E kavramını öğrenmek gerekiyor
+react|N projelerinde state|E managementı|M=management+ı için redux|N yerine context|E api|E kullanmayı deneyin
+haskell|N öğrenmeye çalıştım, monad|E kısmında bıraktım
+golang'de|N goroutine|E kullanırken race|E conditionlara|M=condition+lara dikkat edin
+c++'ta|N pointer|E aritmetiği yeni başlayanlar için kafa karıştırıcı
+sql|E injection'dan|M=injection+dan korunmak için prepared|E statement|E kullanın
+docker|N compose|N ile local|E ortamı kurmak çok kolaylaştı
+typescript'e|N geçince runtime|E errorların|M=error+ların yarısı derleme aşamasında yakalandı
+vim|N kullanmayı öğrenmek bir hafta sürdü, çıkmayı öğrenmek bir ay
+linux'ta|N terminalde komut yazarken permission|E denied|E hatası almak klasik
+git|N rebase|E yaparken historyi|M=history+i bozdum, force|E push|E attım, ekip kızdı
+backend|E developerların|M=developer+ların en sevmediği şey frontendcilerin|M=frontend+cilerin css|E soruları
+nodejs|N ile yazdığım api|E production'da|M=production+da memory|E leak|E yaptı
+algoritma mülakatlarında dynamic|E programming|E soruları beni hep zorluyor
+kotlin|N ile android|N uygulaması yazmak eskisine göre çok daha keyifli
+yeni frameworkleri|M=framework+leri takip etmekten asıl işime vakit kalmıyor
+codebaseimizde|M=codebase+imizde hâlâ on yıllık fonksiyonlar var
+microservice|E mimarisine geçince her şey daha karmaşık oldu
+cloud|E maliyetlerini düşürmek için kullanılmayan instanceları|M=instance+ları kapattık
+logları|M=log+ları okumak için ayrı bir dashboard|E kurduk
+api|E keyimi|M=key+imi yanlışlıkla github'a|N pushladım|M=push+ladım, hemen revoke|E ettim
+open|E source|E projelerde issuelara|M=issue+lara cevap vermek ayrı bir iş
+stack|N overflow'daki|N cevapların yarısı outdated|E
+cursor|N ile kod yazarken autocomplete|E bazen benden önce ne yazacağımı biliyor
+# --- tech opinions ---
+bence yeni başlayanlar python|N ile başlamalı, syntaxı|M=syntax+ı çok sade
+mac|N mi linux|N mu tartışması developerlar|M=developer+lar arasında hiç bitmez
+yapay zeka araçları junior|E developerların|M=developer+ların işini değiştirecek
+remote|E çalışan developerlar|M=developer+lar ofistekilerden daha productive|E bence
+bu kadar çok javascript|N frameworkü|M=framework+ü olması gereksiz
+tabs|E mi spaces|E mi tartışmasında ben tarafsızım
+dark|E theme|E kullanmayan developer|E görmedim
+kod yorumlarında << todo: fix later >> yazıp beş yıl dokunmamak bir sanat
+# --- gaming forum style ---
+bu oyunun early|E accessi|M=access+i bile çok iyi, full|E release'i|M=release+i bekliyorum
+patchten|M=patch+ten sonra fps|E dropları|M=drop+ları başladı
+elden|N ring'de|N her bossu|M=boss+u yirmi denemede geçtim
+cs2'de|N smoke|E lineuplarını|M=lineup+larını öğrenmek için workshop|E mapleri|M=map+leri açtım
+lol'da|N jungle|E oynamak takım arkadaşlarının flameini|M=flame+ini yemek demek
+gta|N 6'nın|N trailerı|M=trailer+ı çıkınca youtube|N rekor kırdı
+indie|E oyunlar aaa|E oyunlardan daha yaratıcı
+oyunun modding|E communitysi|M=community+si oyunu yaşatıyor
+steam|N decki|N aldım, yatakta oyun oynamak bambaşka
+co-op|E survival|E oyunlarında arkadaşlarla base|E kurmak en eğlenceli kısım
+speedrunnerlar|M=speedrunner+lar glitchleri|M=glitch+leri bulmak için oyunu parçalara ayırıyor
+# --- social/influencer talk, TurEngMix-like ---
+influencerlar|M=influencer+lar artık her ürünü aynı cümleyle tanıtıyor
+youtuberların|M=youtuber+ların sponsorlu videoları izlenmez oldu
+bu kadar çok haterı|M=hater+ı olan biri neden hâlâ paylaşım yapıyor
+yorumlardaki haterlara|M=hater+lara cevap vermemek en iyisi
+eski tweetlerini|M=tweet+lerini sildi ama screenshotlar|M=screenshot+lar her yerde
+stalkerlar|M=stalker+lar yüzünden hesabımı gizliye aldım
+sponsorlu storyleri|M=story+leri geçmek için ekrana basıp duruyorum
+yeni trende|M=trend+e uymayan herkes cringe|E ilan ediliyor
+takipçi satın alan hesaplar engagementtan|M=engagement+tan belli oluyor
+reelsleri|M=reels+leri kaydırırken başparmağım ağrıdı
+bu podcastin|M=podcast+in konukları hep aynı çevreden
+algoritma artık sadece short|E videoları öne çıkarıyor
+blue|E tick|E almak için para ödemek bence saçma
+kanalına kamera önünde unboxing|E videosu yükledi, ürün bozuk çıktı
+# --- workplace, TurEngMix-like ---
+yeni managerımız|M=manager+ımız her şeyi excel'de|N takip ediyor
+haftalık reportları|M=report+ları kimse okumuyor ama herkes yazıyor
+meetingleri|M=meeting+leri azaltmak için yeni bir policy|E çıktı
+deadlinelar|M=deadline+lar yaklaşınca ofiste kimse konuşmuyor
+taskları|M=task+ları önceliklendirmeyi bilmeyen bir ekip lideri var
+remote|E çalışanların performansı ofistekilerden düşük değil
+feedbacklerinizi|M=feedback+lerinizi bu formdan iletebilirsiniz
+onboardingi|M=onboarding+i iyi olan şirkette çalışanlar daha uzun kalıyor
+sprintin|M=sprint+in sonunda demo|E yapıp retro|E toplantısına geçiyoruz
+ekip içindeki conflictleri|M=conflict+leri hr|E çözmeye çalışıyor
+kpi'ları|M=kpi+ları tutturamayınca bonus|E iptal oldu
+yeni projeye resource|E ayrılmadı, herkes iki işi birden yapıyor
+müşteriden gelen requestleri|M=request+leri tek tek jira'ya|N giriyorum
+toplantı notlarını confluence'a|N ekledim, link|E slack'te|N
+# --- daily, unapostrophed MIXED ---
+laptopumu|M=laptop+umu kafede unuttum, garson saklamış
+yeni playlistimi|M=playlist+imi dinleyen tek kişi annem
+sabah coffeemi|M=coffee+mi içmeden kimse konuşmasın
+weekendde|M=weekend+de hiçbir şey yapmadım, harikaydı
+spor salonundaki trainerım|M=trainer+ım beni bitirdi
+bu ayın budgetını|M=budget+ını aştım yine
+arkadaşımın birthdayinde|M=birthday+inde karaoke|E yaptık
+datingde|M=dating+de en zor kısım ilk mesaj
+yeni sneakerlarımı|M=sneaker+larımı çamura bastım
+crushımla|M=crush+ımla aynı derse düştüm, odaklanamıyorum
+kedimin toylarını|M=toy+larını süpürgenin altında buldum
+annemin smoothielerinden|M=smoothie+lerinden kaçmak imkansız
+yeni setupımı|M=setup+ımı kurmak bütün günümü aldı
+arkadaşımın vloguna|M=vlog+una çıktım, yüzüm çok garip görünüyor
+bu cafede|M=cafe+de wifi|E şifresi menünün arkasında
+# --- mostly Turkish with a little English ---
+bu sabah otobüs durağında yarım saat bekledim, sonra iki otobüs birden geldi
+akşam annemle uzun uzun konuştuk, bana gençliğinden hikayeler anlattı
+fırıncı amca bana her sabah ekmeğin yanında bir poğaça hediye ediyor
+pazar günü erkenden kalkıp sahilde yürüdük, deniz çok sakindi
+dedemin bahçesindeki incir ağacı bu yıl çok meyve verdi
+kardeşim ilk kez yalnız başına alışverişe gitti, yarısını unuttu
+yağmur yağınca bütün planlar iptal oldu, evde film izledik
+komşunun çocuğu her akşam balkonda keman çalışıyor, gittikçe güzelleşiyor
+çarşıda eski bir saatçi dükkanı var, adam kırk yıldır aynı yerde
+bu yıl bayramda bütün aile ilk kez bir araya geldi
+annem bize her hafta sonu mantı yapıyor, kimse itiraz etmiyor
+sabahları çay demlemeden güne başlayamıyorum
+okul yıllarımdan kalan en güzel anı sınıfça gittiğimiz kamp
+akşam yürüyüşünde mahallenin bütün kedileri peşimize takıldı
+babam her akşam haberleri izlerken uyuyakalıyor
+kışın sobanın başında kestane pişirmek çocukluğumun en güzel anısı
+bu sene ilk kez kendi sebzelerimi yetiştirdim, domatesler çok tatlı oldu
+eski mahallemize gittim, her şey değişmiş ama bakkal aynı yerde
+uzun bir aradan sonra arkadaşlarımla buluştum, saatlerce güldük
+tren yolculuğunda karşımda oturan teyze bana bütün hayatını anlattı
+bu sabah kahvaltıda annemin yaptığı reçeli bitirdik
+kütüphanede yanımdaki masada biri sürekli kalemini tıkırdatıyordu
+akşam yemeğinde herkes günün en güzel anını anlattı, güzel bir alışkanlık
+denize girmek için sabah erkenden çıktık, plaj bomboştu
+babaannemin el yazısıyla yazılmış tarif defterini bulduk
+bayram sabahı herkes yeni kıyafetlerini giydi, çocuklar şeker topladı
+kışın ilk karı gören kedimiz pencereden saatlerce izledi
+yolda kaybolmuş bir köpek bulduk, sahibini bulmak iki gün sürdü
+uzun zamandır görmediğim bir sınıf arkadaşıma çarşıda rastladım
+gece yarısı aniden elektrikler kesildi, mum ışığında oturduk
+# --- little English ---
+bu akşam evde kalıp kitap okuyacağım, biraz me|E time|E lazım
+çarşıdaki kafede oturup insanları izlemek en sevdiğim hobby|E
+dedem bana eski radyosunu verdi, vintage|E bir parça oldu
+annem bana kurabiye yaptı, comfort|E food|E gibi
+uzun bir haftanın sonunda sadece uyumak istiyorum, recharge|E zamanı
+sabah koşusu sonrası uzun bir kahvaltı, ideal bir sunday|E
+eski fotoğraflara bakınca biraz nostalgic|E oldum
+kardeşimle aramızdaki şakalar bizim inside|E joke'umuz|M=joke+umuz
+bu kış her akşam sıcak bir çorba benim self-care|E rutinim
+balkonda kahve içerken komşuyla small|E talk|E yaptık
+akşam yemeği için basit bir one-pot|E makarna yaptım, bulaşık da az
+# --- NE mixed medium ---
+geçen hafta sonu bursa'da|N uludağ|N eteklerinde bir bungalov|T kiraladık
+annemle kapalıçarşı'da|N gümüş takı baktık, pazarlık annemin işi
+ankara'da|N anıtkabir'i|N ziyaret ettikten sonra kızılay'da|N yemek yedik
+izmir'den|N gelen kuzenim bana boyoz ve gevrek getirdi
+trabzon'da|N sümela|N manastırı'na|N çıkarken sis her yeri kapladı
+gaziantep'te|N baklava|T turu yaptık, üç günde beş kilo
+eskişehir'de|N odunpazarı|N evleri arasında kaybolmak çok güzel
+mardin'de|N gün batımında mezopotamya|N ovasını izledik
+çanakkale'de|N truva|N atının önünde fotoğraf çektik
+konya'da|N mevlana|N müzesi'ni|N gezdik, çok huzurluydu
+adana'da|N kebap yerken acıya dayanamadım
+sinop'ta|N deniz kenarında kamp yaptık, gece yıldızlar inanılmazdı
+bozcaada'da|N bisikletle bütün adayı turladık
+kaş'ta|N dalış kursuna yazıldım, ilk dalışta kulaklarım ağrıdı
+ayvalık'ta|N tost yemeden dönmek olmaz dediler, haklılarmış
+hatay'da|N künefe|T yerken dünyanın en mutlu insanıydım
+van'da|N kahvaltı kültürü bambaşka, masaya otuz çeşit geldi
+erzurum'da|N cağ kebabı için kuyruğa girdik
+amasra'da|N balık yedik, manzara muhteşemdi
+artvin'de|N yayla evinde wifi|E yoktu ama kimse şikayet etmedi
+# --- reactions ---
+ya bu kadarı da fazla, overreaction|E bence
+çok iyi bir haber bu, congrats|E
+gerçekten mi, no|E way|E
+bu nasıl bir şans, unbelievable|E
+of yine mi aynı şey, seriously|E
+haha çok komik, made|E my|E day|E
+hiç beklemiyordum bunu, plot|E twist|E
+sonunda bitti, phew|E
+ne diyeceğimi bilmiyorum, speechless|E
+çok tatlı bir hareket, wholesome|E
+bunu duyunca çok üzüldüm, sending|E love|E
+iyi ki varsın, love|E you|E

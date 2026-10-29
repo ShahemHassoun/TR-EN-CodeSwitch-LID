@@ -1,0 +1,199 @@
+# batch 24 — jobs, bureaucracy, education, parenting
+# --- different jobs ---
+marketing|E ekibinde çalışıyorum, bütün gün engagement|E rate'lerine|M=rate+lerine bakıyorum
+grafik tasarımcı olarak en çok duyduğum cümle logoyu biraz daha büyütelim
+customer|E support'ta|M=support+ta çalışmak sabır gerektiriyor, herkes ilk mesajda bağırıyor
+restoranda garsonluk yaptığım yaz aldığım tip'ler|M=tip+ler maaşımdan fazlaydı
+öğretmen arkadaşım her akşam assignment|E kağıtlarını okuyor
+mimar arkadaşım render|E almak için bilgisayarı bütün gece açık bırakıyor
+fotoğrafçı olarak düğünlerde en zor kısım group|E photo|E çekmek
+avukat kuzenim case|E dosyalarını eve getiriyor, akşamları hep çalışıyor
+copywriter|E olarak yazdığım slogan|T müşteriye göre çok kısa
+hemşire arkadaşım night|E shift|E sonrası bütün gün uyuyor
+satış ekibinde çalışınca her ay target|E baskısı yaşıyorsun
+ux|E designer|E olarak kullanıcı interview'ları|M=interview+ları en sevdiğim kısım
+data|E analyst|E iş ilanında sql|E ve python|N istiyorlar, ikisini de biliyorum
+youtuber|E olmaya karar verdim, ilk videom üç view|E aldı
+yayıncı arkadaşım twitch'te|N her gece sekiz saat stream|E yapıyor
+muhasebeci arkadaşım vergi döneminde deadline|E stresinden kimseyle konuşmuyor
+proje yöneticisi olarak işim stakeholder'ları|M=stakeholder+ları mutlu etmek
+barista|E olarak çalıştığım kafede herkes oat|E milk|E istiyor
+emlakçı bana evi gösterirken cozy|E dedi, yani küçük
+hr|E recruiter|E bana linkedin'den|N mesaj attı ama ilandaki maaşı söylemedi
+freelancer|E olarak en zor şey müşteriden ödeme almak
+şirketin social|E media|E manager'ı|M=manager+ı yanlış hesaptan tweet|E attı
+event|E planner|E olarak bütün yaz düğün organize|T ettim
+# --- bureaucracy and banking ---
+e-devlet'te|N şifremi unuttum, ptt'ye|N gitmem gerekiyor
+banka app'i|M=app+i yine update|E istedi, para gönderemedim
+pasaport randevusu için sistem sürekli error|E veriyor
+mobil bankacılıkta two-factor|E authentication|E kodu gelmeyince kilitlendim
+vergi dairesinde sıra numarası alıp iki saat bekledim
+kredi kartı başvurum reject|E edilmiş, sebebini söylemiyorlar
+sgk|N kaydım görünmüyor diye iş yerine üç kez gittim
+noterde imza için bir saat bekledim, işlem iki dakika sürdü
+iban|E numarasını yanlış yazınca para başka birine gitti
+belediyenin online|E başvuru sistemi sadece mesai saatlerinde çalışıyor
+bankanın chatbot'u|M=chatbot+u hiçbir soruma cevap veremedi
+ehliyet yenileme için health|E report|E istediler, hastanede yarım gün geçti
+dijital kimlik kartımı telefona ekledim, artık cüzdan taşımıyorum
+banka bana yeni bir credit|E card|E teklifi gönderdi, faiz oranı uçuk
+# --- education and exams ---
+yks'ye|N hazırlanırken her gün on iki saat çalıştım
+kpss|N sonuçları açıklanınca e-devlet|N çöktü
+dershanede deneme sınavı sonrası herkes net|T sayısını karşılaştırıyor
+online|E kursta quiz'leri|M=quiz+leri geçmeden sertifika vermiyorlar
+ielts|N writing|E task'ında|M=task+ında kelime sayısını aştım, puan kırdılar
+toefl|N için reading|E practice|E yaparken uyuyakaldım
+lisede debate|E kulübündeydim, şimdi her tartışmayı kazanıyorum
+yüksek lisans başvurusu için reference|E letter|E istedim, hocam unutmuş
+hazırlık sınıfında grammar|E dersleri en sıkıcısıydı
+öğretmenimiz derste kahoot|N oynatıyor, herkes çok eğleniyor
+kardeşim ödevini chatgpt'ye|N yaptırınca öğretmen fark etti
+summer|E camp|E için çocuğumu kaydettim, her gün yeni bir aktivite
+üniversite open|E day|E etkinliğinde bütün bölümleri gezdik
+bootcamp|E bitirince iş bulacağımı sanıyordum, altı aydır arıyorum
+yeni dönemde elective|E ders olarak photography|E seçtim
+# --- parenting ---
+oğlum ilk kelime olarak baba yerine ok|E dedi
+kızım her akşam bedtime|E story|E istiyor, aynı kitabı yüzüncü kez okuyoruz
+çocuğun ekran süresini kısıtlamak için parental|E control|E açtım, şifreyi iki günde buldu
+oğlum okulda show|E and|E tell|E için evdeki kaplumbağayı götürdü
+kreşteki öğretmen bize her gün daily|E report|E gönderiyor
+bebeğimizin sleep|E schedule'ı|M=schedule+ı her hafta değişiyor
+çocuk doğum günü partisinde bounce|E house|E vardı, en çok babalar eğlendi
+kızım youtube|N kids'te|N aynı videoyu yüz kere izliyor
+oğlum lego|N setini bir günde bitirdi, manual'a|M=manual+a bakmadan
+anne babalar whatsapp|N grubunda bir veli yine bütün gece mesaj attı
+çocuğumla birlikte mutfakta volcano|E deneyi yaptık, her yer köpük oldu
+kızım okulda spelling|E bee|E yarışmasında ikinci oldu
+oğlum bana her şeyin nedenini soruyor, google'a|N bakmadan cevap veremiyorum
+# --- MIXED-dense: verbs with -le ---
+dosyayı drive'a|M=drive+a upload'ladım|M=upload+ladım ama link|E çalışmıyor
+yeni videomu edit'lerken|M=edit+lerken bütün gece uyumadım
+arkadaşımın story'sini|M=story+sini screenshot'ladım|M=screenshot+ladım, bana kızdı
+bütün maili|M=mail+i forward'ladım|M=forward+ladım, artık onların sorunu
+toplantıyı record'ladım|M=record+ladım ama ses gelmiyormuş
+oyunda boss'u|M=boss+u solo'ladım|M=solo+ladım, kendimle gurur duyuyorum
+o kadar çok tweet'i|M=tweet+i retweet'ledim|M=retweet+ledim ki timeline'ım|M=timeline+ım kendi tweet'lerimden|M=tweet+lerimden oluşuyor
+dosyaları zip'leyip|M=zip+leyip gönderdim, açılmıyormuş
+router'ı|M=router+ı reset'ledim|M=reset+ledim, bütün cihazlar yeniden bağlandı
+fotoğrafları crop'layıp|M=crop+layıp paylaştım, kimse fark etmedi
+yeni şarkıyı loop'a|M=loop+a aldım, bütün gün dinliyorum
+müşterinin isteğini sabaha kadar implement'ledim|M=implement+ledim
+kanalımı subscribe'layan|M=subscribe+layan herkese teşekkürler
+mesajını delete'ledim|M=delete+ledim ama çoktan görmüş
+uzun makaleyi skim'ledim|M=skim+ledim, ana fikri anladım
+grupta herkes beni tag'liyor|M=tag+liyor, bildirimler bitmiyor
+o şarkıyı shazam'ladım|N, adı aklımdan çıkmıştı
+notları print'leyip|M=print+leyip dağıttım, yarısı yanlış sayfa
+dün gece bütün sezonu binge'ledim|M=binge+ledim
+bu videoyu like'layıp|M=like+layıp kanala abone olmayı unutmayın
+fotoğrafı photoshop'layınca|N yüzüm tanınmaz oldu
+toplantı notlarını summarize'lamak|M=summarize+lamak benim işim oldu
+eski mesajları scroll'larken|M=scroll+larken utandım
+abim kodumu debug'larken|M=debug+larken bana güldü
+yeni bilgisayarı setup'lamak|M=setup+lamak bütün günümü aldı
+# --- MIXED-dense: nouns with case endings ---
+bu feature'ın|M=feature+ın release'i|M=release+i gelecek aya kaldı
+meeting'in|M=meeting+in agenda'sı|M=agenda+sı yoktu, bir saat boşa gitti
+arkadaşımın startup'ında|M=startup+ında herkes co-founder|E gibi davranıyor
+podcast'imin|M=podcast+imin intro'sunu|M=intro+sunu kardeşim yaptı
+deadline'dan|M=deadline+dan önce feedback|E almak istiyorum
+powerbank'im|M=powerbank+im de boş çıkınca telefonsuz kaldım
+sevgilimin playlist'inde|M=playlist+inde sadece sad|E şarkılar var
+target'ımızı|M=target+ımızı yüzde on aştık, bonus|E bekliyoruz
+bu app'te|M=app+te dark|E mode|E yok mu
+weekend'de|M=weekend+de hiçbir plan|T yapmadım, harika
+manager'ımla|M=manager+ımla one|E on|E one|E toplantımız iptal oldu
+o kadar çok tab'ım|M=tab+ım açık ki bilgisayar donuyor
+server'ın|M=server+ın log'larında|M=log+larında hiçbir şey yok
+bu course'un|M=course+un hocası çok iyi anlatıyor
+yeni ofisin vibe'ı|M=vibe+ı çok farklı
+kedimin toy'larını|M=toy+larını kanepenin altında buldum
+sprint'in|M=sprint+in sonunda demo|E yapacağız
+bu brand'in|M=brand+in yeni kampanyası çok tartışıldı
+influencer'ın|M=influencer+ın sponsorlu postu|M=post+u herkesin dikkatini çekti
+kahve shop'unda|M=shop+unda wifi'ı|M=wifi+ı bulamadım
+partner'ım|M=partner+ım bu hafta sonu ailesiyle tanıştırmak istiyor
+bu chapter'ı|M=chapter+ı bitirmeden uyumayacağım
+yeni setup'ım|M=setup+ım için ikinci monitor|E aldım
+event'in|M=event+in tarihi değişmiş, kimse haber vermedi
+# --- MIXED: derivational -cı, -lık, -sız, -lı ---
+kahve snob'luğum|M=snob+luğum yüzünden hazır kahve içemiyorum
+gamer'lık|M=gamer+lık kariyerim lisede başlayıp lisede bitti
+bu kadar noise'lı|M=noise+lı bir ofiste çalışmak zor
+filter'sız|M=filter+sız fotoğraf paylaşan tek arkadaşım o
+wifi'sız|M=wifi+sız bir hafta geçirdim, kitap okudum
+hipster'lık|M=hipster+lık modası geçti mi
+ofisteki gossip'çi|M=gossip+çi arkadaş herkesin her şeyini biliyor
+# --- sport fandom NE ---
+galatasaray'ın|N şampiyonluk kutlamasında taksim|N meydanı'nda|N sabaha kadar kaldık
+icardi'nin|N golünden sonra stadyumdaki herkes birbirine sarıldı
+filenin|N sultanları|N maçını izlerken bütün kafe ayaktaydı
+trabzonspor'un|N yeni hocası ilk basın toplantısında çok iddialı konuştu
+arda|N güler'in|N real|N madrid'deki|N ilk golü bütün ülkeyi sevindirdi
+efes'in|N euroleague|N maçı için sinan|N erdem'e|N gittik
+cedi|N osman'ın|N dunk'ını|M=dunk+ını herkes tekrar tekrar izledi
+milli takım euro|N maçında penaltıları kaçırınca bütün mahalle sustu
+şenol|N güneş'in|N basın toplantıları ayrı bir show|E
+kartal|N pençe|N montunu giyip derbiye gittim, deplasmanda tek beşiktaşlı|N bendim
+nba|N finallerinde lebron'un|N block'u|M=block+u efsaneydi
+federer'in|N son maçını izlerken ağladım
+istanbul|N maratonu'nda|N köprüden koşmak inanılmaz bir duygu
+hamilton'un|N ferrari'ye|N geçişi f1|N dünyasını salladı
+djokovic'in|N wimbledon|N finali beş set sürdü
+# --- places and travel NE ---
+paris'teki|N louvre'da|N mona|N lisa'nın|N önünde selfie|E çekmek için yarım saat bekledik
+londra'da|N camden|N market'te|N vintage|E kıyafet baktık
+new|N york'ta|N central|N park'ta|N koşmak hayalimdi
+barselona'da|N sagrada|N familia'yı|N gezdik, inşaat hâlâ bitmemiş
+amsterdam'da|N bisiklet kiraladık, kanalların kenarında kaybolduk
+roma'daki|N kolezyum|N turunda rehberimiz çok komikti
+tokyo'da|N shibuya|N geçidinde kalabalığa karıştık
+dubai'de|N burj|N khalifa'nın|N tepesinden manzara olağanüstüydü
+viyana'da|N noel|N pazarında sıcak şarap içtik
+prag'da|N eski şehir meydanında astronomik saati izledik
+berlin'de|N duvar kalıntılarının önünde fotoğraf çektik
+safranbolu'da|N eski konaklarda kaldık, her yer lokum kokuyordu
+çeşme'de|N alaçatı|N sokaklarında akşam yürüyüşü yaptık
+fethiye'de|N ölüdeniz'de|N paraşüt yaptım, korkudan gözlerimi kapattım
+pamukkale'nin|N travertenlerinde çıplak ayakla yürüdük
+# --- brands and apps NE ---
+iphone'umun|N batarya sağlığı yüzde seksene düştü
+macbook'un|N klavyesine kahve döküldü, servis bir hafta sürecek
+windows|N 11'e|N geçince bütün programlar değişti
+android|N telefonumdan ios'a|N geçmek düşündüğümden zor oldu
+google|N maps|N beni yine kapalı bir yola soktu
+waze|N trafik uyarısı verdi ama yine de sıkıştık
+canva|N pro'yu|N öğrenci indirimiyle aldım
+duolingo|N baykuşu bana yine mesaj attı
+airpods'umun|N tekini metroda düşürdüm
+ps5'te|N yeni oyunun demo'su|M=demo+su çıktı
+tiktok|N algoritması beni çok iyi tanıyor, korkutucu
+pinterest'te|N düğün fikirleri toplarken bütün gece geçti
+reddit'te|N bir thread|E okurken kendimi bir saat sonra başka bir konuda buldum
+spotify|N wrapped'ım|N bu yıl tamamen tek bir şarkıcıdan oluşuyor
+yemeksepeti|N ile getir|N arasında fiyat karşılaştırması yaptım
+# --- general mixed ---
+bu akşam sinemaya gidelim mi, yeni çıkan sci-fi|E filmi izlemek istiyorum
+kahvaltıda pancake|E yaptım, ilk ikisi yandı
+yeni kitabımın cover|E tasarımını çok beğendim
+konser için early|E bird|E bilet aldım, yarı fiyatına
+arkadaşım bana bir life|E hack|E öğretti, buzdolabını haftada bir düzenlemek
+taşındıktan sonra komşulara welcome|E kurabiyesi götürdüm, kimse kapıyı açmadı
+akşam yemeğinde candlelight|E dinner|E yaptık, elektrik kesildi
+dolabımda giymediğim kıyafetler için bir swap|E party|E düzenledik
+arkadaşlarla weekend|E getaway|E planı yaptık ama herkes farklı tarih söyledi
+yeni yıl için resolution|E listemi yaptım, şubatta unuttum
+# --- long posts 3 ---
+bu sabah otobüste yanıma oturan adam telefonda yüksek sesle quarterly|E results|E hakkında konuşuyordu, bütün yolcular şirketin kâr marjını öğrendi, inerken biri arkasından good|E luck|E diye bağırdı
+kardeşimin düğününde bütün organizasyonu ben yaptım, catering|E firması son gün iptal etti, dj|E yanlış şarkı listesi getirdi ve gelinlik terzisi bir beden küçük dikmişti ama gece sonunda herkes çok mutluydu
+geçen hafta bir product|E launch|E etkinliğine gittim, sunum yapan kişi beş dakika boyunca slide'ları|M=slide+ları açamadı, sonunda hdmi|E kablosunu değiştirdiler ve demo|E sırasında wifi|E koptu
+annemle babam emekli olunca bir karavan aldılar, şimdi her ay farklı bir şehirden bize fotoğraf atıyorlar ve whatsapp|N grubunda kendilerine digital|E nomad|E diyorlar
+ilk maaşımla kendime bir espresso|E makinesi aldım, ilk ay her sabah latte|E yaptım, ikinci ay temizlemekten sıkıldım ve şimdi makine mutfakta süs olarak duruyor
+şirketin yılbaşı partisinde secret|E santa|E çekilişi yaptık, bana müdürüm çıktı, ne alacağımı bilemedim ve sonunda bir kahve kupası aldım, o da bana aynı kupadan almış
+bir arkadaşım yıllardır bir podcast|E açmak istiyordu, sonunda mikrofonları aldık, ilk bölümü kaydettik ama editing|E kısmı o kadar uzun sürdü ki ikinci bölüm hiç gelmedi
+geçen ay bir dating|E app'te|M=app+te tanıştığım biriyle buluştum, fotoğraflarından on yaş büyük çıktı, ama sohbet o kadar iyiydi ki saatlerce konuştuk ve şimdi iyi arkadaşız
+ofisteki kahve makinesi bozulunca bütün departman aşağıdaki kafeye gitmeye başladı, kafe sahibi bize özel bir loyalty|E card|E yaptı ve şimdi orası ikinci ofisimiz oldu
+üniversitedeki son dönemimde capstone|E projemiz için bir mobile|E app|E geliştirdik, jüri sunumunda uygulama çöktü ama hocalar backup|E videomuzu izleyip yine de yüksek not verdi

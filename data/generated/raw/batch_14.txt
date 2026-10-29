@@ -1,0 +1,222 @@
+# batch_14 — mixed density. Written by Claude (Anthropic); style seeded by TurEngMix train split.
+# --- daily tech frustrations ---
+telefonumun autocorrect'i|M=autocorrect+i türkçe|N kelimeleri sürekli ingilizceye|N çeviriyor, mesajlarım anlaşılmıyor
+bluetooth|E hoparlörü arabaya bağlarken yanlışlıkla komşunun arabasına bağlandım
+bilgisayarım tam sunum öncesi update'e|M=update+e girdi, yüzde sıfırda yirmi dakika bekledim
+wifi|E şifresini misafirlere vermek için qr|E kod yaptım, kimse nasıl okunacağını bilmiyordu
+şarj kablom yine bozuldu, apple'ın|N kabloları altı ayda bir değişiyor
+uygulamanın yeni ui'ı|M=ui+ı o kadar karışık ki bütün butonların yerini yeniden öğrenmem gerekti
+icloud'dan|N fotoğraf indirirken internet|T koptu, download|E baştan başladı
+yazıcıya bağlanmak için driver|E indirdim, kurulum beş farklı reklam gösterdi
+oyun konsolunun controller'ı|M=controller+ı drift|E yapıyor, karakter kendi kendine yürüyor
+akıllı saatim gece uyurken notification|E gösteriyor, yataktan ışık çıkıyor
+evdeki smart|E tv|A her açılışta reklam gösteriyor, netflix|N açmak için önce reklam izliyorum
+telefonumdaki storage|E dolunca whatsapp|N medyalarını sildim, on gigabyte meme|E vardı
+password|E manager'ın|M=manager+ın master|E şifresini unuttum, bütün şifrelerim kilitli
+zoom'un|N virtual|E background'u|M=background+u kafamın yarısını kesiyor, toplantıda hayalet gibiyim
+laptop'umun|M=laptop+umun fan'ı|M=fan+ı o kadar gürültülü ki toplantıda herkes uçak mı kalkıyor diye soruyor
+# --- night out ---
+cuma gecesi kadıköy'de|N bir live|E music|E barında indie|E grubu dinledik, vokalist harikaydı
+taksim'deki|N kulübün line'ında|M=line+ında bir saat bekledik, içeri girince müzik beklediğimiz gibi değildi
+gece yarısı uber'le|N eve dönerken şoför bana bütün hayat hikayesini anlattı
+karaoke|E barında mikrofonu kapan arkadaşım üç saat boyunca tarkan|N söyledi
+afterparty|E için arkadaşın evine gittik, sabah altıda kahvaltı yaptık
+# end chunk
+# --- startups 3 / product ---
+ürünümüzün landing|E page'ini|M=page+ini a/b|E testlerle optimize ettik, ama trafik hala çok az
+yatırımcı toplantısında bize << what's your go-to-market strategy >> diye sordu, cevabımız instagram|N reklamıydı
+mvp'mizi|M=mvp+mizi product|E hunt'ta|N yayınladık, ilk gün yüz kişi kaydoldu ve sonra kimse giriş yapmadı
+customer|E success|E ekibimiz her ticket'a|M=ticket+a beş dakikada cevap veriyor, müşteriler bunu çok seviyor
+pricing|E sayfamızdaki enterprise|E planı için hiç kimse demo|E istemedi
+startup'ımızın|M=startup+ımızın ilk office'i|M=office+i bir coworking|E masasıydı, şimdi koca bir kat kiraladık
+churn'ü|M=churn+ü azaltmak için onboarding|E email'lerini|M=email+lerini yeniden yazdık
+ürün roadmap'inde|M=roadmap+inde her şey << q3 >> olarak işaretli, q3 geldi geçti
+şirketin cto'su|M=cto+su her toplantıda kubernetes'ten|N bahsediyor, ürünümüz bir form sayfası
+seed|E turunu kapatınca ilk iş yeni macbook'lar|N aldık, sonra runway|E hesabı yaptık
+# --- media / journalism ---
+gazetedeki stajımda ilk haberim bir festival hakkındaydı, editor'üm|M=editor+üm başlığı tamamen değiştirdi
+podcast'imizin|M=podcast+imizin ilk bölümünde ses kaydı bozuk çıktı, yine de yayınladık
+newsletter|E yazmaya substack'te|N başladım, ilk ay abone sayım on iki oldu
+haber sitesinin seo|E ekibi her başlığa clickbait|E kelimeler eklememizi istiyor
+canlı yayında muhabirin arkasından geçen köpek bütün haberin önüne geçti, twitter|N bayıldı
+belgesel ekibiyle çalışırken drone|E çekimleri için izin almak bir ay sürdü
+youtube|N haber kanalımızın thumbnail'larını|M=thumbnail+larını tasarlamak için canva|N kullanıyoruz
+gazeteci arkadaşım fact|E checking|E yaparken kaynakların yarısının birbirinden kopyalandığını buldu
+radyo programında dj|E canlı yayında yanlış şarkıyı çalınca bütün dinleyiciler mesaj attı
+dergi için yaptığım interview'da|M=interview+da konuğum her soruya << no comment >> dedi
+# end chunk
+# --- city transport 4 ---
+istanbulkart'ıma|N online|E para yükledim, turnikede bakiye görünmedi, arkadaki adam söylendi
+marmaray'da|N sabah rush|E hour'da|M=hour+da kapı açılınca içeri giremedim, bir sonrakini bekledim
+yeni metro hattının opening'inde|M=opening+inde belediye başkanı ilk treni kendisi sürdü
+vapurda simit ve çay alıp güverteye çıkmak istanbul'un|N en ucuz therapy'si|M=therapy+si
+dolmuşta şoför müziği sonuna kadar açtı, playlist'i|M=playlist+i arabesk ve rap|E karışıktı
+bitaksi'den|N çağırdığım taksi app'te|M=app+te beş dakika diyordu, yirmi dakika sonra geldi
+havalimanına gitmek için havaist'e|N bindim, bagaj yerinde başkasının valizi benimkinin üstüne düştü
+scooter'ımla|M=scooter+ımla bisiklet yolunda giderken bir köpek peşime takıldı, hızımı artırdım
+otobüs şoförü durakta beklemeden geçti, peşinden koşan teyze bütün otobüsü durdurdu
+uber'in|N surge|E pricing'i|M=pricing+i yağmurda üç katına çıktı, yürümeye karar verdim
+# --- house hunting 2 ---
+emlakçının gönderdiği virtual|E tour|E videosunda ev çok aydınlık görünüyordu, gerçekte bodrum katıydı
+ev sahibi bana << no pets >> dedi, kedimi saklamak zorunda kaldım
+kira kontratında hidden|E fee'ler|M=fee+ler vardı, aidat dışında bir de bakım ücreti
+yeni evin internet|T kurulumu için türk|N telekom'dan|N randevu aldım, teknisyen iki hafta sonra geldi
+taşınma günü kamyonet kiraladık, koltuk asansöre sığmadı ve yedi kat merdivenden taşıdık, moving|E day|E kabusu
+# --- social media 4 ---
+linkedin'de|N biri işten çıkarılmasını << exciting new chapter >> diye paylaştı, yorumlarda herkes tebrik etti
+instagram'da|N carousel|E post'umun|M=post+umun ilk fotoğrafı bulanık çıktı, kimse kaydırıp diğerlerine bakmadı
+tiktok'ta|N bir yemek videom viral|E oldu, comment'lerde|M=comment+lerde herkes tarifi yanlış yaptığımı söyledi
+youtube|N kanalımın analytics'ine|M=analytics+ine baktım, izleyicilerin çoğu hindistan'danmış|N
+twitter'da|N bir tartışmaya katıldım, sonra notification'larımı|M=notification+larımı üç gün açmadım
+bereal|N bildirimi geldiğinde market kuyruğundaydım, arkadaşlarım sadece domatesleri gördü
+instagram|N story'mde|M=story+mde quiz|E yaptım, en yakın arkadaşım bile doğum günümü bilemedi
+pinterest'teki|N aesthetic|E oda fotoğraflarına bakıp kendi odama döndüm, hayal kırıklığı
+snapchat|N filter'larıyla|M=filter+larıyla çektiğim fotoğrafları annem gerçek sandı
+facebook'ta|N hatırlatılan on yıl önceki post'umu|M=post+umu görünce hesabımı silmeyi düşündüm
+# --- music 6 ---
+spotify'ın|N discover|E weekly'si|M=weekly+si bu hafta bana sadece doksanlar şarkısı önerdi, nostalji modu
+konserde mosh|E pit'e|M=pit+e girdim, gözlüğüm uçtu ve bir daha bulamadım
+yeni albümü vinyl|E olarak aldım, pikabım yok ama kapak çok güzel
+gitar hocam bana fingerstyle|E öğretirken parmaklarım düğüm oldu
+festivalde lineup'taki|M=lineup+taki en sevdiğim grubun set'i|M=set+i diğer sahnedeki grupla çakıştı
+şarkı sözlerini yanlış biliyormuşum, genius'ta|N okuyunca bütün çocukluğum yalan oldu
+müzik teorisi öğrenmek için youtube'da|N izlediğim kanalın host'u|M=host+u bir caz piyanisti
+apple|N music'in|N spatial|E audio'su|M=audio+su ile eski albümleri dinledim, şarkılar yeniden doğmuş gibi
+shazam'la|N bulduğum şarkı aslında bir reklam müziğiymiş
+karaoke|E gecesinde high|E note'u|M=note+u tutturamayınca bütün masa gülmekten öldü
+# end chunk
+# --- long posts 2 ---
+bir yıl remote|E çalıştıktan sonra ofise dönmek zorunda kaldım, ilk gün sabah yedide kalkıp metrobüse bindiğimde neden bu kadar yorgun olduğumu hatırladım, ama öğle arasında arkadaşlarla yemek yemek gerçekten güzeldi
+spotify'ın|N yıl sonu özeti geldiğinde bütün arkadaş grubumuz story|E paylaştı, benim en çok dinlediğim şarkı bir uyku sesi çıktı ve bunu açıklamak zorunda kaldım, çünkü her gece onunla uyuyorum
+ekşi'de|N okuduğum bir başlık sayesinde yıllardır kullandığım bankanın gizli fee'lerini|M=fee+lerini fark ettim, hemen hesabımı kapatıp dijital bir bankaya geçtim, bütün süreç beş dakika sürdü
+bu yaz ilk kez bir müzik festivaline gittim, çadırda uyumak, sabah soğuk suyla yıkanmak ve günde iki kez aynı sandviçi yemek beklediğimden zordu ama gece headliner|E sahneye çıktığında her şeye değdi
+yazılımcı olarak ilk işimde bana bir legacy|E sistem verildi, kodda hiç comment|E yoktu, değişken isimleri a, b ve c'den ibaretti, üç ay boyunca sadece neyin ne işe yaradığını anlamaya çalıştım
+annemle babamı ilk kez yurt dışına götürdüm, havalimanında self|E check-in|E makinesini kullanmayı reddettiler, sıraya girdik, uçakta babam her şeyin fotoğrafını çekti ve indiğimizde ilk iş türk|N kahvesi aradılar
+evimizin yakınına açılan yeni kafe bir anda instagram'da|N popüler oldu, şimdi hafta sonları sokağımız fotoğraf çeken insanlarla dolu ve biz kendi kapımızdan geçemiyoruz
+iş görüşmesinde bana bir case|E study|E verdiler, iki saat içinde bir ürünün pazarlama stratejisini hazırlamam gerekiyordu, sunumu bitirdiğimde mülakatçı sadece << interesting >> dedi ve bir daha hiç dönmediler
+kedimi sahiplendiğim ilk hafta bütün evi baby|E proof|E yaptım, kablolar, bitkiler ve kırılabilecek her şeyi kaldırdım, kedi ise bütün gün kutusunun içinde oturdu
+eski telefonumu satmadan önce factory|E reset|E yaptım, ama google|N hesabından çıkmayı unutmuşum, alıcı bana iki gün sonra mesaj atıp telefonun kilitli olduğunu söyledi
+# end chunk
+# --- tech workplace 4 ---
+şirketin slack'inde|N bir emoji|E reaction'ı|M=reaction+ı yüzünden iki departman birbirine girdi
+it|E departmanı bana yeni bir laptop|E verdi, admin|E yetkim olmadığı için spotify|N bile kuramıyorum
+yeni projede microservices|E yerine monolith|E kullanalım dedim, toplantı odasında sessizlik oldu
+code|E freeze|E haftasında acil bir hotfix|E çıkardık, bütün ekip gece yarısına kadar ofisteydi
+devops|E ekibimiz pipeline'ı|M=pipeline+ı yeniden yazdı, deploy|E süresi kırk dakikadan beş dakikaya indi
+qa|E ekibindeki arkadaş her release'te|M=release+te bir bug|E buluyor, artık ona bug|E hunter|E diyoruz
+product|E manager|E yeni feature|E için user|E story|E yazdı, story|E iki sayfa sürdü
+data|E team'imiz|M=team+imiz dashboard'ları|M=dashboard+ları power|N bi'da|N yapıyor, ama kimse açıp bakmıyor
+jira'daki|N epic'lerimizin|M=epic+lerimizin hiçbiri bitmiyor, sadece yeni sprint'lere|M=sprint+lere taşınıyor
+yeni çalışan bana << what's our tech stack >> diye sordu, cevap vermek için on dakika düşündüm
+şirketin security|E training'inde|M=training+inde phishing|E testinde ilk ben elendim
+api|E documentation'ımız|M=documentation+ımız swagger'da|N ama yarısı outdated|E
+mobile|E ekibimiz ios|N ve android|N için ayrı ayrı aynı bug'ı|M=bug+ı düzeltmek zorunda kaldı
+ui|E designer'ımız|M=designer+ımız her mockup'ta|M=mockup+ta farklı bir font|E kullanıyor
+sprint|E retrospective'inde|M=retrospective+inde herkes iletişimin kötü olduğunu söyledi, sonra kimse kimseyle konuşmadı
+# end chunk
+# --- names & cities 2 ---
+selin'le|N galata'da|N buluştuk, starbucks|N yerine küçük bir third|E wave|E kahveciye gittik
+burak'ın|N yeni tesla'sı|N ile şile'ye|N gittik, autopilot|E özelliğini denerken çok korktuk
+zeynep|N amsterdam'a|N taşındı, her hafta bize bike|E lane'lerin|M=lane+lerin fotoğraflarını atıyor
+emre'nin|N doğum gününü bebek'teki|N bir restoranda kutladık, hesap gelince herkes split|E dedi
+ayşe'nin|N düğününde dj|E sezen|N aksu|N çalınca bütün teyzeler piste koştu
+mert|N bana steam'de|N {{ stardew valley'i }} hediye etti, birlikte farm|E kuruyoruz
+deniz|N londra'daki|N işinde ilk hafta herkes ona << how are you settling in >> diye sormuş
+ece'nin|N instagram|N hesabı bir anda on bin follower'a|M=follower+a ulaştı, şimdi influencer|E oldu
+can'ın|N spotify|N playlist'ini|M=playlist+ini dinlerken her şarkının bir ex'e|M=ex+e ait olduğunu anladım
+gizem|N ve kerem|N netflix'te|N aynı diziyi izlerken spoiler|E yüzünden kavga ettiler
+murat|N abiyle|T fenerbahçe|N maçına gittik, tribünde ilk kez canlı tezahürat duydum
+elif|N berlin'deki|N startup'ında|M=startup+ında product|E manager|E olarak çalışıyor
+ahmet|N bey|T toplantıda chatgpt'nin|N cevabını kendi fikri gibi sundu, kimse fark etmedi
+cem'le|N izmir'de|N kordon'da|N yürürken bir sokak müzisyeni bizim için şarkı söyledi
+ozan|N hocanın|T dersinde herkes laptop'ını|M=laptop+ını kapatmak zorunda, hoca not almayı kağıtta istiyor
+# end chunk
+# --- banking 4 / payments ---
+papara|N kartımla online|E alışverişte cashback|E kazandım, ilk kez bir kampanya gerçekten işe yaradı
+iban'ımı|M=iban+ımı yanlış yazınca para geri dönmedi, bankayla bir hafta yazıştık
+qr|E kodla ödeme yapmayı öğrenince cüzdanı evde bırakmaya başladım
+apple|N pay|N kullanmaya başladığımdan beri kartımı hiç çıkarmadım, kasiyerler şaşırıyor
+taksit seçeneği olmayınca sepeti abandon|E ettim, sonra indirim kodu maili|M=mail+i geldi
+garanti|N bbva'nın|N app'inde|M=app+inde biometric|E login|E çalışmayınca şifremi üç kez yanlış girdim
+kredi kartı ekstremde bilmediğim bir subscription|E vardı, iki yıldır ödüyormuşum
+bitcoin|N atm'si|M=atm+si gördüm istanbul'da|N, kimsenin kullandığını görmedim
+banka bana pre-approved|E kredi teklif etti, ihtiyacım olmadığı için reddettim
+arkadaşlarla split|E bill|E uygulaması kullanıyoruz, her akşamın sonunda kim kime ne borçlu hesaplanıyor
+# --- weather 4 ---
+istanbul'da|N bir kış günü güneş açınca herkes kafelerin terasına çıktı, vitamin|A d|E için
+ankara'nın|N ayazında kulaklarım dondu, beanie|E takmadan dışarı çıkmamayı öğrendim
+yazın ofisin klima ayarı yüzünden içeride cardigan|E giyiyorum, dışarısı kırk derece
+lodosta vapur seferleri iptal olunca eminönü'nde|N mahsur kaldık
+bahar alerjim başlayınca bütün gün tissue|E ile dolaşıyorum, burnum kıpkırmızı
+# end chunk
+# --- MIXED drill: verbs ---
+toplantıyı zoom'da|N record'ladım|M=record+ladım ama sesi kaydetmeyi unutmuşum
+dosyayı slack'te|N pin'ledim|M=pin+ledim ki herkes görsün, kimse görmedi
+eski fotoğrafları google|N photos'a|N backup'ladım|M=backup+ladım, telefonda yer açıldı
+gruptaki mesajı yanlışlıkla delete'ledim|M=delete+ledim, herkes ne yazdığımı merak etti
+playlist'i|M=playlist+i kendi zevkime göre customize'ladım|M=customize+ladım, arkadaşlarım beğenmedi
+sunumu son dakika update'ledim|M=update+ledim, ama eski versiyonu göndermişim
+müşteri mailini forward'layınca|M=forward+layınca yanlışlıkla bütün thread'i|M=thread+i göndermişim
+kodumu refactor'ladım|M=refactor+ladım, testler geçti ama prod'da|M=prod+da patladı
+fotoğrafı instagram'a|N atmadan önce on kez crop'ladım|M=crop+ladım
+mesajı screenshot'layıp|M=screenshot+layıp gruba attım, sonra kişinin de grupta olduğunu fark ettim
+# end chunk
+# --- kids & school 4 ---
+oğlumun okulundaki stem|E fair'de|M=fair+de yaptığı volkan|T patlamadı, jüri yine de katılım ödülü verdi
+kızım okulun drama|E club'ına|M=club+ına katıldı, ilk oyunda ağaç rolünü aldı
+çocukların ödevleri için google|N classroom|N bildirimleri gece yarısı geliyor
+okulun parent-teacher|E toplantısında öğretmen oğlumun çok yaratıcı olduğunu söyledi, yani derste çizim yapıyor
+kızımın tabletindeki kids|E mode|E sayesinde youtube|N reklamları görmüyor
+yaz tatilinde çocukları coding|E camp'e|M=camp+e gönderdik, döndüklerinde bir web|A sitesi yapmışlardı
+oğlum okul servisini kaçırınca ona uber|N çağırdım, şoför beni aradı ve << is this a child >> diye sordu
+çocuğumun öğretmeni whatsapp|N grubunda sınav sonuçlarını paylaştı, veliler kendi aralarında ranking|E yaptı
+kızım okul play'inde|M=play+inde başrol aldı, bütün aile video|T çekmek için ön sıradaydı
+# end chunk
+# --- food delivery 3 ---
+yemeksepeti'nden|N verdiğim siparişte restoran note'umu|M=note+umu okumamış, soğansız istediğim burger|E soğanla dolu geldi
+getir|N yemek'te|N promo|E code|E girince delivery|E fee'si|M=fee+si sıfırlandı, ama minimum sepet arttı
+trendyol|N yemek'in|N kuryesi yanlış apartmana gitti, kapıcı paketi bana getirdi
+gece yarısı açlık krizinde dürüm siparişi verdim, tracking|E ekranında kurye bir saat aynı yerde durdu
+restoran app'te|M=app+te beş yıldız almış ama gelen pizza|E karton gibiydi
+sipariş ettiğim sushi|A soğuk geldi, refund|E isteyince sadece kupon verdiler
+grup siparişi verirken herkes kendi item'ını|M=item+ını sepete ekledi, toplam faturayı görünce herkes sessizleşti
+kuryeye tip|E vermek için app'te|M=app+te bir buton var ama nakit vermeyi tercih ediyorum
+migros|N hemen'den|N verdiğim siparişte ekmek yerine galeta geldi, substitution|E politikası böyle
+yemek sepetinde << healthy >> kategorisinde bile hamburger var
+# --- hobbies 4 ---
+diy|E projesi olarak eski bir sandalyeyi boyadım, youtube'daki|N tutorial'da|M=tutorial+da çok kolay görünüyordu
+knitting|E öğrenmek için instagram'da|N bir hesap takip ediyorum, ilk atkım yarım kaldı
+balkonda herb|E garden|E kurdum, fesleğenler güzel büyüdü ama nane her şeyi istila etti
+puzzle|E tutkum yüzünden salon masası bir aydır kullanılamıyor
+film fotoğrafçılığı için analog|E kamera aldım, ilk rulonun yarısı karanlık çıktı
+# end chunk
+# --- university 5 ---
+dönem başında syllabus'ı|M=syllabus+ı okuyan tek kişi bendim, final tarihini herkese ben söyledim
+hocam bana recommendation|E letter|E yazmayı kabul etti ama üç hafta sonra hala yazmamıştı
+erasmus'ta|N tanıştığım arkadaşlarla hala whatsapp|N grubumuz var, her yıl bir şehirde buluşuyoruz
+bitirme projemin presentation'ında|M=presentation+ında projektör çalışmadı, laptop'umdan|M=laptop+umdan gösterdim
+kampüsteki career|E center'a|M=center+a cv'mi|M=cv+mi kontrol ettirmeye gittim, beş sayfa düzeltme geldi
+ders kaydında waitlist'te|M=waitlist+te kaldım, bir ay sonra yer açıldığında dönemin yarısı geçmişti
+kütüphanenin silent|E study|E alanında birinin klavyesi o kadar gürültülüydü ki herkes ona baktı
+üniversite kulübünün instagram|N hesabını yönetirken bir post'u|M=post+u yanlış hesaptan paylaştım
+mezuniyet töreninde cap'imi|M=cap+imi havaya attım, düşerken birinin kafasına çarptı
+yüksek lisans başvurusu için gre|N sınavına girdim, verbal|E kısmında kelimelerin yarısını bilmiyordum
+# --- daily mixed 3 ---
+sabah kahvemi starbucks'tan|N aldım, barista|E adımı yine yanlış yazdı, bu sefer bambaşka bir isim olmuş
+pazar sabahı moda'da|N koşarken bir köpek bana eşlik etti, strava|N rotama o da girdi
+akşam yemeğinden sonra netflix|N açtık, ne izleyeceğimize karar verene kadar yatma vakti geldi
+markette self-checkout|E makinesi her ürünü iki kez okudu, görevli beş dakika uğraştı
+iş çıkışı gym'e|M=gym+e uğradım, soyunma odasında telefonumu şarja takıp unuttum
+# end chunk
+# --- entertainment 4 ---
+{{ dune part two'yu }} imax'te|M=imax+te izledim, ses o kadar güçlüydü ki koltuk titriyordu
+{{ barbie'yi }} izlemeye pembe giyinip gittik, salonda herkes pembeydi
+{{ inside out 2'de }} anxiety|E karakterini görünce kendimi tanıdım, sinemada ağladım
+{{ poor things'i }} izleyince bir saat ne izlediğimi düşündüm
+{{ the substance'ı }} izlerken yanımdaki kişi gözlerini kapattı, body|E horror|E herkese göre değil
+{{ past lives'ı }} izledikten sonra eski arkadaşıma mesaj attım, o da filmi izlemiş
+{{ anatomy of a fall'u }} izleyince mahkeme dizilerine ilgim başladı
+{{ the zone of interest'i }} izlemek zordu ama ses tasarımı unutulmazdı
+{{ wonka'yı }} çocuklarla izledik, şarkılar bütün hafta kafamızda çaldı
+{{ godzilla minus one'ı }} izledikten sonra japon|N filmlerine merak sardım
+# end chunk

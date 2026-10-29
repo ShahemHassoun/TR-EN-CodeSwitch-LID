@@ -18,7 +18,7 @@ togg'umun|N yazılım update'i|M=update+i gece yüklendi, sabah ekranın tasarı
 otoyolda hız limiti display'i|M=display+i yanlış gösterdi, radar|E cezası geldi
 # end chunk
 # --- university 4 / campus ---
-boğaziçi'nin|N kampüsünde güney|N meydan'da|N oturup boğaz'ı|N izlemek final|E haftasının tek therapy'si|M=therapy+si
+boğaziçi'nin|N kampüsünde güney|N meydan'da|N oturup boğaz'ı|N izlemek final haftasının tek therapy'si|M=therapy+si
 odtü'de|N bahar şenliğinde konsere giderken yağmur başladı ama headliner|E çıkınca kimse umursamadı
 itü'nün|N kütüphanesinde gece yarısı study|E session'ı|M=session+ı yaparken güvenlik görevlisi bize çay getirdi
 bilkent'te|N exchange|E öğrencileri kafeteryada türk|N kahvaltısını ilk kez denedi, hepsi simidi çok sevdi

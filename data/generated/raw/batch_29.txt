@@ -1,0 +1,191 @@
+# batch 29 — product opinions, tips, forum answers
+# --- product opinions ---
+bu kulaklığın sound|E quality'si|M=quality+si fiyatına göre iyi ama bass|E biraz zayıf
+telefonun battery|E life'ı|M=life+ı bir günü zor çıkarıyor
+bu laptop'un|M=laptop+un ekranı parlak ama build|E quality|E plastik hissettiriyor
+kahve makinesinin milk|E frother'ı|M=frother+ı çok gürültülü
+akıllı saatin sleep|E tracking'i|M=tracking+i bence doğru değil
+bu kameranın night|E mode'u|M=mode+u beklediğimden iyi
+blender'ın|M=blender+ın motoru ilk hafta yandı, warranty|E kapsamında değiştirdiler
+bu süpürgenin suction|E power'ı|M=power+ı halıda yetersiz
+klavyenin switch'leri|M=switch+leri çok sesli, ofiste kullanılmaz
+monitörün color|E accuracy'si|M=accuracy+si tasarım için yeterli
+hoparlörün bluetooth|E range'i|M=range+i kısa, odadan çıkınca kesiliyor
+bu kitabın türkçe|N baskısının kağıt kalitesi çok kötü
+oyunun graphics'i|M=graphics+i harika ama story|E zayıf
+bu parfümün longevity'si|M=longevity+si sadece iki saat
+uygulamanın user|E interface'i|M=interface+i çok karışık
+bu ayakkabının sole'ü|M=sole+ü bir ayda aşındı
+tabletin stylus|E desteği var ama ayrı satılıyor
+kulaklığın mic'i|M=mic+i toplantılarda sesimi boğuk gösteriyor
+# --- tips and advice ---
+bir tavsiye: cv'nize|M=cv+nize skills|E kısmını en üste koyun
+yurt dışına giderken power|E adapter|E almayı unutmayın
+iş görüşmesinden önce şirketin linkedin|N sayfasına mutlaka bakın
+ev ararken neighbourhood'u|M=neighbourhood+u gece de görmeye gidin
+uzun uçuşlarda neck|E pillow|E hayat kurtarıyor
+interview'dan|M=interview+dan sonra thank|E you|E maili atmak fark yaratıyor
+kod yazarken her gün commit|E atın, sonra pişman olmayın
+yeni başlayanlara tavsiyem: önce basic|E syntax|E öğrenin, framework'e|M=framework+e sonra geçin
+seyahatte bütün belgelerin backup'ını|M=backup+ını cloud'da|M=cloud+da tutun
+kahve demlerken water|E temperature|E çok önemli
+spor salonuna yeni başlayanlar önce warm-up|E yapsın
+toplantıya girmeden önce agenda|E hazırlayın, herkesin vakti kurtulur
+evden çalışırken ayrı bir workspace|E oluşturun
+kira sözleşmesinde deposit|E kısmını iyi okuyun
+online|E alışverişte satıcının rating'ine|M=rating+ine mutlaka bakın
+yeni bir dil öğrenirken her gün on dakika listening|E yapın
+# --- forum answers ---
+bence önce budget'ını|M=budget+ını belirle, sonra model|A seç
+bu hata cache'ten|M=cache+ten kaynaklanıyor, temizleyince düzelir
+ben de aynı problemi yaşadım, driver|E güncellemesi çözdü
+o fiyata bu specs|E iyi bir deal|E
+erasmus|N için en önemli şey learning|E agreement'ı|M=agreement+ı zamanında imzalatmak
+şirketler genelde junior'lardan|M=junior+lardan portfolio|E istiyor
+o semtte kira yüksek ama commute|E kısa
+router'ını|M=router+ını resetle, yine olmazsa operatörü ara
+bu kurs beginner|E için uygun değil, intermediate|E seviye
+fotoğraflar için raw|E formatında çek, sonra edit|E et
+yeni başlayan biri için mechanical|E keyboard|E gereksiz bence
+ikinci el alırken seller'ın|M=seller+ın yorumlarına bak
+bu soruyu stack|N overflow'da|N sormuştum, cevap gelmedi
+benim tecrübeme göre remote|E iş bulmak için networking|E şart
+# --- comments under news ---
+bu haberin headline'ı|M=headline+ı clickbait|E, içerikle alakası yok
+yorumlarda herkes expert|E olmuş, haberi okuyan yok
+yeni vergi düzenlemesi freelancer'ları|M=freelancer+ları çok etkileyecek
+haberde bahsedilen startup|E aslında iki yıl önce kapanmış
+bu konuyu twitter'da|N bir thread|E çok güzel açıklamıştı
+gazetenin paywall'u|M=paywall+u yüzünden haberin yarısını okuyamadım
+haberin fotoğrafı stock|E photo|E, gerçek değil
+bu araştırmanın sample'ı|M=sample+ı çok küçük, genelleme yapılamaz
+yorum yapmadan önce makalenin tamamını okuyun, sadece title'a|M=title+a bakmayın
+yeni teknoloji yasası big|E tech|E şirketlerini zorlayacak
+bu haber fake|E news|E çıktı, kaynak yok
+# --- recipes mixed ---
+fırını önceden preheat|E edin, yoksa kek ortası çiğ kalıyor
+hamuru on dakika knead|E ettikten sonra mayalanmaya bırakın
+sosu low|E heat'te|M=heat+te pişirin, yanmasın
+tavuğu marine|T ettikten sonra bir gece buzdolabında bekletin
+makarnayı al|O dente|O pişirip hemen sosa ekleyin
+salataya dressing|E olarak zeytinyağı ve limon yeter
+kurabiyeleri parchment|E paper|E üzerine dizin
+çikolatayı benmari|T usulü eritin, mikrodalgada yanıyor
+smoothie|E için dondurulmuş muz kullanın, kıvamı güzel oluyor
+pizza|E hamuruna biraz honey|E eklemek kabarmasına yardım ediyor
+kahveyi cold|E brew|E için on iki saat demlemek gerekiyor
+etleri grill'e|M=grill+e koymadan önce oda sıcaklığına getirin
+# --- travel tips ---
+roma'da|N kolezyum|N biletini online|E almazsanız kuyrukta saatlerce beklersiniz
+londra'da|N oyster|N kart yerine contactless|E kullanmak daha ucuz
+paris'te|N metroda pickpocket'lara|M=pickpocket+lara dikkat edin
+amsterdam'da|N bisiklet yoluna yürümeyin, local'ler|M=local+ler çok sinirleniyor
+tokyo'da|N jr|N pass|N almak uzun yolculuklarda mantıklı
+barselona'da|N tapas|O yemeden dönmeyin
+kapadokya'da|N balon turunu sabah erken booking|E yapmak gerekiyor
+berlin'de|N pazar günü bütün marketler kapalı, alışverişi cumartesi yapın
+lizbon'da|N tramvay 28'e|N binmek için sabah erken gidin
+prag'da|N exchange|E ofislerinde komisyona dikkat edin
+viyana'da|N kahve kültürü çok farklı, melange|O deneyin
+atina'da|N akropolis'e|N öğlen sıcağında çıkmayın
+# --- long dense posts 2 ---
+geçen hafta ankara'da|N bir tech|E konferansına katıldım, keynote|E konuşmacısı yapay zekanın geleceğini anlattı, sonra networking|E bölümünde herkes linkedin|N qr|E kodlarını gösterip bağlantı kurdu ve ben eve elli yeni connection'la|M=connection+la döndüm ama hiçbirinin adını hatırlamıyorum
+yeni işimde ilk hafta bana bir buddy|E atadılar, bana slack|N kanallarını, jira|N board'larını|M=board+larını ve kimin hangi meeting'lere|M=meeting+lere gerçekten katılması gerektiğini anlattı, en faydalı bilgi ise mutfaktaki kahve makinesinin gizli ayarıydı
+kardeşim tiktok'ta|N bir cooking|E series'i|M=series+i başlattı, her gün öğrenci bütçesiyle bir yemek yapıyor, ilk videosu yüz bin view|E aldı ve şimdi bir market|T zinciri ona sponsor|T olmak istiyor
+dün gece arkadaşlarla bir escape|E room'a|M=room+a gittik, tema bir laboratuvardı, bulmacaları çözerken herkes farklı bir teori ortaya attı ve sonunda game|E master|E bize üç tane hint|E vermek zorunda kaldı ama yine de son saniyede çıktık
+bu yıl ilk kez online|E bir yazılım bootcamp'ine|M=bootcamp+ine katıldım, altı ay boyunca her akşam ders yaptık, final|T projemiz olarak bir food|E delivery|E app'i|M=app+i geliştirdik ve demo|E günü iki şirket benimle interview|E ayarladı
+annemle babam otuzuncu evlilik yıldönümlerinde ilk kez yurt dışına çıktı, paris'te|N eyfel|N kulesi'nin|N önünde fotoğraf çektirdiler, louvre'da|N mona|N lisa'yı|N görmek için bir saat beklediler ve döndüklerinde bize sadece fransız|N peynirlerini anlattılar
+ofiste yeni bir wellness|E programı başladı, her salı öğlen meditation|E seansı, perşembe günleri healthy|E snack|E dağıtımı var ama herkes hâlâ akşamüstü kantinden simit alıyor
+bir arkadaşım youtube'da|N bir channel|E açıp evde yaptığı diy|E projelerini paylaşmaya başladı, ilk videosu bir rafın nasıl duvara asılacağıydı ve yorumların yarısı rafın yamuk olduğunu söylüyordu
+geçen yaz bir arkadaşın düğünü için antalya'ya|N gittik, düğün bir beach|E resort'ta|M=resort+ta yapıldı, gün batımında nikah kıyıldı, after|E party|E sabaha kadar sürdü ve ertesi gün kimse kahvaltıya gelmedi
+uzun zamandır istediğim bir mechanical|E keyboard|E aldım, ilk gün switch'lerini|M=switch+lerini değiştirdim, ikinci gün keycap|E seti sipariş ettim ve şimdi bu hobinin ne kadar pahalı olduğunu fark ediyorum
+# --- outdoors ---
+hafta sonu belgrad|N ormanı'nda|N trail|E running|E yaptık
+kamp ateşinin başında marshmallow|E kızartmak çocukluğumdan kalma bir alışkanlık
+dağ yürüyüşünde gps|E sinyali kesilince bir saat kaybolduk
+kano turunda nehirde ters döndük, telefon waterproof|E değilmiş
+camping|E sandalyesi aldım, balkonda oturmak için kullanıyorum
+kayak merkezinde beginner|E pistinde bile düştüm
+sahilde paddle|E board|E denedim, beş saniye ayakta kaldım
+dağcılık kulübü bize basic|E survival|E eğitimi verdi
+uludağ'da|N kar o kadar güzeldi ki snowboard|E öğrenmeye karar verdim
+likya|N yolu'nda|N bir haftalık hiking|E yaptık, ayaklarım su topladı
+şelaleye giden patika o kadar kaygandı ki herkes en az bir kez düştü
+kamp alanında wifi|E yoktu, herkes ilk kez birbiriyle konuştu
+# --- pets 2 ---
+köpeğimiz vet'te|M=vet+te iğne olurken bütün klinik onu duydu
+kedim yeni aldığım cat|E tree'yi|M=tree+yi görmezden geliyor, kutuda yatıyor
+köpek parkında herkes birbirini köpeğinin adıyla tanıyor
+kedimin litter|E box'ını|M=box+ını temizlemek benim işim oldu
+köpeğim yağmurlu havalarda walk'a|M=walk+a çıkmayı reddediyor
+yeni yavru kedimiz bütün gece perdelere tırmandı
+papağanımız telefonun ringtone'unu|M=ringtone+unu taklit ediyor, herkes telefonuna bakıyor
+köpeğimin instagram|N hesabını ben yönetiyorum, onun follower'ı|M=follower+ı benden fazla
+balıkların akvaryumundaki filter|E sesi gece uyutmuyor
+kedim bilgisayarın keyboard'una|M=keyboard+una basıp maili gönderdi
+köpek eğitiminde treat|E kullanınca her şeyi öğreniyor
+# --- money 2 ---
+bu ay side|E income|E olarak fotoğraf sattım
+maaş günü gelince ilk iş bütün bill'leri|M=bill+leri ödüyorum
+arkadaşlarla tatil için shared|E budget|E yaptık, kimse uymadı
+yeni bir finance|E app'i|M=app+i indirdim, harcamalarımı kategorilere ayırıyor
+emeklilik için savings|E planı yapmaya çok erken mi bilmiyorum
+kripto yatırımında hodl|E stratejisi sadece düşüşte işe yarıyor
+yatırım hesabımın portfolio'su|M=portfolio+su bu ay kırmızı
+arkadaşıma borç verdim, payback|E tarihi belirsiz
+kirayı split|E edince ev arkadaşımla tartıştık, odası daha büyük
+mobil ödemeyle cüzdan taşımayı bıraktım, cash|E kullanmıyorum
+bu ay impulse|E buying|E yapmamak için sepetleri boşalttım
+kredi kartının cashback'i|M=cashback+i ay sonunda hesaba geçti
+# --- AMBIGUOUS-friendly ---
+akşam yemeğinde sushi|A ve ramen|A arasında kalınca ikisini de söyledik
+web|A tasarımı öğrenmek için bir kursa yazıldım
+tv|A kumandası yine kayboldu, koltuğun altından çıktı
+bu platform|A üzerinden alışveriş yapmak çok kolay
+yeni çıkan anime|A sezonu çok iyi başladı
+manga|A koleksiyonumu rafa dizdim, yüz cildi geçti
+protein|A ihtiyacımı karşılamak için her sabah yumurta yiyorum
+yeni telefon model|A seçenekleri arasında kayboldum
+hey|A, uzun zamandır görüşemedik
+ooh|A, bu çok güzel bir haber
+pardon|A, bunu tekrar söyler misiniz
+kimchi|A yapmayı öğrendim, bütün buzdolabı koktu
+# --- school life 2 ---
+lisede en sevdiğim ders chemistry|E değil, öğretmeniydi
+sınıf whatsapp|N grubunda biri answer|E key|E paylaştı, hepsi yanlış çıktı
+okulun graduation|E balosunda dj|E yine aynı şarkıları çaldı
+hoca derste phone|E kullanınca kendi telefonunu toplattı, ironic|E
+yurtta laundry|E günü herkes aynı anda makineye koşuyor
+kampüs kafeteryasında vegan|E menü açıldı, kuyruk çok uzun
+öğrenci kulübünün yıllık gala|E gecesi için takım elbise kiraladım
+üniversitede ilk dönem gpa|E kaygısıyla geçti
+hocamız bize her hafta reading|E list|E veriyor, kimse okumuyor
+dönem sonu course|E evaluation'larını|M=evaluation+larını kimse ciddi doldurmuyor
+sınavda cheat|E sheet|E hazırladım, yazarken hepsini ezberledim, kullanmadım
+dersin teaching|E assistant'ı|M=assistant+ı bizden sadece iki yaş büyük, herkes ona abi diyor
+# --- family 2 ---
+babam yeni telefonunda voice|E assistant'la|M=assistant+la tartışıyor
+annem bana tupperware|N kutularını geri getirmem için mesaj attı
+dedemle satranç oynarken bana her hamlede tip|E veriyor
+kardeşimin okul gösterisinde lead|E role'ü|M=role+ü vardı, annem bütün gösteriyi kaydetti
+babaannem ilk kez video|T call|E yaptığında kamerayı tavana tuttu
+annemle alışverişe gidince her mağazada sale|E rafına koşuyor
+babamın bbq|E tutkusu yüzünden her pazar mangal yakılıyor
+kuzenlerle yaptığımız family|E reunion|E sonunda kavgayla bitti
+annem yeni öğrendiği emoji|E kombinasyonlarını bana deniyor
+abim evlenince ilk iş bir smart|E tv|E aldı
+dedem bana eski fotoğraf albümlerini gösterirken her fotoğrafın story'sini|M=story+sini anlattı
+ailemle akşam yemeğinde phone|E free|E kuralı koyduk, ilk gün babam bozdu
+# --- work 3 ---
+yeni gelen müdür ilk toplantıda herkesin role'ünü|M=role+ünü yeniden tanımladı
+ofiste her pazartesi weekly|E sync|E var, herkes kamerasını kapatıyor
+iş arkadaşım dosya adlarının sonuna hep final|T yazıyor ama hiçbiri final|T değil
+şirketin yıllık engagement|E survey'ini|M=survey+ini doldurdum, sonuçları hiç paylaşılmıyor
+proje kickoff|E toplantısında herkes çok heyecanlıydı, iki hafta sonra kimse hatırlamıyor
+ekipte bir lunch|E and|E learn|E oturumu düzenledim, üç kişi geldi
+müşteri bize nda|E imzalatmadan hiçbir şey anlatmadı
+iş yerindeki mentor'umun|M=mentor+umun her soruya cevabı << it depends, >> haklı da
+yeni ofiste standing|E desk|E var ama herkes oturarak çalışıyor
+toplantı odası rezervasyon sistemi çökünce herkes aynı odaya girdi
+şirket bize yıl sonunda bir gift|E card|E verdi, sadece bir mağazada geçiyor
+müdürüm bana feedback|E sandwich|E yaptı, ortadaki kısmı anlamadım

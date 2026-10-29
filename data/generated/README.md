@@ -1,6 +1,6 @@
 # Generated Turkish–English code-mixed LID dataset
 
-**Status:** first 2,504 sentences finished and checked (target: 10,000). The numbers below are for
+**Status:** 6,413 sentences finished and checked (target: 10,000). The numbers below are for
 the current file and will be updated when it is complete.
 
 ## What it is
@@ -29,6 +29,12 @@ The experiments test whether that helps on **real** TurEngMix text.
    - **Typing without Turkish letters:** 25% of sentences are converted (ç→c, ğ→g, ı→i, ö→o, ş→s,
      ü→u), matching how TurEngMix users write. Result: 32% of our Turkish words contain Turkish
      letters (TurEngMix: about 30%).
+   - **Dropped apostrophes (batch 13 onward).** In TurEngMix's training data 63% of MIXED words have
+     no apostrophe (`linki`, `influencerlar`, `editleyip`); our first batches almost always had one
+     (`link'i`). From batch 13 on, the builder writes 70% of MIXED words without it (stems of 4+
+     letters, only when the result still passes the MIXED check, e.g. `deadline'dan` →
+     `deadlinedan`), and 30% of names with an ending (`netflix'te` → `netflixte`). Batches 01–12
+     are left as they were.
 4. **Checking.** `src/check_generated.py` rejects the whole file if any of these is found:
    - malformed lines, duplicate ids or sentences, capital letters, tokens that are only punctuation
    - a MIXED word whose recorded split doesn't spell the word, whose stem isn't an English word
@@ -36,7 +42,10 @@ The experiments test whether that helps on **real** TurEngMix text.
    - an EN-labelled word that is clearly Turkish
    - copying: any run of 8 words shared with TurEngMix
    - **test leakage:** any word that TurEngMix labels MIXED / NE / OTHER / AMBIGUOUS in its
-     validation or test splits but never in train
+     validation or test splits and that never appears in train (attached punctuation and ’ vs '
+     ignored). One exception: `startup'larının` (sentence 2,011, in the frozen first 2,500) matches
+     the test word `startup’larının` once the apostrophe style is ignored. It was found after the
+     first 2,500 had been used in training runs, so it was kept.
    Measured on TurEngMix's own training data, the MIXED check accepts 142 of 149 distinct real MIXED
    words, and its "possible missed MIXED" warning fires on 38 of 5,157 real Turkish words (0.7%),
    which are then reviewed by hand.
@@ -55,8 +64,14 @@ The experiments test whether that helps on **real** TurEngMix text.
   TurEngMix.
 - **A number plus a Turkish ending is TR** (`2026'da`, `%50'sini`). A number inside a name is NE
   (`windows 10`).
+- More established loanwords that are TR: `final`, `pilot`, `sponsor`, `poster`, `optimize`, `avm`.
+- **Nationality words are NE** (`türk`, `japon`, `alman`, `fransız`), like language names, which is
+  TurEngMix's majority choice.
 - **AMBIGUOUS** is used only for words both languages use (`platform`, `web`, `tv`, `model`, `anime`,
-  `manga`, `protein`) and for interjections (`hey`, `ooh`, `pardon`).
+  `manga`, `protein`) and for interjections (`hey`, `ooh`, `pardon`). With a Turkish ending they are
+  TR (`platformu`, `tv'de`, `mangası`), as in TurEngMix.
+- English phrases keep loanwords EN: `open bar`, `open plan`, `black friday` (TurEngMix:
+  `black` EN, `friday'de` MIXED).
 - **OTHER** = a third language (`arigato`, `merci`, `schadenfreude`, `hola`).
 - Keyboard mashes and cheat codes are left out, because TurEngMix labels them inconsistently.
 
@@ -64,20 +79,21 @@ The experiments test whether that helps on **real** TurEngMix text.
 
 | | Ours | TurEngMix train |
 |---|--:|--:|
-| Sentences | 2,504 | 254 |
-| Tokens | 28,280 | 12,466 |
-| TR | 79.6% | 79.9% |
-| EN | 9.6% | 11.9% |
-| MIXED | 4.3% (about 1,230 tokens) | 1.3% (159 tokens) |
-| NE | 6.1% | 6.5% |
+| Sentences | 6,413 | 254 |
+| Tokens | 64,167 | 12,466 |
+| TR | 79.4% | 79.9% |
+| EN | 9.9% | 11.9% |
+| MIXED | 4.6% (2,960 tokens) | 1.3% (159 tokens) |
+| NE | 5.7% | 6.5% |
 | AMBIGUOUS | 0.2% | 0.4% |
-| OTHER | 0.2% | 0.02% |
-| Sentences with at least one MIXED | 40.9% | 35% |
+| OTHER | 0.1% | 0.02% |
+| Sentences with at least one MIXED | 40.1% | 35% |
+| MIXED words without an apostrophe | 36% (first 2,500: ~0%) | 63% |
 
 ## Limitations (stated openly)
 
 - **Written by an AI model, not by real users.** The sentences are cleaner and more uniform than
-  real posts: shorter (11 words on average, against 49 in TurEngMix's "sentences", which are often
+  real posts: shorter (10 words on average, against 49 in TurEngMix's "sentences", which are often
   whole posts), with fewer typos and less slang variety. That's why every result is measured on
   **real** TurEngMix test text.
 - **MIXED is deliberately over-represented** (4.3% vs 1.3%), so models may predict MIXED more
@@ -86,6 +102,14 @@ The experiments test whether that helps on **real** TurEngMix text.
   `linklerden` is TR), we chose one rule and applied it everywhere, so our data and their test set
   can disagree on such words.
 - The test-leakage filter blocks exact words only. It can't rule out similar topics.
+
+## Changes after the first push (first 2,500 sentences)
+
+After the first 2,500 sentences were pushed, 34 labels in them were corrected (rules above:
+`final`/`pilot`/`sponsor`/`poster`/`optimize` → TR, nationality words → NE, AMBIGUOUS stem + ending
+→ TR, `stack overflow` / `black mirror` / `internet explorer` → NE), and 3 words were re-spelled
+(`noter'de` → `noterde`, `plan'ları` → `planları`, `market'ten` → `marketten`). That is about 0.1% of
+its tokens. Runs on gen2500 should use the final file so all sizes share the same labels.
 
 ## Licence
 

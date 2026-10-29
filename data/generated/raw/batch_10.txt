@@ -58,7 +58,7 @@ kuzguncuk'un|N sokaklarında yürürken bir dizi seti gördük, oyuncular break|
 nişantaşı'nda|N window|E shopping|E yapmak benim bütçeme uygun tek aktivite
 # --- anime 2 / manga ---
 {{ demon slayer'ın }} yeni sezonu crunchyroll'a|N geldi, animation|E kalitesi yine olağanüstü
-{{ jujutsu kaisen'in }} manga'sında|M=manga+sında beklenmedik bir plot|E twist|E oldu, reddit|N çıldırdı
+{{ jujutsu kaisen'in }} manga'sında beklenmedik bir plot|E twist|E oldu, reddit|N çıldırdı
 anime|A conventions'larda|M=conventions+larda cosplayer'larla|M=cosplayer+larla fotoğraf çekmek için sıra beklemek zorundasın
 {{ spy x family'nin }} opening'ini|M=opening+ini skip'lemiyorum|M=skip+lemiyorum, her bölümde baştan izliyorum
 manga|A okurken sağdan sola okumaya alışmak iki haftamı aldı, ilk volume'u|M=volume+u ters okudum
@@ -126,7 +126,7 @@ grup çalışmasında herkes zoom'da|N kameralarını açtı ama kimse çalışm
 ders notlarını tiktok|N videolarıyla tekrar eden kardeşim benden daha yüksek not aldı
 kendime reward|E sistemi kurdum, her bölüm sonunda bir çikolata, kitabın yarısında çikolata bitti
 # --- relationships 4 / family tech ---
-babam yeni smart|E tv'de|M=tv+de youtube'u|N açmayı öğrenince akşamları sadece belgesel izliyoruz
+babam yeni smart|E tv'de youtube'u|N açmayı öğrenince akşamları sadece belgesel izliyoruz
 annem facebook'ta|N gördüğü her haberi whatsapp'tan|N bize forward'lıyor|M=forward+lıyor, fact-check|E yapmak benim işim oldu
 dedemin hearing|E aid'i|M=aid+i bluetooth'lu|M=bluetooth+lu çıktı, telefonla konuşurken artık bizi daha iyi duyuyor
 kardeşimle playstation|N için kavga ettiğimiz günleri hatırlayınca gülüyorum, şimdi ikimizin de kendi konsolu var

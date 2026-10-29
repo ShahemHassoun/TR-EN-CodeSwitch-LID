@@ -168,7 +168,7 @@ almanca|N öğrenirken artikelleri ezberlemek imkansız, der|O die|O das|O hala 
 amerika'da|N small|E talk|E kültürüne alışamadım, kasiyerin bana << how are you >> demesi beni şaşırtıyor
 ingiltere'de|N master|E yaparken en çok çay saatlerini sevdim, herkes her şeyi çayla çözüyor
 yabancı arkadaşım türkçe|N öğrenmeye çalışıyor ve ilk öğrendiği kelime kolay gelsin oldu
-language|E exchange|E etkinliğinde bir alman arkadaşla tanıştım, o bana almanca|N ben ona türkçe|N öğretiyorum
+language|E exchange|E etkinliğinde bir alman|N arkadaşla tanıştım, o bana almanca|N ben ona türkçe|N öğretiyorum
 yurt dışından dönünce kendi şehrimde turist gibi hissettim, her şey çok değişmişti
 amsterdam'da|N bisiklet|T kullanmayı bilmiyorsan hayatta kalman zor
 çince|N öğrenmek için uygulama indirdim, ilk derste tonları ayırt edemediğim için pes ettim

@@ -17,7 +17,7 @@ lab'daki|M=lab+daki deney sonuçları tutmayınca bütün hafta data'yı|M=data+
 literature|E review|E yaparken google|N scholar'da|N kaybolup iki yüz makale kaydettim
 phd|E başvurusu için research|E proposal'ımı|M=proposal+ımı yazarken her cümleyi üç kez değiştirdim
 zotero'ya|N geçince reference|E yönetimi çok kolaylaştı, artık kaynakça yazarken ağlamıyorum
-poster|E sunumunda yanıma gelen profesör bütün methodology'mi|M=methodology+mi sorguladı
+poster sunumunda yanıma gelen profesör bütün methodology'mi|M=methodology+mi sorguladı
 deadline'dan|M=deadline+dan bir saat önce overleaf|N çöktü, bütün laboratuvar panik oldu
 araştırma bursu için interview'a|M=interview+a girdim, komite bana sadece bütçeyi sordu
 lab|E meeting'lerinde|M=meeting+lerinde hocam her hafta yeni bir fikir veriyor, eski fikirler yarım kalıyor
@@ -28,7 +28,7 @@ ankara'da|N kızılay'da|N bir kafede emre'yle|N buluştum, starbucks|N yerine y
 mert'in|N bmw'si|N yolda bozulunca bursa'ya|N kadar çekici ile gittik
 izmir'deki|N alsancak'ta|N elif'in|N doğum gününü kutladık, dj|E bütün gece tarkan|N çaldı
 antalya'daki|N otelde ahmet'le|N havuz kenarında kindle|N okurken telefonlarımız kapalıydı
-berlin'de|N yaşayan kuzenim can|N bize her yıl christmas|E market'ten|M=market+ten hediye gönderiyor
+berlin'de|N yaşayan kuzenim can|N bize her yıl christmas|E marketten hediye gönderiyor
 londra'da|N okuyan ece|N bize tesco|N ve sainsbury's|N arasındaki farkı anlattı
 eskişehir'de|N okuyan kardeşim burak|N her hafta sonu istanbul'a|N geliyor
 bodrum'da|N yazlıkta selin'le|N gece boyunca netflix|N izledik, sabah denize girdik
@@ -59,8 +59,8 @@ protein|A tozu almak için marketin sağlık reyonunda yarım saat etiket okudum
 anime|A kulübünde ilk haftada bütün üyeler aynı diziyi önerdi
 manga|A kafesinde saatlik ücret ödeyip istediğin kadar okuyabiliyorsun, harika bir konsept
 hey|A diye seslenen birine döndüm, meğer arkasındakine sesleniyormuş
-italyan arkadaşım bize her yemekten önce << buon|O appetito|O >> diyor, alıştık
-japon|T restoranında aşçı bize << irasshaimase|O >> diye bağırınca ilk başta korktuk
+italyan|N arkadaşım bize her yemekten önce << buon|O appetito|O >> diyor, alıştık
+japon|N restoranında aşçı bize << irasshaimase|O >> diye bağırınca ilk başta korktuk
 # end chunk
 # --- ekşi-style opinion entries ---
 bence bu şehrin en underrated|E semti kuzguncuk|N, herkes bebek'e|N gidiyor ama asıl huzur burada

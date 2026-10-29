@@ -1,0 +1,193 @@
+# batch 26 — food culture, neighbourhood, transport, customer service
+# --- food culture ---
+kokoreççi abi gece üçte bile açık, after|E party|E klasiği
+mahallenin döner|T ustası bize her seferinde extra|E sos koyuyor
+yeni açılan fine|E dining|E restoranında tabaktaki yemek bir kaşıklıktı
+çay ocağındaki amca herkesin order'ını|M=order+ını ezbere biliyor
+lahmacun|T yerken limonu sıkmayı unutan tek kişi benim
+menemen soğanlı mı soğansız mı tartışması twitter'da|N yine trending|E oldu
+kahvaltı platter'ı|M=platter+ı iki kişilik yazıyordu, dört kişi doyduk
+balık restoranında catch|E of|E the|E day|E sordum, garson hamsi dedi
+evde ilk kez sushi|A yapmaya çalıştım, rulolar dağıldı
+börekçide su böreği sırası takeaway|E kuyruğundan uzundu
+mantı yaparken hamuru ince açmak bir skill|E
+kebapçıda yanımızdaki masa food|E vlog|E çekiyordu
+aşure günü annem bütün apartmana dağıttı, delivery|E servisi gibi
+simit fiyatı artınca sabah breakfast|E rutinim değişti
+iskender|N yemeye bursa'ya|N gittik, sırf o yüzden
+sokak lezzetleri turunda midye dolma için queue|E vardı
+çiğ köfte|T dürüm yaparken marul taze değilse hiç tadı yok
+akşam yemeğinde gourmet|E burger|E yedik, fiyatı da gourmet|E
+tatlıcıda baklava|T yanında dondurma istedim, garson bana garip baktı
+mutfakta air|E fryer'ı|M=fryer+ı kullanmayı öğrendikten sonra fırını hiç açmadım
+# --- neighbourhood ---
+apartmanın whatsapp|N grubunda yine park|T yeri kavgası var
+komşumuz her sabah balkonda workout|E yapıyor, bütün sokak izliyor
+mahalle bakkalı artık contactless|E ödeme alıyor
+sokağımızdaki kediler için bir feeding|E station|E kurduk
+apartmana yeni taşınan aile kapıya welcome|E paspası koymuş
+alt kattaki komşu gece yarısı drum|E çalışıyor
+mahallenin pazarında organic|E yazan her şeyin fiyatı iki katı
+sitenin güvenlik görevlisi bana her gün good|E morning|E diyor
+apartman toplantısında aidat tartışması iki saat sürdü
+komşum bana amazon|N paketimi teslim aldığını söyledi, açmış
+mahallede yeni bir coworking|E space|E açıldı
+çöp kamyonu sabah beşte geçince bütün sokak uyanıyor
+# --- transport ---
+marmaray'da|N sabah rush|E hour'unda|M=hour+unda tıklım tıklım
+vapurda simit atarken martı elimden aldı
+istanbulkart'ıma|N para yüklemeyi unuttum, turnikede kaldım
+otobüs şoförü bana exact|E change|E yok mu diye sordu
+taksi app'inden|M=app+inden çağırdım, şoför yolu bilmiyordu
+dolmuşta en arkaya oturunca para uzatmak bir teamwork|E
+metro hattı arıza yüzünden durdu, herkes kapıda bekledi
+havalimanına giden shuttle|E iki saatte bir kalkıyor
+uçakta aisle|E seat|E seçtim, herkes tuvalete giderken beni kaldırdı
+hızlı trenle ankara'ya|N gitmek uçaktan daha rahat
+bisiklet yolu olmadığı için trafikte bike|E sürmek tehlikeli
+otoyolda hgs|N bakiyem bitmiş, ceza geldi
+# --- customer service ---
+kargo şirketini aradım, call|E center|E beni yarım saat beklemede tuttu
+müşteri hizmetleri her soruma << your call is important to us >> diye cevap veriyor
+iade için store'a|M=store+a gittim, fiş istediler
+operatör bana yeni bir tarife önerdi, unlimited|E internet|T diye, kotası varmış
+canlı destek chat'inde|M=chat+inde karşımdakinin insan olup olmadığını anlamadım
+servis teknisyeni gelip sadece restart|E yaptı, ücret aldı
+otelde reception|E bana yanlış oda anahtarı verdi
+restoranda complaint|E yazdım, müdür gelip tatlı ikram etti
+garanti kapsamında değişim istedim, refund|E verdiler
+mağazada satış danışmanı bana sürekli upsell|E yapmaya çalıştı
+ürünün tracking|E numarası iki haftadır aynı yerde görünüyor
+müşteri temsilcisi bana << have a nice day >> diye kapattı, sorunum çözülmedi
+online|E siparişte yanlış renk geldi, exchange|E için tekrar kargo ödüyorum
+# --- MIXED heavy everyday ---
+telefonun auto-correct'i|M=auto-correct+i yüzünden müdürüme canım diye yazdım
+yeni phone|E case'imi|M=case+imi düşürünce çatladı
+arkadaşımın birthday'ine|M=birthday+ine geç kaldım, cake'i|M=cake+i kesmişlerdi
+dün gece sezon finalini izlerken spoiler'ı|M=spoiler+ı twitter'da|N yedim
+yeni işimdeki onboarding'im|M=onboarding+im iki hafta sürdü
+kardeşim bütün snack'leri|M=snack+leri bitirmiş
+gece yarısı delivery'den|M=delivery+den tatlı söyledim
+bu weekend'i|M=weekend+i tamamen offline|E geçireceğim
+tatil fotoğraflarını henüz edit'lemedim|M=edit+lemedim
+annemin tarifini yazdım ama ölçüleri göz kararı, cup'la|M=cup+la ölçemiyorum
+spor salonundaki trainer'lar|M=trainer+lar hep aynı şeyi söylüyor
+yeni komşumuzun dog'u|M=dog+u bütün gece havladı
+lunch'ta|M=lunch+ta yine aynı salatayı yedim
+bu şehrin skyline'ı|M=skyline+ı geceleri çok güzel
+kahvemi masada unuttum, iced|E latte|E ılık bir şeye döndü
+bütün gün inbox'ımı|M=inbox+ımı temizledim
+yeni sneaker'larımı|M=sneaker+larımı yağmurda giydim, mahvoldu
+partner'ımın|M=partner+ımın ailesi bayramda bizi çağırdı
+arkadaşlarla roadtrip'imiz|M=roadtrip+imiz bir haftaya ertelendi
+yeni haircut'ım|M=haircut+ım beklediğimden kısa oldu
+bu şarkının chorus'u|M=chorus+u kafamdan çıkmıyor
+kitabın chapter'ları|M=chapter+ları çok kısa, hızlı okunuyor
+mesaj attım ama reply'ı|M=reply+ı hâlâ gelmedi
+bu sabah meeting'imi|M=meeting+imi unuttum
+kafedeki barista'nın|M=barista+nın latte'leri|M=latte+leri en iyisi
+yeni dairemizin open|E kitchen'ı|M=kitchen+ı çok kullanışlı
+arkadaşımın tip'i|M=tip+i işe yaradı, artık daha erken uyuyorum
+bu haftanın highlight'ı|M=highlight+ı cuma akşamki konserdi
+yeni project'imizin|M=project+imizin adını hâlâ bulamadık
+kardeşimin essay'ini|M=essay+ini okudum, gramer hataları çok fazla
+# --- NE with suffix chains ---
+istanbul'dakilerin|N hepsi trafikten şikayetçi
+ankara'lılar|N bu konuda farklı düşünüyor
+netflix'tekilerden|N hiçbiri ilgimi çekmedi
+google'dakiler|N bile bu hatayı çözemedi
+amazon'dan|N gelen paketi kapıda unutmuşlar
+youtube'cuların|N hepsi aynı thumbnail|E yüzünü yapıyor
+instagram'cılar|N bu yaz hep bodrum'daydı|N
+apple'cılar|N ile android'ciler|N yine tartışıyor
+beşiktaşlılar|N maçtan sonra sahile indi
+izmir'lilerin|N boyoz sevgisi bambaşka
+twitter'daki|N tartışma ekşi'ye|N taşındı
+linkedin'dekiler|N her başarısızlığı bir lesson|E olarak paylaşıyor
+spotify'daki|N podcast'lerin|M=podcast+lerin yarısını dinlemedim
+whatsapp'taki|N aile grubundan çıkmak istiyorum ama cesaret edemiyorum
+trendyol'dan|N aldığım elbise fotoğraftakine hiç benzemiyor
+# --- natural code-switching: social media ---
+bu post'un|M=post+un altındaki yorumlar posttan daha komik
+story'me|M=story+me kim baktı diye kontrol etmekten kendimi alamıyorum
+yeni reels|E videom beklediğimden çok izlendi
+hesabımı private'a|M=private+a aldım, artık daha rahatım
+o tweet'in|M=tweet+in altında bir thread|E başladı, sonu gelmedi
+influencer'ın|M=influencer+ın giveaway'ine|M=giveaway+ine katıldım, kazanamadım
+yorumlarda hate|E yiyince hesabı kapattı
+instagram'da|N close|E friends|E listesine kimleri eklediğimi unuttum
+caption|E yazmak fotoğraf çekmekten daha uzun sürüyor
+yeni filter'ı|M=filter+ı denedim, yüzüm tanınmaz oldu
+bu hashtag'i|M=hashtag+i kim başlattı bilmiyorum ama herkes kullanıyor
+dm'den|M=dm+den yazan markalara cevap vermiyorum
+live'a|M=live+a girince sadece annem izledi
+takipçi sayım düştü, beni takipten çıkanları merak ediyorum, tracker|E app'lere|M=app+lere güvenmiyorum
+yeni profil fotoğrafıma kimse like|E atmadı
+# --- natural: gaming/streaming ---
+yayında donate'leri|M=donate+leri okurken sesim kısıldı
+oyunun yeni map'i|M=map+i çok büyük, kayboluyorum
+ranked'da|M=ranked+da üst üste beş maç kaybedince bıraktım
+skin'imi|M=skin+imi herkes beğendi ama oyunda işe yaramıyor
+squad'ımla|M=squad+ımla her cuma gece oynuyoruz
+lag'den|M=lag+den dolayı maçı attım
+spawn'da|M=spawn+da bekleyen adam yine beni vurdu
+bu karakterin ultimate'i|M=ultimate+i çok güçlü, nerf|E gelmeli
+oyunun ending'ine|M=ending+ine kadar kırk saat sürdü
+yeni season'da|M=season+da ranked|E sistemi değişti
+# --- natural: work ---
+bu task'ın|M=task+ın önceliği ne, kimse söylemiyor
+meeting'i|M=meeting+i iptal edelim, email|E yeter
+client'ın|M=client+ın istediği değişiklikleri bu akşam bitireceğim
+deadline'ı|M=deadline+ı uzatmalarını istedim, olmaz dediler
+release'ten|M=release+ten sonra herkes bir hafta izin aldı
+feedback'leri|M=feedback+leri topladım, yarın sunacağım
+bu ticket'ı|M=ticket+ı kim açtı, açıklama yok
+sprint'e|M=sprint+e yeni bir story|E eklendi
+onboarding'de|M=onboarding+de bana yanlış laptop|E verdiler
+pipeline'da|M=pipeline+da bir step|E sürekli fail|E ediyor
+budget'ı|M=budget+ı aştığımız için proje durduruldu
+presentation'ı|M=presentation+ı ben yapacağım, slide'lar|M=slide+lar hazır
+call'u|M=call+u kaçırdım, recording'i|M=recording+i izleyeceğim
+backlog'umuz|M=backlog+umuz her sprint büyüyor
+stakeholder'larla|M=stakeholder+larla toplantı yarın sabah
+# --- natural: student life ---
+midterm'lere|M=midterm+lere iki hafta kaldı, hiçbir şey çalışmadım
+hocanın office|E hour'una|M=hour+una gittim, kapı kapalıydı
+quiz'i|M=quiz+i kaçırdım, makeup|E sınavı var mı
+syllabus'ta|M=syllabus+ta yazan kitabı kimse almadı
+assignment'ların|M=assignment+ların hepsi aynı haftaya denk geldi
+project'imizin|M=project+imizin teslimi cuma, hâlâ başlamadık
+lab'a|M=lab+a geç kaldım, hoca içeri almadı
+presentation'da|M=presentation+da elim titredi
+# --- long posts 4 ---
+geçen yaz bodrum'da|N bir otelde resepsiyonda çalıştım, her gün en az on misafir bana << is the beach far? >> diye sordu, oysa otel tam deniz kenarındaydı ve pencereden bakınca deniz görünüyordu
+dedem seksen yaşında ama tablet|T kullanmayı benden iyi biliyor, her sabah haberleri okuyor, akşamları da youtube'da|N eski türk|N filmlerini izliyor ve bize link|E gönderiyor
+okulun son gününde bütün sınıf için bir farewell|E party|E düzenledik, herkes birbirine mektup yazdı, öğretmenimiz konuşma yaparken ağladı ve biz de onunla birlikte ağladık
+bir arkadaşım her yıl yılbaşında vision|E board|E hazırlıyor, dergilerden fotoğraf kesip duvarına yapıştırıyor, geçen yılki hedeflerinin yarısını gerçekten yapmış, ben de bu yıl denemeye karar verdim
+iş için ilk kez yurt dışına gittim, havalimanında beni bir driver|E karşıladı, otelde bütün gün toplantı yaptık, şehri sadece taksinin camından gördüm ve dönüşte herkes bana nasıldı diye sordu
+annem yıllardır aynı kahve markasını alıyor, geçen hafta yeni bir specialty|E coffee|E paketi götürdüm, bir yudum aldı, güzelmiş dedi ve ertesi gün yine eski kahvesini demledi
+mahallemizdeki kütüphane yenilendi, artık bir co-working|E alanı ve küçük bir kafe var, öğrenciler sabah açılmadan kapıda sıraya giriyor ve akşam kapanana kadar çıkmıyor
+kuzenim bir startup|E kurdu, ilk yatırımı aldıktan sonra bütün aileye pitch|E yaptı, babaannem sonunda bunu kim alacak diye sordu ve kimse cevap veremedi
+geçen hafta sonu evde bir dinner|E party|E verdik, menüyü bir hafta önceden planladım, misafirler gelmeden bir saat önce fırın bozuldu ve sonunda herkese pizza|E söyledik
+yeni bir şehre taşınınca ilk yaptığım şey bir spor salonu ve iyi bir kahveci bulmak oldu, ikisini de buldum ama ikisi de evden kırk dakika uzakta
+# --- NE everyday 3 ---
+ece|N ile umut|N geçen ay izmir'e|N taşındı, şimdi alsancak'ta|N oturuyorlar
+caner|N bana fenerbahçe|N maçı için bilet buldu
+derya|N hanım|T bize yeni muhasebe programını gösterdi
+kartal'daki|N yeni avm'de sinema açılmış
+yiğit|N ile aslı|N cumartesi akşamı moda'da|N buluşacak
+erdem|N hoca|T derste bize harari'nin|N kitabını önerdi
+bebek'te|N sahilde yürürken eski hocama rastladım
+sevil|N teyze|T her sabah migros'a|N gidip ekmek alıyor
+oğuz|N spotify'da|N kendi şarkısını yayınladı
+zehra|N ile kemal|N kuşadası'nda|N tatil yaptı
+nişantaşı'nda|N bir butikte gördüğüm ceketin fiyatı maaşım kadardı
+batuhan|N bana xbox|N game|N pass'i|N önerdi
+ayten|N hanım|T bize kanaltürk'te|N izlediği diziyi anlattı
+tarık|N ile mine|N göcek'te|N tekne kiraladı
+emine|N ablam|T bana tefal|N tava hediye etti
+rize'de|N çay bahçesinde manzaraya karşı oturduk
+furkan|N yeni macbook'unu|N kampüse getirince herkes etrafına toplandı
+nur|N bana boyner'den|N indirim kuponu verdi
+alper|N abi|T karaköy'de|N yeni bir berber açtı
+sinem|N ile tolga|N hafta sonu abant'a|N gitti

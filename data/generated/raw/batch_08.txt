@@ -29,7 +29,7 @@ maç sonrası xg|E istatistiklerine bakınca kazanmayı hak etmediğimizi anlad�
 fifa|N kariyer modunda trabzonspor'u|N şampiyon yaptım, gerçek hayatta bu biraz zor
 transfer|T haberlerini fabrizio|N romano'dan|N takip ediyorum, << here we go >> yazınca kalbim çarpıyor
 derbi öncesi pre-match|E show'larında|M=show+larında yorumcular aynı şeyleri üç saat konuşuyor
-takımımızın yeni forması online|E satışa çıktı, sponsor|E logosu o kadar büyük ki takımın arması görünmüyor
+takımımızın yeni forması online|E satışa çıktı, sponsor logosu o kadar büyük ki takımın arması görünmüyor
 var|T odası bu hafta da gündemde, hakemin offside|E kararı on dakika sürdü
 şampiyonlar|N ligi|N kurasında grubumuz o kadar zor ki taraftarlar şimdiden europa|N league'e|N hazırlanıyor
 futbol podcast'lerinde|M=podcast+lerinde analiz yapan gençler televizyondaki yorumculardan daha iyi
@@ -41,7 +41,7 @@ pera|N müzesi'ndeki|N workshop'ta|M=workshop+ta çocuklarla birlikte resim yapt
 sanat galerisindeki opening|E gecesinde herkes şarap içip telefonuna bakıyordu, kimse eserleri izlemiyordu
 arkeoloji müzesindeki digital|E guide|E uygulaması qr|E kodu okuyunca eserlerin hikayesini anlatıyor
 bienal'de|N gördüğüm installation|E o kadar garipti ki üç kişiye ne anlattığını sordum, herkes farklı cevap verdi
-müze shop'undan|M=shop+undan aldığım poster|E eve gelince kırıştı, çerçeveye koyamadım
+müze shop'undan|M=shop+undan aldığım poster eve gelince kırıştı, çerçeveye koyamadım
 sanal müze turu yaptım, google|N arts|N and|N culture|N sayesinde louvre'u|N evden gezdim
 # end chunk
 # --- remote meetings ---

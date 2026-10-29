@@ -1,0 +1,86 @@
+{
+  "run": "berturk_gen2500_seed3",
+  "model": "dbmdz/bert-base-turkish-cased",
+  "seed": 3,
+  "n_real_train_sentences": 254,
+  "n_generated_sentences": 2500,
+  "hyperparameters": {
+    "model": "dbmdz/bert-base-turkish-cased",
+    "name": "berturk",
+    "extra_n": 2500,
+    "epochs": 10,
+    "batch_size": 16,
+    "learning_rate": 2e-05,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.06,
+    "max_length": 512,
+    "patience": 3,
+    "fp16": true,
+    "keep_model": false
+  },
+  "best_validation_macro_f1": 0.5725904338653884,
+  "epochs_run": 6.0,
+  "validation_history": [
+    {
+      "eval_loss": 0.21775230765342712,
+      "eval_f1": 0.5177645346580029,
+      "eval_accuracy": 0.9266837169650469,
+      "eval_runtime": 0.1419,
+      "eval_samples_per_second": 183.234,
+      "eval_steps_per_second": 14.095,
+      "epoch": 1.0,
+      "step": 173
+    },
+    {
+      "eval_loss": 0.21534490585327148,
+      "eval_f1": 0.5397397095048685,
+      "eval_accuracy": 0.9377664109121909,
+      "eval_runtime": 0.1832,
+      "eval_samples_per_second": 141.954,
+      "eval_steps_per_second": 10.92,
+      "epoch": 2.0,
+      "step": 346
+    },
+    {
+      "eval_loss": 0.18714743852615356,
+      "eval_f1": 0.5725904338653884,
+      "eval_accuracy": 0.9454390451832907,
+      "eval_runtime": 0.1821,
+      "eval_samples_per_second": 142.77,
+      "eval_steps_per_second": 10.982,
+      "epoch": 3.0,
+      "step": 519
+    },
+    {
+      "eval_loss": 0.2550191283226013,
+      "eval_f1": 0.5600032325902221,
+      "eval_accuracy": 0.9360613810741688,
+      "eval_runtime": 0.1241,
+      "eval_samples_per_second": 209.44,
+      "eval_steps_per_second": 16.111,
+      "epoch": 4.0,
+      "step": 692
+    },
+    {
+      "eval_loss": 0.22130295634269714,
+      "eval_f1": 0.5704980378753195,
+      "eval_accuracy": 0.9445865302642796,
+      "eval_runtime": 0.1303,
+      "eval_samples_per_second": 199.464,
+      "eval_steps_per_second": 15.343,
+      "epoch": 5.0,
+      "step": 865
+    },
+    {
+      "eval_loss": 0.25764206051826477,
+      "eval_f1": 0.561514111306837,
+      "eval_accuracy": 0.9369138959931799,
+      "eval_runtime": 0.1778,
+      "eval_samples_per_second": 146.248,
+      "eval_steps_per_second": 11.25,
+      "epoch": 6.0,
+      "step": 1038
+    }
+  ],
+  "minutes": 2.8
+}

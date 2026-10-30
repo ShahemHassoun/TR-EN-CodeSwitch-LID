@@ -615,7 +615,7 @@ post_152,1,36,"yok,",TR,,O,152,36,TR
 post_152,1,37,"""feys""",TR,,O,152,37,EN
 post_152,1,38,neyinize,TR,,O,152,38,TR
 post_152,1,39,yetmiyor,TR,,O,152,39,TR
-post_155,1,0,bot,AMBIGUOUS,,O,155,0,TR
+post_155,1,0,bot,AMBIGUOUS,,O,155,0,EN
 post_155,1,1,fix,EN,,O,155,1,EN
 post_155,1,2,olarak,TR,,O,155,2,TR
 post_155,1,3,internetten,TR,,O,155,3,TR
@@ -832,7 +832,7 @@ post_189,1,70,ama,TR,,O,189,70,TR
 post_189,1,71,değil,TR,,O,189,71,TR
 post_189,1,72,eskiden,TR,,O,189,72,TR
 post_189,1,73,altıncı,TR,,O,189,73,TR
-post_189,1,74,his,TR,,O,189,74,TR
+post_189,1,74,his,TR,,O,189,74,NE
 post_189,1,75,filmiyle,TR,,O,189,75,TR
 post_189,1,76,ilgili,TR,,O,189,76,TR
 post_189,1,77,de,TR,,O,189,77,TR
@@ -1057,10 +1057,10 @@ post_190,1,189,ondan,TR,,O,190,189,TR
 post_190,1,190,albüm,TR,,O,190,190,TR
 post_190,1,191,için,TR,,O,190,191,TR
 post_190,1,192,kaydedilen,TR,,O,190,192,TR
-post_190,1,193,run,NE,,B-TITLE,190,193,EN
+post_190,1,193,run,NE,,B-TITLE,190,193,NE
 post_190,1,194,veya,TR,,O,190,194,TR
 post_190,1,195,liquid,NE,,B-TITLE,190,195,EN
-post_190,1,196,love,NE,,I-TITLE,190,196,EN
+post_190,1,196,love,NE,,I-TITLE,190,196,NE
 post_190,1,197,gibi,TR,,O,190,197,TR
 post_190,1,198,iki,TR,,O,190,198,TR
 post_190,1,199,şaheser,TR,,O,190,199,TR
@@ -1087,7 +1087,7 @@ post_190,1,219,feels,NE,,I-TITLE,190,219,EN
 post_190,1,220,like,NE,,I-TITLE,190,220,EN
 post_190,1,221,for,NE,,I-TITLE,190,221,EN
 post_190,1,222,a,NE,,I-TITLE,190,222,EN
-post_190,1,223,girl,NE,,I-TITLE,190,223,EN
+post_190,1,223,girl,NE,,I-TITLE,190,223,NE
 post_190,1,224,ama,TR,,O,190,224,TR
 post_190,1,225,onların,TR,,O,190,225,TR
 post_190,1,226,vokalleri,TR,,O,190,226,TR
@@ -1117,7 +1117,7 @@ post_190,1,249,eğer,TR,,O,190,249,TR
 post_190,1,250,albümde,TR,,O,190,250,TR
 post_190,1,251,bu,TR,,O,190,251,TR
 post_190,1,252,iki,TR,,O,190,252,TR
-post_190,1,253,demo,EN,,O,190,253,MIXED
+post_190,1,253,demo,EN,,O,190,253,EN
 post_190,1,254,da,TR,,O,190,254,TR
 post_190,1,255,olsaymış,TR,,O,190,255,TR
 post_190,1,256,albüm,TR,,O,190,256,TR
@@ -1125,7 +1125,7 @@ post_190,1,257,daha,TR,,O,190,257,TR
 post_190,1,258,fazla,TR,,O,190,258,TR
 post_190,1,259,satarmış,TR,,O,190,259,TR
 post_190,1,260,nobody's,NE,,B-TITLE,190,260,NE
-post_190,1,261,perfect,NE,,I-TITLE,190,261,EN
+post_190,1,261,perfect,NE,,I-TITLE,190,261,NE
 post_190,1,262,bugünkü,TR,,O,190,262,TR
 post_190,1,263,düşmanım,TR,,O,190,263,TR
 post_190,1,264,sensin,TR,,O,190,264,TR
@@ -1347,7 +1347,7 @@ post_248,1,102,ise,TR,,O,248,102,TR
 post_248,1,103,acıyı,TR,,O,248,103,TR
 post_248,1,104,hissetmemek,TR,,O,248,104,TR
 post_248,1,105,için,TR,,O,248,105,TR
-post_248,1,106,pseudocide'ı,MIXED,MIXED,O,248,106,MIXED
+post_248,1,106,pseudocide'ı,MIXED,MIXED,O,248,106,NE
 post_248,1,107,çözüm,TR,,O,248,107,TR
 post_248,1,108,bellemek,TR,,O,248,108,TR
 post_248,1,109,insanın,TR,,O,248,109,TR

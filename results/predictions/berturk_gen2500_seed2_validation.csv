@@ -36,7 +36,7 @@ post_041,1,12,atabileceğine,TR,,O,41,12,TR
 post_041,1,13,inandığım,TR,,O,41,13,TR
 post_041,1,14,internet,TR,,O,41,14,TR
 post_041,1,15,tanrısı,TR,,O,41,15,TR
-post_051,1,0,bkz,TR,,O,51,0,TR
+post_051,1,0,bkz,TR,,O,51,0,EN
 post_051,1,1,react,NE,,B-PROD,51,1,EN
 post_051,1,2,hooks,EN,,O,51,2,EN
 post_051,1,3,cânım,TR,,O,51,3,TR
@@ -48,7 +48,7 @@ post_051,1,8,başlık,TR,,O,51,8,TR
 post_051,1,9,açılmış,TR,,O,51,9,TR
 post_051,1,10,bence,TR,,O,51,10,TR
 post_051,1,11,de,TR,,O,51,11,TR
-post_051,1,12,react'ten,NE,MIXED,B-PROD,51,12,NE
+post_051,1,12,react'ten,NE,MIXED,B-PROD,51,12,MIXED
 post_051,1,13,daha,TR,,O,51,13,TR
 post_051,1,14,güzel,TR,,O,51,14,TR
 post_051,1,15,bir,TR,,O,51,15,TR
@@ -84,7 +84,7 @@ post_057,1,22,ben,TR,,O,57,22,TR
 post_057,1,23,de,TR,,O,57,23,TR
 post_057,1,24,tane,TR,,O,57,24,TR
 post_057,1,25,önereyim,TR,,O,57,25,TR
-post_057,1,26,bkz,TR,,O,57,26,TR
+post_057,1,26,bkz,TR,,O,57,26,NE
 post_057,1,27,berserk,NE,,B-TITLE,57,27,NE
 post_057,1,28,berserk,NE,,B-TITLE,57,28,NE
 post_057,1,29,aslında,TR,,O,57,29,TR
@@ -99,7 +99,7 @@ post_057,1,37,karşınıza,TR,,O,57,37,TR
 post_057,1,38,çıkmaz,TR,,O,57,38,TR
 post_057,1,39,berserk'i,NE,MIXED,B-TITLE,57,39,NE
 post_057,1,40,öneririm,TR,,O,57,40,TR
-post_057,1,41,kaiji,NE,,B-TITLE,57,41,OTHER
+post_057,1,41,kaiji,NE,,B-TITLE,57,41,TR
 post_057,1,42,bir,TR,,O,57,42,TR
 post_057,1,43,kart,TR,,O,57,43,TR
 post_057,1,44,animesidir,TR,,O,57,44,TR
@@ -187,7 +187,7 @@ post_072,1,3,canlı,TR,,O,72,3,TR
 post_072,1,4,olarak,TR,,O,72,4,TR
 post_072,1,5,heyecanla,TR,,O,72,5,TR
 post_072,1,6,izleyebildiğimiz,TR,,O,72,6,TR
-post_072,1,7,site,AMBIGUOUS,,O,72,7,TR
+post_072,1,7,site,AMBIGUOUS,,O,72,7,EN
 post_072,1,8,is,EN,,O,72,8,EN
 post_072,1,9,went,EN,,O,72,9,EN
 post_072,1,10,from,EN,,O,72,10,EN
@@ -238,7 +238,7 @@ post_087,1,7,odasında,TR,,O,87,7,TR
 post_087,1,8,gördüğü,TR,,O,87,8,TR
 post_087,1,9,fareden,TR,,O,87,9,TR
 post_087,1,10,esinlenip,TR,,O,87,10,TR
-post_087,1,11,mickey,NE,,B-PER,87,11,NE
+post_087,1,11,mickey,NE,,B-PER,87,11,EN
 post_087,1,12,fareyi,NE,,I-PER,87,12,TR
 post_087,1,13,çizgi,TR,,O,87,13,TR
 post_087,1,14,dünyaya,TR,,O,87,14,TR
@@ -250,7 +250,7 @@ post_087,1,19,günümüzün,TR,,O,87,19,TR
 post_087,1,20,tekel,TR,,O,87,20,TR
 post_087,1,21,canavarı,TR,,O,87,21,TR
 post_087,1,22,şirket,TR,,O,87,22,TR
-post_087,1,23,nazi,NE,,B-GROUP,87,23,TR
+post_087,1,23,nazi,NE,,B-GROUP,87,23,NE
 post_087,1,24,almanyasından,NE,,B-LOC,87,24,TR
 post_087,1,25,farksız,TR,,O,87,25,TR
 post_087,1,26,bu,TR,,O,87,26,TR
@@ -287,8 +287,8 @@ post_108,1,9,ufak,TR,,O,108,9,TR
 post_108,1,10,blog,TR,,O,108,10,TR
 post_108,1,11,yazıları,TR,,O,108,11,TR
 post_108,1,12,turetebiliyor,TR,,O,108,12,TR
-post_108,1,13,chatgpt,NE,,B-PROD,108,13,NE
-post_108,1,14,blogger,EN,,O,108,14,NE
+post_108,1,13,chatgpt,NE,,B-PROD,108,13,EN
+post_108,1,14,blogger,EN,,O,108,14,EN
 post_115,1,0,flotilla,TR,,O,115,0,NE
 post_115,1,1,israel,NE,,B-LOC,115,1,NE
 post_115,1,2,ve,TR,,O,115,2,TR
@@ -345,7 +345,7 @@ post_115,1,52,diyeyim,TR,,O,115,52,TR
 post_115,1,53,sen,TR,,O,115,53,TR
 post_115,1,54,de,TR,,O,115,54,TR
 post_115,1,55,bambaşkaymışsın,TR,,O,115,55,TR
-post_115,1,56,twitoğlutwit,NE,,B-PROD,115,56,NE
+post_115,1,56,twitoğlutwit,NE,,B-PROD,115,56,EN
 post_144,1,0,david,NE,,B-PER,144,0,NE
 post_144,1,1,cassel’in,NE,MIXED,I-PER,144,1,NE
 post_144,1,2,sene,TR,,O,144,2,TR
@@ -384,7 +384,7 @@ post_144,1,34,a,EN,,O,144,34,EN
 post_144,1,35,great,EN,,O,144,35,EN
 post_144,1,36,and,EN,,O,144,36,EN
 post_144,1,37,grand,EN,,O,144,37,EN
-post_144,1,38,"silliness,",EN,,O,144,38,NE
+post_144,1,38,"silliness,",EN,,O,144,38,EN
 post_144,1,39,and,EN,,O,144,39,EN
 post_144,1,40,you,EN,,O,144,40,EN
 post_144,1,41,could,EN,,O,144,41,EN
@@ -393,9 +393,9 @@ post_144,1,43,it.”,EN,,O,144,43,EN
 post_144,1,44,david,NE,,B-PER,144,44,NE
 post_144,1,45,cassel,NE,,I-PER,144,45,NE
 post_144,1,46,(bkz:,TR,,O,144,46,TR
-post_144,1,47,deidre,NE,,B-PER,144,47,OTHER
+post_144,1,47,deidre,NE,,B-PER,144,47,NE
 post_144,1,48,lacarte),NE,,I-PER,144,48,NE
-post_151,1,0,hackernewsta,NE,,B-PROD,151,0,MIXED
+post_151,1,0,hackernewsta,NE,,B-PROD,151,0,EN
 post_151,1,1,ne,TR,,O,151,1,TR
 post_151,1,2,dendiğine,TR,,O,151,2,TR
 post_151,1,3,çok,TR,,O,151,3,TR
@@ -412,7 +412,7 @@ post_151,1,13,mesela,TR,,O,151,13,TR
 post_151,1,14,"avrupada,",NE,,B-LOC,151,14,TR
 post_151,1,15,rusya,NE,,B-LOC,151,15,NE
 post_151,1,16,ve,TR,,O,151,16,TR
-post_151,1,17,çinde,NE,,B-LOC,151,17,TR
+post_151,1,17,çinde,NE,,B-LOC,151,17,NE
 post_151,1,18,yapılan,TR,,O,151,18,TR
 post_151,1,19,projeler,TR,,O,151,19,TR
 post_151,1,20,silikon,NE,,B-LOC,151,20,TR
@@ -461,7 +461,7 @@ post_151,1,62,silikon,NE,,B-LOC,151,62,TR
 post_151,1,63,vadisi,NE,,I-LOC,151,63,TR
 post_151,1,64,dışında,TR,,O,151,64,TR
 post_151,1,65,"gelişti,",TR,,O,151,65,TR
-post_151,1,66,silikon,NE,,B-LOC,151,66,NE
+post_151,1,66,silikon,NE,,B-LOC,151,66,TR
 post_151,1,67,vadisi,NE,,I-LOC,151,67,TR
 post_151,1,68,baya,TR,,O,151,68,TR
 post_151,1,69,geç,TR,,O,151,69,TR
@@ -486,7 +486,7 @@ post_151,1,87,silikon,NE,,B-LOC,151,87,TR
 post_151,1,88,vadisindeki,NE,,I-LOC,151,88,TR
 post_151,1,89,osuruk,TR,,O,151,89,TR
 post_151,1,90,vr,EN,,O,151,90,TR
-post_151,1,91,appleri,MIXED,MIXED,O,151,91,MIXED
+post_151,1,91,appleri,MIXED,MIXED,O,151,91,TR
 post_151,1,92,dünyayı,TR,,O,151,92,TR
 post_151,1,93,better,EN,,O,151,93,EN
 post_151,1,94,place,EN,,O,151,94,EN
@@ -526,7 +526,7 @@ post_151,1,127,tam,TR,,O,151,127,TR
 post_151,1,128,anlayamıyor,TR,,O,151,128,TR
 post_151,1,129,mesela,TR,,O,151,129,TR
 post_151,1,130,linklenen,TR,,O,151,130,TR
-post_151,1,131,hn,NE,,B-PROD,151,131,NE
+post_151,1,131,hn,NE,,B-PROD,151,131,EN
 post_151,1,132,tartışmasında,TR,,O,151,132,TR
 post_151,1,133,en,TR,,O,151,133,TR
 post_151,1,134,çok,TR,,O,151,134,TR
@@ -660,7 +660,7 @@ post_167,1,4,python,NE,,B-PROD,167,4,NE
 post_167,1,5,based,EN,,O,167,5,EN
 post_167,1,6,microservisciklerim,TR,,O,167,6,TR
 post_167,1,7,var,TR,,O,167,7,TR
-post_167,1,8,docker,NE,,B-PROD,167,8,NE
+post_167,1,8,docker,NE,,B-PROD,167,8,EN
 post_167,1,9,containerler,MIXED,MIXED,O,167,9,MIXED
 post_167,1,10,içinde,TR,,O,167,10,TR
 post_167,1,11,çalışan,TR,,O,167,11,TR
@@ -713,7 +713,7 @@ post_167,1,57,varabilecek,TR,,O,167,57,TR
 post_167,1,58,miyim,TR,,O,167,58,TR
 post_179,1,0,an,TR,,O,179,0,TR
 post_179,1,1,itibariyle,TR,,O,179,1,TR
-post_179,1,2,pcde,MIXED,MIXED,O,179,2,AMBIGUOUS
+post_179,1,2,pcde,MIXED,MIXED,O,179,2,NE
 post_179,1,3,kullanmaya,TR,,O,179,3,TR
 post_179,1,4,çalıştığınızda,TR,,O,179,4,TR
 post_179,1,5,"""sorry,",EN,,O,179,5,EN
@@ -725,7 +725,7 @@ post_179,1,10,you,EN,,O,179,10,EN
 post_179,1,11,are,EN,,O,179,11,EN
 post_179,1,12,unable,EN,,O,179,12,EN
 post_179,1,13,to,EN,,O,179,13,EN
-post_179,1,14,access,EN,,O,179,14,NE
+post_179,1,14,access,EN,,O,179,14,EN
 post_179,1,15,"discord.com""",NE,MIXED,B-PROD,179,15,NE
 post_179,1,16,uyarısı,TR,,O,179,16,TR
 post_179,1,17,veren,TR,,O,179,17,TR
@@ -927,7 +927,7 @@ post_196,1,0,arrow,EN,,O,196,0,EN
 post_196,1,1,functionına,MIXED,MIXED,O,196,1,MIXED
 post_196,1,2,gurban,TR,,O,196,2,TR
 post_196,1,3,olduğum,TR,,O,196,3,TR
-post_196,1,4,python,NE,,B-PROD,196,4,NE
+post_196,1,4,python,NE,,B-PROD,196,4,EN
 post_196,1,5,bokunu,TR,,O,196,5,TR
 post_196,1,6,yesin,TR,,O,196,6,TR
 post_196,1,7,bana,TR,,O,196,7,TR
@@ -979,7 +979,7 @@ post_208,1,0,bir,TR,,O,208,0,TR
 post_208,1,1,backend,EN,,O,208,1,EN
 post_208,1,2,developer,EN,,O,208,2,EN
 post_208,1,3,olarak,TR,,O,208,3,TR
-post_208,1,4,node.js,NE,,B-PROD,208,4,NE
+post_208,1,4,node.js,NE,,B-PROD,208,4,EN
 post_208,1,5,ilgimin,TR,,O,208,5,TR
 post_208,1,6,artmasıyla,TR,,O,208,6,TR
 post_208,1,7,benim,TR,,O,208,7,TR
@@ -1000,8 +1000,8 @@ post_208,1,21,birden,TR,,O,208,21,TR
 post_208,1,22,fazla,TR,,O,208,22,TR
 post_208,1,23,anlamı,TR,,O,208,23,TR
 post_208,1,24,yoktu,TR,,O,208,24,TR
-post_215,1,0,coldplay,NE,,B-GROUP,215,0,NE
-post_215,1,1,ghost,NE,,B-TITLE,215,1,NE
+post_215,1,0,coldplay,NE,,B-GROUP,215,0,EN
+post_215,1,1,ghost,NE,,B-TITLE,215,1,EN
 post_215,1,2,stories'i,NE,MIXED,I-TITLE,215,2,MIXED
 post_215,1,3,buradan,TR,,O,215,3,TR
 post_215,1,4,stream,EN,,O,215,4,EN
@@ -1030,14 +1030,14 @@ post_234,1,1,kapalı,TR,,O,234,1,TR
 post_234,1,2,"kalması,",TR,,O,234,2,TR
 post_234,1,3,özellikle,TR,,O,234,3,TR
 post_234,1,4,türkiye’deki,NE,,B-LOC,234,4,NE
-post_234,1,5,web3,EN,,O,234,5,AMBIGUOUS
+post_234,1,5,web3,EN,,O,234,5,EN
 post_234,1,6,ekosistemine,TR,,O,234,6,TR
 post_234,1,7,önemli,TR,,O,234,7,TR
 post_234,1,8,bir,TR,,O,234,8,TR
 post_234,1,9,engel,TR,,O,234,9,TR
 post_234,1,10,teşkil,TR,,O,234,10,TR
 post_234,1,11,ediyor,TR,,O,234,11,TR
-post_234,1,12,web3,TR,,O,234,12,AMBIGUOUS
+post_234,1,12,web3,TR,,O,234,12,EN
 post_234,1,13,dünyasındaki,TR,,O,234,13,TR
 post_234,1,14,projeler,TR,,O,234,14,TR
 post_234,1,15,ve,TR,,O,234,15,TR
@@ -1088,7 +1088,7 @@ post_234,1,59,discord’un,NE,MIXED,B-PROD,234,59,NE
 post_234,1,60,kapalı,TR,,O,234,60,TR
 post_234,1,61,kalması,TR,,O,234,61,TR
 post_234,1,62,ülkedeki,TR,,O,234,62,TR
-post_234,1,63,web3,EN,,O,234,63,AMBIGUOUS
+post_234,1,63,web3,EN,,O,234,63,EN
 post_234,1,64,startup’larının,MIXED,MIXED,O,234,64,MIXED
 post_234,1,65,gelişimini,TR,,O,234,65,TR
 post_234,1,66,ve,TR,,O,234,66,TR
@@ -1168,7 +1168,7 @@ post_241,1,22,kontra,TR,,O,241,22,TR
 post_241,1,23,olarak,TR,,O,241,23,TR
 post_241,1,24,pinterest'i,NE,MIXED,B-PROD,241,24,NE
 post_241,1,25,alsın,TR,,O,241,25,TR
-post_241,1,26,empire,EN,,O,241,26,NE
-post_241,1,27,strikes,EN,,O,241,27,NE
+post_241,1,26,empire,EN,,O,241,26,EN
+post_241,1,27,strikes,EN,,O,241,27,EN
 post_241,1,28,back,EN,,O,241,28,EN
 post_241,1,29,deriz,TR,,O,241,29,TR

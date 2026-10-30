@@ -1,0 +1,66 @@
+{
+  "run": "berturk_gen5000_seed2",
+  "model": "dbmdz/bert-base-turkish-cased",
+  "seed": 2,
+  "n_real_train_sentences": 254,
+  "n_generated_sentences": 5000,
+  "hyperparameters": {
+    "model": "dbmdz/bert-base-turkish-cased",
+    "name": "berturk",
+    "extra_n": 5000,
+    "epochs": 10,
+    "batch_size": 16,
+    "learning_rate": 2e-05,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.06,
+    "max_length": 512,
+    "patience": 3,
+    "fp16": true,
+    "keep_model": false
+  },
+  "best_validation_macro_f1": 0.5730184667873794,
+  "epochs_run": 4.0,
+  "validation_history": [
+    {
+      "eval_loss": 0.17612944543361664,
+      "eval_f1": 0.5730184667873794,
+      "eval_accuracy": 0.9531116794543905,
+      "eval_runtime": 0.1053,
+      "eval_samples_per_second": 246.797,
+      "eval_steps_per_second": 18.984,
+      "epoch": 1.0,
+      "step": 329
+    },
+    {
+      "eval_loss": 0.17308568954467773,
+      "eval_f1": 0.5670720107628023,
+      "eval_accuracy": 0.9420289855072463,
+      "eval_runtime": 0.1486,
+      "eval_samples_per_second": 174.971,
+      "eval_steps_per_second": 13.459,
+      "epoch": 2.0,
+      "step": 658
+    },
+    {
+      "eval_loss": 0.19579492509365082,
+      "eval_f1": 0.5619400845307637,
+      "eval_accuracy": 0.9343563512361467,
+      "eval_runtime": 0.1394,
+      "eval_samples_per_second": 186.484,
+      "eval_steps_per_second": 14.345,
+      "epoch": 3.0,
+      "step": 987
+    },
+    {
+      "eval_loss": 0.27386027574539185,
+      "eval_f1": 0.557719153740902,
+      "eval_accuracy": 0.9309462915601023,
+      "eval_runtime": 0.1089,
+      "eval_samples_per_second": 238.827,
+      "eval_steps_per_second": 18.371,
+      "epoch": 4.0,
+      "step": 1316
+    }
+  ],
+  "minutes": 2.4
+}

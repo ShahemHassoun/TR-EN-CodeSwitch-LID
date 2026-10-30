@@ -130,9 +130,9 @@ post_057,1,68,eleştiri,TR,,O,57,68,TR
 post_057,1,69,şudur,TR,,O,57,69,TR
 post_057,1,70,naruto,NE,,B-TITLE,57,70,NE
 post_057,1,71,serisi,TR,,O,57,71,TR
-post_057,1,72,filler,EN,,O,57,72,TR
+post_057,1,72,filler,EN,,O,57,72,NE
 post_057,1,73,doludur,TR,,O,57,73,TR
-post_057,1,74,filler,EN,,O,57,74,TR
+post_057,1,74,filler,EN,,O,57,74,NE
 post_057,1,75,ne,TR,,O,57,75,TR
 post_057,1,76,yayımcı,TR,,O,57,76,TR
 post_057,1,77,firmanın,TR,,O,57,77,TR
@@ -384,7 +384,7 @@ post_144,1,34,a,EN,,O,144,34,EN
 post_144,1,35,great,EN,,O,144,35,EN
 post_144,1,36,and,EN,,O,144,36,EN
 post_144,1,37,grand,EN,,O,144,37,EN
-post_144,1,38,"silliness,",EN,,O,144,38,EN
+post_144,1,38,"silliness,",EN,,O,144,38,NE
 post_144,1,39,and,EN,,O,144,39,EN
 post_144,1,40,you,EN,,O,144,40,EN
 post_144,1,41,could,EN,,O,144,41,EN
@@ -501,7 +501,7 @@ post_151,1,102,zararını,TR,,O,151,102,TR
 post_151,1,103,da,TR,,O,151,103,TR
 post_151,1,104,görüyorlar,TR,,O,151,104,TR
 post_151,1,105,silikon,NE,,B-LOC,151,105,NE
-post_151,1,106,vadisi,NE,,I-LOC,151,106,NE
+post_151,1,106,vadisi,NE,,I-LOC,151,106,TR
 post_151,1,107,bu,TR,,O,151,107,TR
 post_151,1,108,olup,TR,,O,151,108,TR
 post_151,1,109,bitenin,TR,,O,151,109,TR
@@ -510,7 +510,7 @@ post_151,1,111,edge'inde,MIXED,MIXED,O,151,111,MIXED
 post_151,1,112,değil,TR,,O,151,112,TR
 post_151,1,113,yani,TR,,O,151,113,TR
 post_151,1,114,state,EN,,O,151,114,EN
-post_151,1,115,of,EN,,O,151,115,EN
+post_151,1,115,of,EN,,O,151,115,NE
 post_151,1,116,the,EN,,O,151,116,NE
 post_151,1,117,art,EN,,O,151,117,NE
 post_151,1,118,silikon,NE,,B-LOC,151,118,TR
@@ -657,10 +657,10 @@ post_167,1,1,gurulara,TR,,O,167,1,TR
 post_167,1,2,bir,TR,,O,167,2,TR
 post_167,1,3,soru:,TR,,O,167,3,TR
 post_167,1,4,python,NE,,B-PROD,167,4,NE
-post_167,1,5,based,EN,,O,167,5,EN
+post_167,1,5,based,EN,,O,167,5,NE
 post_167,1,6,microservisciklerim,TR,,O,167,6,TR
 post_167,1,7,var,TR,,O,167,7,TR
-post_167,1,8,docker,NE,,B-PROD,167,8,EN
+post_167,1,8,docker,NE,,B-PROD,167,8,NE
 post_167,1,9,containerler,MIXED,MIXED,O,167,9,MIXED
 post_167,1,10,içinde,TR,,O,167,10,TR
 post_167,1,11,çalışan,TR,,O,167,11,TR
@@ -686,7 +686,7 @@ post_167,1,30,memory,EN,,O,167,30,EN
 post_167,1,31,release,EN,,O,167,31,EN
 post_167,1,32,olmamış,TR,,O,167,32,TR
 post_167,1,33,kalıyor,TR,,O,167,33,TR
-post_167,1,34,stats,EN,,O,167,34,MIXED
+post_167,1,34,stats,EN,,O,167,34,TR
 post_167,1,35,lere,TR,,O,167,35,TR
 post_167,1,36,cadvisor,TR,,O,167,36,NE
 post_167,1,37,ile,TR,,O,167,37,TR
@@ -1170,5 +1170,5 @@ post_241,1,24,pinterest'i,NE,MIXED,B-PROD,241,24,NE
 post_241,1,25,alsın,TR,,O,241,25,TR
 post_241,1,26,empire,EN,,O,241,26,NE
 post_241,1,27,strikes,EN,,O,241,27,NE
-post_241,1,28,back,EN,,O,241,28,EN
+post_241,1,28,back,EN,,O,241,28,NE
 post_241,1,29,deriz,TR,,O,241,29,TR

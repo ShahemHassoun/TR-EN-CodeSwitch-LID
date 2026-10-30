@@ -3,7 +3,7 @@ post_002,1,0,work,EN,,O,2,0,EN
 post_002,1,1,art,EN,,O,2,1,EN
 post_002,1,2,work,EN,,O,2,2,EN
 post_002,1,3,manasinda,TR,,O,2,3,TR
-post_002,1,4,turkiyenin,NE,,B-LOC,2,4,TR
+post_002,1,4,turkiyenin,NE,,B-LOC,2,4,NE
 post_002,1,5,sanat,TR,,O,2,5,TR
 post_002,1,6,cevrelerince,TR,,O,2,6,TR
 post_002,1,7,kullanilan,TR,,O,2,7,TR
@@ -37,10 +37,10 @@ post_041,1,13,inandığım,TR,,O,41,13,TR
 post_041,1,14,internet,TR,,O,41,14,TR
 post_041,1,15,tanrısı,TR,,O,41,15,TR
 post_051,1,0,bkz,TR,,O,51,0,TR
-post_051,1,1,react,NE,,B-PROD,51,1,EN
-post_051,1,2,hooks,EN,,O,51,2,EN
+post_051,1,1,react,NE,,B-PROD,51,1,NE
+post_051,1,2,hooks,EN,,O,51,2,NE
 post_051,1,3,cânım,TR,,O,51,3,TR
-post_051,1,4,hookslar,MIXED,MIXED,O,51,4,TR
+post_051,1,4,hookslar,MIXED,MIXED,O,51,4,MIXED
 post_051,1,5,için,TR,,O,51,5,TR
 post_051,1,6,ayrı,TR,,O,51,6,TR
 post_051,1,7,bir,TR,,O,51,7,TR
@@ -56,7 +56,7 @@ post_051,1,16,şey,TR,,O,51,16,TR
 post_051,1,17,varsa,TR,,O,51,17,TR
 post_051,1,18,o,TR,,O,51,18,TR
 post_051,1,19,da,TR,,O,51,19,TR
-post_051,1,20,react,NE,,B-PROD,51,20,EN
+post_051,1,20,react,NE,,B-PROD,51,20,NE
 post_051,1,21,hookslardır,MIXED,MIXED,O,51,21,TR
 post_057,1,0,varsa,TR,,O,57,0,TR
 post_057,1,1,az,TR,,O,57,1,TR
@@ -71,7 +71,7 @@ post_057,1,9,öyle,TR,,O,57,9,TR
 post_057,1,10,google'a,NE,MIXED,B-PROD,57,10,NE
 post_057,1,11,en,TR,,O,57,11,TR
 post_057,1,12,iyi,TR,,O,57,12,TR
-post_057,1,13,animeler,TR,,O,57,13,TR
+post_057,1,13,animeler,TR,,O,57,13,AMBIGUOUS
 post_057,1,14,yazıp,TR,,O,57,14,TR
 post_057,1,15,karşımıza,TR,,O,57,15,TR
 post_057,1,16,çıkan,TR,,O,57,16,TR
@@ -99,7 +99,7 @@ post_057,1,37,karşınıza,TR,,O,57,37,TR
 post_057,1,38,çıkmaz,TR,,O,57,38,TR
 post_057,1,39,berserk'i,NE,MIXED,B-TITLE,57,39,NE
 post_057,1,40,öneririm,TR,,O,57,40,TR
-post_057,1,41,kaiji,NE,,B-TITLE,57,41,TR
+post_057,1,41,kaiji,NE,,B-TITLE,57,41,AMBIGUOUS
 post_057,1,42,bir,TR,,O,57,42,TR
 post_057,1,43,kart,TR,,O,57,43,TR
 post_057,1,44,animesidir,TR,,O,57,44,TR
@@ -132,7 +132,7 @@ post_057,1,70,naruto,NE,,B-TITLE,57,70,NE
 post_057,1,71,serisi,TR,,O,57,71,TR
 post_057,1,72,filler,EN,,O,57,72,EN
 post_057,1,73,doludur,TR,,O,57,73,TR
-post_057,1,74,filler,EN,,O,57,74,TR
+post_057,1,74,filler,EN,,O,57,74,EN
 post_057,1,75,ne,TR,,O,57,75,TR
 post_057,1,76,yayımcı,TR,,O,57,76,TR
 post_057,1,77,firmanın,TR,,O,57,77,TR
@@ -250,7 +250,7 @@ post_087,1,19,günümüzün,TR,,O,87,19,TR
 post_087,1,20,tekel,TR,,O,87,20,TR
 post_087,1,21,canavarı,TR,,O,87,21,TR
 post_087,1,22,şirket,TR,,O,87,22,TR
-post_087,1,23,nazi,NE,,B-GROUP,87,23,TR
+post_087,1,23,nazi,NE,,B-GROUP,87,23,NE
 post_087,1,24,almanyasından,NE,,B-LOC,87,24,TR
 post_087,1,25,farksız,TR,,O,87,25,TR
 post_087,1,26,bu,TR,,O,87,26,TR
@@ -323,7 +323,7 @@ post_115,1,30,yok,TR,,O,115,30,TR
 post_115,1,31,ne,TR,,O,115,31,TR
 post_115,1,32,var,TR,,O,115,32,TR
 post_115,1,33,lan,TR,,O,115,33,TR
-post_115,1,34,twit,NE,,B-PROD,115,34,EN
+post_115,1,34,twit,NE,,B-PROD,115,34,NE
 post_115,1,35,aferin,TR,,O,115,35,TR
 post_115,1,36,"sana,",TR,,O,115,36,TR
 post_115,1,37,birilerinin,TR,,O,115,37,TR
@@ -393,7 +393,7 @@ post_144,1,43,it.”,EN,,O,144,43,EN
 post_144,1,44,david,NE,,B-PER,144,44,NE
 post_144,1,45,cassel,NE,,I-PER,144,45,NE
 post_144,1,46,(bkz:,TR,,O,144,46,TR
-post_144,1,47,deidre,NE,,B-PER,144,47,OTHER
+post_144,1,47,deidre,NE,,B-PER,144,47,NE
 post_144,1,48,lacarte),NE,,I-PER,144,48,NE
 post_151,1,0,hackernewsta,NE,,B-PROD,151,0,MIXED
 post_151,1,1,ne,TR,,O,151,1,TR
@@ -412,7 +412,7 @@ post_151,1,13,mesela,TR,,O,151,13,TR
 post_151,1,14,"avrupada,",NE,,B-LOC,151,14,TR
 post_151,1,15,rusya,NE,,B-LOC,151,15,NE
 post_151,1,16,ve,TR,,O,151,16,TR
-post_151,1,17,çinde,NE,,B-LOC,151,17,TR
+post_151,1,17,çinde,NE,,B-LOC,151,17,NE
 post_151,1,18,yapılan,TR,,O,151,18,TR
 post_151,1,19,projeler,TR,,O,151,19,TR
 post_151,1,20,silikon,NE,,B-LOC,151,20,TR
@@ -971,7 +971,7 @@ post_207,1,18,must,EN,,O,207,18,EN
 post_207,1,19,go,EN,,O,207,19,EN
 post_207,1,20,"on""",EN,,O,207,20,EN
 post_207,1,21,yazıyor,TR,,O,207,21,TR
-post_207,1,22,pastafaryan,TR,,O,207,22,TR
+post_207,1,22,pastafaryan,TR,,O,207,22,NE
 post_207,1,23,misyoner:,TR,,O,207,23,TR
 post_207,1,24,@salih,TR,,O,207,24,NE
 post_207,1,25,abi's,TR,,O,207,25,NE

@@ -9,7 +9,7 @@ post_007,1,6,blog,AMBIGUOUS,,O,7,6,TR
 post_007,3,0,wordpress,NE,,B-PROD,7,0,NE
 post_008,1,0,deep,NE,,B-ORG,8,0,EN
 post_008,1,1,knowledge,NE,,I-ORG,8,1,EN
-post_008,1,2,group'un,NE,MIXED,I-ORG,8,2,MIXED
+post_008,1,2,group'un,NE,MIXED,I-ORG,8,2,NE
 post_008,1,3,son,TR,,O,8,3,TR
 post_008,1,4,çalışmaları,TR,,O,8,4,TR
 post_008,1,5,üzerinden,TR,,O,8,5,TR
@@ -62,10 +62,10 @@ post_009,2,22,şekilde,TR,,O,9,22,TR
 post_009,2,23,keşfidir,TR,,O,9,23,TR
 post_009,3,0,tim,NE,,B-PER,9,0,NE
 post_009,3,1,lewens,NE,,I-PER,9,1,NE
-post_009,3,2,the,NE,,B-TITLE,9,2,EN
+post_009,3,2,the,NE,,B-TITLE,9,2,NE
 post_009,3,3,meaning,NE,,I-TITLE,9,3,EN
 post_009,3,4,of,NE,,I-TITLE,9,4,EN
-post_009,3,5,science,NE,,I-TITLE,9,5,EN
+post_009,3,5,science,NE,,I-TITLE,9,5,NE
 post_023,1,0,bilgi,TR,,O,23,0,TR
 post_023,1,1,ve,TR,,O,23,1,TR
 post_023,1,2,becerinin,TR,,O,23,2,TR
@@ -261,7 +261,7 @@ post_058,1,3,monsters,NE,,I-PROD,58,3,NE
 post_058,1,4,nft,EN,,O,58,4,NE
 post_058,1,5,projesi,TR,,O,58,5,TR
 post_058,1,6,adet,TR,,O,58,6,TR
-post_058,1,7,whitelist,EN,,O,58,7,EN
+post_058,1,7,whitelist,EN,,O,58,7,NE
 post_058,1,8,apple,NE,,B-PROD,58,8,NE
 post_058,1,9,watch,NE,,I-PROD,58,9,NE
 post_058,1,10,series,EN,,O,58,10,NE
@@ -429,7 +429,7 @@ post_109,1,24,o,TR,,O,109,24,TR
 post_109,1,25,kadar,TR,,O,109,25,TR
 post_109,1,26,azız,TR,,O,109,26,TR
 post_109,1,27,ki,TR,,O,109,27,TR
-post_109,1,28,post,EN,,O,109,28,EN
+post_109,1,28,post,EN,,O,109,28,TR
 post_109,1,29,atar,TR,,O,109,29,TR
 post_109,1,30,atmaz,TR,,O,109,30,TR
 post_109,1,31,eksileniyoruz,TR,,O,109,31,TR
@@ -451,7 +451,7 @@ post_109,1,46,grubu,TR,,O,109,46,TR
 post_109,1,47,ile,TR,,O,109,47,TR
 post_109,1,48,gerekli,TR,,O,109,48,TR
 post_109,1,49,görülen,TR,,O,109,49,TR
-post_109,1,50,postların,TR,,O,109,50,MIXED
+post_109,1,50,postların,TR,,O,109,50,TR
 post_109,1,51,altında,TR,,O,109,51,TR
 post_109,1,52,ve,TR,,O,109,52,TR
 post_109,1,53,gerekli,TR,,O,109,53,TR
@@ -1139,7 +1139,7 @@ post_190,1,271,şunu,TR,,O,190,271,TR
 post_190,1,272,söyleyebilirim,TR,,O,190,272,TR
 post_190,1,273,ki,TR,,O,190,273,TR
 post_190,1,274,nobody's,NE,,B-TITLE,190,274,NE
-post_190,1,275,perfect,NE,,I-TITLE,190,275,EN
+post_190,1,275,perfect,NE,,I-TITLE,190,275,NE
 post_190,1,276,madonna,TR,,O,190,276,NE
 post_190,1,277,after,EN,,O,190,277,EN
 post_190,1,278,that's,EN,,O,190,278,EN
@@ -1216,7 +1216,7 @@ post_229,1,40,açıldı,TR,,O,229,40,TR
 post_229,1,41,açılmasına,TR,,O,229,41,TR
 post_229,1,42,ama,TR,,O,229,42,TR
 post_229,1,43,political,EN,,O,229,43,NE
-post_229,1,44,views'teki,MIXED,MIXED,O,229,44,MIXED
+post_229,1,44,views'teki,MIXED,MIXED,O,229,44,NE
 post_229,1,45,seçenekler,TR,,O,229,45,TR
 post_229,1,46,hâlâ,TR,,O,229,46,TR
 post_229,1,47,tamamen,TR,,O,229,47,TR

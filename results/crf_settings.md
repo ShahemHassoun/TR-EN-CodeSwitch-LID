@@ -15,7 +15,6 @@ Regularisation was selected by fitting on the TurEngMix train split and choosing
 | `crf_gen0` | 0 | 0.4870 |
 | `crf_gen2500` | 2,500 | 0.4382 |
 | `crf_gen5000` | 5,000 | 0.4704 |
-
-The generated data currently contains too few sentences for the requested sizes: 10,000. Those runs were skipped.
+| `crf_gen10000` | 10,000 | 0.5149 |
 
 Test predictions were saved but test labels were not evaluated.

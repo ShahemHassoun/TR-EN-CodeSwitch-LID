@@ -1,7 +1,10 @@
 {
-  "has_answer_key": false,
+  "has_answer_key": true,
   "overall_all_items": {
     "n_items": 402,
+    "unanimous_3_of_3": 285,
+    "majority_2_of_3": 92,
+    "disagreement_1_1_1": 25,
     "pairwise_overall_kappa": {
       "tugra_vs_ibrahim": 0.7052,
       "tugra_vs_mahmut": 0.774,
@@ -47,43 +50,332 @@
         "tugra": 162,
         "ibrahim": 140,
         "mahmut": 158,
-        "majority": 160
+        "majority": 160,
+        "reference_label": 121
       },
       "EN": {
         "tugra": 93,
         "ibrahim": 138,
         "mahmut": 90,
-        "majority": 99
+        "majority": 99,
+        "reference_label": 89
       },
       "MIXED": {
         "tugra": 76,
         "ibrahim": 84,
         "mahmut": 68,
-        "majority": 75
+        "majority": 75,
+        "reference_label": 75
       },
       "NE": {
         "tugra": 41,
         "ibrahim": 17,
         "mahmut": 77,
-        "majority": 43
+        "majority": 43,
+        "reference_label": 80
       },
       "AMBIGUOUS": {
         "tugra": 17,
         "ibrahim": 16,
         "mahmut": 3,
-        "majority": 13
+        "majority": 13,
+        "reference_label": 30
       },
       "OTHER": {
         "tugra": 13,
         "ibrahim": 7,
         "mahmut": 6,
-        "majority": 12
+        "majority": 12,
+        "reference_label": 7
       }
     }
   },
-  "agreement_breakdown": {
-    "unanimous_3_of_3": 285,
-    "majority_2_of_3": 92,
-    "total_disagreement_1_1_1": 25
+  "real_items_agreement": {
+    "n_items": 202,
+    "unanimous_3_of_3": 135,
+    "majority_2_of_3": 53,
+    "disagreement_1_1_1": 14,
+    "pairwise_overall_kappa": {
+      "tugra_vs_ibrahim": 0.6909,
+      "tugra_vs_mahmut": 0.7263,
+      "ibrahim_vs_mahmut": 0.577
+    },
+    "average_overall_kappa": 0.6647,
+    "pairwise_per_label_kappa": {
+      "tugra_vs_ibrahim": {
+        "TR": 0.7703,
+        "EN": 0.7226,
+        "MIXED": 0.7493,
+        "NE": 0.4527,
+        "AMBIGUOUS": 0.3283,
+        "OTHER": 0.6599
+      },
+      "tugra_vs_mahmut": {
+        "TR": 0.7856,
+        "EN": 0.8604,
+        "MIXED": 0.8236,
+        "NE": 0.5313,
+        "AMBIGUOUS": -0.009,
+        "OTHER": 0.2796
+      },
+      "ibrahim_vs_mahmut": {
+        "TR": 0.7172,
+        "EN": 0.6379,
+        "MIXED": 0.6949,
+        "NE": 0.2344,
+        "AMBIGUOUS": -0.0093,
+        "OTHER": 0.4963
+      }
+    },
+    "average_per_label_kappa": {
+      "TR": 0.7577,
+      "EN": 0.7403,
+      "MIXED": 0.7559,
+      "NE": 0.4061,
+      "AMBIGUOUS": 0.1033,
+      "OTHER": 0.4786
+    },
+    "label_counts": {
+      "TR": {
+        "tugra": 84,
+        "ibrahim": 70,
+        "mahmut": 83,
+        "majority": 83,
+        "reference_label": 60
+      },
+      "EN": {
+        "tugra": 57,
+        "ibrahim": 76,
+        "mahmut": 50,
+        "majority": 57,
+        "reference_label": 50
+      },
+      "MIXED": {
+        "tugra": 28,
+        "ibrahim": 33,
+        "mahmut": 24,
+        "majority": 29,
+        "reference_label": 30
+      },
+      "NE": {
+        "tugra": 18,
+        "ibrahim": 7,
+        "mahmut": 43,
+        "majority": 19,
+        "reference_label": 40
+      },
+      "AMBIGUOUS": {
+        "tugra": 9,
+        "ibrahim": 13,
+        "mahmut": 1,
+        "majority": 8,
+        "reference_label": 20
+      },
+      "OTHER": {
+        "tugra": 6,
+        "ibrahim": 3,
+        "mahmut": 1,
+        "majority": 6,
+        "reference_label": 2
+      }
+    }
+  },
+  "generated_items_agreement": {
+    "n_items": 200,
+    "unanimous_3_of_3": 150,
+    "majority_2_of_3": 39,
+    "disagreement_1_1_1": 11,
+    "pairwise_overall_kappa": {
+      "tugra_vs_ibrahim": 0.716,
+      "tugra_vs_mahmut": 0.8186,
+      "ibrahim_vs_mahmut": 0.7168
+    },
+    "average_overall_kappa": 0.7505,
+    "pairwise_per_label_kappa": {
+      "tugra_vs_ibrahim": {
+        "TR": 0.8501,
+        "EN": 0.63,
+        "MIXED": 0.8256,
+        "NE": 0.5114,
+        "AMBIGUOUS": -0.0223,
+        "OTHER": 0.7201
+      },
+      "tugra_vs_mahmut": {
+        "TR": 0.8413,
+        "EN": 0.8701,
+        "MIXED": 0.9153,
+        "NE": 0.7763,
+        "AMBIGUOUS": -0.0163,
+        "OTHER": 0.6567
+      },
+      "ibrahim_vs_mahmut": {
+        "TR": 0.7946,
+        "EN": 0.6891,
+        "MIXED": 0.8484,
+        "NE": 0.4089,
+        "AMBIGUOUS": -0.0121,
+        "OTHER": 0.8864
+      }
+    },
+    "average_per_label_kappa": {
+      "TR": 0.8287,
+      "EN": 0.7297,
+      "MIXED": 0.8631,
+      "NE": 0.5655,
+      "AMBIGUOUS": -0.0169,
+      "OTHER": 0.7544
+    },
+    "label_counts": {
+      "TR": {
+        "tugra": 78,
+        "ibrahim": 70,
+        "mahmut": 75,
+        "majority": 77,
+        "reference_label": 61
+      },
+      "EN": {
+        "tugra": 36,
+        "ibrahim": 62,
+        "mahmut": 40,
+        "majority": 42,
+        "reference_label": 39
+      },
+      "MIXED": {
+        "tugra": 48,
+        "ibrahim": 51,
+        "mahmut": 44,
+        "majority": 46,
+        "reference_label": 45
+      },
+      "NE": {
+        "tugra": 23,
+        "ibrahim": 10,
+        "mahmut": 34,
+        "majority": 24,
+        "reference_label": 40
+      },
+      "AMBIGUOUS": {
+        "tugra": 8,
+        "ibrahim": 3,
+        "mahmut": 2,
+        "majority": 5,
+        "reference_label": 10
+      },
+      "OTHER": {
+        "tugra": 7,
+        "ibrahim": 4,
+        "mahmut": 5,
+        "majority": 6,
+        "reference_label": 5
+      }
+    }
+  },
+  "human_ceiling_vs_turengmix_gold": {
+    "tugra": {
+      "kappa": 0.6629,
+      "macro_f1": 0.6558,
+      "accuracy": 0.7426,
+      "per_label_f1": {
+        "TR": 0.8194,
+        "EN": 0.8224,
+        "MIXED": 0.7931,
+        "NE": 0.5172,
+        "AMBIGUOUS": 0.4828,
+        "OTHER": 0.5
+      }
+    },
+    "ibrahim": {
+      "kappa": 0.5672,
+      "macro_f1": 0.6136,
+      "accuracy": 0.6683,
+      "per_label_f1": {
+        "TR": 0.8615,
+        "EN": 0.6984,
+        "MIXED": 0.6667,
+        "NE": 0.1702,
+        "AMBIGUOUS": 0.4848,
+        "OTHER": 0.8
+      }
+    },
+    "mahmut": {
+      "kappa": 0.6727,
+      "macro_f1": 0.6414,
+      "accuracy": 0.7525,
+      "per_label_f1": {
+        "TR": 0.8112,
+        "EN": 0.82,
+        "MIXED": 0.8519,
+        "NE": 0.6988,
+        "AMBIGUOUS": 0.0,
+        "OTHER": 0.6667
+      }
+    },
+    "majority": {
+      "kappa": 0.663,
+      "macro_f1": 0.6497,
+      "accuracy": 0.7426,
+      "per_label_f1": {
+        "TR": 0.8252,
+        "EN": 0.8224,
+        "MIXED": 0.8136,
+        "NE": 0.5085,
+        "AMBIGUOUS": 0.4286,
+        "OTHER": 0.5
+      }
+    }
+  },
+  "generated_quality_vs_our_labels": {
+    "tugra": {
+      "kappa": 0.7389,
+      "macro_f1": 0.7038,
+      "accuracy": 0.8,
+      "per_label_f1": {
+        "TR": 0.8633,
+        "EN": 0.8,
+        "MIXED": 0.9247,
+        "NE": 0.6349,
+        "AMBIGUOUS": 0.3333,
+        "OTHER": 0.6667
+      }
+    },
+    "ibrahim": {
+      "kappa": 0.699,
+      "macro_f1": 0.6859,
+      "accuracy": 0.77,
+      "per_label_f1": {
+        "TR": 0.8702,
+        "EN": 0.7525,
+        "MIXED": 0.8958,
+        "NE": 0.4,
+        "AMBIGUOUS": 0.3077,
+        "OTHER": 0.8889
+      }
+    },
+    "mahmut": {
+      "kappa": 0.8163,
+      "macro_f1": 0.7743,
+      "accuracy": 0.86,
+      "per_label_f1": {
+        "TR": 0.8971,
+        "EN": 0.8861,
+        "MIXED": 0.9663,
+        "NE": 0.7297,
+        "AMBIGUOUS": 0.1667,
+        "OTHER": 1.0
+      }
+    },
+    "majority": {
+      "kappa": 0.784,
+      "macro_f1": 0.7474,
+      "accuracy": 0.835,
+      "per_label_f1": {
+        "TR": 0.8696,
+        "EN": 0.8642,
+        "MIXED": 0.967,
+        "NE": 0.6562,
+        "AMBIGUOUS": 0.4,
+        "OTHER": 0.7273
+      }
+    }
   }
 }

@@ -1,0 +1,107 @@
+# batch 48
+# --- crypto, finance, startup talk ---
+arkadaşım bütün birikimini bir altcoine|M=altcoin+e yatırdı, şimdi her sabah chartlara|M=chart+lara bakıp iç çekiyor
+kuzenim bana dollar|E cost|E averaging|E yöntemini anlattı, annem bunu kumar sanıyor
+yeni startupımızın|M=startup+ımızın seed|E roundunda|M=round+unda üç angel|E investor|E vardı
+borsada portfolioma|M=portfolio+ma bakınca her şey kırmızıydı, uygulamayı sildim
+arkadaşım bir fintech|E şirketinde product|E manager|E olarak çalışıyor, sürekli user|E retentiondan|M=retention+dan bahsediyor
+yatırımcı toplantısında burn|E rateimizi|M=rate+imizi sorunca ceo|E bir dakika sustu
+kripto borsasında two-factor|E authenticationı|M=authentication+ı açmayan arkadaşımın hesabı hacklendi
+şirketimizin valuationı|M=valuation+ı haberlerde çıkınca bütün aile bana zengin oldun mu diye sordu
+startup|E etkinliğinde herkes pitch|E deckini|M=deck+ini telefonundan gösteriyordu
+arkadaşım bir nft|E projesi başlattı, ilk hafta sadece annesi aldı
+yeni bir budgeting|E appi|M=app+i kullanmaya başladım, kahveye ne kadar harcadığımı görünce utandım
+kuzenim bir venture|E capital|E firmasında analyst|E olarak çalışıyor, her gün yüz pitch|E okuyor
+şirketin ipo|E haberinden sonra bütün çalışanlar stock|E optionlarını|M=option+larını hesaplamaya başladı
+banka uygulamasındaki savings|E goal|E özelliği sayesinde tatil parasını biriktirdim
+# --- NE celebrity/brand neutral ---
+apple'ın|N yeni etkinliğinde tanıtılan telefonun rengini herkes eleştirdi
+samsung'un|N katlanabilir telefonu mağazada denerken ekranın ortasındaki çizgiyi fark ettim
+tesla'nın|N yeni modeli|T türkiye'de|N satışa çıkınca bayilerde sıra oluştu
+google|N yapay zeka asistanı annemin sorularına benden daha sabırlı cevap veriyor
+spotify'ın|N yıl sonu özetinde en çok dinlediğim şarkının bir ninni olması beni şaşırttı
+netflix'in|N şifre paylaşımını kısıtlaması bütün aileyi birbirine düşürdü
+microsoft'un|N yeni office|N arayüzünde menülerin yeri değişince bütün ofis şaşırdı
+ikea'nın|N yeni kataloğunda gördüğüm kanepe mağazada hiç yoktu
+nike'ın|N yeni koşu ayakkabısı reklamında oynayan atlet aynı ayakkabıyla dünya rekoru kırmış
+lego'nun|N yeni yetişkin setleri yüzünden kardeşimle aramızda bir yarış başladı
+zara'nın|N indirim sezonunun ilk gününde mağazanın önünde sabah dokuzda kuyruk vardı
+starbucks'ın|N sonbahar menüsü gelince arkadaşım ilk gün gidip fotoğrafını paylaştı
+youtube'un|N reklam politikası yüzünden yayıncılar videolarını kısaltmaya başladı
+tiktok'un|N algoritması bana bir haftadır sadece kedi videoları gösteriyor
+# --- everyday mix 24 ---
+sabah yediye kurduğum alarm çalınca kedim benden önce kalkıp mamasını istedi
+iş yerinde bir arkadaş bütün takıma bir secret|E santa|E çekilişi organize|T etti
+kardeşim bütün gün bir online|E chess|E turnuvasında oynadı, akşam babamı da yendi
+okulda bir hocamız her dersin başında bir fun|E fact|E paylaşıyor
+yeni evimizin balkonunda bir mini|E garden|E kurduk, sadece nane büyüdü
+sevgilimle birlikte bir puzzle|E yaparken son parçanın eksik olduğunu fark ettik
+arkadaşım bana kendi yaptığı bir candle|E hediye etti, kokusu bütün evi sardı
+iş yerinde yeni bir carpool|E grubu kurduk, sabahları müzik seçimi kavgası çıkıyor
+kardeşim okulda bir spelling|E bee|E yarışmasında ilk turda elendi, kelime necessary|E idi
+annem bir arkadaşının tavsiyesiyle bir meditation|E appi|M=app+i indirdi, ilk seansta uyudu
+okulun kantininde yeni bir salad|E bar|E açıldı ama herkes yine tost alıyor
+iş arkadaşım masasına bir mini|E fridge|E koydu, bütün ofis onu kıskanıyor
+sevgilim bana bir mixtape|E hazırladı, eski usul cd'ye|M=cd+ye yazmış
+babam ilk kez bir airfryer|E kullandı ve patatesleri yaktı
+yeni şehirde ilk hafta bir local|E market|E bulmak için bütün mahalleyi dolaştım
+arkadaşlarla bir karaoke|E nightta|M=night+ta en kötü şarkıcı ödülünü ben aldım
+okulda bir sınıf arkadaşım bir mobile|E appi|M=app+i geliştirdi, öğretmenler bile kullanıyor
+kardeşim yaz tatilinde bir lifeguard|E kursu aldı, şimdi havuzda çalışıyor
+annem yeni aldığı bir sewing|E machine|E ile perdeleri kendisi dikti
+iş yerinde yeni bir wellness|E roomu|M=room+u açıldı, içinde bir masaj koltuğu var
+sevgilimle haftada bir gün tech-free|E evening|E yapıyoruz
+babaannem ilk kez bir video|T calla|M=call+a katıldı ve ekrana çok yakın oturdu
+okulun bahçesinde bir outdoor|E cinema|E gecesi düzenlendi
+kardeşim tiktok'tan|N öğrendiği bir magic|E trickini|M=trick+ini bütün aileye gösterdi
+iş yerinde bir arkadaş her cuma ofise bir dessert|E getiriyor
+yeni komşumuz bize bir housewarming|E daveti gönderdi
+annem yeni bir hobi olarak bonsai|E yetiştirmeye başladı, makasla saatlerce uğraşıyor
+okulun yeni computer|E labında|M=lab+ında bütün bilgisayarlar yeni
+# --- NE + MIXED 25 ---
+melis|N ile arda|N izmir'deki|N bir jazz|E festivalinde backstagee|M=backstage+e girdi
+koray|N bana steam|N decki|N ödünç verdi, bütün hafta sonu elden|N ring|N oynadım
+sevgi|N hanım|T toplantıda yeni hr|E policylerini|M=policy+lerini anlattı
+hakan|N ile burcu|N kadıköy'deki|N bir şarap evinde tasting|E menüsünü denedi
+efe|N bana youtube'da|N bir productivity|E guru'sunun|M=guru+sunun videosunu attı
+ilayda|N ile kaan|N airbnb'de|N kaldıkları evin host'una|M=host+una beş yıldız verdi
+gamze|N bana netflix'te|N bir cooking|E competition|E showu|M=show+u önerdi
+selim|N ile ece|N antalya'daki|N bir surf|E campe|M=camp+e katıldı
+nihan|N bana linkedin'de|N bir mentorship|E programının linkini|M=link+ini gönderdi
+tuna|N ile defne|N bodrum'da|N bir sunset|E cruisea|M=cruise+a çıktı
+oya|N teyze|T instagram'da|N kendi bahçesinin videolarını paylaşıyor, binlerce followerı|M=follower+ı var
+caner|N bana amazon'dan|N bir fitness|E tracker|E aldı, adımlarımı takip ediyor
+esra|N ile murat|N trabzon'da|N bir yayla festivalinde horon tepti
+buğra|N bana spotify'da|N bir eighties|E playlisti|M=playlist+i attı
+damla|N hoca|T derste bize ted|N talks'tan|N bir video izletti
+umut|N ile cansu|N kapadokya'da|N bir wine|E tastinge|M=tasting+e katıldı
+# --- long posts 15 ---
+geçen hafta okulda bir model|N united|N nations|N simülasyonunda brezilya'yı|N temsil ettim, üç gün boyunca diplomatlar gibi takım elbise giydik ve son gün yazdığımız resolution|E kabul edildi
+kardeşim üniversitede ilk kez bir all-nighter|E çekti, sabah sınava girdiğinde ilk soruyu okurken uyuyakalmış ve gözetmen onu uyandırmış
+annem bir arkadaşının tavsiyesiyle bir podcast|E dinlemeye başladı, şimdi her akşam yemekte bize o gün dinlediği bölümü anlatıyor ve babam bunu bir dizi gibi takip ediyor
+iş yerinde yeni bir mentoring|E programına katıldım, bana atanan mentor|E kırk yıllık bir mühendisti ve ilk görüşmemizde bana kariyer tavsiyesi yerine iyi bir defter almamı söyledi
+geçen yaz kuzenimle birlikte bir backpacking|E turuna çıktık, on gün boyunca balkanlar'ı|N dolaştık, otobüslerde uyuduk ve her şehirde aynı burek|O dükkanını aradık
+# --- MIXED unapostrophed 26 ---
+müşteriye gönderdiğimiz quoteu|M=quote+u revize etmemiz istendi
+yeni gelen developerın|M=developer+ın ilk pull|E requesti|M=request+i beş yüz satırdı
+toplantıdaki presentationımda|M=presentation+ımda bir slide|E eksikti, doğaçlama yaptım
+iş yerindeki laptopların|M=laptop+ların hepsi aynı anda update|E istedi
+kardeşimin streamine|M=stream+ine bir gece bin kişi girdi
+arkadaşımın birthdayinde|M=birthday+inde bir surprise|E guest|E vardı
+yeni projenin timelineını|M=timeline+ını müşteri iki hafta kısalttı
+sabah meetinginde|M=meeting+inde herkes kahvesini unutmuş
+okulun clublarında|M=club+larında en popüler olan photography|E kulübü
+kafenin dessertlerinden|M=dessert+lerinden biri bir haftada bitti
+yeni dizinin endingine|M=ending+ine herkes farklı bir yorum getirdi
+spor salonundaki trainerımın|M=trainer+ımın programı beni çok yordu
+kardeşimin tiktoklarını|N izleyen dedem bile gülüyor
+yeni ofisin rooftopundan|M=rooftop+undan bütün şehir görünüyor
+iş yerinde bütün ticketları|M=ticket+ları cuma günü kapatmaya çalışıyoruz
+arkadaşımın vloglarında|M=vlog+larında hep aynı kahve kupası var
+sınav öncesi bütün slideları|M=slide+ları print|E aldım
+annemin recipelerini|M=recipe+lerini bir deftere yazıyorum
+podcastimizin|M=podcast+imizin yeni sezonu başladı
+kampüsteki cafeteriada|M=cafeteria+da artık kahve bedava
+yeni appimizin|M=app+imizin ilk kullanıcısı annemdi
+toplantı notlarını slackte|N paylaşınca herkes bir emoji|E bıraktı
+ekibin yeni goallarını|M=goal+larını whiteboarda|M=whiteboard+a yazdık

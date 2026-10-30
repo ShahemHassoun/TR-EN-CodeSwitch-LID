@@ -1,0 +1,77 @@
+# batch 57
+# --- NE + MIXED balanced ---
+ilkay|N ile serdar|N geçen ay ankara'daki|N bir tech|E conferenceta|M=conference+ta speaker|E olarak sunum yaptı
+gönül|N teyze|T youtube'daki|N kanalında her hafta bir börek tarifi paylaşıyor ve commentlerde|M=comment+lerde tartışmalar çıkıyor
+eren|N bana spotify'da|N bir indie|E rock|E playlisti|M=playlist+i yaptı, her şarkı birbirinden güzel
+melis|N ile anıl|N bodrum'da|N bir boat|E party'ye|M=party+ye katıldı, deniz çok dalgalıydı
+koray|N hoca|T derste bize github|N actions|N ile bir ci|E pipelineı|M=pipeline+ı kurdurdu
+sevgi|N bana netflix'te|N bir japon|N animasyon filmi önerdi, çok etkilendim
+murat|N ile ece|N izmir'deki|N bir craft|E coffee|E festivalinde barista|E yarışmasını izledi
+cansu|N bana trendyol'dan|N bir pilates|E matı|M=mat+ı hediye etti, şimdi bahanem kalmadı
+tamer|N ile duygu|N kapadokya'da|N bir horse|E riding|E turuna katıldı
+ezgi|N bana instagram'da|N bir art|E challenge|E başlattı, her gün bir çizim
+batu|N twitch'te|N bir charity|E streami|M=stream+i yaptı, toplanan para barınağa gitti
+selin|N ile kaan|N airbnb'den|N bir treehouse|E kiraladı, gece rüzgar evi salladı
+okan|N bana linkedin'den|N bir job|E referral|E istedi, kendisi bir yıldır aynı yerde
+dilara|N ile cem|N kadıköy'de|N bir book|E launch|E etkinliğine gitti
+yusuf|N bana steam'de|N bir puzzle|E game|E önerdi, bir haftadır çözemiyorum
+# --- TR + EN everyday ---
+bu sabah yağmur yağıyordu, otobüs durağında herkes aynı şemsiyenin altına sığmaya çalıştı
+annem bana yeni aldığı bir airfryer|E tarif kitabını gösterdi, kitap fritözden büyük
+kardeşim okul gezisinde bir aquarium|E ziyaret etti, köpekbalıklarını çok sevdi
+babam yeni öğrendiği bir word|E game|E ile bütün akşamı geçirdi
+iş yerinde bir arkadaş bütün ekibe bir secret|E handshake|E öğretti
+sevgilimle birlikte pazar sabahı bir farmers|E market|E dolaştık, taze çilek aldık
+okulun bahçesinde öğrenciler bir mural|E boyadı, renkler çok canlı
+annem yeni bir hobi olarak calligraphy|E çalışıyor, bütün mutfak mürekkep kokuyor
+kardeşim bütün yaz bir bike|E tour|E planladı, sonunda mahallenin etrafını dolaştı
+iş yerinde haftanın sonunda bir show|E and|E tell|E yapıyoruz, herkes bir hobisini anlatıyor
+# --- MIXED + TR 38 ---
+bu sabah inboxa|M=inbox+a gelen ilk mail|E bir job|E offerdı|M=offer+dı, bütün gün gülümsedim
+annem bütün notificationlarını|M=notification+larını kapatınca whatsapp|N mesajlarımızı da göremedi
+iş yerindeki yeni coffee|E machineı|M=machine+ı kartla çalışıyor, herkes kartını unutuyor
+kardeşim okul projesinin presentationını|M=presentation+ını bir tiktok|N videosu gibi hazırladı
+sevgilim bütün tatil planlarını bir spreadsheette|M=spreadsheet+te tutuyor
+yeni gymin|M=gym+in açılış partysinde|M=party+sinde herkese bir water|E bottle|E verdiler
+okulun yeni clublarından|M=club+larından biri sadece board|E game|E oynuyor
+toplantıda managerın|M=manager+ın ekranında yanlışlıkla shopping|E sepeti göründü
+arkadaşımın podcastine|M=podcast+ine gelen ilk dinleyici yorumu annesinden geldi
+yeni projenin kickoffunda|M=kickoff+unda herkes kendi roleünü|M=role+ünü anlattı
+kardeşimin streamlerinde|M=stream+lerinde arka planda annemin sesi duyuluyor
+kafedeki playlistin|M=playlist+in yarısı benim sevdiğim şarkılar
+yeni ofisteki standing|E deskimin|M=desk+imin yüksekliğini ayarlamayı öğrenemedim
+annemin youtube|N historysi|M=history+si tamamen yemek videolarından oluşuyor
+okulun libraryinde|M=library+inde yeni bir manga|A bölümü açılmış
+iş yerinde yeni bir ticketing|E systemine|M=system+ine geçtik, eski ticketlar|M=ticket+lar kayboldu
+yeni restoranın chefinin|M=chef+inin özel menüsü çok pahalı
+kardeşim bütün weekendi|M=weekend+i bir lego|N setini kurmakla geçirdi
+sevgilimle couple|E selfielerimizi|M=selfie+lerimizi bir albümde topladık
+kampüsteki cafede|M=cafe+de bir open|E mic|E gecesi vardı, kardeşim şarkı söyledi
+# --- TR 9 ---
+dedem bize her pazar köyden taze yumurta getiriyor
+annem bu yıl ilk kez kendi turşusunu kurmadı, marketten aldı
+kardeşimin ilk dişi çıktığında bütün aile kutlama yaptı
+babam akşamları balkonda oturup yıldızlara bakmayı seviyor
+okul yolunda her sabah aynı yaşlı adam bize günaydın diyor
+bayramda bütün kuzenler dedemin bahçesinde top oynadık
+annem bütün komşulara kendi yaptığı ayva reçelinden dağıttı
+yağmur dinince gökkuşağı çıktı, bütün mahalle balkonlara koştu
+kardeşim okulda ilk kez bir şiir okudu, sesi titriyordu
+babaannemin evinde her zaman taze demlenmiş çay olur
+# --- long mixed 4 ---
+geçen hafta işte bir all-day|E workshop|E vardı, sabah ice|E breaker|E oyunlarıyla başladı, öğlen herkes kendi fikrini post-it|E ile duvara yapıştırdı ve akşam elimizde yüz tane fikir ama hiçbir karar yoktu
+kardeşim ilk kez yurt dışına bir exchange|E programıyla gitti, ilk hafta her gün bize host|E familysinin|M=family+sinin yemeklerinin fotoğraflarını attı ve en çok annemin pilavını özlediğini söyledi
+annem bir arkadaşının tavsiyesiyle evde bir herb|E garden|E kurdu, şimdi her yemeğe kendi yetiştirdiği fesleğeni koyuyor ve babam fesleğenden bıktığını söylüyor
+yeni işimde ilk ay bir mentor|E ile çalıştım, her cuma bir coffee|E chat|E yapıp haftanın değerlendirmesini konuşuyorduk ve bu sohbetler bana iş hakkında her şeyden çok şey öğretti
+geçen yaz arkadaşlarla bir road|E tripte|M=trip+te arabanın lastiği patladı, en yakın tamirci otuz kilometre uzaktaydı ve bir çiftçi bize traktörüyle yardım etti
+sevgilim doğum günümde bana bir mystery|E dinner|E ayarladı, restorana girene kadar nereye gittiğimizi bilmiyordum ve garsonlar bütün gece rol yaptı
+okulda bir arkadaşım dönem projesi için bir mobile|E app|E yaptı, uygulama kantindeki sırayı gösteriyor ve şimdi bütün okul kullanıyor
+babam yıllardır ertelediği bir hobiye başladı ve bir drone|E pilotluk kursuna yazıldı, sınavda ilk kez uçurduğu drone ağaca takıldı ama yine de geçti
+# --- short EN reactions 2 ---
+haha bu çok iyi, i'm|E dead|E
+of yine zam, great|E
+bu manzara inanılmaz, breathtaking|E
+sonunda maaş yattı, finally|E
+salı sabahı üçüncü toplantı, send|E help|E
+bu tarif çok kolay, game|E changer|E
+bu haberi duyunca çok sevindim, congrats|E

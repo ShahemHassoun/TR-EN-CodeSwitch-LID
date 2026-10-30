@@ -1,0 +1,121 @@
+# batch 46
+# --- neighbors and apartment ---
+alt kattaki komşu her pazar sabahı matkapla bir şey deliyor, ne yaptığını hâlâ bilmiyoruz
+apartmanın yeni yöneticisi bütün kararları whatsapp|N grubunda poll|E ile alıyor
+karşı daireye taşınan genç çift her akşam balkonda gitar çalıyor
+apartmandaki teyzeler her sabah giriş katında toplanıp günün gündemini konuşuyor
+yan dairedeki öğrenciler gece yarısı party|E verince bütün apartman uyandı
+komşumuz bize her ramazanda iftar için yemek gönderiyor
+üst kattaki çocuklar evde futbol oynuyor, tavanımız titriyor
+apartman toplantısında asansör tamiri için herkes başka bir firma önerdi
+yeni komşumuz kapımıza bir welcome|E kartı ve kurabiye bıraktı
+kapıcımız emekli olunca bütün apartman ona bir veda yemeği verdi
+apartmanın otoparkında herkes kendi yerini korumak için kone koyuyor
+komşunun köpeği her gece saat ikide aynı kediye havlıyor
+alt kattaki dede her akşam balkonda yüksek sesle radyo dinliyor
+apartmanın çatısına güneş paneli kurmak için bir toplantı yaptık, karar çıkmadı
+yeni taşınan komşumuz ilk gün bütün apartmana tatlı dağıttı
+# --- relationships advice ---
+arkadaşım bana ilişkide communication|E her şeydir dedi, kendisi mesajlara iki gün sonra cevap veriyor
+annem bana evlilik tavsiyesi verirken babama bakıp güldü
+sevgilimle aramızdaki en büyük kural telefonları yemek masasına getirmemek
+arkadaşım ayrılınca ona bir breakup|E playlisti|M=playlist+i hazırladım
+kuzenim bana ilk buluşmada nelere dikkat edeceğimi anlattı, liste on maddeydi
+sevgilimle tartışınca ikimiz de bir saat sessiz kalıyoruz, sonra gülüyoruz
+arkadaşım bana << red flag >> listesini gösterdi, yarısı bende var
+annemle babam kırk yıldır evli ve hâlâ her akşam birlikte çay içiyor
+sevgilim bana sürpriz yapmayı sevmiyor ama her şeyi planlamayı seviyor
+arkadaşım ilişkisindeki her sorunu bir podcastten|M=podcast+ten öğrendiği tekniklerle çözmeye çalışıyor
+# --- TV/film opinions 2 ---
+bu filmin sonu o kadar açık ki herkes farklı bir şey anladı
+dizinin yeni sezonu ilk sezonun yanına bile yaklaşamaz
+bu yönetmenin her filminde aynı oyuncu oynuyor ama hiç sıkılmıyorum
+yeni animasyon filmi çocuklardan çok yetişkinleri ağlattı
+belgeselin müzikleri o kadar güzel ki ayrıca dinliyorum
+bu dizinin karakterleri gerçek hayattan çıkmış gibi
+filmin ilk yarım saati çok yavaş ama sonra bırakamıyorsun
+remakeler|M=remake+ler hiçbir zaman orijinali kadar iyi olmuyor bence
+bu sezonun en iyi dizisi kesinlikle bir türk|N yapımı
+sinemada yanımdaki adam bütün film boyunca patlamış mısır yedi
+# --- heavy all-mix 1 ---
+selin|N bana netflix'ten|N bir true|E crime|E docuseries|E önerdi, bütün gece kapıları kontrol ettim
+kerem|N slack'te|N bütün teami|M=team+i bir surprise|E partye|M=party+e davet etti
+ece|N ile can|N spotify'da|N bir collaborative|E playlist|E yaptı, şarkıların yarısı ece'nin|N
+mert|N bana linkedin'de|N bir job|E postingin|M=posting+in linkini|M=link+ini gönderdi
+ayşe|N hanım|T toplantıda bütün kpi'ları|M=kpi+ları bir dashboard|E üzerinden gösterdi
+deniz|N youtube'da|N bir cooking|E channelı|M=channel+ı açtı, ilk videosu menemen
+burak|N bana steam'de|N bir roguelike|E önerdi, üç gece uyumadım
+irem|N ile ozan|N kadıköy'de|N bir board|E game|E cafede|M=cafe+de turnuvaya katıldı
+cansu|N instagram'da|N bir giveaway|E kazandı, ödül bir skincare|E seti
+emre|N hoca|T derste github|N copilot'u|N kullanmamıza izin verdi ama her satırı açıklamamızı istedi
+gizem|N bana tiktok'tan|N bir recipe|E attı, sonuç bir disaster|E oldu
+tolga|N ile merve|N airbnb'den|N bir lake|E house|E kiraladı
+selim|N bana amazon|N prime'da|N bir stand-up|E specialı|M=special+ı önerdi
+nazlı|N ile kaan|N galata'da|N bir rooftopta|M=rooftop+ta sunseti|M=sunset+i izledi
+batu|N bana whatsapp'tan|N bir meme|E attı, caption'ı|M=caption+ı daha komikti
+derya|N zoom'da|N bir webinar|E verdi, yüz kişi katıldı
+okan|N ile ilayda|N bodrum'da|N bir sailing|E kursuna yazıldı
+pelin|N bana trendyol'dan|N bir oversize|E sweatshirt|E aldı
+yusuf|N hoca|T bize coursera'da|N bir statistics|E kursu önerdi
+hande|N ile berk|N netflix'te|N bir k-drama|E maratonu yaptı
+# --- heavy EN/MIXED work 2 ---
+bu sprintin|M=sprint+in retrospectiveinde|M=retrospective+inde herkes aynı problemi söyledi: too|E many|E meetings|E
+yeni product|E roadmapte|M=roadmap+te bizim teamin|M=team+in feature'ı|M=feature+ı yok
+müşteri call'unda|M=call+unda biri << can everyone see my screen? >> diye on kere sordu
+yeni hire|E ettiğimiz senior|E developer|E ilk hafta bütün architecture'ı|M=architecture+ı sorguladı
+quarterly|E business|E reviewda|M=review+da bütün grafikler yeşildi, herkes rahatladı
+şirketin yeni brand|E guidelinelarına|M=guideline+larına göre bütün sunumları yeniden yaptık
+pazartesi sabahı all-hands'te|M=all-hands+te ceo|E yeni bir reorg|E açıkladı
+ekip arkadaşım bütün dokümanları google|N docs'ta|N comment|E ile doldurdu
+yeni bir okr|E cycle'ı|M=cycle+ı başladı, herkes hedeflerini tekrar yazıyor
+iş yerinde bir hackathon|E weeki|M=week+i var, herkes kendi side|E projectini|M=project+ini geliştiriyor
+müşteriyle yaptığımız discovery|E callunda|M=call+unda ihtiyaçlarını anlamaya çalıştık
+yeni internümüzün|M=intern+ümüzün ilk pull|E requesti|M=request+i merge|E edildi, herkes alkışladı
+# --- long posts 14 EN-rich ---
+geçen hafta şirketin internal|E hackathon'ında|M=hackathon+ında öğle yemeği siparişlerini otomatik toplayan bir tool|E yaptık, demo|E sırasında herkes pizza|E seçti ve sistem çöktü ama jüri yine de en eğlenceli proje ödülünü bize verdi
+kardeşim üniversitede bir esports|E takımının captainı|M=captain+ı oldu, her akşam strategy|E toplantısı yapıyorlar, annem bunun ders olmadığına hâlâ inanamıyor ama turnuvadan kazandıkları scholarship|E onu ikna etti
+bu yıl ilk kez bir online|E course|E bitirdim, altı hafta boyunca her akşam bir modül yaptım, final|T projesi bir dashboard|E tasarlamaktı ve sertifikayı linkedin'e|N ekleyince üç recruiter|E bana yazdı
+arkadaşım bir food|E delivery|E şirketinde operations|E manager|E olarak çalışıyor, yağmurlu akşamlarda siparişler üç katına çıkıyor ve o bütün gece courier|E sayısını takip ediyor
+geçen ay bir conference'ta|M=conference+ta ilk kez speaker|E oldum, slaytlarımı on kez prova ettim, sahneye çıkınca clicker|E çalışmadı ve bütün sunumu ok tuşlarıyla yaptım ama sonunda en çok soru bana geldi
+kuzenim new|N york'ta|N bir marketing|E agencyde|M=agency+de çalışıyor, her sabah standup|E meetingle|M=meeting+le başlıyor ve günün sonunda bütün clientlara|M=client+lara bir recap|E maili atıyor
+# --- school and kids MIXED ---
+kızımın okulundaki teacher'ı|M=teacher+ı her hafta bir newsletter|E yolluyor
+oğlumun okulunda bir reading|E challenge|E başladı, ayda beş kitap
+kardeşimin sınıfında herkes bir fidget|E spinner|E getirmiş, öğretmen yasakladı
+okulun veli appinden|M=app+inden her gün bir notification|E geliyor
+kızımın matematik homeworkü|M=homework+ü benim çözebileceğimden zor
+oğlum okulda bir robotics|E clubına|M=club+ına katıldı, evde her şeyi söküyor
+kardeşimin okul gezisi için bir permission|E slip|E imzaladık
+çocukların okulunda bir talent|E showa|M=show+a hazırlanıyorlar, evde bütün gün şarkı
+kızım okul projesi için bir volcano|E maketi yaptı, mutfak lav oldu
+oğlumun öğretmeni derslerde gamification|E kullanıyor, çocuk her gün puan topluyor
+# --- TR medium 6 ---
+akşam yemeğinden sonra babamla birlikte eski bir futbol maçını izledik, sonucu biliyorduk ama yine heyecanlandık
+annem yıllardır sakladığı düğün elbisesini dolaptan çıkarıp bize gösterdi
+kardeşim ilk kez kendi başına ekmek yaptı, biraz yanık ama çok lezzetliydi
+dedem bize gençliğinde yaptığı bisiklet yolculuklarını anlattı, bir yaz boyunca ege'yi|N dolaşmış
+okul yolunda her sabah aynı simitçiden simit alıyoruz, artık bize indirim yapıyor
+yağmurlu bir pazar günü bütün aile salonda battaniyelerin altında film izledi
+babaannemin el işi örtüleri hâlâ evimizin her köşesinde
+komşumuzun bahçesindeki kiraz ağacından her yaz bize bir kasa getiriyorlar
+# --- OTHER and AMB 3 ---
+floransa'da|N bir pastanede kasiyer bana prego|O deyince ne cevap vereceğimi bilemedim
+japon|N restoranında şef yemekten önce bize omakase|O menüsünü anlattı
+fransızca|N kursunda öğretmen her derse bonsoir|O diyerek başlıyor
+almanya'daki|N kuzenim her mesajını tschüss|O diye bitiriyor
+ispanyolca|N öğrenen arkadaşım her şeye vamos|O diyor
+kore|N dizisi izleyen kardeşim annemize eomma|O demeye başladı
+yunanistan'da|N bir tavernada garson bize yamas|O diyerek kadeh kaldırdı
+arapça|N bilen arkadaşım bize yemekten önce sahtein|O dedi
+rusça|N kursunda ilk öğrendiğimiz kelime spasibo|O oldu
+portekiz'de|N herkes bize obrigado|O demeyi öğretti
+akşam yemeğinde ramen|A ve gyoza|E söyledik, ikisi de harikaydı
+sushi|A siparişinde wasabi|E fazla gelince gözlerim yaşardı
+anime|A festivalinde kostüm yarışmasına katılan kardeşim ikinci oldu
+yeni platform|A için bir kullanıcı adı bulmak yarım saat sürdü
+tv|A karşısında yemek yemek annemin en sevmediği alışkanlığımız
+web|A tasarımı dersinde ilk sitemizi yaptık, sadece bir buton vardı
+protein|A tozu ile pancake|E yapmaya çalıştım, sonuç taş gibiydi
+hey|A, bu konserde seni gördüğümü sanıyorum
+pardon|A, bu sıra boş mu
+ooh|A, yeni ceketin çok güzel olmuş

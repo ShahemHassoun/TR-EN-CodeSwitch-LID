@@ -1,7 +1,7 @@
 # Generated Turkish–English code-mixed LID dataset
 
-**Status:** 6,413 sentences finished and checked (target: 10,000). The numbers below are for
-the current file and will be updated when it is complete.
+**Status:** complete. 10,004 sentences, all passing the checker. The size experiment uses the
+first 2,500 / 5,000 / 10,000 lines (each set is contained in the next).
 
 ## What it is
 
@@ -18,14 +18,15 @@ The experiments test whether that helps on **real** TurEngMix text.
 1. **Seed.** Only the TurEngMix **training split** was used as the reference for style and labelling:
    topics, tone, how words are mixed, and how borderline words are labelled. Its validation and
    test splits were never used for writing.
-2. **Writing.** Sentences were written by an AI model (Claude, Anthropic) in batches of about 250
+2. **Writing.** Sentences were written by an AI model (Claude, Anthropic) in 70 batches of 100–260 sentences
    on varied topics: work, tech, gaming, series, sport, food, travel, family, university, money,
    shopping and more. Labels were assigned while writing, in a compact inline format
    (`raw/batch_NN.txt`, e.g. `linki|M=link+i`, `deadline|E`, `netflix'te|N`). Every MIXED word
    records its English stem and Turkish ending.
 3. **Building.** `src/build_generated.py` turns the raw batches into `generated.jsonl`.
    - Each batch is shuffled with a fixed seed and added in order, so the first 2,500 sentences
-     never change when more are added (gen2500 ⊂ gen5000 ⊂ gen10000). **Batches 01–12 are frozen.**
+     never change when more are added (gen2500 ⊂ gen5000 ⊂ gen10000). Batches 01–12 were frozen once
+     the first 2,500 were shared, and batches 01–26 once the first 5,000 were shared.
    - **Typing without Turkish letters:** 25% of sentences are converted (ç→c, ğ→g, ı→i, ö→o, ş→s,
      ü→u), matching how TurEngMix users write. Result: 32% of our Turkish words contain Turkish
      letters (TurEngMix: about 30%).
@@ -75,25 +76,28 @@ The experiments test whether that helps on **real** TurEngMix text.
 - **OTHER** = a third language (`arigato`, `merci`, `schadenfreude`, `hola`).
 - Keyboard mashes and cheat codes are left out, because TurEngMix labels them inconsistently.
 
-## Statistics (current file)
+## Statistics
 
 | | Ours | TurEngMix train |
 |---|--:|--:|
-| Sentences | 6,413 | 254 |
-| Tokens | 64,167 | 12,466 |
-| TR | 79.4% | 79.9% |
-| EN | 9.9% | 11.9% |
-| MIXED | 4.6% (2,960 tokens) | 1.3% (159 tokens) |
-| NE | 5.7% | 6.5% |
-| AMBIGUOUS | 0.2% | 0.4% |
-| OTHER | 0.1% | 0.02% |
-| Sentences with at least one MIXED | 40.1% | 35% |
-| MIXED words without an apostrophe | 36% (first 2,500: ~0%) | 63% |
+| | gen2500 | gen5000 | gen10000 | TurEngMix train |
+|---|--:|--:|--:|--:|
+| Sentences | 2,500 | 5,000 | 10,000 | 254 |
+| Tokens | 28,235 | 51,875 | 98,875 | 12,466 |
+| TR | 79.7% | 79.1% | 79.7% | 79.9% |
+| EN | 9.5% | 9.9% | 9.8% | 11.9% |
+| MIXED | 4.3% (1,211) | 4.6% (2,411) | 4.5% (4,409) | 1.3% (159) |
+| NE | 6.2% | 6.0% | 5.7% | 6.5% |
+| AMBIGUOUS | 0.2% | 0.2% | 0.2% | 0.4% |
+| OTHER | 0.2% | 0.1% | 0.1% | 0.02% |
+| Sentences with at least one MIXED | 40.4% | 41.3% | 38.5% | 35% |
+| MIXED words without an apostrophe | 1% | 28% | 56% | 63% |
+| Turkish words with ç ğ ı ö ş ü | 32% | 32% | 32% | about 30% |
 
 ## Limitations (stated openly)
 
 - **Written by an AI model, not by real users.** The sentences are cleaner and more uniform than
-  real posts: shorter (10 words on average, against 49 in TurEngMix's "sentences", which are often
+  real posts: shorter (about 10 words on average, against 49 in TurEngMix's "sentences", which are often
   whole posts), with fewer typos and less slang variety. That's why every result is measured on
   **real** TurEngMix test text.
 - **MIXED is deliberately over-represented** (4.3% vs 1.3%), so models may predict MIXED more
@@ -102,6 +106,12 @@ The experiments test whether that helps on **real** TurEngMix text.
   `linklerden` is TR), we chose one rule and applied it everywhere, so our data and their test set
   can disagree on such words.
 - The test-leakage filter blocks exact words only. It can't rule out similar topics.
+- **Style changes across the sizes.** Batches 13 onward drop more apostrophes (see above), so the
+  share of apostrophe-free MIXED words grows from 1% (gen2500) to 56% (gen10000). Part of any
+  difference between sizes may come from this style change, not only from the amount of data.
+- **Near-duplicates.** Every sentence after the first 2,500 was compared with all others; pairs
+  sharing at least half of their words were rewritten or removed. Similar sentence frames
+  ("annem yeni bir … aldı") still repeat more often than in real posts.
 
 ## Changes after the first push (first 2,500 sentences)
 

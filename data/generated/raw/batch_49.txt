@@ -1,0 +1,113 @@
+# batch 49
+# --- waiting rooms and errands ---
+hastanede randevu saatimden bir saat sonra çağrıldım, bekleme salonunda bütün dizinin bir sezonunu bitirdim
+eczanede sıra beklerken yanımdaki teyze bana bütün torunlarının fotoğraflarını gösterdi
+nüfus müdürlüğünde kimlik yenilerken sıra numaram yüz yirmiydi, ekranda on beş yazıyordu
+postanede paket göndermek için kuyruğa girdim, gişedeki memur öğle arasına çıktı
+vergi dairesinde bir form|T için üç farklı kata gönderildim
+bankada hesap açarken bana on iki ayrı kağıt imzalattılar
+pasaport ofisinde fotoğrafım standartlara uymadı, köşedeki fotoğrafçıya gönderdiler
+noterde vekaletname imzalarken bütün metni yüksek sesle okudular
+belediyede su aboneliği için gittiğim gişede bilgisayarlar çökmüştü
+kargo şubesinde paketimi teslim almak için kimlik ve sms|E kodu istediler, telefonum kapalıydı
+# --- local festivals and traditions ---
+hıdrellez gecesinde dilek ağacına kağıt bağlamak için bütün mahalle parka geldi
+nevruz kutlamalarında ateşin üstünden atlayan çocukları izledik
+mesir macunu festivalinde manisa'da|N kalabalığın arasından macun kapmaya çalıştık
+kırkpınar|N yağlı güreşlerini izlemek için edirne'ye|N gittik
+alaçatı|N ot festivalinde bütün sokaklar yeşil kokuyordu
+ankara'daki|N film festivalinde bir belgeselin galasına katıldık
+istanbul|N lale festivalinde emirgan'da|N fotoğraf çekmek için sıra bekledik
+karadeniz'deki|N yayla şenliğinde kemençe eşliğinde horon tepildi
+kapadokya'daki|N balon festivalinde gökyüzü rengarenkti
+antalya'daki|N altın|N portakal|N film festivalinde kırmızı halıda ünlüleri gördük
+# --- amateur sport ---
+mahalle maçında kaleci olan arkadaşım ilk yarıda beş gol yedi, ikinci yarıda forvete geçti
+şirketin futbol takımı ligde son sırada ama her maçtan sonra birlikte yemek yiyoruz
+cumartesi sabahları sahilde bir koşu grubuyla on kilometre koşuyoruz
+masa tenisi turnuvasında ilk turda kendi müdürümle eşleştim ve kazandım
+okul basketbol takımında yedek oyuncuyum ama en çok tezahürat yapan benim
+mahallenin bisiklet grubu her pazar adalara turlar düzenliyor
+voleybol kortunda servis atarken top komşunun bahçesine düştü
+yüzme havuzunda yaşlı bir amca benden hızlı yüzünce motivasyonum arttı
+kampüsteki tenis kortlarını sabah altıda rezerve etmek için alarm kuruyorum
+arkadaşlarla kurduğumuz bowling|E takımında en iyi skoru hep aynı kişi yapıyor
+# --- dense EN/MIXED 27 ---
+pazartesi sabahı inboxımda|M=inbox+ımda bir urgent|E mail|E vardı, cuma akşamı gönderilmiş
+yeni projede scope|E creep|E yüzünden deadlineı|M=deadline+ı üç kez erteledik
+müşteri bizden bir white|E label|E solution|E istedi, logo|T değiştirip gönderdik
+toplantıda biri << let's take a step back >> dedi ve yarım saat geriye gittik
+iş yerinde haftalık bir lunch|E roulette|E başladı, her hafta rastgele biriyle yemek yiyoruz
+yeni ekip liderimiz her konuşmayı << big picture >> ile başlatıyor
+kardeşim bir summer|E bootcamptan|M=bootcamp+tan sonra python|N ile kendi oyununu yazdı
+okulda bir hackathonun|M=hackathon+un judgeları|M=judge+ları bizim projeyi çok beğendi
+arkadaşım bir remote|E jobda|M=job+da çalışıyor, her ay farklı bir şehirden bağlanıyor
+şirketin yeni benefits|E packageında|M=package+ında ücretsiz yemek var
+sevgilim bana bir self-care|E kit|E hazırlamış, içinde maske ve çikolata var
+iş yerinde birinin doğum gününde herkes zoomda|N happy|E birthday|E söyledi, ses gecikmeli geldi
+yeni bir podcast|E başlattım, ilk episodeun|M=episode+un konusu kahve
+toplantıda manager|E bize yeni bir framework|E anlattı, herkes not aldı, kimse anlamadı
+kardeşim gaming|E streamlerinde|M=stream+lerinde bir donation|E aldı, çok heyecanlandı
+annem bana linkedin'de|N connection|E isteği gönderdi, kabul edip etmemekte kararsızım
+yeni şirkette bir buddy|E programı var, buddym|M=buddy+m bana her şeyi gösterdi
+okulda finallerden önce bir study|E marathonu|M=marathon+u düzenlendi
+iş arkadaşım her gün saat üçte herkese coffee|E siparişi topluyor
+yeni telefonumun face|E unlocku|M=unlock+u gözlüklü halimi tanımıyor
+kampüsteki wifi|E networkü|M=network+ü sınav haftası çöktü
+sevgilimle aramızda bir gentle|E reminder|E sistemi var, bulaşık sırası için
+müşteriden gelen feedbacki|M=feedback+i okuyunca bütün design|E ekibi sustu
+yeni bir side|E hustle|E olarak online|E ders vermeye başladım
+okulda hoca derste bir case|E competition|E duyurdu, ödül bir internship|E
+kardeşim bir youtube|N shortu|N viral|E olunca okulda ünlü oldu
+iş yerinde yeni bir documentation|E kültürü başladı, her toplantının notları wikiye|M=wiki+ye yazılıyor
+yeni ofiste herkesin masasında bir dual|E monitor|E var
+arkadaşım bana bir productivity|E hack|E öğretti: telefonu başka odaya koymak
+sevgilimle date|E nightta|M=night+ta telefonlarımızı masaya ters koyuyoruz
+annem bana bir grocery|E list|E appi|M=app+i kurdurdu, şimdi listeleri paylaşıyoruz
+kardeşimin okulunda bir anti-bullying|E haftası düzenlendi
+iş yerinde birinin farewellinde|M=farewell+inde herkes bir memory|E paylaştı
+yeni bir hobi olarak birdwatching|E ile ilgileniyorum, ilk günden on tür gördüm
+okulda bir arkadaşım bütün dersleri flashcardlarla|M=flashcard+larla çalışıyor
+müdürüm bana bir stretch|E assignment|E verdi, ilk kez başka bir departmanla çalışacağım
+# --- NE + MIXED 28 ---
+leyla|N ile bora|N geçen hafta sonu sakarya'da|N bir rafting|E turuna katıldı ve tekneleri ters döndü
+fikret|N hoca|T derste bize stanford'un|N youtube|N kanalındaki lectureları|M=lecture+ları önerdi
+nesrin|N hanım|T ofise yeni bir espresso|E makinesi getirdi, herkes barista|E oldu
+kaan|N bana twitch'te|N izlediği bir speedrunnerın|M=speedrunner+ın rekorunu anlattı
+ezgi|N ile tolga|N izmir'deki|N bir craft|E beer|E festivaline gitti
+mert|N bana instagram'da|N bir vintage|E camera|E sayfası önerdi, bir polaroid|N aldım
+dilara|N bana netflix'te|N izlediği bir japon|N animasyonunu anlattı
+serkan|N ile pınar|N bodrum'daki|N bir wellness|E retreatte|M=retreat+te telefonsuz üç gün geçirdi
+onur|N bana spotify'da|N bir focus|E playlisti|M=playlist+i yaptı, ders çalışırken dinliyorum
+gülşah|N hoca|T assignmentları|M=assignment+ları google|N classroom'a|N yüklememizi istedi
+ali|N ile ayşe|N ankara'da|N bir board|E game|E kafesinde catan|N turnuvasını kazandı
+emir|N bana amazon'dan|N bir mechanical|E pencil|E aldı, çizim yaparken kullanıyorum
+nur|N ile can|N trabzon'da|N uzungöl'de|N bir bungalovda|T kaldı
+yeşim|N bana youtube'da|N bir minimalism|E videosu attı, ertesi gün dolabımı boşalttım
+tamer|N ile oya|N cihangir'deki|N bir art|E galleryde|M=gallery+de bir sergi açılışına katıldı
+cem|N bana steam'de|N bir cozy|E game|E önerdi, çiftlik kurup tavuk besliyorum
+deniz|N ile ece|N kaş'ta|N bir freediving|E kursuna yazıldı
+ilker|N bana linkedin'de|N bir product|E managementı|M=management+ı kursunun linkini attı
+sema|N teyze|T facebook'ta|N bir örgü grubunun adminı|M=admin+ı
+mehmet|N ile duygu|N kadıköy'de|N bir record|E storeda|M=store+da saatler geçirdi
+# --- MIXED 29 verbs unapostrophed ---
+sunumu son dakika updateleyip|M=update+leyip müşteriye gönderdim
+kardeşim bütün fotoğraflarımı filterlayıp|M=filter+layıp instagram'a|N yükledi
+yeni şarkıyı loopa|M=loop+a alıp bütün gece dinledim
+arkadaşımın mesajını screenshotlayıp|M=screenshot+layıp sevgilime attım, hata
+proje dosyalarını backuplamadan|M=backup+lamadan bilgisayarı formatladım
+toplantı linkini|M=link+ini forwardlarken|M=forward+larken yanlış kişiye gönderdim
+oyunda bütün haritayı explorelamadan|M=explore+lamadan ana göreve geçmem
+müşterinin istediği değişiklikleri implementlerken|M=implement+lerken başka bir şeyi bozdum
+dosyaları uploadlamak|M=upload+lamak için bütün gece bekledim
+eski mesajları deletelemeyi|M=delete+lemeyi unuttum, telefon doldu
+kodu debuglarken|M=debug+larken sorunun bir yazım hatası olduğunu gördüm
+arkadaşımı oyunda carryledim|M=carry+ledim, bana bir kahve borçlu
+fotoğrafları croplarken|M=crop+larken kafamı kestim
+bütün videoyu renderlamak|M=render+lamak üç saat sürdü
+yeni playlisti|M=playlist+i shuffleladım|M=shuffle+ladım, yine aynı şarkı çıktı
+dosyayı zipleyince|M=zip+leyince boyutu yarıya indi
+grupta herkesi mentionlayınca|M=mention+layınca kimse cevap vermedi
+toplantıyı reschedulelamak|M=reschedule+lamak zorunda kaldım, müşteri hastaymış
+tweeti|M=tweet+i silmeden önce screenshotlamışlar|M=screenshot+lamışlar
+yeni oyunu downloadlarken|M=download+larken internet|T kesildi

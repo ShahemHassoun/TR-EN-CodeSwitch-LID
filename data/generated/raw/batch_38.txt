@@ -1,0 +1,134 @@
+# batch 38
+# --- tech forum 2 ---
+javascript'te|N closure|E kavramını anlamak için üç farklı tutorial|E izledim
+python'da|N list|E comprehension|E kullanınca kod çok kısaldı
+sql|E sorgusunda join|E yaparken yanlış tabloyu bağlamışım
+git|N stash|E kullanmayı öğrendikten sonra hayatım kolaylaştı
+react'te|N useeffect|E hooku|M=hook+u sonsuz döngüye girdi
+api'den|M=api+den gelen jsonı|M=json+ı parse|E etmek beklediğimden zor oldu
+docker|N imageımın|M=image+ımın boyutu iki gigabayt, küçültmem lazım
+linux'ta|N bash|E scriptlerimi|M=script+lerimi otomatikleştirmek çok zaman kazandırdı
+vscode'da|N extensionları|M=extension+ları fazla yükleyince editör yavaşladı
+yeni başlayanlar için en zor kısım debugging|E bence
+backend|E tarafında authentication|E sistemini sıfırdan yazmak hata
+frontend|E frameworklerinin|M=framework+lerinin her yıl değişmesi çok yorucu
+kod yazarken lofi|E müzik dinlemek konsantrasyonumu artırıyor
+github'daki|N açık kaynak projelere katkı vermek cv'de|M=cv+de çok iyi duruyor
+cloud|E maliyetleri beklenmedik şekilde artınca bütün servisleri gözden geçirdik
+yeni bir programming|E language|E öğrenirken önce küçük projeler yapıyorum
+kod reviewlarda|M=review+larda en çok aldığım yorum naming|E ile ilgili
+stack|N overflow'da|N cevap yazmak bana çok şey öğretti
+unit|E test|T yazmayı ihmal edince production'da|M=production+da her şey patladı
+yeni laptopuma|M=laptop+uma development|E ortamını kurmak bir gün sürdü
+# --- daily low-mix 3 ---
+sabah uyanınca pencereden dışarı baktım, her yer bembeyazdı
+annem bana her sabah okula giderken bir elma veriyor
+dedemle birlikte bahçede domates fidesi diktik
+akşam yemeğinden sonra bütün aile birlikte bulaşık yıkadı
+kardeşim ilk kez tek başına otobüse bindi, annem bütün yol telefonda takip etti
+pazar günü erkenden kalkıp şehrin dışına pikniğe gittik
+babam bize gençliğinde çalıştığı fabrikayı gösterdi
+kış tatilinde bütün kitaplığı düzenledim, unuttuğum kitaplar çıktı
+komşumuz yeni taşınan aileye hoş geldin yemeği götürdü
+okulun son gününde bütün sınıf öğretmenimize çiçek aldı
+# --- EN/MIXED short ---
+yine bir monday|E sabahı, yine trafik
+bu weekend|E sadece uyku
+bugün meetingsiz|M=meeting+siz bir gün, mutluyum
+kahve, playlist|E ve deadline|E
+sınav bitti, finally|E tatil
+toplantı yine overtime|E
+yeni dönem, yeni planner|E, yeni ben
+bu hafta full|E stres
+akşam planı: netflix|N and|E chill|E
+pazar sabahı lazy|E breakfast|E
+# --- NE heavy 13 ---
+ahmet|N ile elif|N bu yaz karadeniz'de|N yayla turuna çıkacak
+seda|N bana mavi'den|N bir kot ceket aldı
+kemal|N hoca|T derste bize mit'in|N açık derslerini önerdi
+deniz|N ile burak|N cihangir'de|N yeni açılan bir pastanede buluştu
+ayten|N teyze|T her akşam show|N tv'de|N yarışma izliyor
+ege|N bana steam'den|N bir puzzle|E oyunu hediye etti
+bora|N ile nehir|N bozcaada'da|N bisiklet kiraladı
+selim|N bey|T şirketin yeni ankara|N şubesini açtı
+merve|N bana amazon'dan|N bir airfryer|E aldı
+tuğçe|N ile emre|N galata|N kulesi'ne|N çıkıp fotoğraf çekti
+kaan|N bana youtube|N music'ten|N bir playlist|E gönderdi
+ipek|N hanım|T toplantıyı google|N meet'ten|N yaptı
+serkan|N ile oya|N fethiye'de|N tekne turuna katıldı
+nihat|N amca|T her pazar fenerbahçe|N maçlarını kahvede izliyor
+derya|N bana zara|N home'dan|N bir mum hediye etti
+can|N ile ilayda|N ankara'daki|N bir caz barında|T konser izledi
+elçin|N bana netflix'te|N izlediği bir belgeseli anlattı
+yunus|N hoca|T ödevleri microsoft|N teams|N üzerinden topluyor
+aslı|N ile berk|N kaş'ta|N bir pansiyonda kaldı
+okan|N bana spotify'da|N tarkan'ın|N eski albümlerini attı
+# --- long posts 10 ---
+geçen hafta okulda bir model|N united|N nations|N konferansına katıldım, japonya'yı|N temsil ettim ve üç gün boyunca iklim değişikliği tartıştık, en sonunda bizim önerimiz kabul edildi ve best|E delegate|E ödülünü aldım
+kuzenim bir yıl boyunca avustralya'da|N work|E and|E travel|E yaptı, döndüğünde bize kanguru hikayeleri anlattı, en çok da orada öğrendiği barbekü tariflerini bize zorla denetti
+annem bu yıl ilk kez online|E alışverişten büyük bir şey aldı: bir çamaşır makinesi, teslimat günü bütün gün kapının önünde bekledi ve kurulum yapılırken teknisyene sürekli çay ikram etti
+iş yerinde yeni bir kural geldi: her cuma öğleden sonra learning|E time|E, herkes istediği bir konuda kendini geliştirebilir, ilk hafta herkes kurs izledi, ikinci hafta yarısı erken eve gitti
+geçen yaz bir arkadaşımla birlikte bir boğaz turu yaptık, tekneden dolmabahçe|N sarayı'nı|N, rumeli|N hisarı'nı|N ve kız|N kulesi'ni|N gördük ve rehber her yer için bir hikaye anlattı
+babam yıllardır aynı arabayı kullanıyor, geçen ay sonunda yeni bir araba aldı ama hâlâ eski arabayı satmaya kıyamıyor, şimdi bahçede iki araba var ve annem buna çok kızıyor
+dün akşam arkadaşlarla bir open|E air|E konserine gittik, yağmur başlayınca herkes yağmurluk giydi ama kimse ayrılmadı ve grup son şarkıyı yağmurun altında söyledi
+kardeşim üniversitede ilk dönemini bitirdi, eve geldiğinde bize bütün derslerini, yurt odasını ve yeni arkadaşlarını anlattı, en çok da kantindeki tostları özlediğini söyledi
+# --- MIXED 10 ---
+toplantıdan sonra bütün notları summarizeladım|M=summarize+ladım, ekibe gönderdim
+arkadaşımın storysini|M=story+sini screenshotlayıp|M=screenshot+layıp gruba attım
+yeni videoyu editlerken|M=edit+lerken bilgisayar donup kaldı
+oyunda boss'u|M=boss+u sonunda deviriverdim, yüz kez denedikten sonra
+bütün dosyaları zipleyip|M=zip+leyip maille|M=mail+le gönderdim
+yeni şarkıyı shuffleda|M=shuffle+da dinlerken üç kere çıktı
+annemin mesajını seenleyip|M=seen+leyip cevap vermeyi unuttum
+sunumu presentlerken|M=present+lerken sesim titredi
+yeni appi|M=app+i downloadladım|M=download+ladım ama hiç kullanmadım
+kodu refactorladıktan|M=refactor+ladıktan sonra her şey daha hızlı çalıştı
+toplantıyı recordlamayı|M=record+lamayı unuttuk, kimse notes|E almamış
+fotoğrafları uploadlarken|M=upload+larken internet|T kesildi
+gruptaki herkesi taglayınca|M=tag+layınca bildirimler patladı
+yeni dizinin ilk bölümünü skiplemeden|M=skip+lemeden izledim, intro|E bile güzel
+şifreyi resetlemek|M=reset+lemek için üç farklı mail|E adresi denedim
+arkadaşımın tweetini|M=tweet+ini retweetledim|M=retweet+ledim, hemen viral|E oldu
+yeni playlisti|M=playlist+i shareledim|M=share+ledim, kimse dinlemedi
+dosyayı printlemek|M=print+lemek için ofise gittim, yazıcı bozuk
+yeni oyunu install'lamak|M=install+lamak iki saat sürdü
+# --- EN medium 6 ---
+iş yerinde biri sürekli << let's touch base >> diyor, ne demek bilmiyorum
+toplantıda müdür bana << can you take ownership of this? >> dedi, yine bana kaldı
+arkadaşım her sabah bir gratitude|E journal|E yazıyor
+yeni şirkette work|E from|E anywhere|E politikası var
+sınav öncesi bütün gece cramming|E yaptım, sabah hiçbir şey hatırlamadım
+bu hafta sonu tamamen offline|E olacağım, telefon kapalı
+sevgilim bana bir care|E package|E gönderdi, içinde çikolata ve çay vardı
+toplantıların yarısı bir email|E olabilirdi
+iş görüşmesinde << why should we hire you? >> sorusuna hazırlıksız yakalandım
+kardeşim her yemekten sonra << food coma >> diyerek kanepeye uzanıyor
+annemle aramızda bir inside|E joke|E var, babam hiç anlamıyor
+bu yaz bir summer|E internship|E bulmak için yüz başvuru yaptım
+okulda yeni bir peer|E tutoring|E programı başladı
+bu ay bütün streaming|E aboneliklerimi iptal ettim, kitap okuyorum
+arkadaşım bana bir life|E coach|E önerdi, pahalı geldi
+yeni dairenin floor|E planı internetteki fotoğraflardan farklı
+iş yerinde yeni bir buddy|E system|E var, herkes bir yeni çalışana yardım ediyor
+kardeşim bana << that's so cringe >> diyerek videoyu kapattı
+bugün kendime bir treat|E yourself|E günü yaptım
+toplantıda biri << any other business? >> deyince herkes saatine baktı
+# --- mixed misc 38 ---
+dün gece kardeşimle birlikte eski fotoğrafları scanleyip|M=scan+leyip dijital bir albüm yaptık
+annem yeni öğrendiği online|E bankacılıkla bütün faturaları ödüyor
+iş yerinde bir arkadaş bana kendi yaptığı cold|E brewdan|M=brew+dan getirdi
+okulda bir robotik yarışmasında robotumuz parkurun ortasında durdu
+kuzenimle birlikte bir escape|E roomda|M=room+da kırk dakikada çıktık
+dedem yeni aldığı tabletle bize her gün good|E morning|E resimleri gönderiyor
+yeni evimizde bir smart|E lock|E var, anahtarı kaybetme derdi bitti
+arkadaşlarla bir potluck|E dinner|E yaptık, herkes bir yemek getirdi
+kardeşimin okulunda bir bake|E sale|E vardı, annem iki tepsi kurabiye yaptı
+iş yerinde haftalık bir trivia|E yarışması başladı, bizim ekip sonuncu
+yeni bisikletim için bir helmet|E ve lights|E aldım
+annemle birlikte ikinci el bir dükkanda vintage|E bir lamba bulduk
+kampüste bir silent|E study|E alanı açıldı, herkes orada
+kardeşimle birlikte bir snowball|E fight|E yaptık, annem pencereden izledi
+okulun mezuniyet balosunda bir photo|E wall|E vardı
+iş yerinde yeni bir mentoring|E programına başvurdum
+yeni evimizde ilk kez bir christmas|E tree|E süsledik, kedi hepsini düşürdü
+bu hafta sonu ilk kez bir farmer's|E markete gittik

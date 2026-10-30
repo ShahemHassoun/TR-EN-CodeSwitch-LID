@@ -1,0 +1,74 @@
+# batch 67
+# --- varied openings 2 ---
+kim demiş pazartesi kötüdür, bu sabah ofiste bedava donut|E vardı
+neyse ki laptopu|M=laptop+u yedeklemiştim, yoksa bütün tez gidiyordu
+maalesef konser biletleri presalede|M=presale+de tükendi
+şansıma toplantı iptal oldu, öğleden sonra full|E free|E
+nedense her sınav haftası bütün dizilerin yeni sezonu çıkıyor
+sanki herkes aynı anda tatile çıkmış, ofiste kimse yok
+galiba yeni kulaklığım noise|E cancelling|E değil, her şeyi duyuyorum
+sonuçta her şey bir kahveyle düzeliyor
+kısacası bu hafta hiçbir şey planlandığı gibi gitmedi
+bir de üstüne yağmur yağdı, şemsiye yine evde
+hatta müdürüm bile toplantıya geç kaldı
+ayrıca bu restoranın wifi'ı|M=wifi+ı yok, telefonla internet|T paylaştım
+oysa ki ben sadece bir latte|E istemiştim, oat|E milk|E ile
+özellikle cuma akşamları metro çok kalabalık
+gerçi bu fiyata daha iyisini bulmak zor
+yine de bu albümün ilk şarkısı bütün yaz kafamdan çıkmadı
+işte o an anladım ki bu iş remote|E olmayacak
+madem kahve makinesi bozuk, yarın ofise kendi termosumu getireceğim
+zaten bütün gün meetingdeydim|M=meeting+deydim, iş yapmaya vakit kalmadı
+herhalde bu hafta sonu evde netflix|N maratonu yapacağım
+üstelik kargo ücreti üründen pahalıydı
+bari tatilde telefonu kapatayım dedim, ilk gün açtım
+demek ki deadline|E yaklaşınca herkes birden çalışkan oluyor
+belli ki bu dizinin yazarları finali düşünmemiş
+aslına bakarsan bu kadar pahalı bir telefona ihtiyacım yoktu
+tabii ki son dakika bir bug|E çıktı
+ne yazık ki favori kafem kapandı, yerine bir banka şubesi açılmış
+# --- EN/MIXED/NE 55 ---
+geçen hafta netflix'in|N yeni bir türk|N dizisinin galasına davet edildik, red|E carpet|E fotoğrafları çok komik çıktı
+spotify'ın|N yıl sonu wrappedında|M=wrapped+ında en çok dinlediğim artist|E bir çocuk şarkıcısı çıktı, kardeşim yüzünden
+linkedin'de|N bir recruiter|E bana mesaj atıp << are you open to new opportunities? >> diye sordu
+instagram'da|N bir food|E bloggerın|M=blogger+ın önerdiği restorana gittik, sıra bir saatti
+youtube'da|N izlediğim bir productivity|E videosu yüzünden bütün gece bir notion|N setup|E yaptım
+steam'de|N bir indie|E game|E için early|E access|E aldım, bugları|M=bug+ları bile seviyorum
+tiktok'ta|N viral|E olan bir recipe|E yüzünden markette feta|E peyniri kalmadı
+amazon'dan|N aldığım standing|E desk|E kutusundan çıkınca salonun yarısını kapladı
+twitch'te|N izlediğim bir streamer|E türkçe|N öğrenmeye başladı, chatte|M=chat+te herkes ona yardım ediyor
+zoom'da|N yapılan bir job|E interviewda|M=interview+da kedim klavyeye atladı, interviewer|E çok güldü
+airbnb'de|N kiraladığımız evin hostu|M=host+u bize bir welcome|E basket|E bırakmıştı
+uber|N eats'ten|N verdiğim sipariş başka bir şehre gitmiş
+google|N photos|N bana beş yıl önceki bugünün fotoğraflarını gösterdi, çok utandım
+trendyol'da|N bir flash|E sale|E sırasında sepetim çöktü
+pinterest'te|N gördüğüm bir diy|E projesini denedim, sonuç tam bir fail|E
+# --- MIXED 56 ---
+sınav haftası bütün slideları|M=slide+ları tek bir pdfte|M=pdf+te topladım
+yeni ofisin kitchenında|M=kitchen+ında herkesin ayrı bir mugı|M=mug+ı var
+kardeşim tiktokta|N bir duet|E videosu çekti, annem de içindeydi
+iş yerinde bir arkadaşın baby|E showerında|M=shower+ında herkes bebek fotoğrafını getirdi
+annem whatsapp|N grubundaki bütün voice|E noteları|M=note+ları dinlemeden siliyor
+sevgilimin playlistine|M=playlist+ine bir şarkı ekledim, hemen sildi
+okulun libraryindeki|M=library+indeki sessiz odada biri sürekli hapşırıyor
+yeni gymin|M=gym+in appinden|M=app+inden rezervasyon yapmadan girmek yasak
+arkadaşımın startupının|M=startup+ının officeinde|M=office+inde bir slide|E var, ikinci kattan birinciye
+kardeşim bütün gün yeni skateboarduyla|M=skateboard+uyla parkta kaldı
+toplantının agendasında|M=agenda+sında on madde vardı, ikincide kaldık
+yeni appin|M=app+in tasarımı o kadar karışık ki logout|E butonunu bulamadım
+annemin yeni phoneunda|M=phone+unda font|E o kadar büyük ki ekranda üç kelime var
+iş yerinde haftalık reportlara|M=report+lara bir grafik eklemem istendi
+kampüsteki cafede|M=cafe+de öğrencilere özel bir student|E discount|E var
+kardeşimin youtube|N kanalının introsunda|M=intro+sunda benim sesim var
+yeni dizinin finalesinde|M=finale+sinde herkes öldü, ağladım
+okulun yeni scheduleına|M=schedule+ına göre cuma günleri ders yok
+iş arkadaşımın laptopunda|M=laptop+unda kırk sticker|E var, logosu|T görünmüyor
+# --- long mixed 7 ---
+geçen ay bir arkadaşımla birlikte bir online|E business|E kurduk, el yapımı mumlar satıyoruz, ilk siparişi annem verdi ve ikinci siparişi de annemin arkadaşı ama şimdi haftada yirmi sipariş alıyoruz
+iş yerinde yeni bir proje için bir hafta boyunca müşterinin şehrine gittik, her akşam farklı bir local|E restoranda yemek yedik ve son gün müşteri bize şehir turu yaptırdı
+kardeşim lise son sınıfta bir model|N un|N konferansında best|E speaker|E ödülü aldı, eve gelince bütün aileye konuşmasını tekrar yaptı
+annem yıllardır istediği bir kurs için sonunda bir pastry|E schoola|M=school+a yazıldı, her hafta eve yeni bir tatlıyla geliyor ve hepimiz kilo alıyoruz
+geçen yaz bir arkadaşımla birlikte bir road|E trip|E sırasında karadeniz'de|N küçük bir köyde kaldık, ev sahibi teyze bize her sabah kendi yaptığı tereyağıyla kahvaltı hazırladı
+okulda bir arkadaşım dönem boyunca bir sustainability|E projesi yürüttü, kantindeki plastik bardakları kaldırttı ve herkes kendi kupasını getirmeye başladı
+sevgilimle birlikte ilk evimize taşındığımızda ilk gece hiç mobilya yoktu, yere bir battaniye serip pizza|E yedik ve bu hâlâ en sevdiğimiz anı
+babam emekli olunca bir youtube|N kanalı açıp eski türk|N filmlerini anlatmaya başladı, şimdi binlerce izleyicisi var ve her videonun sonunda annemi selamlıyor

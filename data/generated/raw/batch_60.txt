@@ -1,0 +1,77 @@
+# batch 60
+# --- long posts 16 ---
+geçen hafta işte bir server|E migration|E yaptık, gece yarısı başlayan iş sabah altıda bitti, herkes uykusuzdu ama sabah müşteriden gelen << everything works >> maili bütün yorgunluğu unutturdu
+annem yıllardır istediği bir piyano kursuna yazıldı, ilk derste öğretmeni ona bir scale|E çalmasını söyledi ve annem bütün gece mutfakta o scalei|M=scale+i tekrar etti
+kardeşim lise son sınıfta bir university|E fairine|M=fair+ine gitti, eve gelince çantasında otuz broşür vardı ve hepsini tek tek okudu
+sevgilimle birlikte bir ay boyunca her gün farklı bir ülkenin mutfağından yemek yaptık, en başarılı olan meksika|N haftasıydı, en kötüsü ise sushi|A denememiz
+iş yerinde yeni bir intern|E cohortu|M=cohort+u başladı, onlara bir welcome|E week|E hazırladık ve son gün kendi projelerini sundular, birinin fikri şirketin yeni özelliği oldu
+geçen yaz bir arkadaşımla birlikte bir camper|E van|E kiraladık, ege|N kıyılarında bir hafta geçirdik, her gece farklı bir koyda uyuduk ve bir gece van|E kuma saplandı
+babaannemin seksenci doğum gününde bütün torunlar bir video|T montajı hazırladı, her biri ona bir mesaj kaydetti ve babaannem videoyu izlerken hem güldü hem ağladı
+okulda bir arkadaşım dönem boyunca bir campus|E podcast|E yaptı, her bölümde bir hocayla röportaj yaptı ve son bölümde rektör konuk oldu
+# --- mixed medium 43 ---
+akşam yemeğinde babam yeni bir hobi duyurdu: woodworking|E, salon şimdi talaş içinde
+kardeşim okul gezisinde bir chocolate|E factory|E gezdi, eve bir kutu çikolatayla döndü
+iş yerinde bir arkadaş bütün takıma bir thank|E you|E notu yazdı, çok duygulandık
+annem yeni öğrendiği bir zumba|E videosuyla her sabah dans ediyor
+sevgilim bana bir mixtape|E yaptı ama cd|E çalarım yok
+okulun yeni sports|E dayinde|M=day+inde öğretmenler de yarıştı
+babaannem ilk kez bir instagram|N hesabı açtı, ilk postu|M=post+u bir çiçek
+kardeşim bütün gece bir sci-fi|E romanı okudu, sabah okula geç kaldı
+iş yerinde yeni bir mentoring|E circle|E kuruldu, her ay bir konu tartışılıyor
+annemle birlikte bir cooking|E workshopuna|M=workshop+una katıldık, makarna yapmayı öğrendik
+okulda bir hoca bize bir time|E capsule|E projesi yaptırdı, on yıl sonra açılacak
+babam yeni aldığı bir telescope|E ile her gece balkonda ayı izliyor
+sevgilimle birlikte bir pottery|E dersinde aynı vazoyu yapmaya çalıştık, ikisi de çöktü
+kardeşim bir youtube|N tutorialından|M=tutorial+ından makyaj öğrendi, şimdi herkese yapıyor
+iş yerinde haftalık bir coffee|E roulette|E başladı, rastgele kişilerle kahve içiyoruz
+# --- NE+MIXED 44 ---
+dilek|N ile kaan|N netflix'teki|N yeni dizinin castıyla|M=cast+ıyla bir fan|E eventinde|M=event+inde tanıştı
+murat|N bana steam'deki|N workshopta|M=workshop+ta bulduğu bir modu|M=mod+u önerdi
+seda|N instagram'daki|N bakery|E sayfasına bin follower|E gelince bir giveaway|E yaptı
+okan|N ile ilayda|N bodrum'daki|N bir beach|E clubın|M=club+ın sunset|E partysine|M=party+sine katıldı
+nur|N bana youtube'da|N bir minimalist|E vlogger|E önerdi, ertesi gün dolabımı boşalttım
+burak|N spotify'daki|N podcastinin|M=podcast+inin ikinci sezonuna başladı
+ece|N ile can|N airbnb'den|N kiraladıkları evin hostuyla|M=host+uyla arkadaş oldu
+kerem|N linkedin'de|N bir thought|E leader|E gibi postlar|M=post+lar paylaşmaya başladı
+gizem|N trendyol'dan|N aldığı bir standing|E deski|M=desk+i kuramadı
+mert|N ile defne|N izmir'deki|N bir food|E festivalinde bütün standları gezdi
+aslı|N zoom'daki|N meetingte|M=meeting+te mute|E tuşunu unutup kedisiyle konuştu
+tolga|N bana amazon'dan|N bir noise|E machine|E aldı, artık daha iyi uyuyorum
+selin|N ile emre|N kadıköy'deki|N bir trivia|E nightta|M=night+ta birinci oldu
+cansu|N figma'daki|N prototipi|T müşteriye sunduğunda müşteri çok beğendi
+batu|N twitch'teki|N streaminde|M=stream+inde bir speedrun|E rekoru kırdı
+irem|N bana pinterest'ten|N bir wedding|E inspiration|E boardu|M=board+u gönderdi
+yusuf|N ile hande|N antalya'daki|N bir resortun|M=resort+un spasında|M=spa+sında bütün günü geçirdi
+deniz|N bana tiktok'tan|N bir life|E hack|E attı, gerçekten işe yaradı
+ozan|N github'daki|N açık kaynak projesine ilk kez bir pull|E request|E aldı
+nazlı|N ile kaan|N galata'da|N bir terasta sunset|E izleyip fotoğraf çekti
+# --- TR + little EN 10 ---
+sabah erkenden kalkıp sahilde yürürken balıkçılarla sohbet ettim
+annem bütün gün mutfakta bayram için kurabiye yaptı, ev vanilya kokuyor
+kardeşim okulda bir resim sergisi açtı, bütün aile gidip izledi
+babam yeni bir hobi olarak kuş gözlemciliğine başladı, dürbünüyle balkondan izliyor
+akşam yemeğinden sonra hep birlikte eski bir aile filmi izledik
+yağmurlu bir günde kütüphanede kitap okurken yanımdaki çocuk uyuyakaldı
+bayram sabahı dedem bize eski bayramları anlattı, çok güzelmiş
+okul servisinde bütün çocuklar aynı şarkıyı söylüyordu
+annem komşuya bir tabak börek götürdü, tabak dolu geri geldi
+kardeşim ilk kez tek başına markete gidip ekmek aldı, çok gururlandı
+# --- MIXED+EN 45 ---
+toplantının sonunda managerım|M=manager+ım herkese bir action|E item|E listesi gönderdi, listede sadece benim adım vardı
+yeni projenin kickoff|E deckini|M=deck+ini hazırlarken bütün geceyi harcadım
+kardeşim okulda bir esports|E clubı|M=club+ı kurdu, ilk toplantıya yirmi kişi geldi
+annem yeni bir skincare|E serumunu|T denedi, yüzü kızardı
+iş yerinde bir arkadaşın baby|E announcementında|M=announcement+ında herkes ağladı
+sevgilimle birlikte bir couples|E quizi|M=quiz+i yaptık, birbirimizi hiç tanımıyormuşuz
+okulun yeni yemekhanesinde bir salad|E bar|E ve bir pasta|E station|E var
+babam bir youtube|N kanalının subscriberı|M=subscriber+ı oldu, her videoya comment|E yazıyor
+kardeşim bütün yaz bir coding|E bootcampinde|M=bootcamp+inde kendi oyununu yaptı
+iş yerinde yeni bir feedback|E culture|E başlatıldı, herkes her hafta birine kudos|E veriyor
+annem whatsapp|N grubundaki bütün memeleri|M=meme+leri bana tek tek açıklatıyor
+okulda bir arkadaşım bir campus|E clean-up|E günü organize|T etti
+sevgilim bana bir playlist|E hazırladı, adı << songs for rainy days >>
+kardeşim tiktok'ta|N bir study|E with|E me|E videosu çekti, bin kişi izledi
+iş yerinde haftalık bir walking|E clubımız|M=club+ımız var, öğle arası parkta yürüyoruz
+annem bir online|E kursta photoshop|N öğreniyor, bütün aile fotoğraflarını düzenliyor
+okulun bahçesinde bir community|E fridge|E kuruldu, herkes yemek bırakıyor
+babaannem bize bir family|E recipe|E kitabı hazırladı, içinde elli tarif var

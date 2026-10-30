@@ -1,0 +1,115 @@
+# batch 51 — balanced chunk A
+iş yerinde yeni bir onboarding|E sürecine geçtik, yeni gelenler ilk hafta sadece shadowing|E yapıyor
+kardeşim bütün yaz bir coding|E campe|M=camp+e gitti ve kendi web|A sitesini yaptı
+annemle birlikte bir thrift|E shopta|M=shop+ta eski bir daktilo bulduk, babam çok sevindi
+ankara'daki|N kuzenim bana bir startup|E fikrini anlattı, yaşlılar için bir grocery|E delivery|E appi|M=app+i
+sabah işe giderken metroda bir audiobook|E bitirdim, son bölümde ağladım
+okulda bir arkadaşım bütün dersleri ipad'de|N not alıyor, kağıt kullanmıyor
+sevgilimle birlikte bir weekend|E trip|E için eskişehir'e|N gittik, porsuk|N kenarında yürüdük
+babam yeni öğrendiği whatsapp|N durum özelliğiyle bütün günlük hayatını paylaşıyor
+yeni ofisin kafeteryasında her gün bir chef's|E special|E var
+kardeşim bir youtube|N tutorialıyla|M=tutorial+ıyla gitar öğrendi, şimdi bütün gün çalıyor
+akşam yemeğinde annem bize yeni öğrendiği bir thai|E curry|E yaptı, çok acıydı
+iş arkadaşım bütün tasklarını|M=task+larını bir to-do|E appinde|M=app+inde renk renk tutuyor
+geçen hafta sonu izmir'de|N bir sahil kafesinde brunch|E yaptık, deniz manzarası harikaydı
+okulun yeni sports|E dayinde|M=day+inde sınıfımız halat çekmede birinci oldu
+annem yeni aldığı tabletle akşamları netflix'te|N türk|N dizisi izliyor
+kardeşim tiktok'ta|N bir dance|E challengeına|M=challenge+ına katıldı, video bin like|E aldı
+iş yerinde bir arkadaş bütün ekibe kendi yaptığı granola|E dağıttı
+sevgilim bana sabah bir voice|E message|E bıraktı, sesi çok uykuluydu
+yeni bir hobi olarak rock|E climbing|E başladım, ilk gün kollarım titredi
+babaannem bize bütün torunlarına ayrı ayrı yün eldiven ördü
+okulda bir hoca bize bütün dönem boyunca bir podcast|E projesi yaptırdı
+kuzenim londra'da|N bir coffee|E shopta|M=shop+ta barista|E olarak çalışıyor
+akşam yürüyüşünde mahallede bir food|E truck|E festivali vardı, her şeyi denedik
+yeni işimde ilk maaşımla aileme bir dinner|E ısmarladım
+kardeşim bir summer|E schoolda|M=school+da ispanyolca|N öğrendi
+annem bir arkadaşının önerisiyle bir book|E club'a|M=club+a katıldı
+iş yerinde yeni bir ergonomic|E chair|E sistemi getirildi, sırtım teşekkür ediyor
+arkadaşım bana bir minimalist|E wallet|E hediye etti, sadece üç kart sığıyor
+okulda bir yazar söyleşisinde kitabımı imzalattım
+babam yeni aldığı arabanın bluetooth|E sistemini bağlayamayınca radyoyu açtı
+yeni evimizde ilk gece pizza|E söyleyip kutuların arasında yedik
+kardeşim bütün hafta sonu bir lego|N technic|N arabası yaptı
+iş yerinde yeni bir open|E space|E düzenine geçince herkes kulaklık aldı
+sevgilimle birlikte bir improv|E dersine yazıldık, ilk derste çok utandık
+annem yeni bir diziye başladı, her bölümden sonra bize spoiler|E veriyor
+yeni bir şehirde ilk kez tek başıma bir museum|E gezdim
+kampüste yeni açılan bubble|E tea|E dükkanının önünde sıra bitmiyor
+kardeşim okulda bir mock|E trial|E etkinliğinde avukatı oynadı
+iş yerinde haftalık bir trivia|E quiz'inde|M=quiz+inde ekibimiz ikinci oldu
+annem bir youtube|N videosundan öğrendiği ekmek tarifini her hafta deniyor
+# --- balanced chunk B ---
+sevda|N ile ozan|N geçen hafta kadıköy'de|N bir open|E mic|E gecesinde şarkı söyledi
+toplantıda managerım|M=manager+ım yeni projenin kickoffunu|M=kickoff+unu bana bıraktı
+annem whatsapp|N grubunda bir tarif paylaştı, altına herkes bir emoji|E bıraktı
+iş yerinde yeni gelen internlerin|M=intern+lerin ilk görevi kahve makinesini öğrenmek oldu
+kardeşim instagram'da|N bir art|E accountu|M=account+u açtı, çizimlerini paylaşıyor
+okulun yeni bilgisayar laboratuvarında herkese bir raspberry|N pi|N verildi
+sevgilim bana bir surprise|E picnic|E hazırladı, sepette en sevdiğim kurabiyeler vardı
+babam futbol maçını izlerken var|E kararı çıkınca televizyona bağırdı
+kuzenim bir podcast|E başlattı, ilk konuğu babaannemiz oldu
+iş arkadaşım bütün gün bir spreadsheetle|M=spreadsheet+le uğraştı, sonunda bir formül hatasıymış
+yeni evimizin balkonuna bir bistro|E masası koyduk, kahvaltılar artık orada
+kardeşim okuldaki film kulübünde bir short|E film|T çekti, başrolde kedimiz var
+annem yeni bir online|E alışveriş sitesinden aldığı ayakkabıları üç kez iade etti
+iş yerinde bir arkadaşın düğününe bütün ekip birlikte gittik, dans pistini biz açtık
+okulda finallerden önce kütüphanede bir quiet|E hour|E kuralı getirildi
+babaannem ilk kez bir restoranda sushi|A denedi, çok beğendi ama çubukları kullanamadı
+kardeşim bir esports|E turnuvasında takımıyla birlikte yarı finale kaldı
+sevgilimle birlikte bir dans kursuna yazıldık, salsa|E öğreniyoruz
+iş yerinde haftalık bir book|E swap|E kutusu var, herkes okuduğu kitabı bırakıyor
+annem yeni öğrendiği bir life|E hack|E ile buzdolabını düzenledi
+kampüsteki student|E unionda|M=union+da bir board|E game|E gecesi düzenlendi
+kardeşim bütün harçlığını bir vinyl|E plağa harcadı, evde pikap bile yok
+babam yeni bir tablet|T aldı, ilk iş bütün torunlarının fotoğraflarını yükledi
+iş yerinde yeni bir parking|E app'i|M=app+i kuruldu, yer ayırmak için sabah yedide uyanıyorum
+sevgilim bana bir coffee|E subscription|E hediye etti, her ay yeni bir kahve geliyor
+annemle birlikte bir pottery|E atölyesinde kendi tabaklarımızı yaptık
+kardeşim okul gezisinde bir planetarium|E ziyaret etti, şimdi astronot olmak istiyor
+# --- chunk C MIXED/NE ---
+koray|N netflix'teki|N yeni dizinin cliffhangerını|M=cliffhanger+ını twitter'da|N spoilerladı|M=spoiler+ladı
+pelin|N spotify'daki|N podcastinde|M=podcast+inde ilk kez bir konuk ağırladı
+mert|N steam'deki|N incelemesinde oyunun bütün buglarını|M=bug+larını tek tek listeledi
+selin|N instagram'daki|N storylerinde|M=story+lerinde her gün aynı kahveyi gösteriyor
+ozan|N youtube'daki|N kanalına bir gaming|E setup|E turu videosu yükledi
+ece|N linkedin'deki|N postunda|M=post+unda yeni işini duyurdu, yorumlar bitmiyor
+burak|N twitch'teki|N streaminde|M=stream+inde bir gece yirmi bin viewer|E gördü
+deniz|N figma'daki|N designlarını|M=design+larını müşteriye sunmadan önce bana gösterdi
+irem|N trendyol'daki|N sepetini|T bir yıldır boşaltmıyor
+kaan|N tiktok'taki|N videolarının soundlarını|M=sound+larını kendisi yapıyor
+gizem|N notion'daki|N plannerını|M=planner+ını herkesle paylaştı
+can|N google|N drive'daki|N klasörlerini|T kimseyle paylaşmıyor
+aslı|N pinterest'teki|N boardlarından|M=board+larından birini düğün için kullandı
+emre|N github'daki|N reposuna|M=repo+suna ilk kez yabancı bir contributor|E katıldı
+duygu|N zoom'daki|N webinarında|M=webinar+ında yüz kişiye sunum yaptı
+tolga|N amazon'daki|N wishlistini|M=wishlist+ini doğum gününden önce herkese attı
+nazlı|N whatsapp'taki|N aile grubunun adminı|M=admin+ı oldu
+berk|N playstation'daki|N trophylerini|M=trophy+lerini bir excel|N tablosunda tutuyor
+hande|N airbnb'deki|N evini|T yaz boyunca turistlere kiraladı
+yusuf|N udemy'deki|N kursunun ilk moduleünü|M=module+ünü bitirdi
+melis|N canva'daki|N templatelerle|M=template+lerle bütün sunumlarını yapıyor
+okan|N slack'teki|N kanalların hepsini mutelamış|M=mute+lamış
+derya|N youtube|N musicteki|N playlistini|M=playlist+ini ders çalışırken açıyor
+# --- chunk D long + misc ---
+geçen hafta okulda bir career|E fair|E vardı, standların yarısı tech|E şirketleriydi ve hepsi aynı soruyu sordu: hangi programming|E languageları|M=language+ları biliyorsun
+annem bir arkadaşının tavsiyesiyle bir online|E fitness|E programına başladı, her sabah salonda ekranın karşısında zıplıyor ve alt kattaki komşu bize iki kez şikayete geldi
+iş yerinde yeni bir proje için bir hafta boyunca müşterinin ofisinde çalıştık, onların kahve makinesi bizimkinden çok daha iyiydi ve ekipçe proje bitince oraya geri dönmek istedik
+kardeşim lise son sınıfta bir mentorship|E programına katıldı, mentoru bir yazılım mühendisi ve her hafta birlikte küçük bir proje yapıyorlar
+geçen yaz bir arkadaşımla birlikte bir food|E tour|E için gaziantep'e|N gittik, üç günde on dört farklı kebapçıyı denedik ve döndüğümüzde ikimiz de bir hafta diyet yaptık
+sevgilim yıldönümümüzde bana bir scrapbook|E hazırladı, ilk buluşmamızdan beri sakladığı bütün sinema biletleri ve fişler içindeydi
+okulda bir arkadaşım bütün dönem boyunca her derste bir sketch|E çizdi, dönem sonunda bunları bir zine|E olarak bastırdı ve herkes bir kopya istedi
+babam emekli olduktan sonra bir woodworking|E kursuna yazıldı, şimdi evdeki bütün rafları o yapıyor ve hepsi biraz eğri ama hepimiz çok seviyoruz
+yeni şirketimde ilk ay herkes bana bir tavsiye verdi, en işe yarayanı bir senior|E developerdan|M=developer+dan geldi: önce oku, sonra sor
+annem yıllar sonra ilk kez bir konsere gitti, sanatçı onun gençlik şarkısını söyleyince ayağa kalkıp eşlik etti ve bütün konser boyunca telefonla video çekti
+# --- misc short ---
+kahve, kitap ve yağmur: cozy|E sunday|E
+toplantı iptal, sürpriz free|E time|E
+sınav bitti, şimdi sadece sleep|E
+yeni hafta, yeni to-do|E list|E
+cuma akşamı ve hiç plan|T yok, harika
+pazartesi yine meetinglerle|M=meeting+lerle başladı
+tatilin son günü, post-holiday|E blues|E
+kahvaltıda pancake|E ve bal, mükemmel
+akşam yemeği: leftover|E makarna
+bugünün winı|M=win+ı: bütün maillere cevap verdim

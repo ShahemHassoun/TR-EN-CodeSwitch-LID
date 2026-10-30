@@ -1,0 +1,85 @@
+# batch 55 — fresh themes
+kardeşimin hamsteri gece boyunca wheel|E üzerinde koşuyor, sesinden kimse uyuyamıyor
+kaplumbağamız kış uykusuna yatınca kardeşim ona bir goodnight|E kartı yazdı
+akvaryumdaki balıklar için yeni bir filter|E aldık, su artık pırıl pırıl
+papağanımız annemin telefon zil sesini taklit edince herkes telefonuna koşuyor
+tavşanımız bütün kabloları kemirdiği için evde cable|E protector|E kullanıyoruz
+apartmanın önündeki inşaat sabah yedide başlıyor, drill|E sesiyle uyanıyorum
+asansörde komşuyla karşılaşınca hava durumundan konuşuyoruz, klasik small|E talk|E
+spor salonunda biri makineyi kullandıktan sonra silmeyince herkes ona baktı, gym|E etiquette|E sıfır
+mahallede elektrik kesilince bütün apartman merdivenlerde telefon flashlightlarıyla|M=flashlight+larıyla dolaştı
+piyango biletimiz bir numarayla tutmadı, babam bir hafta konuşmadı
+sokaktaki simitçi artık temassız ödeme alıyor, pos|E cihazı bile var
+berberde sıra beklerken bütün haberleri berberden dinledim
+taksiye binince şoför bana bütün yol boyunca kendi spotify|N playlistini|M=playlist+ini dinletti
+eczanede beklerken eczacının bilgisayarındaki solitaire|E oyununu gördüm
+kütüphanede yanımdaki öğrenci bütün gün highlighterla|M=highlighter+la kitabı boyadı
+düğünde yemek olarak sadece kuru pilav vardı, dessert|E bile yoktu
+fast|E food|E restoranında self-order|E kioskları|M=kiosk+ları yüzünden kasiyer kalmamış
+kahve zincirinin yeni seasonal|E içeceği çok tatlı, yarısını bıraktım
+markette organic|E reyonunda fiyatlar normal reyonun iki katı
+otoparkta arabamın önüne biri park etmiş, telefon numarası da bırakmamış
+kombinin arızası yüzünden üç gün sıcak su olmadan yaşadık
+çamaşır makinesi sıkma programında salona kadar yürüdü
+bulaşık makinesinin error|E kodu çıkınca youtube'da|N tamir videosu izledim
+mutfak lavabosu tıkanınca babam plumber|E çağırmak yerine kendisi uğraştı, yarım gün sürdü
+evin wifi|E routerı|M=router+ı mutfakta, salonda sinyal yok
+balkondaki çiçeklere sabah su vermeyi unutunca hepsi boynunu büktü
+kapı zili bozulunca kargo görevlisi bir saat dışarıda bekledi
+apartmanın jeneratörü test|T edilirken bütün bina titredi
+pencerenin önüne kuş yuva yapınca perdeyi bir ay açmadık
+çatıdan su sızınca bütün kovaları salona dizdik
+# --- fresh MIXED/NE ---
+hamsterımızın cageini|M=cage+ini temizlerken kaçtı, iki gün koltuğun altında yaşadı
+kedimizin vet|E checkupında|M=checkup+ında kilo verdirmemiz gerektiği söylendi
+kardeşim balıklarına bir aquarium|E appinden|M=app+inden isim seçti
+komşunun yeni aldığı robot süpürgenin mappingi|M=mapping+i bizim evin kapısına kadar geliyor
+asansördeki screende|M=screen+de sürekli aynı reklam dönüyor
+gymdeki|M=gym+deki koşu bantlarının ekranında netflix|N izlenebiliyor, kimse inmek istemiyor
+elektrik kesilince powerbankimizi|M=powerbank+imizi sırayla kullandık
+berberin playlistinde|M=playlist+inde sadece arabesk var
+taksi appindeki|M=app+indeki fiyat ile taksimetre tutmadı
+eczanenin queue|E sisteminde|T numaram okununca duymadım
+kütüphanenin wifiına|M=wifi+ına bağlanmak için bir form|T doldurmak gerekiyor
+düğündeki djin|M=dj+in setlisti|M=setlist+i halaydan oluşuyordu
+fast|E food|E zincirinin appinde|M=app+inde bir bedava burger|E kuponu çıktı
+kahve dükkanının loyalty|E programında|T on kahvede bir bedava
+marketin self-checkoutunda|M=self-checkout+unda barkod okutamayınca görevli geldi
+otoparkın appinden|M=app+inden ödeme yaparken plaka yanlış çıktı
+kombinin thermostatını|M=thermostat+ını telefondan kontrol ediyoruz ama hep bozuluyor
+çamaşır makinesinin smart|E featureları|M=feature+ları hiç kullanılmıyor
+bulaşık makinesinin manuali|M=manual+i kayıp, youtube'dan|N izledim
+routerın|M=router+ın ışıkları yanıp sönünce babam onu kapatıp açtı, klasik
+# --- NE 22 ---
+tuna|N ile pınar|N geçen hafta sonu beykoz|N korusu'nda|N piknik yaptı
+mert|N bana hepsiburada'dan|N bir airfryer|E aldı, ilk gün patatesleri yaktık
+lale|N hanım|T bize google|N meet'te|N yeni şirket kurallarını anlattı
+kemal|N ile zehra|N kuşadası'nda|N efes|N antik|N kenti'ni|N gezdi
+yasin|N bana spotify'da|N bir ottoman|E history|E podcasti|M=podcast+i önerdi
+sevim|N teyze|T her akşam atv'de|N dizi izliyor
+# --- fresh EN-rich ---
+eczanede bana bir loyalty|E card|E teklif ettiler, puanlarla diş macunu alabiliyormuşum
+kütüphane bir late|E fee|E sistemi getirdi, ilk ceza bana kesildi
+berberde fade|E mi undercut|E mı diye sorunca ne dediğini anlamadım
+asansörde bir out|E of|E order|E kağıdı asılıydı, yedi kat yürüdük
+gymde|M=gym+de biri bütün setler arasında selfie|E çekiyordu
+kahve dükkanında barista|E bana bir flat|E white|E önerdi, normal kahveden farkını anlamadım
+markette indirim etiketinde buy|E one|E get|E one|E yazıyordu ama kasada geçmedi
+düğünde gelin ve damat bir drone|E ile çekim yaptırdı, drone pastaya çarptı
+taksici bana << where are you from? >> diye ingilizce|N sordu, türk|N olduğumu söyleyince güldü
+otelde wake-up|E call|E istedim, telefon hiç çalmadı
+havalimanında boarding|E pass|E telefonda açılmayınca kağıda bastırdım
+fast|E food|E restoranında kids|E menu|E sipariş ettim, oyuncağı için
+pastanede birthday|E cake|E için isim yazdırırken adımı yanlış yazdılar
+mağazada fitting|E room|E kuyruğu kasadan uzundu
+sinemada recliner|E koltuklarda film izlerken uyuyakaldım
+kafede bir digital|E menu|E vardı, qr|E kodu okutmak için telefonum çekmedi
+bankada bir self-service|E kioskunda|M=kiosk+unda para yatırırken makine kartımı yuttu
+kargo şirketi paketimi bıraktığını söyledi, delivery|E fotoğrafı başka bir kapıydı
+spor salonunda yeni bir hiit|E class|E başladı, ilk derste herkes yere yattı
+restoran bize complimentary|E dessert|E getirince çok mutlu olduk
+otel odasında minibar|E fiyatları uçaktan pahalıydı
+havalimanında lounge|E erişimi için kredi kartımı gösterdim, geçmedi
+mağazada price|E match|E istedim, müdürü çağırdılar
+sinemada trailerlar|M=trailer+lar filmden uzun sürdü
+kafede yanımdaki masa bir job|E interview|E yapıyordu, bütün soruları duydum

@@ -1,0 +1,126 @@
+# batch 45
+# --- first-time experiences ---
+hayatımda ilk kez bir opera|T izledim, ikinci perdede uyuyakaldım
+ilk kez bir sushi|A restoranında yemek çubuğu kullandım, yarısı masaya düştü
+ilk kez tek başıma bir film izlemeye gittim, aslında çok keyifliymiş
+ilk kez bir hackathon'a|M=hackathon+a katıldım ve kırk sekiz saat boyunca enerji içeceğiyle yaşadım
+ilk kez bir caz konserine gittim, ne zaman alkışlayacağımı bilemedim
+ilk kez bir airbnb|N host'u|M=host+u olduk, misafirler bize beş yıldız verdi
+ilk kez bir uçakta business|E class|E uçtum, upgrade|E şansıma çıkmıştı
+ilk kez bir stand-up|E gösterisine gittim, komedyen benimle dalga geçti
+ilk kez bir pottery|E çarkına oturdum, kil her yere sıçradı
+ilk kez kendi kahvemi öğüttüm, mutfak bir kahve dükkanı gibi koktu
+ilk kez bir müzede gece turu yaptım, karanlıkta heykeller çok korkunçtu
+ilk kez bir dağ evinde kaldım, sabah pencereden bulutları gördüm
+ilk kez bir yarı maraton koştum, bitiş çizgisinde annem bekliyordu
+ilk kez bir canlı podcast|E kaydına seyirci olarak katıldım
+ilk kez bir dövme yaptırdım, sadece küçük bir yıldız
+ilk kez bir kamp ateşi yaktım, on dakika sürdü ama başardım
+ilk kez bir tiyatro oyununda sahneye çıktım, tek repliğimi unuttum
+ilk kez bir freelance|E iş için fatura kestim, kendimi çok yetişkin hissettim
+ilk kez bir ehliyet sınavına girdim, park etme kısmında kaldım
+ilk kez bir yabancı ülkede yol sordum, adam bana türkçe|N cevap verdi
+# --- app complaints ---
+banka uygulaması her güncellemeden sonra bütün ayarlarımı sıfırlıyor
+yemek siparişi appinde|M=app+inde kupon kodu hiçbir zaman çalışmıyor
+müzik uygulaması sürekli aynı on şarkıyı öneriyor, algorithm|E beni tanımıyor
+taksi uygulamasında şoför yolda üç kez iptal etti
+fitness|E appi|M=app+i her sabah bana motivasyon mesajı atıyor, sinir oluyorum
+hava durumu uygulaması güneşli dediği her gün yağmur yağıyor
+alışveriş appinin|M=app+inin push|E notificationları|M=notification+ları gece yarısı geliyor
+not alma uygulaması senkronizasyon yaparken bütün notlarımı sildi
+dil öğrenme appindeki|M=app+indeki baykuş beni tehdit ediyor
+fotoğraf uygulaması yüz tanıma yaparken kedimi annem sandı
+navigasyon uygulaması beni bir kez daha tek yönlü sokağa soktu
+kargo uygulaması paketim teslim edildi diyor ama kapıda bir şey yok
+video uygulamasında reklamlar videodan uzun
+mesajlaşma uygulamasında okundu bilgisini kapatınca herkes bana kızdı
+# --- travel abroad mishaps ---
+paris'te|N metroda yanlış yöne bindim, kırk dakika sonra fark ettim
+roma'da|N bir restoranda coperto|O diye bir ücret çıkınca şaşırdık
+londra'da|N otobüse cash|E ile binmeye çalıştım, şoför bana kart gösterdi
+amsterdam'da|N bir bisikletliye yol vermedim, bana hollandaca|N bir şey bağırdı
+berlin'de|N pazar günü market|T aradık, hepsi kapalıydı
+tokyo'da|N bir vending|E machineden|M=machine+den sıcak kahve aldım, çok şaşırdım
+barselona'da|N plajda çantamı bir saniye bıraktım, yanına bir martı kondu
+prag'da|N bir barda bira sudan ucuzdu
+viyana'da|N bir kafede garson bize yarım saat gelmedi, kültürmüş
+atina'da|N akropolis'e|N çıkarken güneş çarptı
+dubai'de|N bir mallda|M=mall+da kaybolduk, harita bile işe yaramadı
+new|N york'ta|N bir taksiye bindim, şoför bütün yol telefonda konuştu
+lizbon'da|N tramvayda yanımdaki teyze bana portekizce|N yol tarif etti
+kopenhag'da|N bisiklet yolunda yürüdüğüm için üç kişi zil çaldı
+budapeşte'de|N bir termal hamamda bütün gün geçirdik
+# --- weather and seasons 2 ---
+bu sabah sis o kadar yoğundu ki karşı apartmanı göremedim
+yazın sıcak hava dalgası gelince bütün şehir sahile koştu
+kışın ilk karı görünce kardeşim pijamayla bahçeye çıktı
+bahar gelince annem bütün dolapları boşaltıp yazlıkları çıkardı
+sonbaharda yapraklar dökülünce park sarı bir halıya döndü
+fırtına yüzünden vapur seferleri iptal edildi, köprüde iki saat bekledik
+nisan yağmurları yüzünden bütün piknik planlarımız iptal oldu
+ağustos sıcağında klimasız bir otobüste bir saat yolculuk yaptım
+kış gecesinde elektrikler kesilince bütün mahalle karanlıkta kaldı
+temmuzda karpuz fiyatları düşünce babam her gün bir tane alıyor
+# --- EN heavy 7 ---
+bu dizinin opening|E theme'i|M=theme+i kafamdan çıkmıyor, on|E repeat|E dinliyorum
+toplantıda müdür bana << can you share your screen? >> dedi, masaüstümde tatil fotoğrafları vardı
+annem bana sabah << have a great day sweetie >> yazdı, google|N translate'ten|N kopyalamış
+kardeşim her cümlesine << literally >> ekliyor, literally|E her cümlesine
+sevgilim bana << you're my person >> dedi, grey's|N anatomy|N izlemiş
+iş yerinde biri slackte|N << brb >> yazıp iki saat yok oldu
+okulda hocamız << pop quiz >> deyince bütün sınıf inledi
+arkadaşım ayrılık sonrası << it's not you, it's me >> cümlesini duymuş, hâlâ gülüyoruz
+kahve dükkanında barista|E << oat or almond? >> diye sordu, normal süt dedim, bana garip baktı
+toplantının sonunda herkes << thanks, bye >> deyip aynı anda çıktı
+kardeşim oyunda kaybedince << gg ez >> yazan rakibine çok sinirlendi
+iş yerinde << open door policy >> var ama müdürün kapısı hep kapalı
+annem yeni öğrendiği << omg >> kısaltmasını her mesajda kullanıyor
+arkadaşım her fotoğrafın altına << no filter >> yazıyor, hepsi filtreli
+sevgilim bana << netflix and chill >> teklif etti, gerçekten film izledik
+toplantıda biri << i'll take that offline >> dedi, toplantı zaten online|E
+sınavdan önce arkadaşım bana << you got this >> yazdı, işe yaradı
+müdürüm her maili << let me know if you have any questions >> diye bitiriyor
+okulda bir hoca derste << any questions? >> deyip cevap beklemeden devam ediyor
+yeni yılda kendime söz verdim: less|E coffee|E, more|E water|E
+iş arkadaşım her pazartesi sabahı << new week, new me >> diyor, cuma tamamen aynı kişi
+sınav sonuçları açıklanınca herkes grupta << rip >> yazdı
+kardeşim tiktok'ta|N gördüğü << pov >> videolarını evde çekmeye başladı
+annem bana << where are you? >> diye üç mesaj attı, yan odadaydım
+yeni işimde ilk gün herkes bana << welcome to the team >> yazdı
+sevgilimle aramızdaki en büyük tartışma: pineapple|E on|E pizza|E
+# --- MIXED 22 ---
+toplantıdan sonra bütün action|E itemları|M=item+ları kendime atadım, hata
+yeni appin|M=app+in onboarding|E ekranları çok uzun, skipledim|M=skip+ledim
+kardeşim oyunda bütün questleri|M=quest+leri bitirince ağladı
+iş yerindeki onboardingde|M=onboarding+de bize bir welcome|E pack|E verdiler
+arkadaşımın podcastinin|M=podcast+inin ilk konuğu bendim
+yeni sneakerlarımın|M=sneaker+larımın kutusunu atmaya kıyamıyorum
+okulun libraryindeki|M=library+indeki sandalyeler çok rahatsız
+# --- MIXED with domain vocab ---
+fotoğrafçılık kursunda apertureı|M=aperture+ı ve shutter|E speedi|M=speed+i öğrendik
+lab'da|M=lab+da pipetleri kalibre ederken bütün sampleları|M=sample+ları karıştırdım
+pazarlama dersinde bir brand|E positioningi|M=positioning+i analiz ettik
+finans dersinde portfoliomuzun|M=portfolio+muzun riskini hesaplarken excel|N çöktü
+tasarım ekibi yeni uygulamanın typographysini|M=typography+sini üç kez değiştirdi
+müzik prodüksiyonu dersinde bir beati|M=beat+i sıfırdan yaptık
+biyoloji labında|M=lab+ında mikroskop slidelarını|M=slide+larını hazırlamak bir saat sürdü
+yeni kameramın autofocusu|M=autofocus+u karanlıkta çalışmıyor
+iş yerinde yeni bir crm|E systemine|M=system+ine bütün clientları|M=client+ları taşıdık
+kriptoda walletımın|M=wallet+ımın şifresini unutan arkadaşım hâlâ ağlıyor
+video editingde|M=editing+de transitionları|M=transition+ları abartınca video bir slayt gösterisine döndü
+podcast|E kaydında mikrofonun gaini|M=gain+i fazla açıktı, her şey cızırdadı
+yeni yazılımın licensei|M=license+i yıllık bin dolar
+müşteri bizden bir mood|E boardla|M=board+la başlamamızı istedi
+araştırma projesinde surveyimize|M=survey+imize sadece kırk kişi cevap verdi
+3d|E printerın|M=printer+ın nozzleı|M=nozzle+ı tıkanınca bütün baskı bozuldu
+drone|E çekimlerinde footageı|M=footage+ı stabilize|E etmek saatler sürdü
+kodlama dersinde loopları|M=loop+ları anlayınca her şey yerine oturdu
+yeni mikrofonumun pop|E filterı|M=filter+ı sesimi çok temizledi
+# --- NE heavy 19 ---
+ezgi|N ile kaan|N yılbaşını paris'te|N champs-élysées'de|N geçirdi
+kerem|N bana lego|N store'dan|N bir millennium|N falcon|N seti aldı
+dilek|N ile can|N antalya'da|N aspendos|N tiyatrosu'nda|N bir opera|T izledi
+sinan|N hoca|T bize khan|N academy'deki|N videoları önerdi
+burcu|N bana ikea'dan|N bir kitaplık aldı, kurulumu bana kaldı
+oğuz|N ile nihan|N bozcaada'da|N bir üzüm bağında hasat festivaline katıldı

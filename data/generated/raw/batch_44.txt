@@ -1,0 +1,124 @@
+# batch 44
+# --- ekşi definitions 2 ---
+pazartesi sabahı alarmı, haftanın ilk hayal kırıklığı
+kargo takip, umut ve hayal kırıklığı arasında gidip gelen bir sayfa
+ofis kahvesi, kafeinden çok alışkanlık için içilen sıvı
+online|E toplantı, herkesin kamerasını kapatıp başka iş yaptığı sosyal etkinlik
+cuma öğleden sonrası, iş yerinde kimsenin gerçekten çalışmadığı saatler
+sınav haftası, kütüphanenin en kalabalık olduğu ve kimsenin ders çalışmadığı dönem
+grup ödevi, bir kişinin herkesin notunu kurtardığı proje
+mesai sonrası mail|E, görmezden gelinmesi gereken ama gelinemeyen bildirim
+şifremi unuttum butonu, her hafta en az bir kez basılan tuş
+ev arkadaşı, buzdolabındaki yemeğinin gizemli şekilde kaybolmasının sebebi
+öğrenci indirimi, mezun olduktan sonra en çok özlenen ayrıcalık
+kahvaltı, türk|N kültürünün dünyaya en büyük hediyesi
+bayram ziyareti, akrabalara maaşını ve evlilik planlarını açıkladığın gün
+toplu taşıma, insanlığın en büyük sabır sınavı
+yemek siparişi, mutfağa girmemek için harcanan para
+alarm saati, insanın kendine kurduğu tuzak
+spor salonu üyeliği, ocak ayında alınıp şubatta unutulan yatırım
+otobüs durağı, hayatın ne kadar uzun olabileceğini öğrendiğin yer
+akşam yemeği tartışması, ne yiyelim sorusunun bir saat sürmesi
+yağmur, şemsiyeyi unuttuğun günlere özel hava olayı
+# --- definitions with EN ---
+deadline|E, adrenalin ile verimliliğin buluştuğu nokta
+small|E talk|E, asansörde geçen en uzun on saniye
+reply|E all|E, bir şirketin bir günde nasıl yıkılabileceğinin kanıtı
+weekend|E, iki günlük özgürlük ve bir günlük pazartesi kaygısı
+work|E life|E balance|E, linkedin'de|N okunup gerçek hayatta görülmeyen kavram
+inbox|E, her açtığında daha da kalabalık olan dijital oda
+autopilot|E, sabah işe nasıl geldiğini hatırlamadığın mod
+buffering|E, tam en heyecanlı sahnede gelen ekran
+spam|E, kimsenin istemediği ama herkesin aldığı mesajlar
+# --- MIXED mix 20 ---
+bu sabah inboxımı|M=inbox+ımı açınca yüz yeni mail|E gördüm, kapattım
+yeni sneakerlarımla|M=sneaker+larımla ilk koşuya çıktım, ayağım su topladı
+kardeşimin playlistinde|M=playlist+inde sadece k-pop|E var
+iş yerinde haftalık syncte|M=sync+te herkes aynı updatei|M=update+i verdi
+arkadaşımın startupında|M=startup+ında bütün çalışanlar founder|E gibi davranıyor
+yeni laptopun|M=laptop+un keyboardu|M=keyboard+u çok yumuşak
+sevgilimin weekend|E planları hep aynı: brunch|E ve sinema
+toplantıdaki whiteboarda|M=whiteboard+a herkes bir fikir yazdı
+okulun cafeteriasındaki|M=cafeteria+sındaki tostlar hep soğuk
+yeni gymin|M=gym+in locker|E roomu|M=room+u çok temiz
+kardeşimin youtube|N kanalının introsu|M=intro+su çok uzun
+annemin smoothie|E tarifleri her gün daha garip oluyor
+iş yerinde bir arkadaşın farewell|E partysinde|M=party+sinde herkes ağladı
+yeni dizinin trailerını|M=trailer+ını izleyip hemen watchliste|M=watchlist+e ekledim
+okulda bir arkadaşın presentation|E slidelarında|M=slide+larında yazım hatası vardı
+# --- NE 18 ---
+merve|N ile ozan|N sevgililer gününde bebek'teki|N bir restoranda yemek yedi
+koray|N hoca|T bize udemy'deki|N bir kursun linkini|M=link+ini attı
+seda|N bana lc|N waikiki'den|N bir pijama takımı aldı
+tolga|N ile ilayda|N ayvalık'ta|N cunda|N adası'nı|N gezdi
+nevin|N teyze|T her akşam kanal|N d'de|N haberleri izliyor
+efe|N bana epic|N games'ten|N bedava bir oyun linki attı
+buse|N ile baran|N kaş'ta|N kaputaş|N plajı'na|N gitti
+serap|N hanım|T toplantıyı slack|N huddle|N üzerinden yaptı
+cem|N bana apple|N music'te|N bir jazz|E playlisti|M=playlist+i önerdi
+şule|N ile murat|N sapanca|N gölü'nün|N kenarında piknik yaptı
+hakan|N bey|T şirketin yeni bursa|N fabrikasını gezdi
+ece|N bana pinterest'ten|N bir dövme fikri gösterdi
+ilker|N ile duygu|N eskişehir'de|N bir tiyatro festivaline katıldı
+yağmur|N bana youtube'da|N bir make-up|E tutorialı|M=tutorial+ı attı
+kerim|N amca|T her sabah migros|N jet'ten|N ekmek alıyor
+# --- medium mixed 21 ---
+akşam yemeğinde annem bize gençliğinde dinlediği bir rock|E grubunu anlattı
+kardeşim bütün hafta sonu bir escape|E game|E tasarladı, bizi evde kilitledi
+iş yerinde bir arkadaşım doğum gününde herkese cupcake|E getirdi
+yeni şehirde ilk haftamda bir walking|E tour|E yaptım, rehber çok komikti
+okulda bir sınıf arkadaşım bir mobile|E game|E yaptı, şimdi herkes oynuyor
+sevgilimle ilk kez bir couple|E massage|E deneyimi yaşadık
+annem yeni bir hobi olarak scrapbooking|E başladı, bütün eski fotoğrafları kesiyor
+iş yerinde haftanın sonunda bir happy|E hour|E yapıyoruz, herkes soft|E drink|E içiyor
+kardeşimin okulunda bir career|E day|E vardı, babam mesleğini anlattı
+yeni evimizin bahçesine bir hammock|E astık, kedi orayı sahiplendi
+arkadaşımın evinde bir fondue|E gecesi yaptık, ekmekler peynire düştü
+okulda bir charity|E bazaar|E düzenledik, topladığımız para barınağa gitti
+babaannem ilk kez bir online|E sipariş verdi, paketi kapıda heyecanla bekledi
+iş yerinde bir arkadaş yeni bir mechanical|E keyboard|E aldı, bütün ofis sesini duyuyor
+# --- professions first person ---
+eczacı olarak en çok duyduğum soru bu ilacın generic|E versiyonu var mı
+pilot arkadaşım her inişten sonra bana cockpit|E fotoğrafı atıyor
+şef olarak çalıştığım restoranda her akşam service|E başlamadan önce briefing|E yapıyoruz
+veteriner kuzenim kedimizin check-up'ında|M=check-up+ında kilosuna takıldı
+mimar olarak çalışan arkadaşım bütün hafta sonu bir render|E bekledi
+gazeteci arkadaşım breaking|E news|E gelince tatilini yarıda bıraktı
+dj|E olarak çalışan kuzenim düğünlerde en çok istenen şarkıyı söyledi, yine tarkan|N
+itfaiyeci komşumuz çocuklara bir fire|E safety|E dersi verdi
+öğretmen arkadaşım sınıfında bir reading|E corner|E kurdu
+diş hekimi bana flossing|E yapmamı söyledi, yapmıyorum
+avukat arkadaşım bir case|E üzerinde çalışırken üç gün uyumadı
+hemşire teyzem hastanede double|E shift|E çalıştığında bize hiç uğrayamıyor
+muhasebeci dayım yıl sonu closing|E döneminde telefonlara çıkmıyor
+grafik tasarımcı arkadaşım müşteriden gelen << make it pop >> yorumuna kafayı yedi
+yazılımcı abim bana bir bug|E ile feature|E arasındaki farkı anlattı, anlamadım
+fotoğrafçı arkadaşım düğünlerde golden|E hour|E için gelini koşturuyor
+satış temsilcisi kuzenim her ay quota|E baskısıyla yaşıyor
+çevirmen arkadaşım altyazı çevirirken bir pun|E için yarım saat düşündü
+barista|E arkadaşım müşterilerin siparişlerini isimlerinden önce hatırlıyor
+personal|E trainer|E arkadaşım bana diet|E planı yaptı, ilk gün bozdum
+eczanede çalışan kuzenim bana vitamin|T takviyelerinin çoğunun gereksiz olduğunu söyledi
+psikolog arkadaşım bana boundary|E koymayı öğretti
+pastacı teyzem bir düğün pastası için üç gece uyumadı
+kuaför arkadaşım müşterilerin pinterest|N fotoğraflarını görünce derin nefes alıyor
+youtuber|E arkadaşım her videonun başında << don't forget to subscribe >> diyor
+# --- professions MIXED ---
+şef arkadaşımın restoranındaki menüyü her sezon redesignlıyorlar|M=redesign+lıyorlar
+pilot kuzenim layoverlarda|M=layover+larda şehirleri geziyor
+yazılımcı abim bütün hafta sonu bir hotfixle|M=hotfix+le uğraştı
+öğretmen arkadaşım bütün quizleri|M=quiz+leri online|E yapıyor, kağıt kullanmıyor
+grafik tasarımcı kuzenim bir logonun on sekiz versiyonunu müşteriye yolladı
+gazeteci arkadaşım bir interviewdan|M=interview+dan sonra bütün geceyi transkript yazarak geçirdi
+fotoğrafçı arkadaşım düğün albümünün editingini|M=editing+ini bir ayda bitirdi
+satış ekibindeki arkadaşım her ay targetını|M=target+ını aşıyor
+mimar arkadaşım bir projenin renderlarını|M=render+larını beş gün bekledi
+dj|E kuzenim yeni bir remixini|M=remix+ini soundcloud'a|N yükledi
+avukat arkadaşım bir contractın|M=contract+ın her satırını üç kez okudu
+eczacı kuzenim reçetelerin barcodelarını|M=barcode+larını tek tek okutuyor
+youtuber|E arkadaşım sponsorlu videolarının scriptlerini|M=script+lerini kendisi yazıyor
+barista|E arkadaşım bir latte|E art|E competitionda|M=competition+da birinci oldu
+personal|E trainer|E kuzenim clientlarına|M=client+larına her hafta yeni bir program yazıyor
+çevirmen arkadaşım bir dizinin subtitlelarını|M=subtitle+larını bir haftada çevirdi
+muhasebeci dayım excel'deki|N macrolarını|M=macro+larını kimseyle paylaşmıyor
+hemşire teyzem bütün shiftlerini|M=shift+lerini bir app|E ile takip ediyor

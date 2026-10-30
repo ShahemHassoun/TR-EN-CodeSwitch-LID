@@ -1,0 +1,93 @@
+# batch 65
+# --- question style 2 ---
+sizce remote|E çalışan biri ofise dönmeli mi, ben dönmek istemiyorum
+iyi bir budget|E laptop|E önerisi olan var mı, öğrenciyim
+bu hafta sonu istanbul'da|N gidilecek bir indie|E konser bilen var mı
+kediler için en iyi scratching|E post|E hangisi, bizimki koltuğu tercih ediyor
+nasıl oluyor da bazı insanlar sabah beşte kalkıp gym'e|M=gym+e gidiyor
+mechanical|E klavye almak için yeterince sebep var mı yoksa sadece hype|E mı
+python|N mu javascript|N mi, ilk dil olarak hangisi daha mantıklı
+iyi bir podcast|E önerin, uzun yolculuğa çıkacağım
+bu kadar çok streaming|E servisi arasında hangisini tutsam
+yeni başlayanlar için hangi board|E game|E iyi, kuralları basit olsun
+erasmus|N için hangi şehir daha uygun, budget|E sınırlı
+ilk kez kamp yapacağım, mutlaka almam gereken gear|E nedir
+evde çalışırken nasıl motive oluyorsunuz, ben sürekli buzdolabına gidiyorum
+iyi bir freelance|E platformu|T bilen var mı, ilk müşterimi arıyorum
+hangi running|E app'i|M=app+i daha doğru ölçüyor
+# --- answers style ---
+bence önce bir budget|E belirle, sonra modellere|T bak
+ben de aynı sorunu yaşadım, routerı|M=router+ı resetleyince|M=reset+leyince düzeldi
+o şehirde rent|E çok yüksek ama öğrenci yurtları ucuz
+ilk dil olarak python|N öneririm, syntaxı|M=syntax+ı çok basit
+ben kendi deneyimimden söyleyeyim, ilk ay en zoru
+kamp için en önemli şey iyi bir sleeping|E bag|E
+evden çalışırken bir routine|E oluşturmak çok yardımcı oluyor
+board|E game|E olarak codenames|N harika, herkes oynayabiliyor
+o platform|A bence en iyisi ama komisyonu yüksek
+podcast|E olarak tarih programlarını öneririm, yol kısalıyor
+# --- big mix 50 ---
+iş yerinde yeni gelen müdür ilk toplantıda herkesten bir fun|E fact|E istedi
+dün gece netflix'te|N bir horror|E film izledim, bütün ışıkları açık uyudum
+annem bir arkadaşının tavsiyesiyle evde bir mini|E greenhouse|E kurdu
+sevgilim bana sabah bir surprise|E breakfast|E hazırladı, mutfak savaş alanı
+kardeşim okulda bir coding|E clubın|M=club+ın başkanı seçildi
+geçen hafta bodrum'da|N bir sunset|E sailing|E turuna çıktık, deniz tutması yaşadım
+okulun yeni appinde|M=app+inde ödev teslimi artık fotoğrafla yapılıyor
+ofiste herkes yeni coffee|E machinein|M=machine+in ayarlarını değiştirip duruyor
+babam yeni aldığı bir gadget|E ile her sabah kahvesinin sıcaklığını ölçüyor
+cuma akşamı kadıköy'de|N bir indie|E konserine gittik, salon yarı boştu ama müzik harikaydı
+yeni ev arkadaşım bütün mutfağı label|E makerla|M=maker+la etiketledi
+kampüste bir sustainability|E week|E düzenlendi, herkes kendi termosunu getirdi
+iş yerinde bir arkadaşın yeni bebeği için bir diaper|E cake|E yaptık
+kardeşim bütün gece bir youtube|N rabbit|E hole'una|M=hole+una düştü, sabah ahtapotlar hakkında her şeyi biliyordu
+sevgilimle birlikte bir plant|E shopa|M=shop+a gittik, eve beş saksı ile döndük
+okulda bir arkadaşım bütün dönem boyunca bir digital|E planner|E kullandı
+babaannem ilk kez bir online|E market|T siparişi verdi, her şeyden iki tane gelmiş
+iş yerinde yeni bir no|E meeting|E wednesday|E kuralı geldi, herkes çok mutlu
+geçen ay izmir'de|N bir food|E tour|E yaptık, kumru ve boyoz bizi bitirdi
+annem bütün gün bir craft|E projesiyle uğraştı, sonunda bir kolye yaptı
+kardeşim okul gezisinde bir aquarium'da|M=aquarium+da köpekbalığı tünelinden geçti
+sevgilim bana bir weekend|E planner|E hediye etti, her hafta sonumuzu planlıyoruz
+iş yerinde haftalık bir podcast|E club|E kurduk, herkes aynı bölümü dinleyip tartışıyor
+# --- MIXED/NE 51 ---
+şebnem|N ile koray|N kadıköy'deki|N bir open|E air|E cinemada|M=cinema+da klasik bir film izledi
+taylan|N bana steam'deki|N bir farming|E simulatorı|M=simulator+ı önerdi, şimdi sanal ineklerim var
+nesrin|N hanım|T toplantıda yeni bir crm|E toolunu|M=tool+unu tanıttı
+çağla|N ile mert|N izmir'deki|N bir vegan|E restaurantın|M=restaurant+ın açılışına gitti
+volkan|N bana youtube'daki|N bir car|E reviewerın|M=reviewer+ın videosunu attı
+esra|N instagram'daki|N bir book|E clubın|M=club+ın moderatörü
+tarık|N ile nur|N bodrum'da|N bir diving|E schoolda|M=school+da sertifika aldı
+gülşen|N teyze|T facebook'taki|N bir gardening|E grubunda her gün fotoğraf paylaşıyor
+didem|N ile can|N antalya'daki|N bir eco|E farmda|M=farm+da gönüllü çalıştı
+serhat|N linkedin'de|N bir startup|E founderıyla|M=founder+ıyla bağlantı kurdu
+zehra|N bana trendyol'dan|N bir weighted|E blanket|E aldı, artık çok iyi uyuyorum
+alper|N ile ilke|N kapadokya'daki|N bir hiking|E trailde|M=trail+de yolunu kaybetti
+selin|N notion'da|N bir travel|E plannerı|M=planner+ı hazırlayıp herkesle paylaştı
+kaan|N bana pinterest'ten|N bir tiny|E house|E tasarımı gösterdi, hayalimiz oldu
+burak|N ile defne|N galata'daki|N bir masa oyunu kafesinde scrabble|N oynadı
+ece|N twitch'te|N bir art|E streamde|M=stream+de canlı çizim yapıyor
+mehmet|N bana amazon'dan|N bir camping|E stove|E aldı, balkonda çay demledik
+ilayda|N ile oğuz|N eskişehir'deki|N bir craft|E fairde|M=fair+de el yapımı mumlar sattı
+umut|N bana tiktok'tan|N bir dance|E tutorial|E attı, iki saat çalıştım
+# --- TR medium/long 6 ---
+dün sabah erkenden kalkıp şehrin en yüksek tepesine çıktık, güneşin doğuşunu izlerken kimse konuşmadı
+annem bütün yazı balkonda çiçeklerle geçirdi, şimdi apartmanın en renkli balkonu bizimki
+kardeşim okul bahçesinde bir kaplumbağa buldu, öğretmenler onu okulun maskotu yaptı
+babam yıllar sonra ilk kez bir futbol maçına gitti, eve sesi kısılmış döndü
+dedemin köydeki evinin önündeki çeşmeden içilen su şehirdeki bütün sulardan güzel
+mahallemizdeki eski sinema bir kütüphaneye dönüştürüldü, artık her akşam orada ders çalışıyorum
+bayram tatilinde bütün aile birlikte eski fotoğrafları dijitale aktardık, her fotoğrafın bir hikayesi vardı
+yağmur yağınca annem bütün çamaşırları içeri alırken biz balkonda yağmuru izledik
+okulun bahçesinde öğretmenler ve öğrenciler birlikte bir fidan dikme günü yaptı
+kış akşamlarında babaannem bize masal anlatırken hepimiz sobanın etrafında otururduk
+akşam yemeğinden sonra bütün aile birlikte bulaşık yıkarken şarkı söyledik
+kardeşim ilk kez bir tiyatro oyununda rol aldı, sahnede repliğini unutunca seyirciler alkışladı
+pazar sabahı erkenden fırına gidip sıcak ekmek almak çocukluğumdan kalma bir alışkanlık
+dedem bize her yaz kendi bahçesinde yetiştirdiği karpuzlardan getiriyor
+annem bu yıl ilk kez kendi başına bir yolculuğa çıktı, döndüğünde bize her şeyi anlattı
+okulun son gününde öğretmenimiz bize birer mektup yazdı, hâlâ saklıyorum
+babam emekli olunca her sabah sahilde balık tutmaya başladı
+mahallenin bakkalı yetmiş yaşında ama hâlâ her sabah altıda dükkanı açıyor
+kış tatilinde kar yüzünden üç gün evden çıkamadık, bütün gün kitap okuduk
+yazın akşam serinliğinde bahçede oturup çay içmek bütün günün yorgunluğunu alıyor

@@ -1,0 +1,75 @@
+# batch 66
+# --- EN-rich work 12 ---
+yeni şirkette ilk 1:1|E toplantımda müdürüm bana career|E goals|E sordu, hiç düşünmemiştim
+iş yerinde bir arkadaş her toplantıda << devil's advocate >> rolünü üstleniyor
+müşteri bize bir rfp|E gönderdi, cevaplamak iki hafta sürdü
+ekibin yeni tech|E stacki|M=stack+i hakkında herkesin bir fikri var
+yeni projenin mvpsini|M=mvp+sini üç haftada çıkardık
+iş yerinde bir arkadaş bütün maillerine bir tl;dr|E ekliyor, çok işe yarıyor
+sprint|E demosunda ürün ekibi bize << ship it >> dedi
+yeni bir saas|E ürününe abone olduk, onboarding|E maili on tane
+müşteriyle yaptığımız quarterly|E business|E reviewda|M=review+da herkes kravat takmıştı
+iş yerinde yeni bir okr|E toolu|M=tool+u var, hedeflerin yüzdesi otomatik hesaplanıyor
+ekip lideri bize << fail fast >> dedi, ben de hızlıca hata yaptım
+yeni bir startup|E acceleratorına|M=accelerator+ına kabul edildik, ofis bedava
+iş yerinde haftalık bir demo|E day|E var, herkes yaptığı işi gösteriyor
+müdürüm bana bir mail|E attı: << let's discuss tomorrow, >> bütün gece uyuyamadım
+yeni gelen cto|E ilk hafta bütün legacy|E codeu|M=code+u okudu
+# --- MIXED + NE 52 ---
+ayça|N ile emre|N moda'daki|N bir sahil kafesinde brunch|E menüsünün hepsini denedi
+koray|N bana netflix'te|N bir heist|E filmi önerdi, sonu çok şaşırtıcıydı
+sevil|N teyze|T youtube'da|N bir crochet|E kanalı açtı, bin aboneye ulaştı
+tolga|N ile irem|N kaş'taki|N bir dalış merkezinde open|E water|E sertifikası aldı
+bora|N bana spotify'da|N bir eighties|E synth|E pop|E playlisti|M=playlist+i attı
+gizem|N instagram'daki|N bir calligraphy|E sayfasından ders alıyor
+ozan|N ile ece|N izmir'deki|N bir rooftop|E sinemada|T film izledi
+deniz|N bana steam'deki|N bir walking|E simulator|E önerdi, çok huzurlu
+nil|N linkedin'deki|N bir post|E yüzünden viral|E oldu, iş teklifleri yağıyor
+kerem|N ile selin|N kapadokya'daki|N bir balon festivalinde gönüllü çalıştı
+# --- balanced 53 ---
+akşam eve gelince ilk iş ayakkabılarımı çıkarıp bir chill|E playlist|E açıyorum
+salı günleri ofiste herkes kendi lunchını|M=lunch+ını getiriyor, mutfak bir restoran gibi kokuyor
+kardeşim okulda yeni bir arkadaş edindi, ikisi de aynı animeyi|T izliyor
+annem yeni öğrendiği bir smoothie|E bowl|E tarifini her sabah yapıyor, üstüne meyve diziyor
+sabah otobüste yanımdaki teyze bana kendi örgü projesini gösterdi
+iş yerinde yeni bir arkadaş bütün ekibe kendi şehrinden lokum getirdi
+okulun yeni libraryinde|M=library+inde bir podcast|E stüdyosu var, öğrenciler kayıt yapabiliyor
+babam bir youtube|N videosundan öğrendiği bir hileyle arabanın farını değiştirdi
+sevgilimle haftasonu bir antika pazarında eski bir gramofon bulduk
+kardeşim bütün yaz kütüphanede bir reading|E programına katıldı, yirmi kitap okudu
+annem bütün apartmana kendi yaptığı limonatadan dağıttı
+iş yerinde haftalık bir gratitude|E circle|E başladı, herkes bir teşekkür ediyor
+okulda bir hoca bize bir mini|E project|E verdi, iki haftada bir köprü maketi yaptık
+babaannem ilk kez bir dizi maratonu yaptı, bütün sezonu iki günde bitirdi
+mahallede yeni açılan kafenin duvarlarında bir book|E exchange|E rafı var
+kardeşim bir summer|E schoolda|M=school+da tanıştığı arkadaşlarıyla hâlâ online|E oyun oynuyor
+iş yerinde bir arkadaş bütün takıma bir handwritten|E thank|E you|E kartı yazdı
+okulun bahçesinde öğrenciler bir little|E free|E library|E kutusu kurdu
+annem yeni bir dil app'inde|M=app+inde japonca|N çalışıyor, her sabah konnichiwa|O diyor
+babam bütün hafta sonu bir model|T gemi yaptı, salonun ortasında duruyor
+sevgilimle birlikte bir rooftop|E konserinde yağmura yakalandık, dans etmeye devam ettik
+kardeşim okulda bir çevre gününde bütün sınıfla sahil temizliği yaptı
+iş yerinde öğle arasında bir chess|E clubımız|M=club+ımız var, müdür hep kaybediyor
+annem bir arkadaşının önerisiyle bir watercolor|E kursuna başladı
+babaannem bize bütün bayram boyunca kendi yaptığı helvadan ikram etti
+# --- MIXED heavy 54 ---
+toplantıdan sonra bütün action|E itemları|M=item+ları jiraya|N girdim
+kardeşim yeni gaming|E mouseunu|M=mouse+unu kutusundan çıkarınca ışıklarına baktı durdu
+iş yerindeki onboarding|E slidelarında|M=slide+larında hâlâ eski logo|T var
+annem yeni öğrendiği bir appte|M=app+te bütün ilaç saatlerini takip ediyor
+sevgilimle birlikte izlediğimiz dizinin castındaki|M=cast+ındaki bir oyuncu bizim mahalleden çıktı
+okulun yeni sports|E clubına|M=club+ına kaydoldum, ilk antrenman yarın
+arkadaşımın podcastinde|M=podcast+inde konuşulan konuyu bütün hafta düşündüm
+yeni gymdeki|M=gym+deki lockerımın|M=locker+ımın şifresini unuttum
+kardeşimin streamlerinde|M=stream+lerinde chat|E moderatörü benim
+yeni projenin requirementları|M=requirement+ları müşteriden üç ayrı mail|E ile geldi
+iş yerinde haftalık syncleri|M=sync+leri asenkron yapmaya karar verdik
+kampüsteki printerlardan|M=printer+lardan sadece biri çalışıyor, kuyruk koridora taşıyor
+yeni laptopumun|M=laptop+umun keyboardunun|M=keyboard+unun ışığı gece çok işe yarıyor
+annemin smoothielerine|M=smoothie+lerine artık ıspanak koymuyor, şükür
+kardeşim bütün weekendini|M=weekend+ini bir minecraft|N şehri yapmakla geçirdi
+okulun cafeteriasındaki|M=cafeteria+sındaki kahve makinesi para yutuyor
+toplantıdaki presentationımın|M=presentation+ımın ortasında laptopun|M=laptop+un şarjı bitti
+yeni restoranın dessert|E menüsü ana yemeklerden uzun
+arkadaşımın vlogları|M=vlog+ları için drone|E çekimlerini ben yapıyorum
+iş yerinde bütün feedbackleri|M=feedback+leri anonim toplamaya başladık

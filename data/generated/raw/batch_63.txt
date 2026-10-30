@@ -1,0 +1,76 @@
+# batch 63
+<< thank you for your patience >> mesajını gören her müşteri biraz daha sabırsızlanıyor
+<< we'll get back to you >> diyen şirketlerin hiçbiri geri dönmedi
+<< your order has been shipped >> bildirimi geldi, paket hâlâ depoda
+<< are you sure you want to delete? >> sorusuna her zaman yanlış cevap veriyorum
+<< terms and conditions >> sayfasını okuyan tek kişi babam
+<< wifi password? >> bir kafeye girince sorduğum ilk soru
+<< low battery >> uyarısı gelince telefonun şarjını yönetmek bir sanat
+<< meeting starting soon >> bildirimi gelince kahvemi yarım bırakıyorum
+<< new message >> sesi gelince bütün ofis telefonuna bakıyor
+<< update available >> uyarısını altı aydır erteliyorum
+deadline|E bugün, motivation|E sıfır, kahve üçüncü fincan
+weekend|E bitti, inbox|E patladı
+sprint|E planningde|M=planning+de herkes her şeye eight|E points|E verdi
+feedback|E session|E sonrası kendimi bir çiçek gibi hissettim, solmuş
+work-life|E balance|E diye bir şey varsa ben hiç görmedim
+pull|E request|E açtım, iki yüz comment|E geldi
+release|E günü herkes sessiz, sadece klavye sesleri
+code|E freeze|E başladı, kimse dokunmasın
+bug|E fix|E yaparken yeni iki bug|E çıktı, classic|E
+coffee|E break|E bitti, back|E to|E work|E
+inbox|E zero|E bir efsane
+monday|E morning|E meeting|E kadar kötü bir şey yok
+cuma akşamı happy|E hour|E mu yoksa erken uyku mu
+lunch|E break'te|M=break+te herkes telefonuna bakıyor
+brainstorming|E sessionında|M=session+ında en sessiz kişi en iyi fikri verdi
+team|E building|E etkinliğinde trust|E fall|E yaptık, kimse beni tutmadı
+performance|E review|E dönemi gelince herkes birden çok çalışkan
+year-end|E party|E için secret|E santa|E çekilişinde müdürüm bana düştü
+quarterly|E goals|E açıklandı, hepsi imkansız
+# --- balance MIXED/NE/TR ---
+ilk maaşımla aldığım şey bir espresso|E makinesiydi, şimdi her sabah barista|E gibiyim
+otobüste yanımdaki çocuk bütün yol boyunca tabletinde|T bir çizgi film izledi
+pazar akşamı haftanın planını yaparken to-do|E listim|M=list+im iki sayfa oldu
+kahvecide sipariş verirken barista|E adımı sordu, üç kere tekrar ettim
+sınav sabahı bütün sınıf kantinde son dakika flashcard|E çalışıyordu
+yaz tatilinde dedemin köyünde hiç internet|T yoktu, kitap okudum
+kış akşamlarında en sevdiğim şey battaniye altında bir thriller|E izlemek
+ofisteki yeni intern|E ilk gün herkesin adını ezberledi, çok etkileyici
+bayram sabahı kuzenlerle birlikte dedemin elini öptük
+akşam yemeğinde babam iş yerindeki yeni yazılımı anlatırken herkes uyudu
+sevgilimle ilk tanıştığımız kafede her yıl anniversary|E kahvemizi içiyoruz
+mahalledeki fırıncı her sabah ilk ekmeği bize ayırıyor
+kampüsteki çimlerde ders çalışırken bir köpek notlarımın üstüne yattı
+çarşıda yürürken eski bir arkadaşa rastladım, bir saat sohbet ettik
+eve dönerken yolda bir sokak müzisyeni eski bir barış|N manço|N şarkısı çalıyordu
+denize girmeden önce herkes güneş kremi sürerken kardeşim çoktan suya atlamıştı
+geçen kış kar yüzünden okullar tatil olunca bütün gün kardan adam yaptık
+haftasonu ailecek bir piknik yaptık, babam mangalı yakamadı
+mahallenin parkında yeni bir basketbol potası kuruldu, çocuklar bütün gün orada
+yağmurlu bir pazartesi sabahı herkes ofise sırılsıklam geldi
+çocukken izlediğim çizgi filmleri şimdi yeğenimle birlikte izliyorum
+ilk kez bir otoyolda araba kullanırken ellerim titriyordu
+geçen hafta komşumuzun düğününe bütün apartman davetliydi
+balkonda yetiştirdiğimiz domatesler bu yıl çok tatlı oldu
+# --- MIXED+NE dense 47 ---
+nisan|N ile cem|N kadıköy'deki|N bir ramen|A dükkanının grand|E openingine|M=opening+ine gitti
+efe|N bana instagram'daki|N bir thrift|E sayfasının linkini|M=link+ini attı
+gül|N hanım|T toplantıda teams'in|N breakout|E roomlarını|M=room+larını ilk kez kullandı
+arda|N ile sinem|N izmir'deki|N bir beach|E volleyball|E turnuvasında finale kaldı
+okan|N bana netflix'teki|N bir documentary|E serisinin ilk episodeunu|M=episode+unu önerdi
+nazan|N teyze|T youtube'daki|N bir yemek kanalının en büyük fanı|M=fan+ı
+tuna|N steam'deki|N bir co-op|E oyunda bütün achievementları|M=achievement+ları tamamladı
+ilke|N ile bora|N bodrum'daki|N bir sailing|E clubın|M=club+ın yarışına katıldı
+selim|N bana spotify'da|N bir workout|E mixi|M=mix+i yaptı, koşarken dinliyorum
+dilan|N linkedin'de|N bir career|E coachla|M=coach+la görüştü
+umut|N ile ezgi|N antalya'daki|N bir surf|E schoolda|M=school+da ders aldı
+kerem|N bana trendyol'dan|N bir smart|E watch|E strapi|M=strap+i aldı
+melis|N tiktok'taki|N bir trend|E yüzünden bütün mutfağı pembe boyadı
+cansu|N ile emre|N galata'daki|N bir caz kulübünde late|E night|E sessiona|M=session+a katıldı
+batu|N bana github'da|N bir open|E source|E projeye katkı vermemi önerdi
+irem|N notion'daki|N reading|E listine|M=list+ine yirmi yeni kitap ekledi
+berk|N ile defne|N kapadokya'daki|N bir cave|E restaurantta|M=restaurant+ta yemek yedi
+aslı|N bana pinterest'teki|N bir capsule|E wardrobe|E boardunu|M=board+unu attı
+ozan|N twitch'te|N bir charity|E marathonu|M=marathon+u yaptı, yirmi dört saat yayında kaldı
+pelin|N ile can|N amsterdam'da|N bir canal|E tourda|M=tour+da kaybolan şapkasını kurtardı

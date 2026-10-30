@@ -1,0 +1,68 @@
+# batch 68
+# --- NE + EN dense 57 ---
+lale|N ile umut|N istanbul|N caz|N festivali'nde|N bir saksofoncunun solo|E performansına hayran kaldı
+hüseyin|N amca|T her sabah trt|N haber'de|N hava durumunu izleyip sonra pencereden bakıyor
+kaan|N ile yasemin|N antalya'daki|N bir aquarium'da|M=aquarium+da köpekbalığı tünelinden geçti
+ece|N bana netflix'te|N bir british|E crime|E dizisi önerdi, aksanları anlamak çok zor
+murat|N ile sevgi|N bodrum'daki|N bir beach|E festivalinde gün batımını izledi
+deniz|N bana spotify'da|N bir road|E trip|E playlisti|M=playlist+i hazırladı, üç yüz şarkı
+okan|N hoca|T derste bize khan|N academy'den|N bir video izletti
+nilay|N ile berk|N izmir'deki|N bir open|E air|E festivalinde kamp kurdu
+tuğba|N bana amazon'dan|N bir bamboo|E kesme tahtası aldı
+selim|N ile ezgi|N galata'daki|N bir kahvecide barista|E workshopuna|M=workshop+una katıldı
+emir|N bana youtube'da|N bir minimalist|E desk|E setup|E videosu attı
+melek|N teyze|T instagram'da|N her gün bir recipe|E reels'i|M=reels+i paylaşıyor
+cem|N ile aslı|N ankara'daki|N bir board|E game|E kafesinde yeni bir oyun öğrendi
+irem|N bana linkedin'de|N bir ux|E bootcampinin|M=bootcamp+inin linkini|M=link+ini attı
+# --- TR + EN 13 ---
+dün akşam evde bir candle|E night|E yaptık, elektrik kesik değildi ama yine de güzeldi
+bu sabah otobüste bir öğrenci bütün yol boyunca vocabulary|E flashcard|E çalıştı
+annemin yeni hobisi online|E puzzle|E yarışmaları, her gece birinci olmaya çalışıyor
+mahallemizdeki fırın artık sourdough|E da yapıyor, sabahları kuyruk var
+okulun yeni bahçesinde bir outdoor|E reading|E köşesi kuruldu
+babam her pazar sabahı bize bir old|E school|E türk|N kahvaltısı hazırlıyor
+kardeşim bütün yaz bir ice|E cream|E dükkanında çalıştı, artık dondurma sevmiyor
+iş yerinde yeni bir arkadaş bütün ekibi bir karaoke|E gecesine davet etti
+sevgilimle haftasonu bir bike|E tour|E yaptık, sahil boyunca kırk kilometre
+annem bize kendi yaptığı bir homemade|E granola|E kavanozu hazırladı
+# --- TR + MIXED 58 ---
+akşam yemeğinden sonra annemle birlikte balkonda oturup eski şarkılar dinledik
+kardeşim okulda ilk kez bir sunum yaptı, slidelarını|M=slide+larını bütün gece hazırladı
+babam yeni öğrendiği bir appte|M=app+te bütün aile fotoğraflarını düzenliyor
+dedemle birlikte köydeki bahçede domates topladık, sepet doldu taştı
+iş yerinde öğle arasında herkes birlikte yürüyüşe çıktı, managerımız|M=manager+ımız da katıldı
+pazar sabahı erkenden kalkıp sahilde kahvaltı yaptık, martılar simitlerimizi istedi
+okulun son gününde bütün sınıf bir yearbook|E fotoğrafı çekildi
+annem bütün gün mutfakta reçel yaptı, ev şeftali kokuyor
+sevgilimle ilk tatil fotoğraflarımızı bir albüme bastırdık
+kardeşim bütün akşam bir puzzlela|M=puzzle+la uğraştı, son parçayı kedi kaybetmiş
+babaannem bize gençliğinde dinlediği radyo programlarını anlattı
+iş yerinde yeni bir projenin kickoffunda|M=kickoff+unda herkes heyecanlıydı
+yağmurlu bir günde kütüphanede ders çalışırken pencereden şimşekleri izledim
+mahallemizdeki eski çay ocağı yenilendi, artık latte|E da satıyor
+okul servisinin şoförü her sabah çocuklara bir fıkra anlatıyor
+annem yeni bir yemek kanalının bütün videolarını izleyip notlar alıyor
+kardeşim tiktokta|N bir art|E challengeına|M=challenge+ına katıldı, çizimi çok beğenildi
+dedem her akşam haberlerden sonra bize günün özetini anlatıyor
+iş yerinde haftalık retroda|M=retro+da herkes bir emoji|E ile haftasını anlattı
+bayram sabahı bütün çocuklar kapı kapı dolaşıp şeker topladı
+yeni dairemizin balkonundan şehrin ışıkları görünüyor
+kardeşim okulda bir kitap okuma maratonunda birinci oldu
+babam bütün hafta sonu arabayı yıkayıp parlattı, pazartesi yağmur yağdı
+# --- MIXED 59 ---
+iş yerinde yeni gelen internlere|M=intern+lere bir welcome|E bag|E hazırladık
+sevgilimin weekend|E brunchlarında|M=brunch+larında hep aynı menemeni söylüyoruz
+kardeşimin gaming|E setupının|M=setup+ının ışıkları gece bütün evi aydınlatıyor
+toplantının recordingine|M=recording+ine bakınca kendi sesimden utandım
+annemin recipe|E defteri artık bir notion|N sayfasında
+yeni gymdeki|M=gym+deki playlist|E sadece doksanlar pop'u|M=pop+u
+arkadaşımın podcastinin|M=podcast+inin konuğu benim eski öğretmenim çıktı
+okulun yeni appinde|M=app+inde yemek menüsü de var, herkes ona bakıyor
+iş yerinde haftalık syncte|M=sync+te herkes kamerasını açtı, çok nadir
+yeni laptopumun|M=laptop+umun webcamı|M=webcam+ı o kadar net ki sivilcelerim görünüyor
+kardeşim bütün weekendini|M=weekend+ini bir skateboard|E parkta geçirdi
+yeni projenin backlogu|M=backlog+u daha ilk günden yüz ticket|E
+kampüsteki printerın|M=printer+ın kuyruğunda yarım saat bekledim
+annem bütün voice|E noteları|M=note+ları hoparlörde dinliyor, otobüste bile
+yeni dizinin castını|M=cast+ını görünce izlemeye karar verdim
+sabah standupımız|M=standup+ımız bugün sadece beş dakika sürdü, rekor

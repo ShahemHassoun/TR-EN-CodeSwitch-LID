@@ -1,0 +1,133 @@
+# batch 43
+# --- mixed natural daily 13 ---
+sabah işe giderken metroda bir audiobook|E dinledim, durağımı kaçırdım
+yeni ofisimizin rooftopunda|M=rooftop+unda öğle yemeği yemek çok keyifli
+kardeşim bütün harçlığını bir mechanical|E keyboarda|M=keyboard+a yatırdı
+annemle birlikte bir online|E kursa yazıldık, ilk ödevi ben yaptım
+sevgilim bana sabah bir good|E morning|E playlisti|M=playlist+i hazırlamış
+iş yerinde bir arkadaş her toplantıya bir notebook|E ile geliyor, hiç yazmıyor
+okulun yeni spor kompleksinde bir indoor|E pool|E var
+akşam yemeğinden sonra arkadaşlarla bir walk|E and|E talk|E yaptık
+yeni bir dil öğrenmek için tandem|N appini|M=app+ini kullanıyorum
+babam ilk kez bir online|E toplantıya katıldı, bütün toplantı boyunca mikrofonu açıktı
+kardeşimin odası bir gaming|E roomdan|M=room+dan farksız, her yer ışık
+yeni dizimizin cliffhangerı|M=cliffhanger+ı yüzünden bütün gece uyuyamadım
+arkadaşımın düğününde bir live|E band|E çaldı, herkes dans etti
+kampüste her çarşamba bir open|E mic|E gecesi var, ilk kez şiir okudum
+annem yeni öğrendiği zoom|N filtreleriyle bütün aileyi güldürdü
+iş yerinde yeni bir hot|E desking|E sistemine geçtik, her gün başka masa
+kardeşim bana bir pokemon|N kartını gösterip değerini anlattı, şaşırdım
+akşamları balkonda bir candle|E yakıp kitap okumak en büyük keyfim
+okulda bir debate|E yarışmasında finale kaldık, konu sosyal medyaydı
+yeni evimizin internet|T bağlantısı fiber|E ama hız hâlâ yavaş
+sabahları kahvaltıda bir overnight|E oats|E kavanozu hazırlıyorum
+arkadaşım bana bir minimalist|E yaşam videosu attı, ertesi gün dolabımı boşalttım
+iş yerinde bir arkadaşın bebeği olunca herkes bir gift|E card|E topladı
+kardeşim yaz tatilinde bir summer|E jobda|M=job+da çalıştı, ilk maaşıyla bana hediye aldı
+# --- TR heavy 5 ---
+dedemin bahçesindeki armut ağacından bu yıl iki kasa meyve topladık
+annem her cuma akşamı bütün aileyi yemeğe çağırıyor, kimse gelmezse küsüyor
+kardeşim okulda bir şiir yarışmasında birinci oldu, şiiri annemize yazmış
+mahallemizdeki pazar her salı kuruluyor, en taze sebzeler orada
+babam yıllardır aynı berbere gidiyor, berber artık onun en yakın arkadaşı
+sabah erkenden kalkıp denize girdik, su buz gibiydi
+yazın bahçede soğuk karpuz kesip komşulara dağıtmak babamın en sevdiği şey
+okul yolunda her gün aynı köpek bize eşlik ediyor
+annem bayram için bütün perdeleri yıkadı, ev bembeyaz oldu
+kış gecelerinde dedemin anlattığı masalları hâlâ hatırlıyorum
+komşumuzun oğlu askerden döndü, bütün apartman kapıda karşıladı
+kardeşim yeni okulunda ilk hafta çok arkadaş edindi
+babaannem bize her yaz kendi yaptığı salçayı gönderiyor
+yağmur yağınca sokaktaki bütün kediler bizim apartmanın girişine sığınıyor
+akşam yürüyüşünde mahallenin bütün teyzelerine selam verdik
+# --- long posts 13 ---
+geçen ay bir arkadaşımın düğününde nedimeydim, gelinliği taşırken etek kapıya sıkıştı ve yarım saat boyunca hep birlikte kurtarmaya çalıştık, sonunda fotoğrafçı bu anı çekti ve albümün en sevilen fotoğrafı oldu
+yeni işimde ilk hafta bir onboarding|E buddy|E atadılar, bana ofisi gezdirirken en önemli bilgileri verdi: hangi asansör hızlı, hangi kahve makinesi bozuk ve müdürle hangi saatte konuşmamak gerektiği
+kardeşim bir yıl boyunca para biriktirip kendine bir gaming|E pc|E topladı, parçaları tek tek seçti, kurulum günü bütün aile salonda onu izledi ve bilgisayar ilk denemede açılmayınca herkes sustu
+geçen yaz bir arkadaşımla birlikte bir interrail|E turu yaptık, bir gece trende kompartımanımızı paylaştığımız yaşlı bir italyan|N çift bize bütün gece kendi gençlik hikayelerini anlattı
+annem yıllardır istediği ehliyeti sonunda aldı, ilk sürüşünde bütün aileyi arabaya doldurdu ve market otoparkında park etmek yirmi dakika sürdü ama hepimiz alkışladık
+bu yıl ilk kez bir pottery|E kursuna yazıldım, ilk derslerde yaptığım her şey çöktü ama altıncı haftada ilk düzgün kupamı yaptım ve şimdi her sabah kahvemi onunla içiyorum
+# --- dense MIXED/NE 17 ---
+selin|N bana instagram'da|N bir storysini|M=story+sini mention|E etti, bütün gün bildirim geldi
+toplantıda manager|E yeni projenin kickoffunu|M=kickoff+unu teams'te|N yaptı
+kardeşim youtube|N shortsta|N viral|E oldu, video kedimizin esnemesiydi
+can|N ile ece|N spotify|N blendlerinde|M=blend+lerinde sadece iki şarkı ortak çıktı
+okulun whatsapp|N grubunda hoca deadlineı|M=deadline+ı bir gün öne çekti, herkes panik
+burak|N bana netflix'in|N profile|E lockunu|M=lock+unu nasıl açacağını sordu
+yeni işimde slack'teki|N channelların|M=channel+ların yarısının adı inside|E joke|E
+annem facebook'taki|N yemek grubunda bir recipeini|M=recipe+ini paylaştı, bin like|E aldı
+mert|N ile defne|N airbnb'deki|N evin check-in|E saatini kaçırdı
+iş yerinde jira'daki|N ticketlarımı|M=ticket+larımı kapatmadan izne çıkamıyorum
+kardeşim steam'deki|N bütün oyunlarını bir sale|E döneminde aldı
+sevgilim google|N photos'taki|N eski fotoğraflarımızdan bir slideshow|E yaptı
+yeni gelen designer|E figma'daki|N bütün componentleri|M=component+leri yeniden düzenledi
+arkadaşım tinder'daki|N matchleriyle|M=match+leriyle buluşmadan önce bana konumunu gönderiyor
+okulda canvas'a|N yüklediğimiz assignmentlar|M=assignment+lar otomatik plagiarism|E checkten|M=check+ten geçiyor
+iş arkadaşım outlook'taki|N calendarını|M=calendar+ını herkese açık tutuyor
+annem whatsapp'taki|N aile grubunda bir pollu|M=poll+u başlattı, bayramda ne yiyeceğiz diye
+kuzenim linkedin'deki|N bütün postlarına|M=post+larına emoji|E koyuyor
+kardeşim twitch'teki|N streamerın|M=streamer+ın giveawayini|M=giveaway+ini kazandı
+yeni ofiste google|N workspace'e|N geçtik, herkes eski dosyalarını arıyor
+sevgilimle duolingo'da|N bir friend|E questi|M=quest+i yaptık, ben kaybettim
+arkadaşım bana trendyol'daki|N bir dealı|M=deal+ı attı, hemen aldım
+iş yerinde notion'daki|N wikimizi|M=wiki+mizi kimse güncellemiyor
+kardeşim playstation'daki|N trophylerini|M=trophy+lerini bana tek tek gösterdi
+annem youtube'daki|N bir pilates|E channelına|M=channel+ına abone oldu, her sabah izliyor
+okulda zoom'daki|N lecture|E recordingleri|M=recording+leri sınav öncesi altın değerinde
+# --- EN heavy 6 ---
+sekiz saatlik workshop'tan|M=workshop+tan sonra eve gelince ayakkabılarımı bile çıkarmadan uyudum
+sevgilim bana << we need to talk >> yazdı, sadece akşam ne yiyeceğimizi soracakmış
+toplantıda biri << let's park this >> dedi, konu bir daha açılmadı
+kardeşim bana << you're being dramatic >> dedi, haklıydı
+arkadaşım bana << living my best life >> yazılı bir fotoğraf attı, yatakta pizza|E yiyordu
+bu hafta tam bir burnout|E haftası, kahve bile işe yaramıyor
+iş görüşmesinde bana << where do you see yourself >> diye başlayan soruyu yine sordular
+müdürüm toplantıda << synergy >> kelimesini dört kere kullandı
+yeni yılda bir no|E phone|E after|E ten|E kuralı koydum
+okulda hocamız << there are no stupid questions >> dedi, sonra benim soruma güldü
+annem ingilizce|N öğrenmek için youtube'da|N << english for beginners >> izliyor
+kardeşim her mesajın sonuna << no cap >> yazıyor, ne demek bilmiyorum
+iş yerinde bir arkadaşın emeklilik pastasının üstüne << enjoy retirement >> yazdık
+sevgilimle aramızda bir << you hang up first >> tartışması yaşandı, ikimiz de kapatmadık
+toplantıda müdür << great question >> dedi ve cevap vermedi
+bu ayın lesson'ı|M=lesson+ı: her şeyin bir backupını|M=backup+ını al
+bugün bir small|E win|E: bütün maillere cevap verdim
+arkadaşım her sabah << rise and grind >> yazıp story|E atıyor
+annem bana << take care >> yazınca kendimi çok özel hissettim
+# --- mixed 18 ---
+yeni ofisin dekorasyonu tam bir scandinavian|E minimalism|E örneği
+akşamları bir chamomile|E çayı içmeden uyuyamıyorum
+kardeşim yeni bir rubik|N küpü aldı, bir saatte çözmeyi öğrendi
+yeni bir hobi olarak macrame|E yapmaya başladım, ilk ürünüm bir saksı askısı
+iş yerinde bir arkadaş bütün ekibe homemade|E kurabiye getirdi
+okulun yeni eğitim sisteminde her ders bir flipped|E classroom|E modeli
+arkadaşlarla bir picnic|E planladık, yağmur yağınca salonda yaptık
+yeni telefonumun wallpaperı|M=wallpaper+ı kedimin fotoğrafı
+kardeşim bütün sınav dönemi boyunca bir pomodoro|E timerı|M=timer+ı kullandı
+sevgilimle birlikte bir cooking|E show|E izleyip aynı yemeği yapmaya çalıştık
+okulun kantininde artık bir self-service|E kahve makinesi var
+yeni evimizde bir dishwasher|E olunca bulaşık kavgası bitti
+babam yeni öğrendiği bir podcast|E uygulamasıyla tarih programları dinliyor
+iş yerinde bir arkadaş bana bir productivity|E app'i|M=app+i önerdi, bildirimleri beni çıldırttı
+kardeşim tatilde bir surf|E kampına katıldı, ilk dalgada düştü
+# --- MIXED + NE 19 ---
+ankara'daki|N ofisimizin yeni meeting|E roomları|M=room+ları gezegen isimleri taşıyor
+izmir'deki|N kuzenim bana bir food|E truckta|M=truck+ta çalıştığını söyledi
+antalya'daki|N otelin all-inclusive|E paketinde sadece yerli içecekler varmış
+kadıköy'deki|N bir plak kafede dj|E her gece farklı bir genre|E çalıyor
+bursa'daki|N fabrikada yeni bir automation|E sistemi kuruldu
+istanbul'daki|N konserde sanatçı encorea|M=encore+a üç şarkıyla döndü
+eskişehir'deki|N kampüste bir hackathonun|M=hackathon+un finali yapıldı
+bodrum'daki|N villa partisinde playlisti|M=playlist+i ben hazırladım
+trabzon'daki|N yayla evinde wifi|E yoktu, bütün hafta sonu offline|E kaldık
+kapadokya'daki|N cave|E suiteimizin|M=suite+imizin terası manzaraya bakıyordu
+gaziantep'teki|N baklavacının instagram|N sayfası çok profesyonel
+çanakkale'deki|N bir hostelde|M=hostel+de yabancı backpackerlarla|M=backpacker+larla tanıştım
+mardin'deki|N otelin rooftopunda|M=rooftop+unda gün batımını izledik
+izmit'teki|N fabrikanın yeni plant|E manageri|M=manager+i haftada bir istanbul'a|N geliyor
+sakarya'daki|N kampta bir survival|E workshopuna|M=workshop+una katıldık
+konya'daki|N mevlana|N müzesi'nde|N audio|E guide|E türkçe|N ve ingilizce|N
+adana'daki|N kuzenim bana bir kebab|E reviewı|M=review+ı yolladı, puan dokuz
+muğla'daki|N kamp alanında bir glamping|E çadırında kaldık
+sinop'taki|N sahilde bir beach|E cleanup|E etkinliği yaptık
+rize'deki|N çay fabrikasında bir factory|E tour|E yaptık

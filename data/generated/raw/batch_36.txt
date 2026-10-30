@@ -1,0 +1,142 @@
+# batch 36
+# --- tech workplace 9 ---
+yeni hire|E ettiğimiz data|E scientist|E ilk hafta bütün modelleri|T yeniden eğitti
+müşterinin legacy|E systemini|M=system+ini cloud'a|M=cloud+a taşımak altı ay sürecek
+ekipte code|E freeze|E başladı, release'e|M=release+e kadar kimse merge|E yapamaz
+yeni tooling|E sayesinde build|E süresi yarıya indi
+qa|E ekibi her sprint sonunda regression|E testi yapıyor
+bu hafta on-call|E sırası bende, telefonum hiç susmadı
+incident|E sonrası postmortem|E toplantısında herkes özür diledi
+yeni api|E versiyonunda breaking|E change|E var, müşteriler kızgın
+monitoring|E dashboardunda|M=dashboard+unda bütün grafikler kırmızı
+devops|E ekibi yeni bir ci|E pipelineı|M=pipeline+ı kurdu
+yeni gelen junior|E developer|E her pull|E requestine|M=request+ine detaylı açıklama yazıyor
+mobil uygulamanın crash|E rateini|M=rate+ini düşürmek bu çeyreğin hedefi
+müşteri bizden real-time|E bir dashboard|E istedi
+ürün ekibi yeni featureların|M=feature+ların önceliklerini belirledi
+bu sprintte|M=sprint+te tech|E debte|M=debt+e zaman ayırdık
+backend'deki|M=backend+deki cache|E katmanı sayesinde sayfa çok hızlandı
+yeni bir design|E systeme|M=system+e geçtik, bütün butonlar değişti
+müşterinin security|E auditi|M=audit+i için bütün logları|M=log+ları hazırladık
+staging serverı|M=server+ı yine çöktü, deploy|E ertelendi
+ekip lideri bize weekly|E updatelerimizi|M=update+lerimizi slack'e|N yazmamızı istedi
+# --- NE everyday 10 ---
+hafta sonu eskişehir'e|N gidip sazova|N parkı'nda|N yürüdük
+annemle birlikte bursa'da|N koza|N han'da|N ipek eşarp baktık
+ankara'daki|N kuzenim bize atakule'den|N fotoğraf attı
+istanbul'da|N emirgan|N korusu'nda|N lale festivaline gittik
+izmir'de|N alsancak'ta|N bir kafede çalıştım bütün gün
+trabzon'da|N boztepe'den|N şehri izledik
+antalya'da|N kaleiçi'nde|N eski taş sokaklarda kaybolduk
+kapadokya'da|N göreme'de|N peri bacalarının arasında yürüdük
+çanakkale'de|N kordon'da|N akşam yemeği yedik
+mersin'de|N tantuni|T yemeden dönmedik
+bodrum'da|N gümbet'te|N gece hayatı çok hareketli
+şanlıurfa'da|N balıklıgöl'ü|N gezdik
+rize'de|N ayder|N yaylası'nda|N sis içinde yürüdük
+muğla'da|N akyaka'da|N kitesurf|E yapanları izledik
+sinop'ta|N tarihi cezaevini gezdik, çok etkileyiciydi
+# --- medium mostly TR ---
+sabah işe giderken her gün aynı yaşlı adamı görüyorum, köpeğini gezdiriyor ve herkese selam veriyor
+kardeşim bu yıl ilk kez okulda kitap okuma yarışmasına katıldı ve üçüncü oldu
+annemle babam emekli olduktan sonra her sabah birlikte sahilde yürüyüş yapıyorlar
+dedemin köydeki evinde internet|T yok ama kimse şikayet etmiyor, herkes bahçede oturuyor
+akşam yemeğinden sonra bütün aile televizyonun karşısında yarışma programı izliyor
+okulun bahçesindeki çınar ağacı yüz yaşından büyükmüş, öğretmenimiz anlattı
+yazın her akşam mahallede çocuklar saklambaç oynuyor, sesleri gece yarısına kadar geliyor
+bayram öncesi bütün ev temizlendi, perdeler bile yıkandı
+anneannem bana yıllar önce yazdığı mektupları gösterdi, hepsini saklamış
+kışın kar yağınca okullar tatil olur diye bütün gece pencereden baktık
+babam arabayı yıkarken bütün mahalle çocuklarını da ıslattı
+komşumuzun kızı bu yıl üniversiteyi kazandı, bütün apartmana tatlı dağıttılar
+akşam yürüyüşünde yolda kaybolmuş bir kedi yavrusu bulduk, şimdi bizim evde
+pazartesi sabahı trafik o kadar yoğundu ki işe yürüyerek gitmek daha hızlı oldu
+dün akşam mutfakta annemle birlikte ilk kez mantı yaptık, hamur her yere yapıştı
+# --- little EN 3 ---
+bu akşam evde kalıp sadece kitap okuyacağım, social|E battery|E bitti
+annem bana sabah kahvaltısını hazırlayınca kendimi spoiled|E hissettim
+dedem yeni telefonunda ilk kez selfie|E çekti, yarısı parmağı
+uzun bir haftanın sonunda pazar günü tam bir reset|E günü oldu
+akşam yemeğinde babam yine aynı fıkrayı anlattı, classic|E baba
+bu kış en sevdiğim şey battaniye altında hot|E chocolate|E içmek
+kardeşim bana boomer'sın|M=boomer+sın dedi, aramızda sadece beş yaş var
+sabah kalkıp kahvaltı hazırlamak benim için bir morning|E ritual|E oldu
+akşam balkonda oturup sokağı izlemek benim free|E therapy|E
+bugün işten erken çıktım, kendime bir half|E day|E hediye ettim
+# --- long posts 8 ---
+geçen hafta okulda bir career|E day|E etkinliği vardı, farklı meslekten insanlar gelip işlerini anlattı, en çok ilgi gören kişi bir oyun tasarımcısıydı ve öğrenciler ona saatlerce soru sordu
+bu yaz bir arkadaşımla birlikte bir volunteer|E programına katılıp iki hafta boyunca bir köyde okul boyadık, akşamları köylülerle birlikte yemek yedik ve çocuklara english|E oyunları öğrettik
+kuzenim bir moda tasarımcısı, geçen ay ilk koleksiyonunu bir fashion|E showda|M=show+da tanıttı, bütün aile ön sırada oturdu ve dedem defile boyunca alkışlamayı bırakmadı
+ofiste yeni bir proje için brainstorming|E yaparken herkes fikirlerini whiteboarda|M=whiteboard+a yazdı, sonunda en iyi fikir stajyerden geldi ve proje onun ismiyle anılmaya başladı
+dün akşam arkadaşlarla bir karaoke|E mekanına gittik, ilk şarkıyı kimse söylemek istemedi ama gece sonunda mikrofonu kimse bırakmıyordu ve sesimiz kısılana kadar doksanlar pop'u|M=pop+u söyledik
+annem yıllardır istediği bir piyano aldı, her akşam online|E derslerle çalışıyor, ilk ay sadece tek bir şarkı çalabiliyordu ama şimdi bize misafir geldiğinde mini bir konser veriyor
+geçen ay bir startup|E etkinliğinde jüri üyesi oldum, on iki takım sunum yaptı, en sevdiğim proje yaşlılar için basit bir video|T call|E uygulamasıydı ve birinci oldu
+# --- gaming 4 ---
+yeni sezonda battle|E passı|M=pass+ı almadan oynamak çok sıkıcı
+arkadaşlarla squad|E halinde oynarken voice|E chatte|M=chat+te herkes aynı anda konuşuyor
+bu oyunun skill|E sistemi çok karmaşık, her levelda|M=level+da yeni bir şey açılıyor
+ranked|E maçlarda tilt|E olunca hemen bırakıyorum
+oyunun ending|E cutscenei|M=cutscene+i on dakika sürdü
+yeni karakterin abilityleri|M=ability+leri çok güçlü
+arkadaşım bütün achievementları|M=achievement+ları tamamladı
+oyunu en zor difficultyde|M=difficulty+de bitirdim, gururluyum
+bu haritanın spawn|E noktaları çok kötü tasarlanmış
+streamerın|M=streamer+ın donationları|M=donation+ları bir gecede rekor kırdı
+oyunun beta|E testine katıldım, bir sürü bug|E buldum
+yeni gamepad|E aldım, eski controllerımı|M=controller+ımı kardeşime verdim
+co-op|E görevlerde arkadaşım hep revive|E etmeyi unutuyor
+oyunun open|E worldünde|M=world+ünde saatlerce dolaştım, ana göreve hiç geçmedim
+lootu|M=loot+u paylaşırken takımda kavga çıktı
+oyunun soundtracki|M=soundtrack+i spotify'da|N bile var
+# --- school 4 ---
+dersin teaching|E assistantı|M=assistant+ı bize ödevlerde çok yardım etti
+dönem sonu projemizin deadlineı|M=deadline+ı bir hafta uzatıldı
+sınav haftası flashcardlarla|M=flashcard+larla çalıştım, kelimelerin yarısı aklımda kaldı
+hocanın ders notlarını moodle'a|N yüklemesini bekliyoruz
+sınıf arkadaşımın presentationı|M=presentation+ı çok başarılıydı
+yeni dönemin scheduleı|M=schedule+ı çok sıkışık
+online|E quizlerin|M=quiz+lerin süresi çok kısa
+bu dersin final|T examı|M=exam+ı open|E book|E olacakmış
+hocamız assignmentları|M=assignment+ları geç teslim edenlere puan kırıyor
+kampüsteki career|E fairde|M=fair+de üç şirketle görüştüm
+grup projemizin leaderı|M=leader+ı her şeyi son gün yapıyor
+# --- social media 4 ---
+yeni postumun|M=post+umun captionını|M=caption+ını yazmak bir saat sürdü
+arkadaşımın storysine|M=story+sine yanlışlıkla like|E attım
+instagram'da|N bütün followerlarım|M=follower+larım tatildeymiş gibi görünüyor
+tiktok'ta|N bir trend|E başladı, herkes aynı şarkıyla dans ediyor
+eski tweetlerimi|M=tweet+lerimi okuyunca utandım
+youtube'daki|N commentler|M=comment+ler videodan daha komik
+yeni hashtagimiz|M=hashtag+imiz trend|E oldu
+annem facebook'ta|N paylaştığım her fotoğrafa kalp atıyor
+linkedin'de|N herkes kendi successini|M=success+ini paylaşıyor
+yeni profil fotoğrafıma gelen commentlere|M=comment+lere tek tek cevap verdim
+# --- medium mixed ---
+bu sabah otobüste herkes kulaklık takmış kendi dünyasındaydı, ben de podcast|E açtım
+akşam yemeğinden sonra arkadaşlarla online|E bir quiz|E oynadık
+yeni evimizin balkonuna bir hammock|E astık, bütün hafta sonu orada uyudum
+kardeşim üniversitede bir debate|E turnuvasına katıldı ve finale kaldı
+iş yerinde haftalık team|E lunchlarımız|M=lunch+larımız çok keyifli geçiyor
+annem yeni bir hobi olarak watercolor|E resim yapmaya başladı
+okulda bir talent|E show|E vardı, kardeşim gitar çaldı
+yeni şehirde ilk arkadaşımı bir running|E grubunda edindim
+sevgilimle her cuma akşamı movie|E night|E yapıyoruz
+kuzenim bir food|E photographer|E, yemekleri yemeden önce yarım saat fotoğraflıyor
+akşam yemeği için bir recipe|E videosu izledim, sonuç fena değildi
+dedem ilk kez video|T call|E yaptığında ekranı öptü
+# --- NE + EN 11 ---
+deniz|N ile cem|N bu akşam kadıköy'de|N bir stand-up|E gösterisine gidecek
+ayşe|N hanım|T bize yeni intranet|E sitesini tanıttı
+murat|N netflix'teki|N yeni dizinin ilk sezonunu bir gecede bitirdi
+ebru|N bana sephora'dan|N bir skincare|E seti aldı
+kaan|N ile ece|N bozcaada'da|N bir vineyard|E turuna katıldı
+hasan|N amca|T her sabah bim'den|N gazete ve ekmek alıyor
+irmak|N bana spotify'da|N bir rainy|E day|E playlisti|M=playlist+i yaptı
+oğuz|N youtube'da|N bir unboxing|E videosu çekti, ürün bozuk çıktı
+sinem|N ile tarık|N galata'da|N bir rooftop|E kafede doğum günü kutladı
+emre|N hoca|T derste bize harvard'ın|N bir case|E studysini|M=study+sini okuttu
+nazlı|N trendyol'dan|N aldığı kitapları bir haftada bitirdi
+barış|N bana steam'de|N bir indie|E oyun önerdi
+melike|N ile alp|N kaş'ta|N bir diving|E kursuna yazıldı
+fatma|N teyze|T instagram'da|N her gün bir recipe|E paylaşıyor
+kerem|N bana getir'den|N gece yarısı bir midnight|E snack|E yolladı

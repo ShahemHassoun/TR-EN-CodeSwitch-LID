@@ -1,0 +1,131 @@
+# batch 42
+# --- Turkish TV and celebs ---
+masterchef|N türkiye'de|N bu hafta elenen yarışmacı herkesin favorisiydi
+survivor|N bu sezon o kadar uzun sürdü ki finali kimse hatırlamıyor
+o|N ses|N türkiye'de|N jüri koltuğunu çeviren ilk kişi yine aynı jüri oldu
+kim|N milyoner|N olmak|N ister'de|N yarışmacı joker hakkını ilk soruda kullandı
+yeni çıkan türk|N dizisinin ilk bölümü üç saat sürdü, reklamlarla dört
+bir ünlünün instagram|N storysi|M=story+si yüzünden bütün magazin programları aynı haberi yaptı
+akşam haberlerinde trafik kazası yerine bir ünlünün düğün videosu gösterildi
+yeni yarışma programında sunucu her soruyu üç kere tekrar ediyor
+annem gelinim|N olur|N musun|N programını izleyip bize yorum yapıyor
+türk|N filmlerinin yeni trendi netflix|N için çekilen mini dizi formatı
+# --- house hunting ---
+ev ararken sahibinden'de|N gördüğümüz fotoğraflar hep geniş açı objektifle çekilmiş
+gezdiğimiz evlerin yarısında balkon yoktu, diğer yarısında asansör
+ev sahibi kira artışını whatsapp|N mesajıyla bildirdi, sadece bir emoji|E ekledi
+yeni dairenin aidatı kiradan yüksek çıkınca vazgeçtik
+emlak sitesindeki ilanda deniz manzaralı yazıyordu, denizi görmek için banyonun penceresinden sarkmak gerekiyordu
+ev bakarken her emlakçı aynı cümleyi kurdu: bu fiyata bulamazsınız
+sonunda bulduğumuz evin mutfağı küçük ama güneş bütün gün içeri giriyor
+taşınma firması eşyaları getirirken kanepenin ayağını kırdı
+# --- car and phone shopping ---
+ikinci el araba alırken expertiz raporunda her şey temiz çıktı, bir hafta sonra şanzıman bozuldu
+yeni telefon almak için üç mağaza gezdim, hepsinde aynı fiyat ama farklı hediye
+satış danışmanı bana telefonun ai|E özelliklerini anlattı, hiçbirini kullanmayacağım
+araba galerisinde test|T sürüşü yaparken satıcı bütün yol konuştu
+yeni telefonumun kutusundan şarj aleti çıkmadı, ayrı satılıyormuş
+arabanın yıllık sigortası arabanın değerinin yarısı kadar
+telefon mağazasında bana bir protection|E plan|E satmaya çalıştılar
+yeni arabamızın bagajı bebek arabasını zor alıyor
+# --- cooking at home ---
+akşam yemeği için yeni bir tarif denedim, malzemelerin yarısı evde yoktu
+annemin köfte tarifini yıllardır taklit etmeye çalışıyorum, hâlâ aynı olmuyor
+ilk kez ekşi maya ekmek yaptım, hamur bütün gece kabarmadı
+evde mantı yapmak bir gün sürdü, beş dakikada yendi
+mercimek çorbasına biraz limon sıkınca tadı bambaşka oluyor
+pilavım yine lapa oldu, babam çok güzel dedi ama yüzü öyle demiyordu
+fırında patates yaparken üstüne biraz kekik serptim, herkes bayıldı
+kek yaparken kabartma tozunu unuttum, ortaya bir pancake|E çıktı
+# --- heavy EN/MIXED tech 3 ---
+backendde|M=backend+de rate|E limiting|E olmadığı için bir script|E bütün apiyi|M=api+yi çökertti
+frontendde|M=frontend+de dark|E mode|E toggleı|M=toggle+ı yaparken bütün renkler karıştı
+yeni microservicein|M=microservice+in health|E checki|M=check+i sürekli fail|E veriyor
+production ortamındaki logları|M=log+ları incelerken bir memory|E leak|E bulduk
+cache|E invalidation|E yüzünden kullanıcılar eski fiyatları gördü
+pull|E requestimi|M=request+imi açtım, reviewerım|M=reviewer+ım tatildeymiş
+build|E cache'i|M=cache+i bozulunca bütün testler sıfırdan koştu, yarım gün gitti
+yeni featureı|M=feature+ı feature|E flagin|M=flag+in arkasına sakladık
+database|E indexlerini|M=index+lerini optimize|T edince sorgular on kat hızlandı
+yeni junior|E developer|E commitlerine|M=commit+lerine çok güzel açıklamalar yazıyor
+code|E basede|M=base+de hâlâ eski bir library|E kullanılıyor, kimse güncellemeye cesaret edemiyor
+deployment|E scriptimiz|M=script+imiz cuma akşamı yine patladı
+yeni bir monitoring|E toolu|M=tool+u kurduk, artık her hatayı slacke|N gönderiyor
+api|E dokümanlarımızı swagger|N ile otomatik oluşturuyoruz
+müşterinin ssl|E sertifikası expire|E olunca site açılmadı
+yeni sprintin|M=sprint+in goalu|M=goal+u performans iyileştirmesi
+qa|E ekibi her releasei|M=release+i staging'de|M=staging+de test|T ediyor
+load|E testinde server|E iki yüz kullanıcıda çöktü
+yeni frameworke|M=framework+e geçince bütün componentleri|M=component+leri yeniden yazdık
+open|E source|E kütüphanemize ilk external|E contributionı|M=contribution+ı geldi
+kubernetes|N clusterında|M=cluster+ında bir node|E sürekli restart|E oluyor
+# --- heavy EN/MIXED gaming 5 ---
+yeni patchte|M=patch+te en sevdiğim karakter buff|E aldı
+ranked|E sezonunun sonunda gold|E rankına|M=rank+ına ulaştım
+oyunun matchmakingi|M=matchmaking+i beni hep smurflarla|M=smurf+larla eşleştiriyor
+yeni mapte|M=map+te bütün spawn|E pointleri|M=point+leri ezberledim
+arkadaşımla duo|E queue|E oynarken iletişim çok önemli
+oyunun endgame|E içeriği çok sıkıcı, herkes aynı şeyi farmlıyor|M=farm+lıyor
+yeni skinin|M=skin+in animationları|M=animation+ları çok güzel
+lagdan|M=lag+dan dolayı clutch|E anı kaçırdım
+oyunda guildimizin|M=guild+imizin yeni liderini seçtik
+streamerın|M=streamer+ın speedrun|E rekorunu biri iki saniye geçti
+# --- babies, kids, family events ---
+yeğenim ilk adımlarını attığında bütün aile telefonla video çekiyordu, kimse onu tutmadı
+kuzenimin bebeği için bir baby|E shower|E düzenledik, hediyelerin yarısı aynı body
+bebeğimizin ilk doğum gününde pasta yerine bir smash|E cake|E yaptık, bütün mutfak krema oldu
+kızım okulda bir show|E and|E tell|E için dedesinin eski fotoğraf makinesini götürdü
+oğlumun okul servisi her sabah yedi buçukta geliyor, kahvaltıyı arabada yapıyor
+çocuklarla birlikte evde bir slime|E yaptık, halı hâlâ yapışkan
+kızım ilk kez bir sleepover'a|M=sleepover+a gitti, gece yarısı eve dönmek istedi
+oğlum bütün çizgi film karakterlerini ingilizce|N biliyor, türkçelerini|N bilmiyor
+yeğenim bana her gün yeni bir knock|E knock|E joke'u|M=joke+u anlatıyor
+çocuklar için bir summer|E school|E programına kaydolduk, ilk gün ağladılar
+bebeğimizin sleep|E trainingi|M=training+i iki hafta sürdü, şimdi bütün gece uyuyor
+oğlumun öğretmeni bize her hafta bir newsletter|E gönderiyor
+yeğenimle birlikte bir lego|N treni yaptık, salonun etrafını dolaşıyor
+çocukların ekran süresini azaltmak için akşamları board|E game|E oynuyoruz
+kızım doğum günü için bir unicorn|E temalı parti istiyor, her şey pembe olacak
+# --- weekend and holidays ---
+uzun hafta sonunda bütün şehir boşaldı, istanbul|N trafiğini ilk kez bu kadar rahat gördüm
+yılbaşında evde bir countdown|E partisi yaptık, saat on ikide elektrik kesildi
+bayram tatilinde dokuz gün boyunca hiçbir maile|M=mail+e bakmadım
+cumhuriyet bayramında bütün sokaklar bayraklarla süslendi, akşam fener alayı vardı
+sevgililer gününde restoranların hepsi doluydu, evde yemek yaptık
+anneler günü için annemi bir brunch|E mekanına götürdük, tatlıları çok sevdi
+yaz tatilinde bir haftalığına köye gittik, internet|T yoktu ve kimse şikayet etmedi
+ramazan bayramında kapı kapı dolaşıp şeker toplayan çocuklar bizim apartmana da geldi
+cuma akşamı bir long|E weekend|E başlıyor diye ofiste herkes erken çıktı
+hafta sonu planımız iptal oldu, evde bir pijama günü yaptık
+# --- misc EN medium 8 ---
+arkadaşım yeni işine başladığı gün bana << first day jitters >> yazdı
+iş yerinde yeni bir kural geldi, toplantılar en fazla yarım saat, herkes happy|E
+annem bana sürekli << drink more water >> diye hatırlatma gönderiyor
+kardeşim bana << you're such a mom >> dedi, sadece ceket giymesini söyledim
+# --- sports NE 2 ---
+fenerbahçe'nin|N yeni teknik direktörü ilk maçta üç değişiklik yaptı
+galatasaray|N taraftarları maçtan sonra bütün gece taksim'de|N kutlama yaptı
+beşiktaş'ın|N kalecisi penaltıyı kurtarınca stadyum yıkıldı
+trabzonspor|N bu sezon ligde ilk dördü hedefliyor
+efes'in|N basketbol takımı euroleague'de|N final|N four'a|N kaldı
+milli takımın dünya|N kupası|N elemelerindeki maçı için bütün kafeler doldu
+fenerbahçe|N kadın voleybol takımı yine şampiyon oldu
+nba'de|N alperen|N şengün'ün|N triple-double'ı|M=triple-double+ı bütün sosyal medyada paylaşıldı
+istanbul|N park'taki|N derbide yağmur yüzünden maç yarım saat durdu
+cedi|N osman'ın|N yeni takımı onu sezonun en iyi transferi olarak gösteriyor
+f1'de|N verstappen'in|N pit|E stopu|M=stop+u rekor kısa sürdü
+wimbledon'da|N izlediğim maç dört saat sürdü, son set tie-break'e|M=tie-break+e gitti
+şampiyonlar|N ligi|N kura çekiminde türk|N takımları zor gruplara düştü
+olimpiyatlarda milli okçumuzun madalya aldığı anı herkes tekrar tekrar izledi
+real|N madrid'in|N maçını izlemek için gece yarısına kadar uyanık kaldık
+# --- city life NE 3 ---
+taksim'den|N kabataş'a|N füniküler ile inmek iki dakika sürüyor
+üsküdar'daki|N sahil kafelerinde akşamüstü yer bulmak imkansız
+bebek'teki|N kahveciler hafta sonları çok kalabalık
+sultanahmet'te|N turistlere yol tarif etmek bir hobi oldu
+eminönü'ndeki|N mısır|N çarşısı'nda|N baharat kokusu insanı sarhoş ediyor
+balat'ta|N renkli evlerin önünde fotoğraf çekmek için kuyruk vardı
+kuzguncuk'ta|N eski bir bostan kafeye dönüştürülmüş
+ortaköy'de|N kumpir yemeden dönmek olmaz
+yeldeğirmeni'nde|N yeni bir sanat galerisi açıldı
+çengelköy'de|N çınar altında çay içmek en güzel pazar aktivitesi

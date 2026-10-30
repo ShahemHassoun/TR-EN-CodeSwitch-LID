@@ -1,0 +1,84 @@
+# batch 59
+# --- TR + EN everyday 2 ---
+sabah işe giderken vapurda bir simit alıp martılara attım, biri elimden kaptı
+akşam yemeğinde annem bize yeni bir salad|E dressing|E tarifi denedi
+kardeşim okul servisinde bütün yol boyunca bir audiobook|E dinliyor
+babam bahçede yeni bir compost|E kutusu kurdu, mutfak atıklarını biriktiriyor
+iş yerinde öğle arasında bir chess|E turnuvası düzenledik, müdür ilk turda elendi
+okulda bir arkadaşım her teneffüste ukulele|E çalıyor
+annem yeni bir bread|E maker|E aldı, her sabah ev ekmek kokuyor
+sevgilimle haftada bir gün tech|E free|E akşam yapıyoruz, sadece kitap okuyoruz
+kardeşim bütün gece bir documentary|E izleyip sabah bize uzay hakkında ders verdi
+babaannem yeni öğrendiği bir podcast|E uygulamasında masal dinliyor
+iş yerinde yeni bir standing|E meeting|E kuralı var, kimse oturamıyor
+okulun bahçesinde öğrenciler için bir bird|E feeder|E asıldı
+annem bütün mutfağı bir label|E maker|E ile etiketledi
+kardeşim bir summer|E schoolda|M=school+da robotik öğrendi, şimdi evdeki süpürgeyi programlıyor
+sevgilim bana sabah kahvemin yanına bir sticky|E note|E bırakmış
+# --- MIXED + NE 40 ---
+selin|N spotify'daki|N wrapped'ını|N paylaşınca herkes onun top|E artistine|M=artist+ine güldü
+mert|N youtube'daki|N videosunun thumbnailini|M=thumbnail+ini on kez değiştirdi
+ece|N instagram'daki|N storylerinde|M=story+lerinde her gün bir book|E recommendation|E paylaşıyor
+kaan|N steam'deki|N friend|E listini|M=list+ini temizledi, sadece beş kişi kaldı
+deniz|N linkedin'deki|N profilini|T güncellerken eski fotoğrafını değiştirmeyi unuttu
+burcu|N netflix'teki|N watchlistini|M=watchlist+ini bitirmek için bir yıl uğraştı
+emre|N tiktok'taki|N cooking|E videolarında hep aynı tavayı kullanıyor
+nazlı|N notion'daki|N habit|E trackerını|M=tracker+ını herkese gösterdi
+can|N twitch'teki|N streamlerinde|M=stream+lerinde sadece retro|E oyunlar oynuyor
+ayşe|N zoom'daki|N backgroundunu|M=background+unu bir uzay fotoğrafı yaptı
+oğuz|N github'daki|N projelerine|T bir readme|E dosyası eklemeyi unuttu
+gizem|N pinterest'teki|N recipelerden|M=recipe+lerden birini denedi, sonuç harika
+tolga|N amazon'daki|N reviewlarına|M=review+larına güvenip aldığı kulaklık iki günde bozuldu
+duygu|N canva'daki|N templatelerle|M=template+lerle düğün davetiyesi hazırladı
+berk|N trendyol'daki|N sepetine|T yirmi ürün ekleyip hiçbirini almadı
+# --- big chunk 41 ---
+dün akşam kadıköy'de|N bir rooftopta|M=rooftop+ta arkadaşımın doğum gününü kutladık, rüzgar bütün mumları söndürdü
+iş yerinde yeni bir proje için kickoff|E toplantısı yaptık, herkes kendi tahminini söyledi ve hepsi farklıydı
+kardeşim okulda bir short|E story|E yarışmasında birinci oldu, hikayesi bir kedinin uzay yolculuğu
+annem bir yemek bloggerını|M=blogger+ını takip edip bütün tariflerini sırayla deniyor
+sevgilimle bir weekend|E trip|E için sapanca'ya|N gittik, göl kenarında kahvaltı yaptık
+okulda bir hoca bize bir debate|E yaptırdı, konu sosyal medyanın faydaları
+babam yeni aldığı bir e-bike|E ile işe gidiyor, artık yokuşlardan şikayet etmiyor
+iş yerinde bir arkadaşım her öğle ofisin önündeki food|E trucktan|M=truck+tan aynı burritoyu|M=burrito+yu alıyor
+annem yeni öğrendiği bir knitting|E tekniğiyle bana bir hırka ördü
+kardeşim bütün yaz bir lego|N robotics|E kampına katıldı
+sevgilim bana sabah bir handwritten|E not bırakıp işe gitti, bütün gün okudum
+okulun kantininde yeni bir smoothie|E bar|E açıldı, öğrenciler çok mutlu
+babaannem bize her bayram bir old|E school|E şeker kutusu getiriyor
+iş yerinde yeni bir wellness|E challenge|E başladı, günde on bin adım atan bir ödül kazanıyor
+annemle birlikte bir vintage|E markette eski bir çay takımı bulduk
+kardeşim okulda bir model|A uçak yarışmasında kendi uçağını uçurdu
+sevgilimle birlikte bir gece müzesinde late|E night|E tour|E yaptık
+okulda bir arkadaşım bütün dönem boyunca bir sketchbook|E doldurdu
+babam yeni bir coffee|E grinder|E aldı, her sabah bütün evi uyandırıyor
+iş yerinde haftalık bir lunch|E and|E learn|E oturumunda yapay zeka konuşuldu
+kardeşim bütün akşam bir online|E quiz|E yarışmasında birinci olmaya çalıştı
+sevgilim doğum günümde bana bir polaroid|N kamera hediye etti, ilk fotoğrafı birlikte çektik
+okulun bahçesinde bir outdoor|E movie|E night|E yapıldı, film sırasında yağmur başladı
+babaannem ilk kez bir uber|N çağırdı, şoförle yarım saat sohbet etti
+iş yerinde bir arkadaş bütün ofise bir plant|E care|E rehberi hazırladı
+annem bütün akşam bir puzzle|E app'inde|M=app+inde seviye atladı
+kardeşim okulda bir mock|E interview|E etkinliğinde ilk kez cv|E hazırladı
+sevgilimle birlikte bir bike|E rental|E ile bütün adayı gezdik
+okulda bir hoca derslerde bir kahoot|N quiziyle|M=quiz+iyle başlıyor
+babam yeni öğrendiği bir chess|E appinde|M=app+inde her gece bir maç oynuyor
+iş yerinde yeni bir parking|E policy|E geldi, artık bisikletle gelenlere ödül var
+annem bir youtube|N kanalından öğrendiği bir dessert|E tarifini bayramda yaptı
+# --- MIXED 42 ---
+yeni ofiste herkesin laptopunda|M=laptop+unda aynı wallpaper|E var, şirket logosu
+kardeşim bütün achievementlarını|M=achievement+larını bir excel|N tablosunda tutuyor
+iş yerinde bir arkadaşın farewellına|M=farewell+ına bütün ekip geldi
+annemin smoothie|E tariflerinden birinde zencefil vardı, kimse içemedi
+sevgilimle date|E nightımızın|M=night+ımızın restoranını ben seçtim, kapalı çıktı
+arkadaşımın podcastinde|M=podcast+inde konuşurken sesim çok heyecanlı çıkmış
+yeni gymin|M=gym+in spinning|E classları|M=class+ları sabah altıda
+toplantıdaki presentationın|M=presentation+ın sonunda kimse soru sormadı
+iş yerinde yeni bir onboarding|E videosu çekildi, ben de içindeyim
+yeni restoranın brunch|E menüsü hafta sonları iki saat bekleme demek
+kampüsteki yeni coworking|E alanının wifiı|M=wifi+ı çok hızlı
+annem whatsapp'taki|N statusunu|M=status+unu her gün değiştiriyor
+kardeşim oyunda guildinin|M=guild+inin lideri oldu, şimdi herkes ona soru soruyor
+sevgilimin weekend|E planlarında hep bir brunch|E var
+iş yerinde bütün meetingleri|M=meeting+leri yirmi beş dakikaya indirdik, herkes mutlu
+arkadaşımın startupında|M=startup+ında herkesin unvanında chief|E kelimesi var
+okulun libraryinde|M=library+inde artık kahve içmek serbest

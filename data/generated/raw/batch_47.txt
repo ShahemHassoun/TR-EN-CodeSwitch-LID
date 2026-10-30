@@ -1,0 +1,107 @@
+# batch 47 — longer medium sentences
+bu sabah işe giderken metrobüste yanımdaki adam laptopunu|M=laptop+unu açıp bütün yol boyunca bir excel|N tablosu doldurdu, ben de izledim
+kardeşim yeni aldığı gaming|E headsetiyle|M=headset+iyle annemi duymadığı için akşam yemeğine yarım saat geç geldi
+arkadaşımla birlikte bir thrift|E store'da|M=store+da gezerken eski bir walkman|N bulduk ve içinden doksanlardan kalma bir kaset çıktı
+annem yeni öğrendiği online|E bankacılık uygulamasıyla ilk kez para gönderdi ve sonra bana üç kez gitti mi diye sordu
+iş yerinde yeni bir proje management|E tooluna|M=tool+una geçtik, ilk hafta herkes taskların|M=task+ların nerede olduğunu aradı
+sevgilimle birlikte bir cooking|E classta|M=class+ta italyan|N makarnası yaptık ve şef benimkini ders örneği olarak gösterdi
+okulun kütüphanesinde sınav haftası boyunca yer tutmak için sabah yedide çantasını bırakanlar var
+babam emekli olduktan sonra youtube'da|N bir channel|E açıp eski arabalarla ilgili videolar çekmeye başladı
+yeni taşındığımız mahallede herkes birbirini tanıyor ve bakkal amca bize ilk gün veresiye defteri açtı
+kuzenimin düğününde dj|E halay için türkü çalmayı unutunca bütün akrabalar sahneye çıkıp şikayet etti
+geçen hafta sonu arkadaşlarla bir hiking|E rotasında yürürken yolu kaybettik ve bir köylü bize yolu gösterip çay ikram etti
+kardeşim okulda bir coding|E competitionda|M=competition+da finale kaldı ve ödül olarak bir raspberry|N pi|N kazandı
+iş yerinde haftalık retroda|M=retro+da herkes aynı şeyden şikayet etti ama kimse çözüm önermedi
+annemle birlikte eski fotoğrafları scan|E ederken babamın gençlik fotoğraflarını bulduk ve uzun saçlı olduğunu öğrendik
+yeni işimde bana bir company|E laptop|E verdiler ama admin|E şifresini vermedikleri için hiçbir program kuramıyorum
+sevgilim doğum günümde bana bir hot|E air|E balloon|E turu hediye etti ve kapadokya'da|N güneşin doğuşunu izledik
+okulda yeni bir exchange|E öğrencisi geldi ve ilk gün kantinde simidi tanımadığı için bize ne olduğunu sordu
+kardeşimin bütün odası posterlerle dolu ve en büyüğü sevdiği bir k-pop|E grubunun
+babam yeni aldığı akıllı telefonda bütün mesajlarını sesli yazıyor ve noktalama işaretlerini de yüksek sesle söylüyor
+iş arkadaşım her öğle arasında bir power|E nap|E alıyor ve toplantı odasını kilitliyor
+annem bana sürekli sağlıklı tarifler gönderiyor ama kendisi her akşam baklava yiyor
+arkadaşımın evinde bir game|E nightta|M=night+ta oynadığımız kart oyunu yüzünden iki saat tartıştık
+geçen hafta okulda bir alumni|E buluşması vardı ve eski öğretmenim beni hemen tanıdı
+kardeşim tatilde bir surfing|E dersine gitti ve ilk dalgada tahtasını kaybetti
+yeni ofisimizde bir game|E room|E var ama kimse işten vakit bulup oynayamıyor
+# --- longer EN/MIXED/NE ---
+can|N ile ece|N geçen ay netflix'in|N istanbul|N ofisinde bir screening|E eventine|M=event+ine davet edildi ve dizinin cast'iyle|M=cast+iyle tanıştı
+selin|N linkedin'de|N bir post|E paylaşıp yeni işini duyurdu ve iki gün içinde beş yüz congratulations|E yorumu aldı
+kerem|N spotify'da|N kendi playlistlerini|M=playlist+lerini paylaşmaya başladı ve bir tanesi bin followera|M=follower+a ulaştı
+mert|N ile defne|N bodrum'daki|N bir resortta|M=resort+ta balayında snorkeling|E yaparken bir ahtapot gördü
+ayşe|N hoca|T derste bize bir machine|E learning|E modelinin|T nasıl overfit|E olduğunu gösterdi ve hepimiz şaşırdık
+burak|N steam'deki|N indirimde aldığı oyunu bir hafta boyunca oynayıp yüz saat playtime|E yaptı
+deniz|N youtube'da|N bir travel|E vlog|E serisi başlattı ve ilk bölümde gürcistan'da|N kaybolduğu anları çekti
+irem|N instagram'daki|N küçük bakery|E sayfasına gelen siparişlere yetişemiyor ve şimdi bir partner|E arıyor
+ozan|N trendyol'da|N aldığı mechanical|E keyboardun|M=keyboard+un switchlerini|M=switch+lerini değiştirmek için bir tutorial|E izledi
+gizem|N ile tolga|N airbnb'den|N kiraladıkları evde wifi|E çalışmayınca bütün hafta sonu kart oyunu oynadı
+cem|N whatsapp'ta|N bize bir poll|E atıp hafta sonu nereye gideceğimizi sordu ve sonuç berabere çıktı
+nazlı|N figma'da|N hazırladığı mockupları|M=mockup+ları müşteriye sunduğunda müşteri hepsini beğendi
+batu|N bana amazon'dan|N bir kindle|N hediye etti ve ilk kitap olarak bir sci-fi|E serisi yükledi
+pelin|N zoom'daki|N meetingte|M=meeting+te kamerasını kapatmayı unutup kahvaltı yaparken herkese göründü
+yusuf|N google|N maps'te|N kendi kafesini ekleyince ilk hafta yirmi yeni müşteri geldi
+hande|N ile berk|N tiktok'ta|N bir couple|E challenge|E videosu çekti ve video viral|E oldu
+okan|N hoca|T derste bize harvard'ın|N bir online|E dersinden bir case|E studyi|M=study+i tartıştırdı
+derya|N bana pinterest'te|N bir home|E office|E board'u|M=board+u yolladı ve aynısını yapmaya karar verdik
+emre|N ile ilayda|N kadıköy'deki|N bir escape|E roomda|M=room+da rekor kırınca duvara isimleri yazıldı
+şule|N bana instagram'dan|N bir second|E hand|E sayfası önerdi ve oradan bir vintage|E çanta aldım
+# --- longer MIXED unapostrophed ---
+toplantıda managerımız|M=manager+ımız bütün teamin|M=team+in önünde bizim projemizi örnek olarak gösterince çok gururlandım
+yeni laptopuma|M=laptop+uma bütün development|E toollarını|M=tool+larını kurmak bir günümü aldı ama sonunda her şey çalıştı
+kardeşimin youtube|N kanalındaki videoların thumbnaillerini|M=thumbnail+lerini ben tasarlıyorum ve karşılığında bana bulaşık yıkıyor
+sevgilimle birlikte hazırladığımız road|E trip|E playlistinde|M=playlist+inde üç yüz şarkı vardı ve yolculuk bitince hâlâ yarısındaydık
+arkadaşımın startupının|M=startup+ının ilk ofisi bir garajdı ama şimdi levent'te|N bir plazada iki kat kiraladılar
+iş yerindeki feedback|E formlarını|T doldururken hep aynı şeyleri yazıyorum çünkü hiçbir şey değişmiyor
+yeni dizinin trailerını|M=trailer+ını izledikten sonra bütün teorileri okumak için reddit'te|N iki saat geçirdim
+kampüsteki kariyer günündeki recruiterlarla|M=recruiter+larla konuşurken cvmin|M=cv+min tek sayfa olması gerektiğini öğrendim
+annemin facebook'ta|N paylaştığı tarif videosunun commentlerinde|M=comment+lerinde herkes kendi annesinin tarifini savunuyordu
+kardeşim bütün gece bir oyunun bossunu|M=boss+unu yenmeye çalıştı ve sabah kahvaltıda başardığını bağırarak anlattı
+sabahki standupta|M=standup+ta herkes blockerlarını|M=blocker+larını söylerken müdür sadece takvimine bakıyordu
+yeni gymimdeki|M=gym+imdeki trainer|E bana bir haftalık workout|E planı yaptı ve ilk gün merdivenleri inemedim
+arkadaşımın vlogunda|M=vlog+unda bizim evde çekilen bir sahne vardı ve annem videoyu yüz kez izledi
+kafedeki baristanın|M=barista+nın yaptığı latte|E artlar|M=art+lar o kadar güzel ki içmeye kıyamıyorum
+iş yerindeki slack|N kanallarından birinde herkes her sabah bir good|E morning|E gifi|M=gif+i paylaşıyor
+yeni sneakerlarımı|M=sneaker+larımı giydiğim ilk gün yağmur başladı ve bütün yolu su birikintilerinden kaçarak yürüdüm
+# --- longer TR + few EN ---
+dedemin köydeki evine giderken yolda bir çoban sürüsü yüzünden yarım saat bekledik ve kardeşim bütün koyunların fotoğrafını çekti
+annem bütün yaz boyunca balkonda domates ve biber yetiştirdi, sonunda bütün apartmana dağıttı
+okulun son gününde öğretmenimiz bize her birimiz için ayrı bir mektup yazmıştı ve hepimiz ağladık
+babam yıllardır aynı futbol takımını tutuyor ve kaybettikleri her maçtan sonra bir gün konuşmuyor
+kış tatilinde bütün aile dağ evine gittik ve elektrik kesilince şömine başında masal anlattık
+kardeşim ilk kez bir yüzme yarışmasına katıldı ve havuzdan çıkınca ilk iş tribündeki anneme el salladı
+mahallemizdeki eski kitapçı kapanmadan önce bütün kitaplarını yarı fiyatına sattı ve ben bir kutu dolusu aldım
+bayram sabahı dedem bütün torunlarını sıraya dizip harçlık dağıttı ve en küçüğe en fazlasını verdi
+geçen hafta yolda kaybolmuş bir köpek bulduk ve tasmasındaki numarayı arayınca sahibi ağlayarak geldi
+annemle birlikte pazara gittiğimizde her satıcı onu tanıyor ve en güzel meyveleri ona ayırıyor
+okulun bahçesinde öğrenciler bir sebze bahçesi yaptı ve hasat gününde kantinde salata yapıldı
+kardeşim yeni bisikletiyle ilk kez mahallenin dışına çıktı ve annem bütün gün pencereden yolu izledi
+akşam yemeğinde babam bize gençliğinde çalıştığı ilk işi anlattı, bir matbaada çırakmış
+babaannem doksan yaşında ama hâlâ her sabah kendi kahvaltısını hazırlıyor ve kimsenin yardımını istemiyor
+yağmurlu bir günde otobüs durağında beklerken yanımdaki teyze şemsiyesini benimle paylaştı
+# --- longer EN quotes 2 ---
+iş görüşmesinde bana << tell me about a time you failed >> diye sordular ve ilk aklıma gelen şey sabahki kahve kazasıydı
+arkadaşım her ayrılıktan sonra << this is my villain era >> diyor ama bir hafta sonra yine aynı kişiye mesaj atıyor
+toplantının sonunda müdürüm << let's sync next week >> dedi ve takvime yeni bir toplantı ekledi, zaten haftada beş toplantımız var
+kardeşim bana bir oyunda << just one more game >> deyip üç saat daha oynadı ve sabaha karşı uyudu
+annem bana her sabah << don't forget your umbrella >> yazıyor, güneşli günlerde bile
+sevgilim bana bir gün << i made dinner >> yazınca çok heyecanlandım, makarna ve ketçaptı
+iş yerinde bir arkadaş her maile << hope this email finds you well >> diye başlıyor, en acil maillerde bile
+# --- mixed medium 23 ---
+yeni koşu ayakkabılarımın cushionı|M=cushion+ı o kadar yumuşak ki bulutta yürüyorum
+annemin yeni smartphoneunda|M=smartphone+unda bütün uygulamaları ben düzenledim
+kardeşim yeni bir drawing|E tabletiyle dijital resim yapıyor
+iş yerinde bir arkadaşın emeklilik videosunu ben editledim|M=edit+ledim
+yeni ofisin breakout|E areası|M=area+sı her zaman dolu
+kardeşimin youtube|N kanalında yeni bir seriesi|M=series+i başladı
+arkadaşımın podcastinde|M=podcast+inde ilk kez konuk oldum, mikrofonla konuşmak zormuş
+annem bütün akşamı bir puzzle|E ile geçirdi
+iş yerinde haftalık bir tech|E talk|E serisi başladı, ilk konuşmacı bendim
+yeni bir dizi için watchlistimi|M=watchlist+imi temizledim
+kafede yanımdaki adam bütün gün bir zoom|N callda|M=call+da bağırdı
+okulda bir arkadaşım bütün notlarını notion'da|N tutuyor, çok düzenli
+annemle birlikte bir online|E stretching|E dersine katıldık, ikimiz de esnek değiliz
+kardeşim bir summer|E internshipte|M=internship+te ilk maaşını aldı
+yeni dairemizin interiorunu|M=interior+unu bir pinterest|N boardundan|M=board+undan ilham alarak yaptık
+iş yerinde yeni bir stand-up|E toplantısı formatı denendi, herkes ayakta yoruldu
+sevgilimle couple|E goals|E dediğimiz şey birlikte bulaşık yıkamak
+okulun yeni study|E roomları|M=room+ları sınav haftasında dolup taşıyor

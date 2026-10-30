@@ -1,0 +1,134 @@
+# batch 39
+# --- MIXED natural 11 ---
+yeni gelen interne|M=intern+e ilk gün bütün toolları|M=tool+ları gösterdim
+sevgilimin playlistinden|M=playlist+inden yeni şarkılar keşfettim
+arkadaşımın vlogunu|M=vlog+unu izlerken kendimi ekranda gördüm
+annem gönderdiğim linki|M=link+i açamadı, bana telefonla sordu
+kardeşim bütün weekendi|M=weekend+i oyun oynayarak geçirdi
+hocanın feedbacklerinden|M=feedback+lerinden sonra bütün raporu yeniden yazdım
+bu sabahki meetingde|M=meeting+de herkes uykuluydu
+yeni projenin deadlineına|M=deadline+ına iki gün kaldı
+arkadaşımın podcastine|M=podcast+ine konuk olarak çağrıldım
+yeni laptopumun|M=laptop+umun ekranı çok parlak
+kardeşim odasına neon|E ışıklar taktı, gece uzaydan görünüyor
+kafedeki baristanın|M=barista+nın latte|E artı|M=art+ı her gün farklı
+dünkü concertte|M=concert+te en önde durduk
+iş yerindeki slack|N kanallarının yarısı sessize alınmış
+ilk buluşmamızda sevgilim menüdeki her şeyin caloriesini|M=calories+ini sordu, garson şaşırdı
+yeni telefonumun storageı|M=storage+ı şimdiden doldu
+dizinin endingini|M=ending+ini kimse beğenmedi
+kardeşim bütün snackleri|M=snack+leri saklıyor
+toplantının recordingini|M=recording+ini sonra izledim
+yeni bir hobbyye|M=hobby+ye başlamak istiyorum
+spor salonundaki trainerlar|M=trainer+lar çok sert
+ofisteki printerı|M=printer+ı kimse tamir etmiyor
+yeni sezonun trailerı|M=trailer+ı çok etkileyici
+sabah coffeemi|M=coffee+mi döktüm, günüm kötü başladı
+kampüsteki clublara|M=club+lara katılmak için kuyruk vardı
+yeni restoranın reviewları|M=review+ları çok karışık
+# --- everyday TR 4 ---
+akşam eve dönerken yolda bir sokak kedisi beni takip etti
+annem bu hafta sonu bütün aileyi yemeğe çağırdı
+kardeşim yeni bisikletiyle bütün mahalleyi dolaştı
+babamın eski radyosu hâlâ çalışıyor, her sabah haberleri dinliyor
+bu sabah otobüste yanımdaki çocuk bana bütün dinozorları saydı
+pazar günü bütün aile birlikte eski bir filmi izledik
+dedem bize her bayram harçlık verir, bu yıl da unutmadı
+mahallenin camisinden gelen ezan sesiyle uyandım
+okulda bugün yangın tatbikatı vardı, herkes bahçeye çıktı
+akşam yemeğinde annem en sevdiğim yemeği yapmış, dolma
+komşunun çocukları balkondan bize el sallıyor
+yazın her akşam sahilde dondurma yemek bir alışkanlık oldu
+kardeşimin dişi düştü, yastığın altına koydu
+babaannemin bahçesindeki gülleri sulamak benim görevim
+kışın evin her yeri sıcak ama banyo hep soğuk
+# --- specific detailed lines ---
+salı akşamı saat dokuzda başlayan webinar'a|M=webinar+a katılan yüz kişiden sadece on ikisi kamerasını açtı
+üsküdar'dan|N karaköy'e|N giden son vapuru kaçırınca marmaray'la|N döndüm, eve vardığımda saat birdi
+kardeşim yedinci sınıfta ve okul projesi için evdeki bütün pilleri toplayıp bir mini|E generator|E yaptı
+babam altmış yaşında ilk kez bir escape|E room'a|M=room+a girdi ve bütün ipuçlarını bizden önce buldu
+annem kırk yıllık börek tarifini bir food|E bloggera|M=blogger+a anlattı, şimdi internette annemin adıyla dolaşıyor
+geçen perşembe ofiste internet|T kesilince yirmi kişi aynı anda telefonundan hotspot|E açtı ve hiçbiri çalışmadı
+ikinci el aldığım bisikletin zinciri ilk gün koptu, satıcı bana << as is >> yazdığını hatırlattı
+kadıköy'de|N saat üçte açılan bir sahafta bir agatha|N christie|N kitabının ilk baskısını buldum
+lise mezuniyetinin onuncu yılında sınıfça buluştuk, en çok değişen kişi en sessiz arkadaşımızdı, şimdi bir stand-up|E komedyeni
+kardeşim tiktok'ta|N tek bir videoyla iki yüz bin izlenme aldı, video kedimizin hapşırmasıydı
+iş yerinde yeni gelen müdür ilk gün herkese elle yazılmış birer welcome|E kartı bıraktı
+bir yıl boyunca her gün duolingo|N ile ispanyolca|N çalıştım, madrid'de|N kahve sipariş ederken yine ingilizceye|N döndüm
+babaannemin doksanıncı doğum gününde bütün torunları bir slideshow|E hazırladı, kendisi en çok kendi düğün fotoğrafına güldü
+geçen yaz ayvalık'ta|N kaldığımız pansiyonun sahibi her sabah kahvaltıya kendi yaptığı zeytinyağını getiriyordu
+kuzenim tıp fakültesinde ve ilk anatomi sınavından önce bütün kemiklerin adlarını bir rap|E şarkısına çevirdi
+yeni taşındığımız sitede herkesin aynı model|T bisikleti var, hangisinin bizimki olduğunu bulmak zor
+şirket yemeğinde müdürümüz karaoke|E makinesine ilk çıkan oldu ve bütün gece bırakmadı
+annem whatsapp'ta|N sesli mesajın nasıl gönderildiğini öğrenince bize sekiz dakikalık bir mesaj attı
+bir arkadaşım tatile çıkarken kedisini bana bıraktı, kedi bir hafta boyunca benimle konuşmadı ve sadece arkadaşımın sweatshirtünün|M=sweatshirt+ünün üstünde uyudu
+kardeşimin okul servisi sabah yedide geliyor ve şoför her gün aynı türkçe|N pop şarkısını açıyor
+# --- EN + NE specific ---
+spotify|N wrapped'im|N bu yıl bana top|E one|E percent|E listener|E olduğumu söyledi, utandım
+netflix'te|N << are you still watching? >> sorusu gelince kendimi sorguladım
+cuma akşamı beşiktaş'ta|N bir pub|E quiz'de|M=quiz+de film kategorisinde full|E puan aldık
+uber|N şoförü bütün yol boyunca bana kendi crypto|E portfolio'sunu|M=portfolio+sunu anlattı
+linkedin'de|N bir recruiter|E bana << we came across your profile >> diye yazdı, iş tamamen alakasız
+youtube'da|N bir lo-fi|E hip|E hop|E stream'i|M=stream+i açıp bütün gece tez yazdım
+instagram'da|N bir giveaway'e|M=giveaway+e katıldım ve gerçekten bir airpods|N kazandım
+amazon'dan|N aldığım coffee|E grinder|E o kadar gürültülü ki komşular şikayet etti
+duolingo|N baykuşu bana << these reminders don't seem to be working >> yazdı, haklı
+iş yerinde biri bütün maillerin sonuna << best regards >> yerine << cheers >> yazıyor
+starbucks'ta|N barista|E adımı << sha-hem >> diye yazdı, fotoğrafını çektim
+google|N maps|N bana << you have arrived >> dediğinde bir tarlanın ortasındaydım
+ikea'da|N kaybolunca bir çalışan bana << follow the arrows >> dedi, oklar beni yine aynı yere getirdi
+epic|N games|N her hafta bedava oyun veriyor, kütüphanemde iki yüz oyun var ve hiçbirini indirmedim
+zoom|N toplantısında birinin << you're on mute >> uyarısını beş kişi aynı anda yazdı
+tiktok'ta|N izlediğim bir life|E hack|E yüzünden mutfaktaki bütün baharatları yeniden düzenledim
+apple|N watch'ım|N toplantının ortasında << time to stand >> dedi, herkes bana baktı
+chatgpt'ye|N bir tarif sordum, malzemelerin yarısı evde yoktu ve bana << feel free to substitute >> dedi
+twitch'te|N izlediğim yayıncı chat'e|M=chat+e << thanks for the follow >> yazınca kendimi özel hissettim
+# --- MIXED + EN medium ---
+deadline|E yaklaştıkça productivity|E seviyem garip bir şekilde artıyor
+yeni ofiste herkesin masasında bir plant|E var, benimki şimdiden sarardı
+bu hafta sonu bir digital|E detox|E yapacağım dedim, pazartesi ekran süresi rekor kırdı
+annem yeni öğrendiği << lol >> kısaltmasını << lots of love >> sanıyormuş, taziye mesajına bile yazmış
+toplantıda biri ekranını paylaşınca herkes onun açık tablarını|M=tab+larını gördü, birinde iş ilanları vardı
+yeni şirkette onboarding|E checklistinde|M=checklist+inde kırk madde var, ilki laptop|E teslim almak
+sınav haftası kütüphanede biri sessiz olun diye bir note|E bıraktı, altına biri << ok boomer >> yazmış
+arkadaşım bana self-help|E kitabı önerirken kendisi hiçbir tavsiyeye uymuyor
+yeni aldığım smart|E tv|E her açılışta bana yeni bir update|E indiriyor
+yazın yaptığımız road|E tripte|M=trip+te arabanın klimasını açınca motor overheat|E oldu
+kardeşim bütün tatil boyunca sadece minecraft'ta|N bir şato yaptı
+# --- specific detailed 2 ---
+bu sabah markette kasada önümdeki çocuk bütün kumbarasını boşaltıp bir sticker|E albümü aldı
+şirketin yılbaşı partisinde dj|E bütün gece aynı tarkan|N şarkısını çaldı, kimse şikayet etmedi
+yeni evimizin kombisi ilk kış günü bozuldu, teknisyen gelip sadece reset|E tuşuna bastı ve ücret aldı
+okul gezisinde müzeye giderken otobüste herkes aynı anda aynı mobile|E oyunu oynuyordu
+dedem bana gençliğinde sinemada izlediği ilk filmi anlattı, yıllar sonra internette bulup birlikte izledik
+geçen hafta bir arkadaşımın düğününde gelin ve damat first|E dance|E için tango hazırlamıştı, herkes ayakta alkışladı
+kardeşim on üç yaşında ve bana her gün yeni bir slang|E kelime öğretiyor, en son öğrendiğim rizz|E
+annem online|E alışverişte ilk kez bir ürün iade etti ve süreç o kadar kolay geldi ki şimdi her şeyi iade ediyor
+bayram sabahı dedemin evinde yirmi kişi kahvaltı yaptık, masa bahçeye kadar uzadı
+yeni işimde ilk hafta herkes bana farklı bir kısaltma öğretti, cuma günü hâlâ okr|E ile kpi|E arasındaki farkı bilmiyordum
+mahallemizdeki fırının sahibi sabah altıda ekmek çıkarırken her gün aynı şarkıyı mırıldanıyor
+kuzenimle birlikte izmir'de|N bir sahil kafesinde saatlerce oturduk ve sadece bir çay içtik, garson bize hiç kızmadı
+geçen kış kar yağdığında üniversite kampüsünde bütün öğrenciler bir snowball|E fight|E başlattı, hocalar bile katıldı
+annem yeni aldığı robot süpürgeye bir isim verdi ve onunla konuşuyor
+kardeşimin doğum günü pastası unicorn|E temalıydı ve bütün gece herkesin dili mor kaldı
+babam yeni telefonunda font|E boyutunu en büyük yaptı, ekranda aynı anda sadece dört kelime görünüyor
+# --- MIXED/NE specific ---
+kadıköy'deki|N plakçıda bulduğum barış|N manço|N albümünün coverı|M=cover+ı yırtıktı ama sesi kristal gibi
+sevgilim beşiktaş'ın|N maçında stadyumda bir proposal|E yaptı, ekranda bütün stadyum izledi
+yeni işimdeki ilk performance|E reviewımda|M=review+ımda müdürüm bana sadece tek bir cümle yazmıştı ve o da << keep going >> idi
+izmir'deki|N konferansta yaptığım sunumun slidelarını|M=slide+larını hotel|E odasında son dakika değiştirdim
+kardeşim ankara'daki|N bir hackathonda|M=hackathon+da birinci olunca ödül olarak bir macbook|N kazandı
+annem facebook'ta|N bir yemek grubunun adminliğini|M=admin+liğini yapıyor, her gün yüz post|E onaylıyor
+bodrum'daki|N otelde concierge|E bize en iyi balık restoranını önerdi, restoran kendi akrabasınınmış
+istanbul|N maratonu'nda|N bitiş çizgisinde bir finisher|E madalyası verdiler, hâlâ duvarımda asılı
+uber'den|N çağırdığım arabanın şoförü yolda bana bütün türk|N rock tarihini anlattı
+netflix'teki|N kore|N dizisini izledikten sonra kimchi|A yapmaya çalıştım, mutfak bir hafta koktu
+iş yerindeki slack|N workspaceimizde|M=workspace+imizde yüz yirmi kanal var, sadece üçünü okuyorum
+spotify'daki|N podcastimin|M=podcast+imin ilk bölümünü sadece annem ve teyzem dinledi
+youtube'da|N bir chess|E streamerını|M=streamer+ını izleyerek satranca başladım, şimdi babamı yeniyorum
+trendyol'dan|N sipariş ettiğim ceketin rengi fotoğraftakinden üç ton açık geldi, return|E talebi açtım
+linkedin'de|N eski müdürüm bana leadership|E konusunda bir endorsement|E vermiş, ne zaman lider oldum bilmiyorum
+airbnb'de|N kaldığımız evin host'u|M=host+u bize her sabah taze simit getirdi
+instagram'daki|N bir ilan sayesinde bir pottery|E atölyesine yazıldım, ilk kasem fırında çatladı
+github'daki|N projeme ilk kez tanımadığım biri issue|E açtı, o kadar sevindim ki hemen fixledim|M=fix+ledim
+steam'deki|N incelememe yüz kişi helpful|E demiş, hayatımın en büyük başarısı

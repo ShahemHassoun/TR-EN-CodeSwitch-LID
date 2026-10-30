@@ -1,0 +1,75 @@
+# batch 54
+# --- MIXED unapostrophed 34 ---
+müşteriyle yaptığımız callda|M=call+da internet|T kesilince bütün sunumu telefondan yaptım
+yeni projenin requirementlarını|M=requirement+larını üç farklı dokümandan topladım
+annem bütün tariflerini bir notion|N sayfasına taşıdı, şimdi linkini|M=link+ini herkese atıyor
+kardeşimin gaming|E chairının|M=chair+ının tekerleği kırılınca yere oturup oynadı
+iş yerindeki slack|N channellarının|M=channel+larının yarısı sadece emoji|E içeriyor
+sevgilimin weekend|E brunchları|M=brunch+ları bütün hafta sonumu kaplıyor
+arkadaşımın vlogunda|M=vlog+unda kullandığı müziğin copyrighti|M=copyright+i yüzünden video kaldırıldı
+yeni sezonun episodeları|M=episode+ları haftada bir çıkıyor, binge|E yapamıyorum
+kampüsteki printerların|M=printer+ların hepsi sınav haftası bozuldu
+okulun yeni scheduleında|M=schedule+ında öğle arası yirmi dakika
+yeni gymin|M=gym+in classlarına|M=class+larına online|E kayıt yapılıyor
+kardeşim bütün weekendi|M=weekend+i bir puzzle|E ile geçirdi
+annemin smoothielerinden|M=smoothie+lerinden kaçmak için sabah erken çıkıyorum
+iş arkadaşımın laptopunda|M=laptop+unda yüz tane sticker|E var
+toplantıdaki presentationımın|M=presentation+ımın son slideı|M=slide+ı açılmadı
+yeni restoranın menüsündeki dessertler|M=dessert+ler fotoğraftakinden küçük
+arkadaşımın birthday|E partysi|M=party+si sürpriz olacaktı, kendisi organize|T etti
+yeni telefonumun storageını|M=storage+ını upgrade|E etmek için ekstra para ödedim
+okulun cafeteriasında|M=cafeteria+sında bugün sadece makarna vardı
+yeni kulaklığımın bluetoothu|M=bluetooth+u iki cihaza aynı anda bağlanıyor
+kardeşimin tiktok|N followerları|M=follower+ları benimkinden fazla
+iş yerinde haftalık reportların|M=report+ların formatı yine değişti
+# --- NE + EN 21 ---
+sinem|N ile tarık|N geçen ay kapadokya'da|N bir hot|E air|E balloon|E turuna çıktı
+kaan|N bana amazon|N prime'da|N bir true|E crime|E belgeseli önerdi
+gülay|N hanım|T toplantıda microsoft|N teams'in|N yeni featurelarını|M=feature+larını gösterdi
+emir|N ile defne|N bodrum'da|N bir paddle|E board|E dersine katıldı
+ali|N bana steam'de|N bir survival|E game|E hediye etti
+nehir|N ile can|N izmir'de|N bir street|E food|E festivalinde gezdi
+oya|N teyze|T youtube'da|N bir gardening|E channelı|M=channel+ı takip ediyor
+batu|N ile selin|N kadıköy'de|N bir vinyl|E night|E etkinliğine gitti
+merve|N bana pinterest'te|N bir home|E decor|E boardu|M=board+u attı
+kerem|N hoca|T derste bize coursera'daki|N bir python|N kursunu önerdi
+# --- TR long 4 ---
+geçen hafta sonu bütün aile babaannemin evinde toplandık, kadınlar mutfakta sarma sararken erkekler bahçede mangal yaktı ve çocuklar bütün gün saklambaç oynadı
+kardeşim okul gezisinde ilk kez bir müzeye gitti, eve dönünce bize gördüğü bütün eserleri tek tek anlattı ve en çok mumyaları sevdiğini söyledi
+annem bu yıl ilk kez kendi başına bir şehirlerarası yolculuk yaptı, otobüste yanındaki teyzeyle arkadaş oldu ve şimdi her hafta telefonla konuşuyorlar
+babam emekli olduktan sonra her sabah balkonda gazetesini okuyup çayını içiyor ve öğlene kadar sokaktan geçen herkesle selamlaşıyor
+yağmurlu bir pazar günü kardeşimle birlikte eski albümleri çıkardık, kendi bebeklik fotoğraflarımıza bakıp saatlerce güldük
+mahallenin pazarında her hafta aynı teyzeden sebze alıyoruz, bize her seferinde bir avuç maydanoz hediye ediyor
+okulun son gününde bütün sınıf bahçede bir piknik yaptı ve öğretmenimiz bize birer kitap hediye etti
+dedem köyde yaşadığı evi satmak istemiyor, her yaz oraya gidip bahçesindeki ağaçlarla ilgileniyor
+kışın kar yağınca mahalledeki bütün çocuklar yokuştan kızakla kaydı, akşam herkes sırılsıklam eve döndü
+annem her bayramdan önce bütün evi baştan aşağı temizliyor ve bizim de yardım etmemizi bekliyor
+# --- medium mixed 35 ---
+iş yerinde bir arkadaşın baby|E showerı|M=shower+ı için ofisi balonlarla süsledik
+okulda bir sınıf arkadaşım bütün notlarını bir tablette|T tutuyor ve renkli kalemlerle süslüyor
+sevgilim bana bir weekend|E getaway|E planladı, nereye gittiğimizi otobüste öğrendim
+kardeşim yeni aldığı skateboardla|M=skateboard+la ilk gün dizini yaraladı
+annem bir yemek programında gördüğü tarifi denedi, sonuç bir masterpiece|E oldu
+iş yerinde yeni bir mentoring|E sessionında|M=session+ında kariyer planlaması konuştuk
+babaannem bize yeni öğrendiği bir emoji|E kombinasyonu gönderdi, anlamını bilmiyoruz
+okulun yeni sports|E fieldında|M=field+ında ilk maç yapıldı
+arkadaşım bana bir indie|E film önerdi, sonu çok açıktı
+kardeşim bütün gece bir minecraft|N serverında|M=server+ında arkadaşlarıyla oynadı
+# --- balanced 36 ---
+kahvaltıda annem bize bir french|E toast|E yaptı, babam simit istedi
+iş yerinde yeni gelen bir arkadaş bütün ekibe kendi ülkesinden getirdiği çikolatalardan dağıttı
+kardeşim okulda bir drama|E clubına|M=club+ına katıldı, ilk oyunda ağaç rolü verildi
+sevgilimle birlikte bir pottery|E café'de|M=café+de kendi kupalarımızı boyadık
+okulda bir hoca bize derste bir ted|N talk|N izletti, konu motivasyon
+annem yeni bir zumba|E kursuna yazıldı, her akşam salonda prova yapıyor
+iş yerinde bir arkadaşın emeklilik partisinde bir slideshow|E gösterdik, herkes ağladı
+babam yeni öğrendiği bir navigation|E appiyle|M=app+iyle bizi bir köy yoluna soktu
+kardeşim bütün yaz bir surf|E schoolda|M=school+da çalıştı
+okulun yeni libraryinde|M=library+inde bir silent|E disco|E etkinliği yapıldı, herkes kulaklıkla dans etti
+arkadaşım bana bir minimalism|E kitabı hediye etti, ironik bir şekilde çok kalındı
+iş yerinde haftalık bir coffee|E tasting|E etkinliği var, herkes farklı bir kahve getiriyor
+kardeşim okulda bir robotics|E yarışmasında robotunu tasarladı, robot ilk turda devrildi
+annem bütün akşam bir netflix|N dizisine takılıp yemeği yaktı
+okulda bir arkadaşım bir campus|E radio|E programı yapıyor, her cuma yayında
+babaannem ilk kez bir online|E video|T call'a|M=call+a katıldı ve herkese el salladı
+iş yerinde yeni bir hybrid|E schedulea|M=schedule+a geçtik, salı ve perşembe ofisteyiz

@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) 2026 The Avengers (TR-EN-CodeSwitch-LID team)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Third-party code:
+The code in turengmix/, src/run_llm.py and the prompts prompts/lid_zero_shot.txt and
+prompts/lid_few_shot.txt come from TurEngMix (https://github.com/kemnguyenle/TurEngMix)
+and are also under the MIT License. src/train_encoder.py is adapted from their
+scripts/train_encoder.py (same training settings).
+See turengmix/LICENSE_TURENGMIX_MIT.txt.
+
+Data:
+This licence covers code only. The TurEngMix data (data/benchmark.csv, data/splits/)
+is under CC BY-NC-SA 4.0 (see data/TURENGMIX_DATA_LICENSE), and our generated dataset
+(data/generated/) is under CC BY-NC-SA 4.0 (see data/generated/LICENSE.md).

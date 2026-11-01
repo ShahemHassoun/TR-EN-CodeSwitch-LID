@@ -1,0 +1,29 @@
+{
+  "run_name": "gpt4o_3shot-ours_test",
+  "task": "lid",
+  "model": "gpt-4o",
+  "provider": "openai",
+  "shots": 3,
+  "prompt_file": "prompts/lid_few_shot_ours.txt",
+  "temperature": 0.0,
+  "max_tokens": 4096,
+  "seed": 42,
+  "reasoning_disabled": false,
+  "split": "test",
+  "n_sentences": 41,
+  "n_tokens": 1373,
+  "n_unparseable_tokens": 0,
+  "unparseable_rate": 0.0,
+  "wall_clock_s": 59.0,
+  "parse_stats": {
+    "aligned": 39,
+    "misaligned": 2,
+    "truncated": 0,
+    "unparsed_lines": 0,
+    "duplicate_indices": 0,
+    "failed_units": 0,
+    "prompt_tokens": 23929,
+    "completion_tokens": 5520
+  },
+  "benchmark": "/home/tugra_ubuntu/Repos/TR-EN-CodeSwitch-LID/data/benchmark.csv"
+}
